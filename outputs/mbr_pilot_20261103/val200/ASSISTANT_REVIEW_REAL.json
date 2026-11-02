@@ -1,0 +1,155 @@
+{
+  "rater": "Codex assistant; not independent human annotation",
+  "procedure": "Caption names A/B masked; model mapping not read during judgement. Images reviewed before final val metrics. References not displayed on boards. Not a new numeric gate.",
+  "rows": [
+    {
+      "id": "real_val_pair_000704",
+      "preference": "B_better",
+      "confidence": "high",
+      "notes": "B correctly places the new cream bowl on right, pastry plate lower-left and pastries on existing blue plate. A invents/misplaces a blue plate/white bowl at upper-left; plate there already existed.",
+      "unmasked_result": "greedy_better"
+    },
+    {
+      "id": "real_val_pair_000718",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both identify bird orientation changes but call yellow/green bird teal. A better captures black/red bird facing away; B better captures left bird facing away, while B front-left gaze for black/red bird is unsupported. Neither uniformly better.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000229",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Brightness increase and bird moving toward left of stump are visible and captured by A. B before-facing-left claim is unsupported (beak already points right); seed quantity change is uncertain under lighting. A more grounded main change.",
+      "unmasked_result": "greedy_better"
+    },
+    {
+      "id": "real_val_pair_000627",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Global camera viewpoint/roll changes while shoe layout is largely preserved. Both captions invent shoe movement; B additionally asserts disappearances despite visible black/red shoes. Neither captures the main camera nuisance correctly; both factually poor.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000562",
+      "preference": "B_better",
+      "confidence": "medium",
+      "notes": "After image clearly shows backbend,one supporting hand on ground and other near head. B captures backward waist/head bend; A incorrectly describes both hands touching ground and gaze down. Limb left/right details in both remain uncertain.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000590",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Both retain crossed-arms to eye-massage with hands/thumbs at inner eye corners. A adds visible downward head tilt; B specifies thumbs. Main event accurate in both, no material factual winner.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000258",
+      "preference": "B_better",
+      "confidence": "medium",
+      "notes": "Both capture black bird replaced by blue/white bird. A wrongly says new bird faces left; visible beak points right/down. B left-stump placement and downward head direction better supported.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000373",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Near-equivalent wording about brighter lighting/head tilt/ears. Both omit obvious change in dog distance/position and mouth opening. No material advantage between captions.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000675",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both mix correct additions with errors. A correctly treats pastries on existing blue plate as added but wrongly says pastry plate moved and places red cup right of white plate. B correctly captures pastry addition/cup upper-center but invents a newly appeared plate with cakes at upper-right. No clean overall winner.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000479",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Both capture floor-supported inverted pose to one hand on ball/other up, but contain anatomy errors. B adds clearly unsupported90-degree right knee/foot touching ball in after image; foot is on floor. A closer on overall after orientation,though W-shaped/bent-leg wording also inaccurate.",
+      "unmasked_result": "greedy_better"
+    },
+    {
+      "id": "real_val_pair_000595",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Clock change and microphone movement captured by both. One nearer gray/dark mouse really disappears; A includes this event while B omits it. A mouse colour is imprecise and farther black mouse remains,so not treating every descriptor as exact.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000525",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "A better contrasts roughly horizontal arm balance with raised/inverted after pose and changed legs. B repeatedly claims a foot touches ground although visible feet are elevated. A also has incorrect straight-arm/head-up details; neither is fully accurate.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000346",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both capture panda becoming upright and holding bamboo. Different extra before-pose detail is plausible; exact two-hand bamboo claims are partly occluded. No material visual winner.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000588",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both describe the new eye-massage gesture plausibly. A explicitly contrasts crossed arms with fingertips at eyes; B mostly describes after pose but adds head tilt. Neither has a clear material factual error; head/body side rotation omitted by both.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000763",
+      "preference": "uncertain",
+      "confidence": "low",
+      "notes": "Yellow/black bird moves lower and becomes partly occluded by food/branches. Both horizontal-direction/head claims are doubtful; hidden head and small background birds prevent reliable material preference from these frames.",
+      "unmasked_result": "uncertain"
+    },
+    {
+      "id": "real_val_pair_000584",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Equivalent dimming statements, both miss the clear wider framing/zoom-out. Lighting change alone is uncertain under changed framing; no material difference between captions.",
+      "unmasked_result": "similar"
+    },
+    {
+      "id": "real_val_pair_000361",
+      "preference": "uncertain",
+      "confidence": "low",
+      "notes": "Both capture dimming and bamboo eating/head movement. B adds closed-eyes/two-hand manipulation details not reliably visible; A simpler but head-direction wording also ambiguous. Cannot establish material winner from occluded hands/eyes.",
+      "unmasked_result": "uncertain"
+    },
+    {
+      "id": "real_val_pair_000338",
+      "preference": "B_better",
+      "confidence": "high",
+      "notes": "Inspected full-resolution pair rotated upright. B captures new foreground black chair and removal of tan chair near wall; old black chair shifts back/right. A captures some movement but invents open umbrella on chair back (new umbrella is closed/on floor) and omits clear chair add/remove events. Both incomplete; B more grounded.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000678",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Many errors in both. A correctly includes black-cake plate upper-left and new pink plate below center; B wrongly says existing brown-rim plate was replaced by pink and mixes up plate contents. A also wrongly moves brown-rim plate and claims cookies in cream bowl; preference is partial,not full correctness.",
+      "unmasked_result": "MBR_better"
+    },
+    {
+      "id": "real_val_pair_000578",
+      "preference": "A_better",
+      "confidence": "high",
+      "notes": "After image shows index fingertips moved from inner eye corners to under-eye/outer-cheek region. A captures this. B wrongly places index fingers between eyebrows and confuses the contacting fingers with thumbs.",
+      "unmasked_result": "MBR_better"
+    }
+  ],
+  "preference_rule": "Prefer a caption only for material factual accuracy/coverage difference; paraphrase and minor extra correct detail can be similar. Mark uncertain where image evidence is inadequate. Neither caption need be fully correct.",
+  "assessment_complete_before_mapping_read": true,
+  "summary": {
+    "greedy_better": 3,
+    "similar": 8,
+    "MBR_better": 7,
+    "uncertain": 2
+  },
+  "interpretation": "Conditional sample20changed Realpairs; assistant label-masked review before final val metric,not independent human annotation,not a numeric gate and not a population error-rate estimate."
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "real_val_pair_000704",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 5
+  },
+  {
+    "id": "real_val_pair_000718",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 5
+  },
+  {
+    "id": "real_val_pair_000229",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 2
+  },
+  {
+    "id": "real_val_pair_000627",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 5
+  },
+  {
+    "id": "real_val_pair_000562",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 7
+  },
+  {
+    "id": "real_val_pair_000590",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 8
+  },
+  {
+    "id": "real_val_pair_000258",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 1
+  },
+  {
+    "id": "real_val_pair_000373",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 6
+  },
+  {
+    "id": "real_val_pair_000675",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 8
+  },
+  {
+    "id": "real_val_pair_000479",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 2
+  },
+  {
+    "id": "real_val_pair_000595",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 7
+  },
+  {
+    "id": "real_val_pair_000525",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 2
+  },
+  {
+    "id": "real_val_pair_000346",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 3
+  },
+  {
+    "id": "real_val_pair_000588",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 6
+  },
+  {
+    "id": "real_val_pair_000763",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 4
+  },
+  {
+    "id": "real_val_pair_000584",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 2
+  },
+  {
+    "id": "real_val_pair_000361",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 5
+  },
+  {
+    "id": "real_val_pair_000338",
+    "A": "greedy",
+    "B": "MBR",
+    "selected_index": 8
+  },
+  {
+    "id": "real_val_pair_000678",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 1
+  },
+  {
+    "id": "real_val_pair_000578",
+    "A": "MBR",
+    "B": "greedy",
+    "selected_index": 1
+  }
+]

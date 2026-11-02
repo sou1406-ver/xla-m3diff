@@ -1,0 +1,14 @@
+{
+  "replay_unique_ordered_pairs": 5400,
+  "replay_unique_source_images": 2621,
+  "replay_image_connected_components": 271,
+  "largest_replay_component_images": 14,
+  "replay_pairs_with_reverse_also_selected": 22,
+  "synthetic_unique_ordered_rgb_pairs": 1800,
+  "synthetic_unique_source_backgrounds": 580,
+  "epochs": 1,
+  "exact_record_repetition_count": 0,
+  "planned_optimizer_steps": 450,
+  "effective_batch_size": 16,
+  "limitation": "Unique pairs are not statistically independent scenes. Pairs share source images/backgrounds and object assets; connected components are an operational grouping, not proven scene independence. No extra epochs or oversampling in the7200-record recipe."
+}

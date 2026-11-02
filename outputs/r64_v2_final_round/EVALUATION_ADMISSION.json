@@ -1,0 +1,16 @@
+{
+  "train_complete": true,
+  "train_optimizer_steps": 450,
+  "train_wall_seconds": 4808.639581918716,
+  "train_cost_upper_with180s_startup": "4.49",
+  "cpu_preparation_upper": "0.15",
+  "failed_startup_upper": "0.15",
+  "other_overhead_allowance": "0.04",
+  "a10_evaluation_reservation": "1.79",
+  "round_upper_including_evaluation": "6.62",
+  "cap": 7,
+  "admitted": true,
+  "a10_timeout_seconds": 3600,
+  "gates_unchanged": true,
+  "full1570_admitted": false
+}

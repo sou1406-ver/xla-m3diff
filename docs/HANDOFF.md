@@ -1,5 +1,7 @@
 # Context bàn giao — 02/11/2026
 
+**Mới nhất03/11 02:15:** v2[trainxong450/450](../outputs/r64_v2_final_round/STATUS.md),tham sốfinite,76m46strain/80m9sjob,A100đãtắt00:19. ĐangchạyA10camera240[app](https://modal.com/apps/sou1406-ver/main/ap-qGtoiJmu0YFjsOKgD5yMnD);trượtgateđầuthìdừng,khôngv3. Toànvòngupper6.62USDkểcảworstcaseeval,còntrần7USD. Chưacóđiểmv2/khôngtuyênbốcảithiện.
+
 **Live23:05snapshot:** v2đangtrain trên [app mới](https://modal.com/apps/sou1406-ver/main/ap-iDhdDwfZ12VfuvEGX0kOQw),đãqua auditfreshLoRA/basegốc. Appđầu lỗi launchertrướctrainđãtắt;chỉ1lượtoptimizer. [Budgetrevision1](../outputs/r64_v2_final_round/ROUND_BUDGET_REVISION1.json):87phúthard/84phútsoft,tổngupper6.99USDgồmlỗikhởiđộng. Chưacóđiểmv2;khôngkhẳngđịnhcảithiện.
 
 **Cập nhật22:53:** [v2 đã audit dữ liệu, chưa train](../outputs/r64_v2_final_round/STATUS.md):7200record=5400replayriêngbiệt+1800tổnghợp,450steps,khởi tạo basegốc. User chốt đúng1ứngviên và trần7USD cảvòng. Train88phút hard/85phút soft để dành budget gate; không retry train/không v3. Đã băm2649ảnh train,0trùngvaltheopath/RGB; giữ1115cặpreplaytrùngr64vàghi manifest. Audit32mẫutổnghợp và12Real camera(assistant:2đúng/6sai/4chưachắc). Sửa nhãn màu HSV thô và vị trí center trước train, ghi hash/lịch sử; gate/scorer không đổi. SCST ngoài phạm vi.

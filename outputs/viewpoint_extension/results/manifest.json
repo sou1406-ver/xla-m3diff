@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "clothesline__identity",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_identity.png"
+    ]
+  },
+  {
+    "id": "clothesline__zoom_in_1p10",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "clothesline__roll_8_safe",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "clothesline__roll_minus8_zoom",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "clothesline__zoom_out_reverse_1p10",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "clothesline_zoom_in_1p10.png",
+      "clothesline_source.png"
+    ]
+  },
+  {
+    "id": "clothesline__square32_delta16",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__square8_invert",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__thin2x32_invert",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__brightness_plus8",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 9144278,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__square16_delta4",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__brightness_plus1",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 9144278,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__one_pixel_invert",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "clothesline_source.png",
+      "clothesline_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      3024,
+      3024
+    ]
+  },
+  {
+    "id": "clothesline__natural",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "clothesline_natural_0.png",
+      "clothesline_natural_1.png"
+    ],
+    "official_pair_id": "real_test_pair_000219",
+    "original_images": [
+      "Real/test/images/real_test_000051.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ]
+  },
+  {
+    "id": "computer_desk__identity",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_identity.png"
+    ]
+  },
+  {
+    "id": "computer_desk__zoom_in_1p10",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "computer_desk__roll_8_safe",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "computer_desk__roll_minus8_zoom",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "computer_desk__zoom_out_reverse_1p10",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "computer_desk_zoom_in_1p10.png",
+      "computer_desk_source.png"
+    ]
+  },
+  {
+    "id": "computer_desk__square32_delta16",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__square8_invert",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__thin2x32_invert",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__brightness_plus8",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 8572415,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__square16_delta4",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__brightness_plus1",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 8572415,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__one_pixel_invert",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "computer_desk_source.png",
+      "computer_desk_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      2928,
+      2928
+    ]
+  },
+  {
+    "id": "computer_desk__natural",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "computer_desk_natural_0.png",
+      "computer_desk_natural_1.png"
+    ],
+    "official_pair_id": "real_test_pair_000240",
+    "original_images": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ]
+  },
+  {
+    "id": "snowy_street__identity",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_identity.png"
+    ]
+  },
+  {
+    "id": "snowy_street__zoom_in_1p10",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "snowy_street__roll_8_safe",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "snowy_street__roll_minus8_zoom",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "snowy_street__zoom_out_reverse_1p10",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "snowy_street_zoom_in_1p10.png",
+      "snowy_street_source.png"
+    ]
+  },
+  {
+    "id": "snowy_street__square32_delta16",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__square8_invert",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__thin2x32_invert",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__brightness_plus8",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 2553602,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__square16_delta4",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__brightness_plus1",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 2553602,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__one_pixel_invert",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "snowy_street_source.png",
+      "snowy_street_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      1598,
+      1598
+    ]
+  },
+  {
+    "id": "snowy_street__natural",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "snowy_street_natural_0.png",
+      "snowy_street_natural_1.png"
+    ],
+    "official_pair_id": "real_test_pair_000780",
+    "original_images": [
+      "Real/test/images/real_test_000185.jpg",
+      "Real/test/images/real_test_000186.jpg"
+    ]
+  },
+  {
+    "id": "basin_shelf__identity",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_identity.png"
+    ]
+  },
+  {
+    "id": "basin_shelf__zoom_in_1p10",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "basin_shelf__roll_8_safe",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "basin_shelf__roll_minus8_zoom",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "basin_shelf__zoom_out_reverse_1p10",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "basin_shelf_zoom_in_1p10.png",
+      "basin_shelf_source.png"
+    ]
+  },
+  {
+    "id": "basin_shelf__square32_delta16",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__square8_invert",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__thin2x32_invert",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__brightness_plus8",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 3982896,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__square16_delta4",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__brightness_plus1",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 3982896,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__one_pixel_invert",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "basin_shelf_source.png",
+      "basin_shelf_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      2448,
+      1627
+    ]
+  },
+  {
+    "id": "basin_shelf__natural",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "basin_shelf_natural_0.png",
+      "basin_shelf_natural_1.png"
+    ],
+    "official_pair_id": "real_test_pair_000657",
+    "original_images": [
+      "Real/test/images/real_test_000162.jpg",
+      "Real/test/images/real_test_000161.jpg"
+    ]
+  },
+  {
+    "id": "city_intersection__identity",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_identity.png"
+    ]
+  },
+  {
+    "id": "city_intersection__zoom_in_1p10",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "city_intersection__roll_8_safe",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "city_intersection__roll_minus8_zoom",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "city_intersection__zoom_out_reverse_1p10",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "city_intersection_zoom_in_1p10.png",
+      "city_intersection_source.png"
+    ]
+  },
+  {
+    "id": "city_intersection__square32_delta16",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__square8_invert",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__thin2x32_invert",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__brightness_plus8",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 589824,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__square16_delta4",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__brightness_plus1",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 589824,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__one_pixel_invert",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "city_intersection_source.png",
+      "city_intersection_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "city_intersection__natural",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "city_intersection_natural_0.png",
+      "city_intersection_natural_1.png"
+    ],
+    "official_pair_id": "render_test_pair_000122",
+    "original_images": [
+      "Render/test/images/render_test_outdoor_000021.jpg",
+      "Render/test/images/render_test_outdoor_000016.jpg"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__identity",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_identity.png"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__zoom_in_1p10",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__roll_8_safe",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__roll_minus8_zoom",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__zoom_out_reverse_1p10",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "bunk_bedroom_zoom_in_1p10.png",
+      "bunk_bedroom_source.png"
+    ]
+  },
+  {
+    "id": "bunk_bedroom__square32_delta16",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__square8_invert",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__thin2x32_invert",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__brightness_plus8",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 262144,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__square16_delta4",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__brightness_plus1",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 262144,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__one_pixel_invert",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bunk_bedroom_source.png",
+      "bunk_bedroom_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "bunk_bedroom__natural",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "bunk_bedroom_natural_0.png",
+      "bunk_bedroom_natural_1.png"
+    ],
+    "official_pair_id": "render_test_pair_000576",
+    "original_images": [
+      "Render/test/images/render_test_indoor_000036.jpg",
+      "Render/test/images/render_test_indoor_000026.jpg"
+    ]
+  },
+  {
+    "id": "bicycle_alley__identity",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_identity.png"
+    ]
+  },
+  {
+    "id": "bicycle_alley__zoom_in_1p10",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "bicycle_alley__roll_8_safe",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "bicycle_alley__roll_minus8_zoom",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "bicycle_alley__zoom_out_reverse_1p10",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "bicycle_alley_zoom_in_1p10.png",
+      "bicycle_alley_source.png"
+    ]
+  },
+  {
+    "id": "bicycle_alley__square32_delta16",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__square8_invert",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__thin2x32_invert",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__brightness_plus8",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 589105,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__square16_delta4",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__brightness_plus1",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 589105,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__one_pixel_invert",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "bicycle_alley_source.png",
+      "bicycle_alley_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "id": "bicycle_alley__natural",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "bicycle_alley_natural_0.png",
+      "bicycle_alley_natural_1.png"
+    ],
+    "official_pair_id": "render_test_pair_000167",
+    "original_images": [
+      "Render/test/images/render_test_outdoor_000031.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ]
+  },
+  {
+    "id": "render_kitchen__identity",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "identity",
+    "kind": "nochange",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_identity.png"
+    ]
+  },
+  {
+    "id": "render_kitchen__zoom_in_1p10",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "kind": "nochange",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "render_kitchen__roll_8_safe",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "kind": "nochange",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "render_kitchen__roll_minus8_zoom",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "kind": "nochange",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "render_kitchen__zoom_out_reverse_1p10",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "kind": "nochange",
+    "image": [
+      "render_kitchen_zoom_in_1p10.png",
+      "render_kitchen_source.png"
+    ]
+  },
+  {
+    "id": "render_kitchen__square32_delta16",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "square32_delta16",
+    "kind": "primary_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_square32_delta16.png"
+    ],
+    "changed_native_pixels": 1024,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__square8_invert",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "square8_invert",
+    "kind": "primary_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_square8_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__thin2x32_invert",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "thin2x32_invert",
+    "kind": "primary_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_thin2x32_invert.png"
+    ],
+    "changed_native_pixels": 64,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__brightness_plus8",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "brightness_plus8",
+    "kind": "primary_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_brightness_plus8.png"
+    ],
+    "changed_native_pixels": 262127,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__square16_delta4",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "square16_delta4",
+    "kind": "sensitivity_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_square16_delta4.png"
+    ],
+    "changed_native_pixels": 256,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__brightness_plus1",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "brightness_plus1",
+    "kind": "sensitivity_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_brightness_plus1.png"
+    ],
+    "changed_native_pixels": 262127,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__one_pixel_invert",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "one_pixel_invert",
+    "kind": "sensitivity_stress",
+    "image": [
+      "render_kitchen_source.png",
+      "render_kitchen_one_pixel_invert.png"
+    ],
+    "changed_native_pixels": 1,
+    "native_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "render_kitchen__natural",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "natural",
+    "kind": "natural_pending_review",
+    "image": [
+      "render_kitchen_natural_0.png",
+      "render_kitchen_natural_1.png"
+    ],
+    "official_pair_id": "render_test_pair_000507",
+    "original_images": [
+      "Render/test/images/render_test_indoor_000021.jpg",
+      "Render/test/images/render_test_indoor_000015.jpg"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "steps": 64,
+  "only_lora_trainable": true,
+  "finite_losses": true
+}

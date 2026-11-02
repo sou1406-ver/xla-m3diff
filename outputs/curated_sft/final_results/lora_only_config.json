@@ -1,0 +1,14 @@
+{
+  "data": "corrected_labels_train.json, identical order and labels",
+  "train_records": 216,
+  "steps": 27,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lr": 1e-05,
+  "epochs": 1,
+  "seed": 42,
+  "vision": "frozen",
+  "projector": "frozen",
+  "MDP": "frozen",
+  "comparison": "Only MDP freezing differs from corrected_labels arm. Planned before reading current evaluation scores."
+}

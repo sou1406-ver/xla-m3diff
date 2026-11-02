@@ -1,0 +1,104 @@
+{
+  "all": {
+    "baseline": {
+      "n": 16,
+      "fact_hits": 19,
+      "possible_facts": 29,
+      "unsupported_pairs": 11,
+      "uncertain_pairs": 7,
+      "display_ack": 0
+    },
+    "old_mixed": {
+      "n": 16,
+      "fact_hits": 16,
+      "possible_facts": 29,
+      "unsupported_pairs": 9,
+      "uncertain_pairs": 7,
+      "display_ack": 1
+    },
+    "control": {
+      "n": 16,
+      "fact_hits": 16,
+      "possible_facts": 29,
+      "unsupported_pairs": 10,
+      "uncertain_pairs": 6,
+      "display_ack": 1
+    },
+    "revised": {
+      "n": 16,
+      "fact_hits": 13,
+      "possible_facts": 29,
+      "unsupported_pairs": 13,
+      "uncertain_pairs": 5,
+      "display_ack": 0
+    }
+  },
+  "Real": {
+    "baseline": {
+      "n": 8,
+      "fact_hits": 8,
+      "possible_facts": 14,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 3,
+      "display_ack": 0
+    },
+    "old_mixed": {
+      "n": 8,
+      "fact_hits": 6,
+      "possible_facts": 14,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 5,
+      "display_ack": 0
+    },
+    "control": {
+      "n": 8,
+      "fact_hits": 6,
+      "possible_facts": 14,
+      "unsupported_pairs": 6,
+      "uncertain_pairs": 3,
+      "display_ack": 0
+    },
+    "revised": {
+      "n": 8,
+      "fact_hits": 6,
+      "possible_facts": 14,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 3,
+      "display_ack": 0
+    }
+  },
+  "Render": {
+    "baseline": {
+      "n": 8,
+      "fact_hits": 11,
+      "possible_facts": 15,
+      "unsupported_pairs": 6,
+      "uncertain_pairs": 4,
+      "display_ack": 0
+    },
+    "old_mixed": {
+      "n": 8,
+      "fact_hits": 10,
+      "possible_facts": 15,
+      "unsupported_pairs": 4,
+      "uncertain_pairs": 2,
+      "display_ack": 1
+    },
+    "control": {
+      "n": 8,
+      "fact_hits": 10,
+      "possible_facts": 15,
+      "unsupported_pairs": 4,
+      "uncertain_pairs": 3,
+      "display_ack": 1
+    },
+    "revised": {
+      "n": 8,
+      "fact_hits": 7,
+      "possible_facts": 15,
+      "unsupported_pairs": 8,
+      "uncertain_pairs": 2,
+      "display_ack": 0
+    }
+  }
+}

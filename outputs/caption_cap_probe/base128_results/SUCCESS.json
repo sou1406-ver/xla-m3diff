@@ -1,0 +1,15 @@
+{
+  "model": "published base, no LoRA",
+  "cap": 128,
+  "n_expected": 23,
+  "n_completed": 23,
+  "complete": true,
+  "soft_stopped": false,
+  "exit_code": 0,
+  "elapsed_seconds": 151.06949115199998,
+  "GPU": "NVIDIA A10, 23028 MiB",
+  "base_config_sha256": "cd0608586cce1eb0af4f5ea61f873598fff45920a3b450609a17155f96eaaa95",
+  "cached_reference_not_same_run_timing": true,
+  "same_GPU_natural_controls_enabled": true,
+  "caption_row_generation_seconds_includes_control": true
+}

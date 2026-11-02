@@ -1,0 +1,15 @@
+{
+  "reviewer": "Codex assistant image-only review; not independent human adjudication",
+  "reviewed_before_reading_audit_outcomes": true,
+  "policy": "Do not require physical addition/removal when framing or occlusion could explain visibility. Confirm appearance or lighting changes separately; uncertain pairs do not enter the primary confirmed-natural denominator.",
+  "pairs": [
+    {"scene":"clothesline","status":"uncertain","type":"mixed_view_and_cloth_configuration","evidence":["Black trouser legs and hanging garments have different apparent arrangement; orange garment becomes much more visible."],"uncertainty":["Camera/framing, wind-driven cloth deformation and occlusion are mixed; no reliable object-count addition/removal label."]},
+    {"scene":"computer_desk","status":"confirmed_change","type":"object_appearance","evidence":["A camera with a large lens is newly visible on the front-left desktop.","The gray mouse and round patterned item have different relative positions."],"uncertainty":["Camera zoom/view also changes; newly visible does not prove newly introduced to the room."]},
+    {"scene":"snowy_street","status":"confirmed_change","type":"illumination","evidence":["Daylight scene becomes a dark/night scene, with street/house lighting on."],"uncertainty":["Do not force car count or snow amount changes from these views."]},
+    {"scene":"basin_shelf","status":"confirmed_change","type":"object_state_or_arrangement","evidence":["The pink and white soap bars switch their left/center appearances on the top shelf.","The white carton beside the cyan basin is no longer visible at its original position."],"uncertainty":["View changes strongly; do not require interpreting every missing border item as physically removed."]},
+    {"scene":"city_intersection","status":"confirmed_change","type":"object_appearance","evidence":["A tall round-headed streetlamp appears beside the left sidewalk near the crosswalk.","The round tables on the right terrace have a changed visible arrangement."],"uncertainty":["Exact table movement versus removal is less certain than the lamp appearance."]},
+    {"scene":"bunk_bedroom","status":"confirmed_change","type":"illumination","evidence":["The broad room lighting dims, leaving a brighter localized area over the bunk beds."],"uncertainty":["No clear furniture count/arrangement change is required."]},
+    {"scene":"bicycle_alley","status":"confirmed_change","type":"object_appearance","evidence":["Blue lidded containers become visible near the rear doorway, differing from the earlier visible bags/objects."],"uncertainty":["Do not label a changed bicycle orientation without clearer evidence."]},
+    {"scene":"render_kitchen","status":"confirmed_change","type":"multiple_scene_changes","evidence":["A person appears at the kitchen counter.","The blue pitcher changes to a transparent/amber-looking pitcher.","The right chair shifts toward the viewer.","Blue floor text reading kitchen appears."],"uncertainty":[]}
+  ]
+}

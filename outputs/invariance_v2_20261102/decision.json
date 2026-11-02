@@ -1,0 +1,40 @@
+{
+  "candidates": {
+    "control": {
+      "primary_checks": {
+        "fewer_synthetic_unsupported_cases": true,
+        "Real_natural_facts_preserved": true,
+        "Render_natural_facts_preserved": true,
+        "natural_unsupported_pairs_not_increased": true
+      },
+      "primary_pass": true,
+      "positive_stress_checks": {
+        "Real_stress_facts_preserved": false,
+        "Render_stress_facts_preserved": false,
+        "stress_unsupported_pairs_not_increased": true
+      },
+      "positive_stress_pass": false,
+      "eligible_for_broad_evaluation": false
+    },
+    "revised": {
+      "primary_checks": {
+        "fewer_synthetic_unsupported_cases": true,
+        "Real_natural_facts_preserved": false,
+        "Render_natural_facts_preserved": false,
+        "natural_unsupported_pairs_not_increased": true
+      },
+      "primary_pass": false,
+      "positive_stress_checks": {
+        "Real_stress_facts_preserved": false,
+        "Render_stress_facts_preserved": false,
+        "stress_unsupported_pairs_not_increased": false
+      },
+      "positive_stress_pass": false,
+      "eligible_for_broad_evaluation": false
+    }
+  },
+  "promoted_model": null,
+  "full1570_run_for_new_models": false,
+  "reason": "Neither candidate passes the pre-recorded natural-fact retention safety check. Keep credit; do not spend on full test for failed candidates.",
+  "limits": "Conditional on small correlated assistant-reviewed samples; not proof that all geometry-aware approaches are infeasible."
+}

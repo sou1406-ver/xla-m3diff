@@ -1,0 +1,7 @@
+{
+  "n_eval": 72,
+  "generations": 216,
+  "gpu": "NVIDIA A100-SXM4-40GB, 40960 MiB",
+  "completed_at": 1793128724.8492005,
+  "GPU_released_on_return": true
+}

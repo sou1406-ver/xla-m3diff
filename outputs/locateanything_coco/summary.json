@@ -1,0 +1,22 @@
+{
+  "single": {
+    "n_positive": 12,
+    "positive_hits_iou50": 11,
+    "n_negative": 12,
+    "negative_false_positives": 12,
+    "negative_correct_rejections": 0,
+    "format_errors": 0,
+    "positive_best_iou_mean": 0.869502069283533
+  },
+  "all": {
+    "n_positive": 12,
+    "positive_hits_iou50": 11,
+    "n_negative": 12,
+    "negative_false_positives": 0,
+    "negative_correct_rejections": 12,
+    "format_errors": 0,
+    "positive_best_iou_mean": 0.81018742486654,
+    "gt_boxes": 22,
+    "matched_gt_iou50": 15
+  }
+}

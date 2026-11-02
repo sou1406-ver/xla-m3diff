@@ -1,0 +1,21 @@
+{
+  "seed": 20261029,
+  "mining_candidates": 256,
+  "replay_pairs": 128,
+  "train_pairs_per_arm": 256,
+  "evaluation_pairs": 64,
+  "dataset_revision": "ed4a84cc51912c73e3d54c8643256d9469657552",
+  "selection": "Official train paths only; image-disjoint mining/replay/test; not guaranteed scene-disjoint. Hard mining uses train reference CIDEr only, not test.",
+  "training": {
+    "epochs": 1,
+    "lr": 1e-05,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "batch": 1,
+    "accum": 8,
+    "vision": "frozen",
+    "MDP": "trainable",
+    "projector": "frozen"
+  },
+  "limits": "Small exploratory test slice. Automatic low-CIDEr mining is a proxy for errors, not human verified semantic error labels. No augmentation or LocateAnything."
+}

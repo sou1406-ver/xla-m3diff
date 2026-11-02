@@ -1,0 +1,12 @@
+{
+  "batch": 3,
+  "n_expected": 320,
+  "n_completed": 320,
+  "complete": true,
+  "soft_stopped": false,
+  "exit_code": 0,
+  "actual_gpu": "NVIDIA A10G, 23028 MiB",
+  "adapter_sha256": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f",
+  "elapsed_seconds": 1227.3328642049999,
+  "hard_timeout_seconds": 1800
+}

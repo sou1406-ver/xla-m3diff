@@ -1,0 +1,402 @@
+{
+  "fresh_Real_00__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_00__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_00__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_00__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_00__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_01__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_01__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_01__roll_8_safe": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_01__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_01__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_02__identity": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_02__zoom_in_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_02__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_02__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_02__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_03__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_03__zoom_in_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_03__roll_8_safe": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_03__zoom_out_reverse_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_03__natural": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_04__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_04__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_04__roll_8_safe": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_04__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_04__natural": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_05__identity": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_05__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_05__roll_8_safe": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_05__zoom_out_reverse_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_05__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_06__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_06__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_06__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_06__zoom_out_reverse_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_06__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_07__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Real_07__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Real_07__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_07__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Real_07__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_00__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_00__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_00__roll_8_safe": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_00__zoom_out_reverse_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_00__natural": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_01__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_01__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_01__roll_8_safe": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_01__zoom_out_reverse_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_01__natural": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_02__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_02__zoom_in_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_02__roll_8_safe": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_02__zoom_out_reverse_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_02__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_03__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_03__zoom_in_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_03__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_03__zoom_out_reverse_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_03__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_04__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_04__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_04__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_04__zoom_out_reverse_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_04__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_05__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_05__zoom_in_1p10": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_05__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_05__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_05__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_06__identity": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_06__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_06__roll_8_safe": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_06__zoom_out_reverse_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_06__natural": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_07__identity": {
+    "candidate_1": "positive_control",
+    "candidate_2": "mixed_objective",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_07__zoom_in_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "baseline",
+    "candidate_3": "positive_control"
+  },
+  "fresh_Render_07__roll_8_safe": {
+    "candidate_1": "positive_control",
+    "candidate_2": "baseline",
+    "candidate_3": "mixed_objective"
+  },
+  "fresh_Render_07__zoom_out_reverse_1p10": {
+    "candidate_1": "mixed_objective",
+    "candidate_2": "positive_control",
+    "candidate_3": "baseline"
+  },
+  "fresh_Render_07__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "positive_control",
+    "candidate_3": "mixed_objective"
+  }
+}

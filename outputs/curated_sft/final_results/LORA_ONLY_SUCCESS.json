@@ -1,0 +1,6 @@
+{
+  "completed_at": 1793093907.7736146,
+  "n_eval": 256,
+  "non_lora_trainable_keys": [],
+  "gpu_released_on_return": true
+}

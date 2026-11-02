@@ -1,0 +1,6 @@
+{
+  "initialization_matches": true,
+  "both_epoch_orders_match": true,
+  "epochs": 2,
+  "steps_per_arm": 64
+}

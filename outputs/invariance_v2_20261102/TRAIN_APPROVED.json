@@ -1,0 +1,12 @@
+{
+  "scope": "Two matched128-update SFT trials from base, not whole-model training or SCST",
+  "train_hashes": {
+    "control": "f162a1f24f649883650a5628933c459d7798710be7816eb3fa4e7f18a7b4ebc1",
+    "revised": "cef5645641cfceab169d0c400af560a4b977a5b4ad03098a246f3a39ce56ab72"
+  },
+  "approved_after_sample_review": true,
+  "sample_count_each": 512,
+  "updates_each": 128,
+  "seed": 42,
+  "learning_rate": 1e-05
+}

@@ -1,0 +1,31 @@
+{
+  "questions_sha256": "4cf14dcde7b6818623a4acc76431b22a43e596fcd8e07d369bc2e38844aa2b29",
+  "image_file_sha256": {
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\input_checks_p3qk8w7r\\before.png": "f3e795d63cae766cebb0175f56398706277616bc65b45909fd6c7371f4d239ba",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\input_checks_p3qk8w7r\\same_RGB_other_metadata.png": "2d417011c86ea2b060ee1ac5699809dea291041a8b621383c91bede18ada9b94"
+  },
+  "model_files_sha256": {},
+  "model_path": "not_needed_for_identical_pixels",
+  "model_base": null,
+  "runtime_options": [
+    "--torch-dtype",
+    "bfloat16",
+    "--temperature",
+    "0",
+    "--num_beams",
+    "1",
+    "--max-new-tokens",
+    "1024",
+    "--conv-mode",
+    "qwen_2",
+    "--num-chunks",
+    "1",
+    "--chunk-idx",
+    "0",
+    "--no-flash-attention"
+  ],
+  "adapter_mode": "unmerged_fp32",
+  "exact_identity_guard": true,
+  "eval_runner_sha256": "9152195ce2a8ca19ac211456e22c14dce1d285aa37249f266e4d7d8122ed0549",
+  "loader_sha256": "9b009a14cc8410b26fcd7cae9fe88d15430303dd788234edcfeccd69ad5b3f55"
+}

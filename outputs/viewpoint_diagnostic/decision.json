@@ -1,0 +1,9 @@
+{
+  "checks": {
+    "validation_geometry_false_positives_decrease": true,
+    "validation_natural_fact_hits_do_not_drop": true
+  },
+  "promising_on_this_diagnostic_only": true,
+  "not_a_rotation_or_3D_viewpoint_benchmark_claim": true,
+  "next_action": "Do not launch further training or prompt search in this run; release GPU and preserve all predictions."
+}

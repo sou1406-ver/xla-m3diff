@@ -1,0 +1,274 @@
+[
+  {
+    "name": "original_single",
+    "target_present": true,
+    "note": "Original image",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        712,
+        0,
+        998,
+        169
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><712><0><998><169></box><|im_end|>",
+    "seconds": 2.187610387802124,
+    "negative_false_positive": null
+  },
+  {
+    "name": "oblique_real",
+    "target_present": true,
+    "note": "Actual second photograph; target partly near image edge",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        583,
+        0,
+        784,
+        67
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><583><0><784><67></box><|im_end|>",
+    "seconds": 1.249361515045166,
+    "negative_false_positive": null
+  },
+  {
+    "name": "rotate_cw15",
+    "target_present": true,
+    "note": "Synthetic 2D rotation clockwise 15 deg",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        744,
+        154,
+        998,
+        335
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><744><154><998><335></box><|im_end|>",
+    "seconds": 1.0660638809204102,
+    "negative_false_positive": null
+  },
+  {
+    "name": "rotate_ccw30",
+    "target_present": true,
+    "note": "Synthetic 2D rotation counterclockwise 30 deg",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        462,
+        11,
+        662,
+        199
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><462><11><662><199></box><|im_end|>",
+    "seconds": 1.0005075931549072,
+    "negative_false_positive": null
+  },
+  {
+    "name": "zoom_on_target",
+    "target_present": true,
+    "note": "Synthetic crop of upper-right quadrant, resized",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        420,
+        0,
+        998,
+        183
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><420><0><998><183></box><|im_end|>",
+    "seconds": 1.5818212032318115,
+    "negative_false_positive": null
+  },
+  {
+    "name": "scale_down_60",
+    "target_present": true,
+    "note": "Synthetic 60% rescale with gray padding; not a real camera zoom-out",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        630,
+        197,
+        798,
+        301
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><630><197><798><301></box><|im_end|>",
+    "seconds": 0.9362645149230957,
+    "negative_false_positive": null
+  },
+  {
+    "name": "resolution_384",
+    "target_present": true,
+    "note": "Reduced input resolution",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      384,
+      384
+    ],
+    "boxes_1000": [
+      [
+        719,
+        0,
+        998,
+        167
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><719><0><998><167></box><|im_end|>",
+    "seconds": 0.33612561225891113,
+    "negative_false_positive": null
+  },
+  {
+    "name": "floor_single",
+    "target_present": false,
+    "note": "Floor-only crop; storage box excluded",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      338
+    ],
+    "boxes_1000": [
+      [
+        0,
+        0,
+        999,
+        998
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><0><0><999><998></box><|im_end|>",
+    "seconds": 0.6543982028961182,
+    "negative_false_positive": true
+  },
+  {
+    "name": "lower_scene_single",
+    "target_present": false,
+    "note": "Lower scene crop; storage box excluded",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      584
+    ],
+    "boxes_1000": [
+      [
+        0,
+        0,
+        105,
+        148
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><0><0><105><148></box><|im_end|>",
+    "seconds": 0.9539344310760498,
+    "negative_false_positive": true
+  },
+  {
+    "name": "street_negative",
+    "target_present": false,
+    "note": "Street scene with no green storage box",
+    "prompt_style": "single",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        188,
+        158,
+        348,
+        400
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><188><158><348><400></box><|im_end|>",
+    "seconds": 1.138237476348877,
+    "negative_false_positive": true
+  },
+  {
+    "name": "original_all",
+    "target_present": true,
+    "note": "Original image; all-instance prompt",
+    "prompt_style": "all",
+    "prompt": "Locate all the instances that match the following description: the green storage box.",
+    "size": [
+      768,
+      768
+    ],
+    "boxes_1000": [
+      [
+        712,
+        0,
+        999,
+        169
+      ]
+    ],
+    "answer": "<ref>the green storage box</ref><box><712><0><999><169></box><|im_end|>",
+    "seconds": 1.3854832649230957,
+    "negative_false_positive": null
+  },
+  {
+    "name": "floor_all",
+    "target_present": false,
+    "note": "Floor-only crop; all-instance prompt",
+    "prompt_style": "all",
+    "prompt": "Locate all the instances that match the following description: the green storage box.",
+    "size": [
+      768,
+      338
+    ],
+    "boxes_1000": [],
+    "answer": "<ref>the green storage box</ref><box>None</box><|im_end|>",
+    "seconds": 0.5338959693908691,
+    "negative_false_positive": false
+  },
+  {
+    "name": "lower_scene_all",
+    "target_present": false,
+    "note": "Lower scene crop; all-instance prompt",
+    "prompt_style": "all",
+    "prompt": "Locate all the instances that match the following description: the green storage box.",
+    "size": [
+      768,
+      584
+    ],
+    "boxes_1000": [],
+    "answer": "<ref>the green storage box</ref><box>None</box><|im_end|>",
+    "seconds": 0.8648960590362549,
+    "negative_false_positive": false
+  }
+]

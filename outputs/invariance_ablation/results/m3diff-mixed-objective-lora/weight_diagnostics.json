@@ -1,0 +1,10 @@
+{
+  "positive_samples": 384,
+  "negative_samples": 128,
+  "positive_unweighted_loss_sum": 386.0116469785571,
+  "negative_unweighted_loss_sum": 201.23425464332104,
+  "negative_weighted_loss_sum": 201.23425464332104,
+  "zero_weight_samples": 0,
+  "all_valid_target_tokens": true,
+  "all_losses_finite": true
+}

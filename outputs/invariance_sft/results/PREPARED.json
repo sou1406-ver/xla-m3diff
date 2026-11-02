@@ -1,0 +1,18 @@
+{
+  "n_train": 256,
+  "n_eval": 108,
+  "training_recipe": {
+    "seed": 42,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "learning_rate": 5e-06,
+    "epochs": 1,
+    "batch": 1,
+    "gradient_accumulation": 8,
+    "records": 256,
+    "optimizer_steps": 32,
+    "vision": "frozen",
+    "projector": "frozen",
+    "MDP": "frozen"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "adapter_name": "mixed_objective",
+  "artifact_type": "PEFT LoRA, published M3Diff base required",
+  "adapter_files_sha256": {
+    "config.json": "4f6ada9e3550fe242252186716662eeba92aa66cc922cba300e8d9bff1361244",
+    "adapter_config.json": "bb895444f163eab857631ae6c142758605685a2822ad094bfd0a41231a9f45da",
+    "adapter_model.bin": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f",
+    "non_lora_trainables.bin": "60fb82c3660319e6d0b239950b20c28181e97f1ade117dc0660b40e2ad94a89b"
+  },
+  "adapter_bytes": 161616362,
+  "model_base": {
+    "repo": "IVC-liuyuan/M3Diff",
+    "revision": "d6a8880dc789b0816660278c087ac9ebdfe18dd0"
+  },
+  "repo_commit": "4e346e52185620ec6fa17235d93b0c26a9d47a71",
+  "mode": "BF16 base +FP32 unmerged LoRA",
+  "GPU_portable_smoke": {
+    "n": 2,
+    "exact_caption_matches_reference_loader": 2,
+    "portable_loader_has_no_Modal_dependency": true,
+    "adapter_sha256": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f"
+  },
+  "saved_adapter_tensors_loaded": 392,
+  "all_adapter_values_exactly_restored": true,
+  "same_loader_and_eval_source_hashes_as_GPU_test": true,
+  "no_retraining_on_other_machine": true,
+  "Modal_required_for_inference": false,
+  "evaluation_status": "Official matched-ID evaluation completed for 1570/1570; full_test_complete=True. See EVALUATION.md for all scores and adverse tradeoffs. Overall geometry adoption gate failed.",
+  "deployment_default": "Published baseline; this is an experimental portable adapter, not a proved rotation/zoom fix.",
+  "official_evaluation": {
+    "full_test_complete": true,
+    "n_total": 1570,
+    "same_ids_and_cleanup_for_both_arms": true,
+    "time": 1793138432.109151
+  },
+  "evaluation_report_sha256": "511c63db627bd64774c5018d6357eb520e75a01f42da65aec95bf3264584532c",
+  "official_scores_sha256": "b52083299ad4f47e4beb67de9358a17ec90a0fbd929490fbc8fdb466e90757db"
+}

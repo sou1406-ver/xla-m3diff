@@ -1,0 +1,16 @@
+{
+  "pairs_with_identical_displayed_captions": 51,
+  "n_pairs": 108,
+  "exact_prior_annotations_reused": 172,
+  "new_candidate_annotations": 44,
+  "merged_bf16": {
+    "mean_words": 46.407407407407405,
+    "max_words": 938,
+    "captions_over_200_words": 1
+  },
+  "unmerged_fp32": {
+    "mean_words": 41.148148148148145,
+    "max_words": 481,
+    "captions_over_200_words": 1
+  }
+}

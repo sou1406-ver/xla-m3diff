@@ -1,0 +1,9 @@
+{
+  "training_records": 256,
+  "negative_records": 64,
+  "positive_records": 192,
+  "same_original_images_prompts_targets": true,
+  "source_train_sha256": "07a20d0ff629b677835a93ee9989572675826841cbdc41c86262d917d9da5a88",
+  "train_with_flags_sha256": "c07518ed7f2d4289f58880ede24a636882cd02f4aab7ce5b7bcaf3d4cbfa90b4",
+  "n_eval": 72
+}

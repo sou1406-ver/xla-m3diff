@@ -1,0 +1,348 @@
+{
+  "date_local": "2026-10-28",
+  "timezone": "Asia/Bangkok",
+  "sources": [
+    {
+      "evidence_id": "H01",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\baseline_results\\REPORT.md",
+      "sha256": "919d37ce17b854d2095de5bd606ddda4ac984295f852b2a6cd008d5ee806ea0d"
+    },
+    {
+      "evidence_id": "H01",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\baseline_results\\run_config.json",
+      "sha256": "bfe0c8beed42b6cc2001103e7009e8609c509f6e18e3de88bfb93e52013fc922"
+    },
+    {
+      "evidence_id": "H01",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\baseline_results\\SUCCESS.json",
+      "sha256": "cdf9b881396b0881fed996dca59edc2e21086bf32715e80e1fae125015212a3b"
+    },
+    {
+      "evidence_id": "H02",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_demo\\REPORT.md",
+      "sha256": "c374141f646434eb9ba983dd4dec0096fb5352da1c31fd89e14f8c9b4fbfe750"
+    },
+    {
+      "evidence_id": "H02",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_robustness\\REPORT.md",
+      "sha256": "858512d824b68b3601b9f9e6dbc7aaeecac61e79fb0883e4415db73ec71ed3ab"
+    },
+    {
+      "evidence_id": "H02",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_demo\\run_config.json",
+      "sha256": "447e75e0d3485540c2a480029fef281beadc8dc6daa7e1a96a988ae50d8e3e5a"
+    },
+    {
+      "evidence_id": "H03",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_coco\\summary.json",
+      "sha256": "c1d6c03b6c95e3e088376a1f6fe1c6d25f5d23fa56c2032982d49f2eaad882f7"
+    },
+    {
+      "evidence_id": "H03",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_coco\\run_config.json",
+      "sha256": "3e22927f701d62409cdd5ca8970b23241fa76f734d30101bfaeeff674b115990"
+    },
+    {
+      "evidence_id": "H03",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\locateanything_coco\\per_query.csv",
+      "sha256": "52851b5802c94cddbeab72d5bca41ea6cc7bef18152d2a51b5e3485160095bc6"
+    },
+    {
+      "evidence_id": "H04",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\grounded_caption_pilot\\REPORT.md",
+      "sha256": "588893aa71a21a976aa35004cc6c2cdbf829ed6d79b61088a96dfc7355a9086e"
+    },
+    {
+      "evidence_id": "H04",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\grounded_caption_pilot\\run_config.json",
+      "sha256": "70d228332554debc38643d795e218e0ef91c39e929f7db096460a560cd88017f"
+    },
+    {
+      "evidence_id": "H04",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\grounded_caption_pilot\\metrics.json",
+      "sha256": "5a91fbcb28a46ab92acdcfbfc7730dd7d2bc9db23ed4ef1d34e8a2e51430ff1b"
+    },
+    {
+      "evidence_id": "H05",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_verifier_color_v4\\REPORT.md",
+      "sha256": "2aef21fb4d5c44d5ff5b5bfd15c90c3460de0c2cfd6f0eca5971703e236b6874"
+    },
+    {
+      "evidence_id": "H05",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_verifier_color_v4\\run_config.json",
+      "sha256": "e810d8ddab3a8c6a5ed0b3199e877a612db1052c41db205cd5427c77f3c8d2e0"
+    },
+    {
+      "evidence_id": "H05",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_caption_verifier\\caption_verifier.py",
+      "sha256": "c045214c63162398c7b51798dc7ff53f1c7d08881eaaabd3ac273dee65ffdceb"
+    },
+    {
+      "evidence_id": "H06",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_caption_verifier\\KET_QUA.md",
+      "sha256": "449780cdd88934bf3290ff9fe6be4cfd33185ee9abb24738ed20631a1507f973"
+    },
+    {
+      "evidence_id": "H06",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_caption_verifier\\validation\\REPORT.md",
+      "sha256": "e28339e7059e3178313e4fd57f552250541651385a81fdb18ccd9c11e74b6be8"
+    },
+    {
+      "evidence_id": "H06",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_caption_verifier\\validation\\run_config.json",
+      "sha256": "73305827c10f453cbd99cacb83fe6636e25a3feed3975d68603d886d59a5bdef"
+    },
+    {
+      "evidence_id": "H07",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\real_sft_results\\REPORT.md",
+      "sha256": "3a4969632710d7a83c53429d129e4ad9ce6eb1db353d121dfffc04bb96db0ddc"
+    },
+    {
+      "evidence_id": "H07",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\real_sft_results\\metrics.json",
+      "sha256": "116dc038b31866159d4e2819a1b1c7143bd990afcb3d33390f0cd4bb8d766cb7"
+    },
+    {
+      "evidence_id": "H08",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\curated_sft\\KET_QUA.md",
+      "sha256": "10fe25773249c54f71f8f47931958b6a7674d048eabf89cef9af413974d16cce"
+    },
+    {
+      "evidence_id": "H08",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\curated_sft\\README.md",
+      "sha256": "7a101b8dd171cd55e79e2729b406e80c577b34202f2db446a817c65d8e81e155"
+    },
+    {
+      "evidence_id": "H08",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\curated_sft\\decision.json",
+      "sha256": "bbd0dff9f32b1b18bf102ffbfb20df9990432461b36c9e8881ed76f06cfaaae9"
+    },
+    {
+      "evidence_id": "H09",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\curated_sft\\dedup_full_results\\REPORT.md",
+      "sha256": "152524cbff6fc786643bec0f4c7bee858403b916968c0dcbe3376987ea29348a"
+    },
+    {
+      "evidence_id": "H09",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\curated_sft\\dedup_full_results\\audit.json",
+      "sha256": "a3eb3f813dcc282d3d444842e015a9cfee0d133acaf88401b0fa339890a48647"
+    },
+    {
+      "evidence_id": "H10",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_diagnostic\\KET_QUA.md",
+      "sha256": "f8701d871cafe9b0c693022cfb6057b901778e208cb21ea3e042a3452bf750d5"
+    },
+    {
+      "evidence_id": "H10",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_diagnostic\\PROMPT_KET_QUA.md",
+      "sha256": "31996be0f14c3e6c302834f2a60371b5dbcc9f5dc854a3e8fa70263408adfe17"
+    },
+    {
+      "evidence_id": "H10",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_diagnostic\\protocol_locked.json",
+      "sha256": "3d3c5973866857290c2281399f48e0b17b4702f2bb906439f54b8e5afc2ea190"
+    },
+    {
+      "evidence_id": "H11",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_extension\\KET_QUA.md",
+      "sha256": "0bcd5b2a2c6e8ea5df4254898394f0666a1c9bc35dce599c0cdec7d29b4de605"
+    },
+    {
+      "evidence_id": "H11",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_extension\\decision.json",
+      "sha256": "c095d6d85aa19c97407134f266daed7e6d763517a44710725f37a3dbcb133f82"
+    },
+    {
+      "evidence_id": "H11",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\viewpoint_extension\\safe_check\\SUCCESS.json",
+      "sha256": "0cc0cf1a0bd1ea365e504c06a1619a5761af9779a4bcc2e7cd5a8e36e474136b"
+    },
+    {
+      "evidence_id": "H12",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_sft\\KET_QUA.md",
+      "sha256": "c650682c667e7a08b1369930da538409ee01707144d974477ccb2be5862aa5ff"
+    },
+    {
+      "evidence_id": "H12",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_sft\\protocol.json",
+      "sha256": "ea35586204d760af8c5583d072bf196987af3cdcd7ae612204749f8b836787b0"
+    },
+    {
+      "evidence_id": "H12",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_sft\\data_audit.json",
+      "sha256": "b8a0e61239d2d7ca146996e7d49d5405f4e1e250aafd4fe6c67f4ed7601c3f1e"
+    },
+    {
+      "evidence_id": "H13",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\precision_audit\\KET_QUA.md",
+      "sha256": "a1ce852c5264451ccc252352b48278e252993156666bf3da4f01bb5797a71746"
+    },
+    {
+      "evidence_id": "H13",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\precision_audit\\comparison_protocol.json",
+      "sha256": "2447344af2069d8ed2f412ac112999ae78426cd7074f03f0b37c4febef8c0c7c"
+    },
+    {
+      "evidence_id": "H13",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\precision_audit\\decision.json",
+      "sha256": "9cbf75fcc7e93402f7bd146624fde6e2266880497fd3bf7caaec51befa8f1611"
+    },
+    {
+      "evidence_id": "H14",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_ablation\\KET_QUA.md",
+      "sha256": "08083e695d49acf1102c26ec548c9f56fba6b41e35e0f3d0c63d62ab503f0158"
+    },
+    {
+      "evidence_id": "H14",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_ablation\\results\\protocol.json",
+      "sha256": "96c08f588537f34fb441e65365eefcc49d90494e6c4d86a986c1745eb54c8a3b"
+    },
+    {
+      "evidence_id": "H14",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_ablation\\results\\matched_training_audit.json",
+      "sha256": "bd9e2396553a1f91d2f4c1e36830abe7292d8a588efc2423682eff03c7f69a16"
+    },
+    {
+      "evidence_id": "H15",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_confirmation\\KET_QUA.md",
+      "sha256": "467c2299d99fbff54c84e4d3def0be497484ab635cf8e04dec729caa887384fb"
+    },
+    {
+      "evidence_id": "H15",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_confirmation\\decision.json",
+      "sha256": "d3e125b8ac17877ac071504c612b4369caf9ae8e96a039d24d8d7f3bc166fe8a"
+    },
+    {
+      "evidence_id": "H15",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_confirmation\\metrics.json",
+      "sha256": "e76aed46287e24218be3fa078c6308653b9c3cb3eacb354463d85f6042e9e267"
+    },
+    {
+      "evidence_id": "H16",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\mixed_full_benchmark\\results\\summary_x100.json",
+      "sha256": "b52083299ad4f47e4beb67de9358a17ec90a0fbd929490fbc8fdb466e90757db"
+    },
+    {
+      "evidence_id": "H16",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\mixed_full_benchmark\\results\\FULL_RUN_VALIDATED.json",
+      "sha256": "58e12f4055ae74b090c6c924b94528f630cca951b35732dc45b3e728f5ee82e2"
+    },
+    {
+      "evidence_id": "H16",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\mixed_full_benchmark\\selection_locked.json",
+      "sha256": "481f8fb70d99266362bb280394238df5fc19766871ad1b0642e834297c28e9b4"
+    },
+    {
+      "evidence_id": "H16",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\mixed_full_benchmark\\protocol.json",
+      "sha256": "6d710bd51369091a7ad6dc85649fc16b8e46e7363bdf255c3f0db9738a6d6c25"
+    },
+    {
+      "evidence_id": "H17",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\invariance_ablation\\prompt_distribution_audit.json",
+      "sha256": "2764cbeae3cd47e15e3f0f98a893140dc9ea066204348084d58a7814ab943452"
+    },
+    {
+      "evidence_id": "H17",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\prompt_balanced_sft\\KET_QUA.md",
+      "sha256": "7d958d92c4b19c166a3940a18280b7dcf63f1a8d1743bc6ff51b3b5a82845557"
+    },
+    {
+      "evidence_id": "H17",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\prompt_balanced_sft\\decision.json",
+      "sha256": "ce60ed0e169786cc51a84c477316665875319d5df8fe0b1a057e4379dbfaa71a"
+    },
+    {
+      "evidence_id": "H18",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\prompt_probe\\KET_QUA.md",
+      "sha256": "7e1f3db67200661c38076ae1941859c4914b25f59315c31bd0057af2296d9038"
+    },
+    {
+      "evidence_id": "H18",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\prompt_probe\\decision.json",
+      "sha256": "7046ba445fd38bd1d54fc71c061f40d5db7ea66fa56938cebd401c7a7109249d"
+    },
+    {
+      "evidence_id": "H18",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\prompt_probe\\metrics.json",
+      "sha256": "59a45b1e9f4af793cffbb53297791cf65a74df7c919dc96e837563778fa91c00"
+    },
+    {
+      "evidence_id": "H19",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cleanup_v2\\corpus_audit_with_full.json",
+      "sha256": "2dc1b048bdc31fd49600f2d6ede8ec9b7738649675bdfca4eca5b1148e1f2a92"
+    },
+    {
+      "evidence_id": "H19",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cleanup_v2\\protocol.json",
+      "sha256": "008cfb70a1939413fc1e5918385ca888e744a7532bf0d32ba47d0e2549586a4e"
+    },
+    {
+      "evidence_id": "H20",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cap_probe\\KET_QUA.md",
+      "sha256": "b1c5e82b645651e763fb497135cdf009a48c706aa6742f09d5816d257b32c52c"
+    },
+    {
+      "evidence_id": "H20",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cap_probe\\CAP_AUDIT.json",
+      "sha256": "dfa7b55b127cc4501b9977ef2be9d9ca7fbbbcc840448942daf86042616c9672"
+    },
+    {
+      "evidence_id": "H20",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cap_probe\\base_protocol.json",
+      "sha256": "24adb07f393dbe34c3a72c7bd31a5b73c674d40a00480afd0acf2a216e54c051"
+    },
+    {
+      "evidence_id": "H20",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\caption_cap_probe\\base128_results\\same_GPU_control_extension.json",
+      "sha256": "77b78dfe955fc751f81082f2e85013a15f345380caea89204ea3b482136b0ef2"
+    },
+    {
+      "evidence_id": "H21",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\README.md",
+      "sha256": "fc022605e8f09a4efc36bca7c9b713b538c3c48619cb43c373e6cc86e80d5c48"
+    },
+    {
+      "evidence_id": "H21",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\EXPORT_MANIFEST.json",
+      "sha256": "d9833d594ea08e76268be3a83176c032ac5f4d7188075a66130584a923978dc4"
+    },
+    {
+      "evidence_id": "H21",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\INPUT_CHECKS.json",
+      "sha256": "0c222f39b5924ed73a5cd67a11a07c85de3aaeb1377e94aa43d5ea554a6dc474"
+    },
+    {
+      "evidence_id": "H21",
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\FINAL_ARTIFACTS.json",
+      "sha256": "3f98737ca705de5d77bf5c2a6a6634c6f3cb269791da03f089a1ce499b418a74"
+    }
+  ],
+  "external_references": [
+    {
+      "id": "T01",
+      "title": "Repository chính thức M3Diff",
+      "url": "https://github.com/Yuan-Liu-01/M3Diff"
+    },
+    {
+      "id": "T02",
+      "title": "OmniDiff A Comprehensive Benchmark for Fine grained Image Difference Captioning",
+      "url": "https://arxiv.org/abs/2503.11093"
+    },
+    {
+      "id": "T03",
+      "title": "Model card NVIDIA LocateAnything 3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "id": "T04",
+      "title": "Robust Change Captioning ICCV 2019",
+      "url": "https://openaccess.thecvf.com/content_ICCV_2019/html/Park_Robust_Change_Captioning_ICCV_2019_paper.html"
+    },
+    {
+      "id": "T05",
+      "title": "Distractors Immune Representation Learning ECCV 2024",
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5989_ECCV_2024_paper.php"
+    }
+  ]
+}

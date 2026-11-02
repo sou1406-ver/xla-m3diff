@@ -1,0 +1,12 @@
+{
+  "run": "mixed_full_benchmark_v1",
+  "candidate": "invariance_ablation_v1/m3diff-mixed-objective-lora",
+  "selection": "Selected by72-pair masked pilot before new80-pair confirmation. Evaluate official1570 pairs if existing credit permits, regardless of confirmation gate; report adverse tradeoffs as well. No later candidate selection using these full-test scores.",
+  "scope": "803 Real +767 Render, exact official test questions/reference, original prompt, BF16 base +FP32 unmerged LoRA, greedy1024, A10. Baseline already reproduced onA10; compare16 fresh-natural baseline generations as reproducibility probe against original full predictions.",
+  "batching": "Concatenate official Real then Render order. Five fixed chunks of320 (last290). Each paid job has explicit hard timeout no greater1800s and soft child-process deadline100s earlier; fsync resume and commit partial results. No parallel GPU jobs.",
+  "metrics": "Compute BLEU1-4, METEOR, ROUGE-L, CIDEr for raw and exact-sentence-deduplicated captions. Apply exactly same cleanup to both arms. All IDs checked before full scoring; if budget prevents completion, clearly report partial common-ID subset and recompute both arms on identical subset, never label partial as full.",
+  "adoption_rule": "Provisional candidate only if fixed factual pilot and confirmation gates pass, confirmation joint geometry-error count improves, and clean-caption CIDEr does not drop in either official domain (strictly improves at least one). Other metrics and raw results still reported, including regressions. This is a development rule, not independent3D robustness validation.",
+  "environment": "Bake exact previous GPU pip-freeze requirements excluding editable repo into image before GPU starts, to avoid paid pip downloads per chunk; use pinned Volume repository viaPYTHONPATH. Record exact adapter hash and actual GPU per batch.",
+  "limits": "Same dataset already used in development, one seed, LoRA trained on train split but scene separation beyond decoded-pixel hashes not guaranteed. Official caption metrics do not establish3D viewpoint robustness. Keep base default if fixed factual tests or official quality regress materially.",
+  "budget": "Check/reserve existing credit before each dispatch, no purchases/billing changes. Save credit for CPU scoring. Stop GPU between jobs and after completion."
+}

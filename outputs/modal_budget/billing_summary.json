@@ -1,0 +1,20 @@
+{
+  "start_timestamp": "2026-10-01T00:00:00Z",
+  "end_timestamp": "2026-11-01T00:00:00Z",
+  "metered_cost": "23.97248965",
+  "billed_cost": "0.00000000",
+  "metered_cost_breakdown": {
+    "Network Egress": "0.05383239",
+    "LLM Tokens": "0.00000000",
+    "Ephemeral Apps": "10.57374633",
+    "Notebooks": "13.14065086",
+    "Volumes": "0.20865726"
+  },
+  "adjustments": {
+    "Credits": "-23.71000000",
+    "Free Storage": "-0.20865726",
+    "Network Egress Allowance": "-0.05383239",
+    "Plan Cost": "0.00000000",
+    "Reservation Adjustment": "-0.00000000"
+  }
+}

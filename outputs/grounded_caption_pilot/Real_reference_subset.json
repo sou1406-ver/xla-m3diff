@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "id": "real_test_pair_000005",
+      "image_id": "real_test_pair_000005",
+      "caption": "A children's push toy car with a yellow lid and teal wheels has been added to the front left."
+    },
+    {
+      "id": "real_test_pair_000161",
+      "image_id": "real_test_pair_000161",
+      "caption": "The lighting has brightened. A chair with a blue cushion in the back left of the image has disappeared."
+    },
+    {
+      "id": "real_test_pair_000304",
+      "image_id": "real_test_pair_000304",
+      "caption": "Three people's postures have changed from standing with legs apart, upper bodies turned to the left side of the frame, with arms positioned in front of their shoulders, to standing with legs apart, upper bodies turned to the right side of the frame, with arms still positioned in front of their shoulders."
+    },
+    {
+      "id": "real_test_pair_000324",
+      "image_id": "real_test_pair_000324",
+      "caption": "The lighting has brightened. The cylindrical pillow on the brown bedsheet has been replaced with a tiger-shaped plush toy."
+    },
+    {
+      "id": "real_test_pair_000425",
+      "image_id": "real_test_pair_000425",
+      "caption": "The pose of three people changes from standing in a row, facing the left side of the frame, with bent legs, bodies leaning back, and arms naturally spread to facing the camera, standing on the right leg, with arms crossed together."
+    },
+    {
+      "id": "real_test_pair_000440",
+      "image_id": "real_test_pair_000440",
+      "caption": "The three people transition from leaning against each other at an angle to facing the camera, standing on their right legs, with their arms crossed in front."
+    },
+    {
+      "id": "real_test_pair_000534",
+      "image_id": "real_test_pair_000534",
+      "caption": "A container with a pink lid and a pink base has been added to the right rear of the blue-capped milk powder can. The kettle on the left side of the image has been rotated, with the handle changing from facing right to facing forward."
+    },
+    {
+      "id": "real_test_pair_000554",
+      "image_id": "real_test_pair_000554",
+      "caption": "The dog, which was previously on the right side of the image facing left with its head looking back to the left rear, has now turned its head to the right. Additionally, the dog has moved further to the right, and only part of its body is now visible."
+    },
+    {
+      "id": "real_test_pair_000566",
+      "image_id": "real_test_pair_000566",
+      "caption": "The silver-gray-furred dog in the image has shifted its position from facing the front right to sitting on the ground with its body facing forward and its head turned to the left, now positioned at the center of the image."
+    },
+    {
+      "id": "real_test_pair_000567",
+      "image_id": "real_test_pair_000567",
+      "caption": "The silver-gray-furred dog is now sitting on the ground facing forward with its head turned to the left and is positioned on the right side of the image, rather than facing the front right."
+    },
+    {
+      "id": "real_test_pair_000577",
+      "image_id": "real_test_pair_000577",
+      "caption": "The small white toy car in front of the sofa has moved to the left edge of the sofa. The yellow toy excavator on the right side of the sofa has been replaced with a toy car with red wheels."
+    },
+    {
+      "id": "real_test_pair_000742",
+      "image_id": "real_test_pair_000742",
+      "caption": "The white bicycle, which was originally on the left side of the blue bicycle, is now positioned between the blue bicycle and the black and red XDS bicycle.An additional yellow shared bicycle has been added to the left of the black electric vehicle, bringing the total number of yellow shared bicycles to two.The front end of the shared bicycle on the far left is oriented in the opposite direction to the black electric vehicle, with a pink clothes hanger newly added in the black basket.The front end of the other shared bicycle is oriented in the same direction as the black electric vehicle, with a person wearing a white T-shirt standing next to it."
+    }
+  ],
+  "images": [
+    {
+      "filename": "real_test_pair_000005",
+      "id": "real_test_pair_000005"
+    },
+    {
+      "filename": "real_test_pair_000161",
+      "id": "real_test_pair_000161"
+    },
+    {
+      "filename": "real_test_pair_000304",
+      "id": "real_test_pair_000304"
+    },
+    {
+      "filename": "real_test_pair_000324",
+      "id": "real_test_pair_000324"
+    },
+    {
+      "filename": "real_test_pair_000425",
+      "id": "real_test_pair_000425"
+    },
+    {
+      "filename": "real_test_pair_000440",
+      "id": "real_test_pair_000440"
+    },
+    {
+      "filename": "real_test_pair_000534",
+      "id": "real_test_pair_000534"
+    },
+    {
+      "filename": "real_test_pair_000554",
+      "id": "real_test_pair_000554"
+    },
+    {
+      "filename": "real_test_pair_000566",
+      "id": "real_test_pair_000566"
+    },
+    {
+      "filename": "real_test_pair_000567",
+      "id": "real_test_pair_000567"
+    },
+    {
+      "filename": "real_test_pair_000577",
+      "id": "real_test_pair_000577"
+    },
+    {
+      "filename": "real_test_pair_000742",
+      "id": "real_test_pair_000742"
+    }
+  ]
+}

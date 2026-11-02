@@ -1,0 +1,239 @@
+[
+  {
+    "name": "real_before_box",
+    "source_image": "Real/test/images/real_test_000009.jpg",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "original_size": [
+      2928,
+      2928
+    ],
+    "inference_size": [
+      768,
+      768
+    ],
+    "answer": "<ref>the green storage box</ref><box><712><0><998><169></box><|im_end|>",
+    "boxes": [
+      {
+        "label": "the green storage box",
+        "normalized_1000": [
+          712,
+          0,
+          998,
+          169
+        ],
+        "pixels": [
+          546.816,
+          0.0,
+          766.464,
+          129.792
+        ]
+      }
+    ],
+    "seconds": 2.373218297958374,
+    "peak_vram_gb": 8.776541233062744
+  },
+  {
+    "name": "real_after_box",
+    "source_image": "Real/test/images/real_test_000001.jpg",
+    "prompt": "Locate a single instance that matches the following description: the green storage box.",
+    "original_size": [
+      2448,
+      2448
+    ],
+    "inference_size": [
+      768,
+      768
+    ],
+    "answer": "<ref>the green storage box</ref><box><584><0><784><67></box><|im_end|>",
+    "boxes": [
+      {
+        "label": "the green storage box",
+        "normalized_1000": [
+          584,
+          0,
+          784,
+          67
+        ],
+        "pixels": [
+          448.512,
+          0.0,
+          602.112,
+          51.456
+        ]
+      }
+    ],
+    "seconds": 2.922682046890259,
+    "peak_vram_gb": 8.776614665985107
+  },
+  {
+    "name": "real_before_objects",
+    "source_image": "Real/test/images/real_test_000009.jpg",
+    "prompt": "Locate all the instances that matches the following description: storage box</c>cabinet.",
+    "original_size": [
+      2928,
+      2928
+    ],
+    "inference_size": [
+      768,
+      768
+    ],
+    "answer": "<ref>storage box</ref><box><0><0><169><40></box><box><0><108><41><144></box><box><0><198><54><240></box><box><27><53><167><145></box><box><52><143><157><243></box><box><711><75><981><168></box><box><721><1><996><91></box><ref>cabinet</ref><box><146><132><1000><376></box><|im_end|>",
+    "boxes": [
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          0,
+          0,
+          169,
+          40
+        ],
+        "pixels": [
+          0.0,
+          0.0,
+          129.792,
+          30.72
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          0,
+          108,
+          41,
+          144
+        ],
+        "pixels": [
+          0.0,
+          82.944,
+          31.488,
+          110.592
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          0,
+          198,
+          54,
+          240
+        ],
+        "pixels": [
+          0.0,
+          152.064,
+          41.472,
+          184.32
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          27,
+          53,
+          167,
+          145
+        ],
+        "pixels": [
+          20.736,
+          40.704,
+          128.256,
+          111.36
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          52,
+          143,
+          157,
+          243
+        ],
+        "pixels": [
+          39.936,
+          109.824,
+          120.576,
+          186.624
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          711,
+          75,
+          981,
+          168
+        ],
+        "pixels": [
+          546.048,
+          57.6,
+          753.408,
+          129.024
+        ]
+      },
+      {
+        "label": "storage box",
+        "normalized_1000": [
+          721,
+          1,
+          996,
+          91
+        ],
+        "pixels": [
+          553.728,
+          0.768,
+          764.928,
+          69.888
+        ]
+      },
+      {
+        "label": "cabinet",
+        "normalized_1000": [
+          146,
+          132,
+          1000,
+          376
+        ],
+        "pixels": [
+          112.128,
+          101.376,
+          768.0,
+          288.768
+        ]
+      }
+    ],
+    "seconds": 1.5665881633758545,
+    "peak_vram_gb": 8.77675485610962
+  },
+  {
+    "name": "render_people",
+    "source_image": "Render/test/images/render_test_outdoor_000002.jpg",
+    "prompt": "Locate all the instances that matches the following description: person.",
+    "original_size": [
+      768,
+      768
+    ],
+    "inference_size": [
+      768,
+      768
+    ],
+    "answer": "<ref>person</ref><box><315><406><402><637></box><|im_end|>",
+    "boxes": [
+      {
+        "label": "person",
+        "normalized_1000": [
+          315,
+          406,
+          402,
+          637
+        ],
+        "pixels": [
+          241.92,
+          311.808,
+          308.736,
+          489.216
+        ]
+      }
+    ],
+    "seconds": 1.1220390796661377,
+    "peak_vram_gb": 8.776614665985107
+  }
+]

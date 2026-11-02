@@ -1,0 +1,4162 @@
+[
+  {
+    "id": "render_test_pair_000158",
+    "image": [
+      "Render/test/images/render_test_outdoor_000028.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000159",
+    "image": [
+      "Render/test/images/render_test_outdoor_000028.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000160",
+    "image": [
+      "Render/test/images/render_test_outdoor_000028.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000161",
+    "image": [
+      "Render/test/images/render_test_outdoor_000028.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000162",
+    "image": [
+      "Render/test/images/render_test_outdoor_000029.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000163",
+    "image": [
+      "Render/test/images/render_test_outdoor_000029.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000164",
+    "image": [
+      "Render/test/images/render_test_outdoor_000029.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000165",
+    "image": [
+      "Render/test/images/render_test_outdoor_000030.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000166",
+    "image": [
+      "Render/test/images/render_test_outdoor_000030.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000167",
+    "image": [
+      "Render/test/images/render_test_outdoor_000031.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000168",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000169",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000170",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000171",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000172",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000173",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000174",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000175",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000176",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000177",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000178",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000179",
+    "image": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000180",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000181",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000182",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000183",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000184",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000185",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000186",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000187",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000188",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000189",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000190",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000191",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000192",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000193",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000194",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000195",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000196",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000197",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000198",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000199",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000200",
+    "image": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000201",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000202",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000203",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000204",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000205",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000206",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000207",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000208",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000209",
+    "image": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000210",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000211",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000212",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000213",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000214",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000215",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000216",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000217",
+    "image": [
+      "Render/test/images/render_test_outdoor_000036.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000218",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000219",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000220",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000221",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000222",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000223",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000224",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000225",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000226",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000227",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000228",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000229",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000230",
+    "image": [
+      "Render/test/images/render_test_outdoor_000038.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000231",
+    "image": [
+      "Render/test/images/render_test_outdoor_000039.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000232",
+    "image": [
+      "Render/test/images/render_test_outdoor_000039.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000233",
+    "image": [
+      "Render/test/images/render_test_outdoor_000039.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000234",
+    "image": [
+      "Render/test/images/render_test_outdoor_000039.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000235",
+    "image": [
+      "Render/test/images/render_test_outdoor_000039.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000236",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000237",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000238",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000239",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000240",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000241",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000242",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000243",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000244",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000245",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000246",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000247",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000248",
+    "image": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000249",
+    "image": [
+      "Render/test/images/render_test_outdoor_000042.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000250",
+    "image": [
+      "Render/test/images/render_test_outdoor_000042.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000251",
+    "image": [
+      "Render/test/images/render_test_outdoor_000042.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000252",
+    "image": [
+      "Render/test/images/render_test_outdoor_000042.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000253",
+    "image": [
+      "Render/test/images/render_test_outdoor_000043.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000254",
+    "image": [
+      "Render/test/images/render_test_outdoor_000043.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000255",
+    "image": [
+      "Render/test/images/render_test_outdoor_000043.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000256",
+    "image": [
+      "Render/test/images/render_test_outdoor_000044.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000257",
+    "image": [
+      "Render/test/images/render_test_outdoor_000044.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000258",
+    "image": [
+      "Render/test/images/render_test_outdoor_000045.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000259",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000260",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000261",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000262",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000263",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000264",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000265",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000266",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000267",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000268",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000269",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000270",
+    "image": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000271",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000272",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000273",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000274",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000275",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000276",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000277",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000278",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000279",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000280",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000281",
+    "image": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000282",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000283",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000284",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000285",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000286",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000287",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000288",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000289",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000290",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000291",
+    "image": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000292",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000293",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000294",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000295",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000296",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000297",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000298",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000299",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000300",
+    "image": [
+      "Render/test/images/render_test_outdoor_000049.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000301",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000302",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000303",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000304",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000305",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000306",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000307",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000308",
+    "image": [
+      "Render/test/images/render_test_outdoor_000050.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000309",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000310",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000311",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000312",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000313",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000314",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000315",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000316",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000317",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000318",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000319",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000320",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000321",
+    "image": [
+      "Render/test/images/render_test_outdoor_000052.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000322",
+    "image": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000323",
+    "image": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000324",
+    "image": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000325",
+    "image": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000326",
+    "image": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000327",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000328",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000329",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000330",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000331",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000332",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000333",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000334",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000335",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000336",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000337",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000338",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000339",
+    "image": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000340",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000341",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000342",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000343",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000344",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000345",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000346",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000347",
+    "image": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000348",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000349",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000350",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000351",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000352",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000353",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000354",
+    "image": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000355",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000356",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000357",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000358",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000359",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000360",
+    "image": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000361",
+    "image": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000362",
+    "image": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000363",
+    "image": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000364",
+    "image": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000365",
+    "image": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000366",
+    "image": [
+      "Render/test/images/render_test_outdoor_000060.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000367",
+    "image": [
+      "Render/test/images/render_test_outdoor_000060.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000368",
+    "image": [
+      "Render/test/images/render_test_outdoor_000060.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000369",
+    "image": [
+      "Render/test/images/render_test_outdoor_000060.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000370",
+    "image": [
+      "Render/test/images/render_test_outdoor_000061.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000371",
+    "image": [
+      "Render/test/images/render_test_outdoor_000061.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000372",
+    "image": [
+      "Render/test/images/render_test_outdoor_000061.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000373",
+    "image": [
+      "Render/test/images/render_test_outdoor_000062.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000374",
+    "image": [
+      "Render/test/images/render_test_outdoor_000062.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000375",
+    "image": [
+      "Render/test/images/render_test_outdoor_000063.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000376",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000377",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000056.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000378",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000379",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000380",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000381",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000382",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000383",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000384",
+    "image": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000385",
+    "image": [
+      "Render/test/images/render_test_indoor_000002.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000386",
+    "image": [
+      "Render/test/images/render_test_indoor_000002.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000387",
+    "image": [
+      "Render/test/images/render_test_indoor_000002.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000388",
+    "image": [
+      "Render/test/images/render_test_indoor_000002.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000389",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000390",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000391",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000392",
+    "image": [
+      "Render/test/images/render_test_indoor_000004.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000393",
+    "image": [
+      "Render/test/images/render_test_indoor_000004.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000394",
+    "image": [
+      "Render/test/images/render_test_indoor_000005.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000395",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000396",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000397",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000398",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000399",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000400",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000401",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000402",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000009.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000403",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000404",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000405",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000406",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000407",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000408",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000409",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000410",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000411",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000412",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000413",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000009.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000414",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000415",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000416",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000417",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000418",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000419",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000420",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000421",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000422",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000423",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000009.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000424",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000425",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000426",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000427",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000428",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000429",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000430",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000431",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000432",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000433",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000434",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000435",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000436",
+    "image": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000437",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000438",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000439",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000440",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000441",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000442",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000443",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000444",
+    "image": [
+      "Render/test/images/render_test_indoor_000010.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000445",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000446",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000447",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000448",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000449",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000450",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000451",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000452",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000453",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000454",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000455",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000456",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000457",
+    "image": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000458",
+    "image": [
+      "Render/test/images/render_test_indoor_000013.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000459",
+    "image": [
+      "Render/test/images/render_test_indoor_000013.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000460",
+    "image": [
+      "Render/test/images/render_test_indoor_000013.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000461",
+    "image": [
+      "Render/test/images/render_test_indoor_000013.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000462",
+    "image": [
+      "Render/test/images/render_test_indoor_000013.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000463",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000001.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000464",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000465",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000466",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000467",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000468",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000469",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000470",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000471",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000009.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000472",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000473",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000474",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000475",
+    "image": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000476",
+    "image": [
+      "Render/test/images/render_test_indoor_000015.jpg",
+      "Render/test/images/render_test_indoor_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000477",
+    "image": [
+      "Render/test/images/render_test_indoor_000017.jpg",
+      "Render/test/images/render_test_indoor_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  }
+]

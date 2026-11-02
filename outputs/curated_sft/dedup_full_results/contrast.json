@@ -1,0 +1,22 @@
+{
+  "Real": {
+    "n": 803,
+    "changed": 3,
+    "delta_CIDEr_x100": 0.001922953934969595,
+    "pair_bootstrap_95pct_CI": [
+      0.0,
+      0.0057686074930289625
+    ],
+    "pair_bootstrap_limitation": "Does not account for image/scene dependence or training-seed variation."
+  },
+  "Render": {
+    "n": 767,
+    "changed": 12,
+    "delta_CIDEr_x100": 0.15470390811943374,
+    "pair_bootstrap_95pct_CI": [
+      0.011578862810281311,
+      0.36244986952328634
+    ],
+    "pair_bootstrap_limitation": "Does not account for image/scene dependence or training-seed variation."
+  }
+}

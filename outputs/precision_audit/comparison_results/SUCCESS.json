@@ -1,0 +1,8 @@
+{
+  "n_pairs": 108,
+  "n_generations": 216,
+  "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+  "same_checkpoint": true,
+  "weights_updated": false,
+  "time": 1793126426.438471
+}

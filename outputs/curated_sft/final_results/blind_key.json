@@ -1,0 +1,82 @@
+{
+  "real_test_pair_000159": {
+    "candidate_1": "corrected_labels_dedup",
+    "candidate_2": "baseline_dedup",
+    "candidate_3": "corrected_lora_only_dedup"
+  },
+  "real_test_pair_000273": {
+    "candidate_1": "corrected_labels_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "baseline_dedup"
+  },
+  "real_test_pair_000643": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "corrected_labels_dedup"
+  },
+  "real_test_pair_000184": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "corrected_lora_only_dedup"
+  },
+  "real_test_pair_000616": {
+    "candidate_1": "corrected_labels_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "baseline_dedup"
+  },
+  "real_test_pair_000727": {
+    "candidate_1": "corrected_labels_dedup",
+    "candidate_2": "baseline_dedup",
+    "candidate_3": "corrected_lora_only_dedup"
+  },
+  "real_test_pair_000519": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "corrected_lora_only_dedup"
+  },
+  "real_test_pair_000463": {
+    "candidate_1": "corrected_lora_only_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "baseline_dedup"
+  },
+  "render_test_pair_000756": {
+    "candidate_1": "corrected_lora_only_dedup",
+    "candidate_2": "baseline_dedup",
+    "candidate_3": "corrected_labels_dedup"
+  },
+  "render_test_pair_000040": {
+    "candidate_1": "corrected_lora_only_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "baseline_dedup"
+  },
+  "render_test_pair_000277": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "corrected_labels_dedup"
+  },
+  "render_test_pair_000472": {
+    "candidate_1": "corrected_lora_only_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "baseline_dedup"
+  },
+  "render_test_pair_000355": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_labels_dedup",
+    "candidate_3": "corrected_lora_only_dedup"
+  },
+  "render_test_pair_000600": {
+    "candidate_1": "corrected_lora_only_dedup",
+    "candidate_2": "baseline_dedup",
+    "candidate_3": "corrected_labels_dedup"
+  },
+  "render_test_pair_000059": {
+    "candidate_1": "baseline_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "corrected_labels_dedup"
+  },
+  "render_test_pair_000042": {
+    "candidate_1": "corrected_labels_dedup",
+    "candidate_2": "corrected_lora_only_dedup",
+    "candidate_3": "baseline_dedup"
+  }
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "yoga__square8",
+    "scene": "yoga",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4996,
+      "inliers": 4996,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.999999993185936,
+      "angle": 1.8350227803301854e-07,
+      "matrix": [
+        [
+          0.999999993185936,
+          -3.2027189147627056e-09,
+          -1.588482590237006e-06
+        ],
+        [
+          3.2027189147627056e-09,
+          0.999999993185936,
+          3.4485238765750924e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.0017873909091576934,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 2.7358023751522533e-05,
+      "largest_opened_residual_pixels": 20,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__thin2x32",
+    "scene": "yoga",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4996,
+      "inliers": 4996,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.9999999978039764,
+      "angle": 7.577537589093302e-08,
+      "matrix": [
+        [
+          0.9999999978039764,
+          -1.3225297983288062e-09,
+          7.904850516971709e-06
+        ],
+        [
+          1.3225297983288062e-09,
+          0.9999999978039764,
+          1.941717169459606e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.001752102980390191,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 2.26001065773447e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__brightness_plus8",
+    "scene": "yoga",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4980,
+      "inliers": 4980,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 1.0000002573726658,
+      "angle": -1.4732913504967246e-05,
+      "matrix": [
+        [
+          1.0000002573726328,
+          2.5713791525346724e-07,
+          -6.217191652753775e-05
+        ],
+        [
+          -2.5713791525346724e-07,
+          1.0000002573726328,
+          -0.00010945723914090805
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.995493412017822,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__square8",
+    "scene": "kitchen",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 2128,
+      "inliers": 2127,
+      "inlier_ratio": 0.9995300751879699,
+      "grid_cells": 13,
+      "scale": 0.9999999830203942,
+      "angle": 1.5779010267849578e-06,
+      "matrix": [
+        [
+          0.9999999830203938,
+          -2.7539567720385737e-08,
+          4.418589005153793e-05
+        ],
+        [
+          2.7539567720385737e-08,
+          0.9999999830203938,
+          1.188830298429575e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.0005464553833007812,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 1.1444091796875e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__thin2x32",
+    "scene": "kitchen",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 2128,
+      "inliers": 2127,
+      "inlier_ratio": 0.9995300751879699,
+      "grid_cells": 13,
+      "scale": 0.9999999866101799,
+      "angle": 1.6442531390826414e-06,
+      "matrix": [
+        [
+          0.9999999866101794,
+          -2.8697630628988225e-08,
+          4.2642530592617514e-05
+        ],
+        [
+          2.8697630628988225e-08,
+          0.9999999866101794,
+          7.376506985519426e-06
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.0006068547372706234,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 1.9073486328125e-06,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__brightness_plus8",
+    "scene": "kitchen",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 2129,
+      "inliers": 2128,
+      "inlier_ratio": 0.9995302959135745,
+      "grid_cells": 13,
+      "scale": 0.9999998735283344,
+      "angle": 5.678600024301733e-05,
+      "matrix": [
+        [
+          0.9999998735278433,
+          -9.911025479323844e-07,
+          0.0007256770510325843
+        ],
+        [
+          9.911025479323844e-07,
+          0.9999998735278433,
+          -0.000512161072553219
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.9995036125183105,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "silhouette__square8",
+    "scene": "silhouette",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4719,
+      "inliers": 4719,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.999999992655673,
+      "angle": -4.92642656521533e-06,
+      "matrix": [
+        [
+          0.9999999926556693,
+          8.598236328923996e-08,
+          -0.00010708666030620545
+        ],
+        [
+          -8.598236328923996e-08,
+          0.9999999926556693,
+          4.4873704559220626e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.00047238668776117265,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 1.049041748046875e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "silhouette__thin2x32",
+    "scene": "silhouette",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4719,
+      "inliers": 4719,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.9999999878235054,
+      "angle": -7.366908602021171e-06,
+      "matrix": [
+        [
+          0.9999999878234972,
+          1.2857680923314682e-07,
+          -0.00015954253352248063
+        ],
+        [
+          -1.2857680923314682e-07,
+          0.9999999878234972,
+          6.864687967153823e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.0007689793710596859,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 2.288818359375e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "silhouette__brightness_plus8",
+    "scene": "silhouette",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4562,
+      "inliers": 4561,
+      "inlier_ratio": 0.9997807978956598,
+      "grid_cells": 16,
+      "scale": 1.000002336526016,
+      "angle": -2.3347273812055728e-06,
+      "matrix": [
+        [
+          1.0000023365260151,
+          4.07487751488528e-08,
+          -0.0018124084997701002
+        ],
+        [
+          -4.07487751488528e-08,
+          1.0000023365260151,
+          -0.001655826926801796
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.94188928604126,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "picnic__square8",
+    "scene": "picnic",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4997,
+      "inliers": 4997,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.9999999616861012,
+      "angle": 2.2751879245473972e-06,
+      "matrix": [
+        [
+          0.9999999616861004,
+          -3.970951886354184e-08,
+          5.5583204446002445e-05
+        ],
+        [
+          3.970951886354184e-08,
+          0.9999999616861004,
+          3.665158876013225e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.004195601679384708,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.0001068115234375,
+      "largest_opened_residual_pixels": 61,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "picnic__thin2x32",
+    "scene": "picnic",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4999,
+      "inliers": 4999,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.9999999572460198,
+      "angle": 2.7610639627303017e-06,
+      "matrix": [
+        [
+          0.9999999572460186,
+          -4.818965494750611e-08,
+          5.6395123192009014e-05
+        ],
+        [
+          4.818965494750611e-08,
+          0.9999999572460186,
+          3.737379443054611e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.005429868120700121,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.00010850694444444444,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "picnic__brightness_plus8",
+    "scene": "picnic",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4999,
+      "inliers": 4999,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 0.999999994048881,
+      "angle": 2.7734187186976464e-07,
+      "matrix": [
+        [
+          0.999999994048881,
+          -4.840528788965072e-09,
+          2.8569938884781922e-06
+        ],
+        [
+          4.840528788965072e-09,
+          0.999999994048881,
+          -3.913815812013577e-07
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.999998092651367,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "office__square8",
+    "scene": "office",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 3810,
+      "inliers": 3809,
+      "inlier_ratio": 0.9997375328083989,
+      "grid_cells": 16,
+      "scale": 0.9999999776529044,
+      "angle": 6.857476721308362e-06,
+      "matrix": [
+        [
+          0.9999999776528972,
+          -1.1968554449107184e-07,
+          0.00014299604107736067
+        ],
+        [
+          1.1968554449107184e-07,
+          0.9999999776528972,
+          1.7602887827358383e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.016288474202156067,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.00010172526041666667,
+      "largest_opened_residual_pixels": 52,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "office__thin2x32",
+    "scene": "office",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 3810,
+      "inliers": 3809,
+      "inlier_ratio": 0.9997375328083989,
+      "grid_cells": 16,
+      "scale": 1.0000000108000322,
+      "angle": 8.215653298990157e-06,
+      "matrix": [
+        [
+          1.000000010800022,
+          -1.4339020181833066e-07,
+          0.00015811099578692478
+        ],
+        [
+          1.4339020181833066e-07,
+          1.000000010800022,
+          -2.4672529277139833e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.018017804250121117,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.00010342068142361111,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "office__brightness_plus8",
+    "scene": "office",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 3777,
+      "inliers": 3775,
+      "inlier_ratio": 0.9994704792163093,
+      "grid_cells": 16,
+      "scale": 0.9999976313782474,
+      "angle": -0.00019902114763322446,
+      "matrix": [
+        [
+          0.9999976313722145,
+          3.473566079706838e-06,
+          -0.0016860054660014566
+        ],
+        [
+          -3.473566079706838e-06,
+          0.9999976313722145,
+          0.0025840637282689726
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.734473705291748,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "classroom__square8",
+    "scene": "classroom",
+    "kind": "square8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 1839,
+      "inliers": 1837,
+      "inlier_ratio": 0.9989124524197933,
+      "grid_cells": 16,
+      "scale": 1.0000000979870793,
+      "angle": 2.984509870336442e-05,
+      "matrix": [
+        [
+          1.0000000979869437,
+          -5.20895288997379e-07,
+          0.000301534932447366
+        ],
+        [
+          5.20895288997379e-07,
+          1.0000000979869437,
+          -0.0002241042856840906
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.023717809468507767,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.00010850694444444444,
+      "largest_opened_residual_pixels": 64,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "classroom__thin2x32",
+    "scene": "classroom",
+    "kind": "thin2x32",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 1837,
+      "inliers": 1835,
+      "inlier_ratio": 0.9989112683723462,
+      "grid_cells": 16,
+      "scale": 0.9999996215843705,
+      "angle": -6.631681646245053e-06,
+      "matrix": [
+        [
+          0.9999996215843638,
+          1.1574463587145794e-07,
+          -0.00010299842812976602
+        ],
+        [
+          -1.1574463587145794e-07,
+          0.9999996215843638,
+          0.0005037890153916478
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.023608172312378883,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.00010850694444444444,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "classroom__brightness_plus8",
+    "scene": "classroom",
+    "kind": "brightness_plus8",
+    "expected": "Appearance changed; must not route to no-change. Synthetic stress, not a realistic object-change benchmark.",
+    "features": {
+      "exact_identity": false,
+      "matches": 1848,
+      "inliers": 1848,
+      "inlier_ratio": 1.0,
+      "grid_cells": 16,
+      "scale": 1.0000000282529486,
+      "angle": -6.1569133574165085e-06,
+      "matrix": [
+        [
+          1.0000000282529429,
+          1.0745841288295323e-07,
+          -7.051603062402675e-05
+        ],
+        [
+          -1.0745841288295323e-07,
+          1.0000000282529429,
+          4.086695497673148e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 7.9999775886535645,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "steps": 128,
+  "only_lora": true,
+  "samples": 1024,
+  "min_answer_tokens": 16,
+  "all_finite": true
+}

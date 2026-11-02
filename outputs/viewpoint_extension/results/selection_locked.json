@@ -1,0 +1,95 @@
+{
+  "locked_at_utc": "2026-10-27T14:20:03.568925+00:00",
+  "selection": [
+    {
+      "index": 0,
+      "split": "Real",
+      "image": "Real/test/images/real_test_000051.jpg",
+      "sha256": "7710fcec918c0bdfa03debb8b6fa8229ccc39ebb13d0cbdd49ed73e634306b4d",
+      "scene": "clothesline"
+    },
+    {
+      "index": 4,
+      "split": "Real",
+      "image": "Real/test/images/real_test_000063.jpg",
+      "sha256": "2ac1217ce4a7326bb06b6f93940e9483d8ce9238e45eb0c495d4a16e32a760d7",
+      "scene": "computer_desk"
+    },
+    {
+      "index": 8,
+      "split": "Real",
+      "image": "Real/test/images/real_test_000185.jpg",
+      "sha256": "3e124f0b303c928646e6348d12ad0354bb0b10f0be07d515532bc218d9efeeef",
+      "scene": "snowy_street"
+    },
+    {
+      "index": 13,
+      "split": "Real",
+      "image": "Real/test/images/real_test_000161.jpg",
+      "sha256": "c007423d7d39a325d49c969442941e1eaf592444610833a9a35167f6b1effeb4",
+      "scene": "basin_shelf"
+    },
+    {
+      "index": 19,
+      "split": "Render",
+      "image": "Render/test/images/render_test_outdoor_000021.jpg",
+      "sha256": "e7ba5c1182385bc35d80707b1b80a4c82b192dc27abecf1dbc7bff564547572e",
+      "scene": "city_intersection"
+    },
+    {
+      "index": 21,
+      "split": "Render",
+      "image": "Render/test/images/render_test_indoor_000036.jpg",
+      "sha256": "38be8af0fa298b797fc5d6f595789cf1c30d9a7896163dbcd792329d494ca259",
+      "scene": "bunk_bedroom"
+    },
+    {
+      "index": 23,
+      "split": "Render",
+      "image": "Render/test/images/render_test_outdoor_000031.jpg",
+      "sha256": "b96b7b1cc670cee076b5cd0f33cbc6d5c95247904542ce1356d604d41f2b1e5e",
+      "scene": "bicycle_alley"
+    },
+    {
+      "index": 24,
+      "split": "Render",
+      "image": "Render/test/images/render_test_indoor_000021.jpg",
+      "sha256": "c3165e8d144c54288531b23968599a85ed98648e364cbea84f845a2ada2338a1",
+      "scene": "render_kitchen"
+    }
+  ],
+  "reviewer": "Codex assistant visual gallery selection, not independent human scene adjudication",
+  "freshness": "Eight different scene layouts from the previous twelve-scene geometry diagnostic. Official OmniDiff test images already used for earlier full-baseline inference; this is not an external unseen benchmark.",
+  "selection_rule": "Four Real + four Render, scene diversity from a fixed-seed 32-image gallery, chosen by looking at source pictures only, before new gate feature extraction.",
+  "frozen_registration_source_sha256": "20e42a731ebb86352b119bfb251b7177c5703219883619c075401133d1151ecf",
+  "frozen_thresholds": {
+    "minimum_overlap": 0.95,
+    "upper_bounds": {
+      "mean_absolute_rgb_error": 1.5,
+      "p99_max_channel_error": 10,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0
+    }
+  },
+  "nochange_conditions": [
+    "identity",
+    "zoom_in_1p10",
+    "zoom_out_reverse_1p10",
+    "roll_8_safe",
+    "roll_minus8_zoom"
+  ],
+  "primary_stress": [
+    "square32_delta16",
+    "square8_invert",
+    "thin2x32_invert",
+    "brightness_plus8"
+  ],
+  "sensitivity_stress": [
+    "square16_delta4",
+    "brightness_plus1",
+    "one_pixel_invert"
+  ],
+  "natural_pair_rule": "First official question sorted by ID with source as first image, otherwise first containing source. Review paired photos before gate results; count only visually confirmed changes as natural positives.",
+  "decision_rule": "Any accepted primary appearance-change stress or confirmed natural positive rules out automatic approximate-caption replacement. Do not retune thresholds on these outcomes. Exact decoded-pixel identity may remain automatic; approximate matching becomes advisory if it fails.",
+  "scope": "CPU gate coverage and false-suppression only; no new M3Diff generations, no inferred fresh false-positive reduction or caption metrics."
+}

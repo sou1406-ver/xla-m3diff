@@ -1,0 +1,882 @@
+[
+  {
+    "id": "fresh_Real_00__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_00__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_00_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_00__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_00_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_00__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_00_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_00__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000058.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_01__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_01__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_01_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_01__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_01_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_01__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_01_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_01__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000068.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_02__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_02__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_02_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_02__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_02_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_02__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_02_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_02__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000011.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_03__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_03__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_03_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_03__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_03_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_03__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_03_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_03__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000080.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_04__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_04__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_04_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_04__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_04_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_04__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_04_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_04__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000027.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_05__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_05__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_05_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_05__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_05_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_05__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_05_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_05__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000007.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_06__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_06__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_06_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_06__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_06_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_06__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_06_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_06__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000042.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_07__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_07__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_07_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_07__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg",
+      "invariance_confirmation_v1/images/fresh_Real_07_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Real_07__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Real_07_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Real_07__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000179.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_00__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_00__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_00_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_00__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_00_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_00__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_00_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_00__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000011.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_01__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_01__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_01_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_01__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_01_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_01__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_01_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_01__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000044.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_02__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_02__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_02_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_02__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_02_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_02__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_02_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_02__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000056.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_03__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_03__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_03_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_03__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_03_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_03__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_03_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_03__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000036.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_04__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_04__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_04_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_04__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_04_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_04__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_04_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_04__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000003.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_05__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_05__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_05_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_05__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_05_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_05__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_05_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_05__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000043.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_06__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_06__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_06_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_06__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_06_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_06__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_06_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_06__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000062.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_07__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_07__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_07_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_07__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg",
+      "invariance_confirmation_v1/images/fresh_Render_07_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "fresh_Render_07__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "invariance_confirmation_v1/images/fresh_Render_07_zoom_in_1p10.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg"
+    ]
+  },
+  {
+    "id": "fresh_Render_07__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000025.jpg"
+    ]
+  }
+]

@@ -1,0 +1,4162 @@
+[
+  {
+    "id": "real_test_pair_000001",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000001.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000002",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000003",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000004",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000005",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000006",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000007",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000008",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000009",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000010",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000011",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000012",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000013",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000014",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000015",
+    "image": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000016",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000001.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000017",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000003.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000018",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000019",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000020",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000021",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000022",
+    "image": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000023",
+    "image": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000024",
+    "image": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000025",
+    "image": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000026",
+    "image": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000027",
+    "image": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000028",
+    "image": [
+      "Real/test/images/real_test_000004.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000029",
+    "image": [
+      "Real/test/images/real_test_000004.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000030",
+    "image": [
+      "Real/test/images/real_test_000004.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000031",
+    "image": [
+      "Real/test/images/real_test_000004.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000032",
+    "image": [
+      "Real/test/images/real_test_000005.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000033",
+    "image": [
+      "Real/test/images/real_test_000005.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000034",
+    "image": [
+      "Real/test/images/real_test_000005.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000035",
+    "image": [
+      "Real/test/images/real_test_000006.jpg",
+      "Real/test/images/real_test_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000036",
+    "image": [
+      "Real/test/images/real_test_000006.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000037",
+    "image": [
+      "Real/test/images/real_test_000007.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000038",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000039",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000040",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000041",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000042",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000043",
+    "image": [
+      "Real/test/images/real_test_000010.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000044",
+    "image": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000045",
+    "image": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000046",
+    "image": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000047",
+    "image": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000048",
+    "image": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000049",
+    "image": [
+      "Real/test/images/real_test_000012.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000050",
+    "image": [
+      "Real/test/images/real_test_000012.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000051",
+    "image": [
+      "Real/test/images/real_test_000012.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000052",
+    "image": [
+      "Real/test/images/real_test_000012.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000053",
+    "image": [
+      "Real/test/images/real_test_000013.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000054",
+    "image": [
+      "Real/test/images/real_test_000013.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000055",
+    "image": [
+      "Real/test/images/real_test_000013.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000056",
+    "image": [
+      "Real/test/images/real_test_000014.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000057",
+    "image": [
+      "Real/test/images/real_test_000014.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000058",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000059",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000060",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000061",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000062",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000063",
+    "image": [
+      "Real/test/images/real_test_000015.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000064",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000065",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000066",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000067",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000068",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000069",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000070",
+    "image": [
+      "Real/test/images/real_test_000017.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000071",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000019.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000072",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000020.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000073",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000021.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000074",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000075",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000076",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000077",
+    "image": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000078",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000079",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000019.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000080",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000020.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000081",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000021.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000082",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000083",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000084",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000085",
+    "image": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000086",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000020.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000087",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000021.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000088",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000089",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000090",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000091",
+    "image": [
+      "Real/test/images/real_test_000019.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000092",
+    "image": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000021.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000093",
+    "image": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000094",
+    "image": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000095",
+    "image": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000096",
+    "image": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000097",
+    "image": [
+      "Real/test/images/real_test_000021.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000098",
+    "image": [
+      "Real/test/images/real_test_000021.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000099",
+    "image": [
+      "Real/test/images/real_test_000021.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000100",
+    "image": [
+      "Real/test/images/real_test_000021.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000101",
+    "image": [
+      "Real/test/images/real_test_000022.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000102",
+    "image": [
+      "Real/test/images/real_test_000022.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000103",
+    "image": [
+      "Real/test/images/real_test_000022.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000104",
+    "image": [
+      "Real/test/images/real_test_000023.jpg",
+      "Real/test/images/real_test_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000105",
+    "image": [
+      "Real/test/images/real_test_000023.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000106",
+    "image": [
+      "Real/test/images/real_test_000024.jpg",
+      "Real/test/images/real_test_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000107",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000108",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000109",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000110",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000111",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000112",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000113",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000114",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000115",
+    "image": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000116",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000117",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000118",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000119",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000120",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000121",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000122",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000123",
+    "image": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000124",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000125",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000126",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000127",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000128",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000129",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000130",
+    "image": [
+      "Real/test/images/real_test_000028.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000131",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000132",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000133",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000134",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000135",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000136",
+    "image": [
+      "Real/test/images/real_test_000029.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000137",
+    "image": [
+      "Real/test/images/real_test_000030.jpg",
+      "Real/test/images/real_test_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000138",
+    "image": [
+      "Real/test/images/real_test_000030.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000139",
+    "image": [
+      "Real/test/images/real_test_000030.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000140",
+    "image": [
+      "Real/test/images/real_test_000030.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000141",
+    "image": [
+      "Real/test/images/real_test_000030.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000142",
+    "image": [
+      "Real/test/images/real_test_000031.jpg",
+      "Real/test/images/real_test_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000143",
+    "image": [
+      "Real/test/images/real_test_000031.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000144",
+    "image": [
+      "Real/test/images/real_test_000031.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000145",
+    "image": [
+      "Real/test/images/real_test_000031.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000146",
+    "image": [
+      "Real/test/images/real_test_000032.jpg",
+      "Real/test/images/real_test_000033.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000147",
+    "image": [
+      "Real/test/images/real_test_000032.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000148",
+    "image": [
+      "Real/test/images/real_test_000032.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000149",
+    "image": [
+      "Real/test/images/real_test_000033.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000150",
+    "image": [
+      "Real/test/images/real_test_000033.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000151",
+    "image": [
+      "Real/test/images/real_test_000034.jpg",
+      "Real/test/images/real_test_000035.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000152",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000153",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000154",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000155",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000156",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000157",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000158",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000159",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000160",
+    "image": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000161",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000162",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000163",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000164",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000165",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000166",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000167",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000168",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000169",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000170",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000171",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000172",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000173",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000174",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000175",
+    "image": [
+      "Real/test/images/real_test_000038.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000176",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000177",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000178",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000179",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000180",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000181",
+    "image": [
+      "Real/test/images/real_test_000039.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000182",
+    "image": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000183",
+    "image": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000184",
+    "image": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000185",
+    "image": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000186",
+    "image": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000187",
+    "image": [
+      "Real/test/images/real_test_000041.jpg",
+      "Real/test/images/real_test_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000188",
+    "image": [
+      "Real/test/images/real_test_000041.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000189",
+    "image": [
+      "Real/test/images/real_test_000041.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000190",
+    "image": [
+      "Real/test/images/real_test_000041.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000191",
+    "image": [
+      "Real/test/images/real_test_000042.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000192",
+    "image": [
+      "Real/test/images/real_test_000042.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000193",
+    "image": [
+      "Real/test/images/real_test_000042.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000194",
+    "image": [
+      "Real/test/images/real_test_000043.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000195",
+    "image": [
+      "Real/test/images/real_test_000043.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000196",
+    "image": [
+      "Real/test/images/real_test_000044.jpg",
+      "Real/test/images/real_test_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000197",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000198",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000199",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000200",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000201",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000202",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000203",
+    "image": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000204",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000205",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000206",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000207",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000208",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000209",
+    "image": [
+      "Real/test/images/real_test_000048.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000210",
+    "image": [
+      "Real/test/images/real_test_000049.jpg",
+      "Real/test/images/real_test_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000211",
+    "image": [
+      "Real/test/images/real_test_000049.jpg",
+      "Real/test/images/real_test_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000212",
+    "image": [
+      "Real/test/images/real_test_000049.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000213",
+    "image": [
+      "Real/test/images/real_test_000049.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000214",
+    "image": [
+      "Real/test/images/real_test_000049.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000215",
+    "image": [
+      "Real/test/images/real_test_000050.jpg",
+      "Real/test/images/real_test_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000216",
+    "image": [
+      "Real/test/images/real_test_000050.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000217",
+    "image": [
+      "Real/test/images/real_test_000050.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000218",
+    "image": [
+      "Real/test/images/real_test_000050.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000219",
+    "image": [
+      "Real/test/images/real_test_000051.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000220",
+    "image": [
+      "Real/test/images/real_test_000051.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000221",
+    "image": [
+      "Real/test/images/real_test_000051.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000222",
+    "image": [
+      "Real/test/images/real_test_000052.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000223",
+    "image": [
+      "Real/test/images/real_test_000052.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000224",
+    "image": [
+      "Real/test/images/real_test_000053.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000225",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000047.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000226",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000227",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000228",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000229",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000230",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000231",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000232",
+    "image": [
+      "Real/test/images/real_test_000055.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000233",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000056.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000234",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000235",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000236",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000237",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000238",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000239",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000240",
+    "image": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000241",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000242",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000243",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000244",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000245",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000246",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000247",
+    "image": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000248",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000249",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000250",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000251",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000252",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000253",
+    "image": [
+      "Real/test/images/real_test_000057.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000254",
+    "image": [
+      "Real/test/images/real_test_000058.jpg",
+      "Real/test/images/real_test_000059.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000255",
+    "image": [
+      "Real/test/images/real_test_000058.jpg",
+      "Real/test/images/real_test_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000256",
+    "image": [
+      "Real/test/images/real_test_000058.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000257",
+    "image": [
+      "Real/test/images/real_test_000058.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000258",
+    "image": [
+      "Real/test/images/real_test_000058.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000259",
+    "image": [
+      "Real/test/images/real_test_000059.jpg",
+      "Real/test/images/real_test_000060.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000260",
+    "image": [
+      "Real/test/images/real_test_000059.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000261",
+    "image": [
+      "Real/test/images/real_test_000059.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000262",
+    "image": [
+      "Real/test/images/real_test_000059.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000263",
+    "image": [
+      "Real/test/images/real_test_000060.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000264",
+    "image": [
+      "Real/test/images/real_test_000060.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000265",
+    "image": [
+      "Real/test/images/real_test_000060.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000266",
+    "image": [
+      "Real/test/images/real_test_000061.jpg",
+      "Real/test/images/real_test_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000267",
+    "image": [
+      "Real/test/images/real_test_000061.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000268",
+    "image": [
+      "Real/test/images/real_test_000062.jpg",
+      "Real/test/images/real_test_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000269",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000066.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000270",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000271",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000068.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000272",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000273",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000274",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000275",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000276",
+    "image": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000277",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000278",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000068.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000279",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000280",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000281",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000282",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000283",
+    "image": [
+      "Real/test/images/real_test_000066.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000284",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000068.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000285",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000286",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000287",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000288",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000289",
+    "image": [
+      "Real/test/images/real_test_000067.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000290",
+    "image": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000291",
+    "image": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000292",
+    "image": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000293",
+    "image": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000294",
+    "image": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000295",
+    "image": [
+      "Real/test/images/real_test_000069.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000296",
+    "image": [
+      "Real/test/images/real_test_000069.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000297",
+    "image": [
+      "Real/test/images/real_test_000069.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000298",
+    "image": [
+      "Real/test/images/real_test_000069.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000299",
+    "image": [
+      "Real/test/images/real_test_000070.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000300",
+    "image": [
+      "Real/test/images/real_test_000070.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000301",
+    "image": [
+      "Real/test/images/real_test_000070.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000302",
+    "image": [
+      "Real/test/images/real_test_000071.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000303",
+    "image": [
+      "Real/test/images/real_test_000071.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000304",
+    "image": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000305",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000065.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000306",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000066.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000307",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000308",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000068.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000309",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000310",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000311",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000312",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000313",
+    "image": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000314",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000075.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000315",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000076.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000316",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000317",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000078.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000318",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000079.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000319",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000080.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000320",
+    "image": [
+      "Real/test/images/real_test_000084.jpg",
+      "Real/test/images/real_test_000081.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "n": 32,
+    "physical_or_illumination_errors": 32,
+    "global_camera_claims": []
+  },
+  "positive_control": {
+    "n": 32,
+    "physical_or_illumination_errors": 30,
+    "global_camera_claims": []
+  },
+  "mixed_objective": {
+    "n": 32,
+    "physical_or_illumination_errors": 28,
+    "global_camera_claims": [
+      {
+        "id": "new__clothesline__zoom_out_reverse_1p10",
+        "caption": "The image is rotated 90 degrees clockwise.",
+        "note": "Global image-orientation explanation is explicit but WRONG: zoom-out has zero rotation, not90deg. Not evidence of correct camera understanding."
+      }
+    ]
+  }
+}

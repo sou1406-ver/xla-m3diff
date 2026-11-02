@@ -1,0 +1,560 @@
+{
+  "old/Real/identity": {
+    "merged_bf16": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 5,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 5,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/Real/transformed": {
+    "merged_bf16": {
+      "n": 18,
+      "physical_fp_pairs": 14,
+      "illumination_inferences": 5,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 18,
+      "physical_fp_pairs": 14,
+      "illumination_inferences": 4,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/Real/natural": {
+    "merged_bf16": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 7,
+      "unsupported_pairs": 5,
+      "possible_facts": 12
+    },
+    "unmerged_fp32": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 6,
+      "unsupported_pairs": 5,
+      "possible_facts": 12
+    }
+  },
+  "old/Render/identity": {
+    "merged_bf16": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 2,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 6,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 2,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 6,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/Render/transformed": {
+    "merged_bf16": {
+      "n": 18,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 9,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 18,
+      "physical_fp_pairs": 16,
+      "illumination_inferences": 9,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/Render/natural": {
+    "merged_bf16": {
+      "n": 6,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 2,
+      "unsupported_pairs": 6,
+      "possible_facts": 10
+    },
+    "unmerged_fp32": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 2,
+      "unsupported_pairs": 5,
+      "possible_facts": 10
+    }
+  },
+  "old/all/identity": {
+    "merged_bf16": {
+      "n": 12,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 3,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 11,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 12,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 3,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 11,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/all/transformed": {
+    "merged_bf16": {
+      "n": 36,
+      "physical_fp_pairs": 29,
+      "illumination_inferences": 14,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 36,
+      "physical_fp_pairs": 30,
+      "illumination_inferences": 13,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "old/all/natural": {
+    "merged_bf16": {
+      "n": 12,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 11,
+      "possible_facts": 22
+    },
+    "unmerged_fp32": {
+      "n": 12,
+      "physical_fp_pairs": 10,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 8,
+      "unsupported_pairs": 10,
+      "possible_facts": 22
+    }
+  },
+  "new/Real/identity": {
+    "merged_bf16": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/Real/transformed": {
+    "merged_bf16": {
+      "n": 16,
+      "physical_fp_pairs": 13,
+      "illumination_inferences": 4,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 3,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/Real/natural": {
+    "merged_bf16": {
+      "n": 3,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 2,
+      "unsupported_pairs": 2,
+      "possible_facts": 4
+    },
+    "unmerged_fp32": {
+      "n": 3,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 2,
+      "unsupported_pairs": 2,
+      "possible_facts": 4
+    }
+  },
+  "new/Render/identity": {
+    "merged_bf16": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/Render/transformed": {
+    "merged_bf16": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 5,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 5,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/Render/natural": {
+    "merged_bf16": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 3,
+      "unsupported_pairs": 4,
+      "possible_facts": 8
+    },
+    "unmerged_fp32": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 3,
+      "unsupported_pairs": 4,
+      "possible_facts": 8
+    }
+  },
+  "new/all/identity": {
+    "merged_bf16": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/all/transformed": {
+    "merged_bf16": {
+      "n": 32,
+      "physical_fp_pairs": 28,
+      "illumination_inferences": 9,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 32,
+      "physical_fp_pairs": 30,
+      "illumination_inferences": 8,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "new/all/natural": {
+    "merged_bf16": {
+      "n": 7,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 6,
+      "possible_facts": 12
+    },
+    "unmerged_fp32": {
+      "n": 7,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 6,
+      "possible_facts": 12
+    }
+  },
+  "all/Real/identity": {
+    "merged_bf16": {
+      "n": 10,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 9,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 10,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 9,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/Real/transformed": {
+    "merged_bf16": {
+      "n": 34,
+      "physical_fp_pairs": 27,
+      "illumination_inferences": 9,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 34,
+      "physical_fp_pairs": 29,
+      "illumination_inferences": 7,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/Real/natural": {
+    "merged_bf16": {
+      "n": 9,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 7,
+      "possible_facts": 16
+    },
+    "unmerged_fp32": {
+      "n": 9,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 8,
+      "unsupported_pairs": 7,
+      "possible_facts": 16
+    }
+  },
+  "all/Render/identity": {
+    "merged_bf16": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 3,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 10,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 3,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 10,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/Render/transformed": {
+    "merged_bf16": {
+      "n": 34,
+      "physical_fp_pairs": 30,
+      "illumination_inferences": 14,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 34,
+      "physical_fp_pairs": 31,
+      "illumination_inferences": 14,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/Render/natural": {
+    "merged_bf16": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 10,
+      "possible_facts": 18
+    },
+    "unmerged_fp32": {
+      "n": 10,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 0,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 9,
+      "possible_facts": 18
+    }
+  },
+  "all/all/identity": {
+    "merged_bf16": {
+      "n": 20,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 4,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 19,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 20,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 4,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 19,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/all/transformed": {
+    "merged_bf16": {
+      "n": 68,
+      "physical_fp_pairs": 57,
+      "illumination_inferences": 23,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    },
+    "unmerged_fp32": {
+      "n": 68,
+      "physical_fp_pairs": 60,
+      "illumination_inferences": 21,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0
+    }
+  },
+  "all/all/natural": {
+    "merged_bf16": {
+      "n": 19,
+      "physical_fp_pairs": 17,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 14,
+      "unsupported_pairs": 17,
+      "possible_facts": 34
+    },
+    "unmerged_fp32": {
+      "n": 19,
+      "physical_fp_pairs": 16,
+      "illumination_inferences": 1,
+      "camera_acknowledged": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 13,
+      "unsupported_pairs": 16,
+      "possible_facts": 34
+    }
+  }
+}

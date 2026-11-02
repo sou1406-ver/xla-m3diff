@@ -1,0 +1,14 @@
+{
+  "user_authorization": "Continue useful M3Diff improvement work using remaining existing Modal credit; no purchase or billing-setting changes.",
+  "monthly_credit_assumed_usd": "30.00",
+  "basis": "Starter plan shown in user screenshots, zero Plan Cost in current billing report, official https://modal.com/pricing lists $30 monthly Starter compute credits. Treat as conservative inferred allowance, not a direct account balance endpoint.",
+  "credit_consumption_stop_usd": "29.90",
+  "reserve_usd": "0.10",
+  "billing_period_start_utc": "2026-10-01T00:00:00Z",
+  "GPU_upper_bound_usd_per_hour": "3.70",
+  "extra_startup_allowance_seconds": 120,
+  "rule": "Before every new GPU job, read current billing. Use the maximum of applied credits, metered cost plus non-credit adjustments, and non-storage/non-egress metered breakdown as a consumption upper bound. Round upward to cents. Abort if billed cost becomes positive, plan cost changes, or worst-case timeout+startup would exceed remaining guarded credit. Never leave GPUs idle to spend balance.",
+  "scope": "Numerical audit first, then bounded meaningful trials/evaluation only. Save outcomes/checkpoints and stop when the next useful bounded job no longer fits.",
+  "closed_job_settlement": "Use official per-app billing report only for complete past hourly intervals and stopped apps; verify resource sum, require GPU resource forGPUjobs, retain max seen reported cost, add .02USD GPU/.01CPU and round up. Save source report snapshots. Active/recent jobs retain full reservation or wall upper; global API-consumption maximum,29.90 stop and billedCost0 checks unchanged.",
+  "a10_resource_profile": "Only4CPU/32768MiB+A10/A10G. Before paid dispatch read current account rates: GPU1.10+4CPU*.0473+32GiB*.008=1.5452/h, multiply1.035 and ceilcent=>1.60/h upper. Other resources require another profile. Startup120seconds andglobal.10 reserve retained."
+}

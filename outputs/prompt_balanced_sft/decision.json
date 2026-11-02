@@ -1,0 +1,13 @@
+{
+  "fixed_factual_gate": {
+    "new_physical_fp_decreases": true,
+    "old_Real_facts_preserved": false,
+    "old_Render_facts_preserved": true,
+    "new_Real_facts_preserved": true,
+    "new_Render_facts_preserved": true,
+    "new_unsupported_not_increased": true
+  },
+  "passes": false,
+  "selection_for_full_requires_prompt_probe_too": true,
+  "limits": "One seed, development images and assistant labels. Same init/order but not identical dropout masks after question length changes."
+}

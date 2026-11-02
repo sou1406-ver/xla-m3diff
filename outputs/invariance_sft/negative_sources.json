@@ -1,0 +1,82 @@
+[
+  {
+    "path": "Real/train/images/real_train_000733.jpg",
+    "split": "Real",
+    "decoded_sha256": "405805ac431b445f42a8ef1c46a3f0fc6d1103bee79532de2732ce82d370fa62"
+  },
+  {
+    "path": "Real/train/images/real_train_000668.jpg",
+    "split": "Real",
+    "decoded_sha256": "03cb461a8fef2dca5f8b92473e353095192c2d8007362d9a3308fb69f49bc7cb"
+  },
+  {
+    "path": "Real/train/images/real_train_000599.jpg",
+    "split": "Real",
+    "decoded_sha256": "3f631714e96db1fae941b827755864c1631098cd950f320345180f90b50d9d47"
+  },
+  {
+    "path": "Real/train/images/real_train_000015.jpg",
+    "split": "Real",
+    "decoded_sha256": "c4a91e08f34f894ff013aaf43e154613d77abc43b4df59168d5d117399b19c6e"
+  },
+  {
+    "path": "Real/train/images/real_train_000834.jpg",
+    "split": "Real",
+    "decoded_sha256": "50e4b3b2128fd6c58587cb5c062be9dc457d1115911c93c17f4cd4a0c3f91368"
+  },
+  {
+    "path": "Real/train/images/real_train_000632.jpg",
+    "split": "Real",
+    "decoded_sha256": "8248135ca26fce2fe31d5b57fc844658101dad15f4a45dbb42f6e4dd73fffe54"
+  },
+  {
+    "path": "Real/train/images/real_train_000362.jpg",
+    "split": "Real",
+    "decoded_sha256": "24866e2a1178154e07df30f60bf0727eacef37ced7ead7fed38df4cf7a302e59"
+  },
+  {
+    "path": "Real/train/images/real_train_001522.jpg",
+    "split": "Real",
+    "decoded_sha256": "d6984119aae8250f00d9f14f636c8a179bdc23078351b00fd8522a3eb50c3ac2"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000419.jpg",
+    "split": "Render",
+    "decoded_sha256": "75ed21ff7e00a4cacd5c81bfe2bb49b9e9749579cfd8eafe76e88efe7ddac976"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000408.jpg",
+    "split": "Render",
+    "decoded_sha256": "f9a5b3b12473a8abc02817137c0bbd397a78bc103d188ac51631def49293cb3d"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000020.jpg",
+    "split": "Render",
+    "decoded_sha256": "796f297cae06462fbea229ca51dcd3cb83ecb023704d3a9d3158a02dd629b9d8"
+  },
+  {
+    "path": "Render/train/images/render_train_outdoor_000387.jpg",
+    "split": "Render",
+    "decoded_sha256": "a7350c6e94d2d2dfab9f9d58d779e1a2bc3d145bd0d889676f82f5c6d6816a7c"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000220.jpg",
+    "split": "Render",
+    "decoded_sha256": "e6f9f47d84566a5680ad543164ca110f6bacac025a8073f462e6f4bfe9212a61"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000455.jpg",
+    "split": "Render",
+    "decoded_sha256": "974d0bc62ffe364e4f2900869ff1043f28236aa42c302c49676dd2bc8fab15da"
+  },
+  {
+    "path": "Render/train/images/render_train_outdoor_000365.jpg",
+    "split": "Render",
+    "decoded_sha256": "a9a6ea8741e4d6d9a82d648952adb3952f4478a8b3bd61e73deb8687256fb8bb"
+  },
+  {
+    "path": "Render/train/images/render_train_indoor_000171.jpg",
+    "split": "Render",
+    "decoded_sha256": "94af952ead38755d460329e6e1975538bfef4e58169a0e819a0a217181e73b43"
+  }
+]

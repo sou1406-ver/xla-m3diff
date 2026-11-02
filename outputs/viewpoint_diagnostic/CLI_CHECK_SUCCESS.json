@@ -1,0 +1,6 @@
+{
+  "rows": 60,
+  "all_predictions_match_frozen_policy": true,
+  "metadata_and_input_order_preserved": true,
+  "GPU_used": false
+}

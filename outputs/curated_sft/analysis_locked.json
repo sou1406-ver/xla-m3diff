@@ -1,0 +1,15 @@
+{
+  "dedup_sha256": "7fa0fd7f2f77092c9fcf4ec3f22836f30141c4c196e9967016a338576f16f20e",
+  "report_source_sha256": "8800efb66d52018393ad7436da6a1940d9114c25512781e228e356b212ca845a",
+  "blind_audit": "8 fixed-seed image-clean pairs per domain; baseline_dedup, corrected_labels_dedup, corrected_lora_only_dedup in randomized unnamed order; no references shown. Record clear unsupported claims, omissions, ties and uncertainty. Assistant reviewer, not independent human adjudication.",
+  "full_sft_gate": "At most one full-test candidate evaluation if one corrected-label SFT arm improves point-estimate CIDEr in both domains, drops neither BLEU-4 by more than 1 point, and blinded visual review has more wins than losses against baseline. Otherwise finish this run without additional SFT tuning.",
+  "final_run": "curated_sft_v4: explicit pre-model seed, no length grouping, verify actual initialization hashes and sample order before scoring",
+  "image_first_audit": "Observe selected images before model captions/references; never use audit observations for training. Confirm later caption-audit IDs match this frozen selection.",
+  "image_only_observations_sha256": "832b0f5b946c26e1be241e48665dda52118cfa4ce1c10c4f5c93a87c73b312f2",
+  "primary_baseline": "Published checkpoint rerun on A100-40GB BF16/greedy, matching SFT requested hardware and generation settings. Cached A10 captions retained separately.",
+  "full_sft_candidate_selection": "Among corrected-label arms meeting the predeclared metric and blind-review gate, choose the one with the larger equal-domain mean raw CIDEr gain versus the matched A100 baseline; run at most one full-test SFT candidate. No post-result training adjustments.",
+  "training_recipe_holdout_and_full_gate_fixed_before_gpu_stage_outcomes": true,
+  "cached_A10_gpu_stage_scores_seen_while_matched_baseline_pending": true,
+  "post_outcome_source_edits": "Integrity checks, metadata exports and idempotent metric-file handling only; no new training recipe, candidate threshold or dedup-rule changes after GPU-stage outcomes.",
+  "baseline_hardware_note": "All arms requested A100-40GB. Matched baseline was actually assigned NVIDIA A100-SXM4-80GB by Modal. A100-family match, not independently verified identical physical SKU for all SFT jobs."
+}

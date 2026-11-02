@@ -1,0 +1,98 @@
+{
+  "v2_Real_00__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "control",
+    "candidate_3": "baseline",
+    "candidate_4": "old_mixed"
+  },
+  "v2_Real_01__positive_stress": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "control",
+    "candidate_3": "revised",
+    "candidate_4": "baseline"
+  },
+  "v2_Real_02__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "control",
+    "candidate_3": "old_mixed",
+    "candidate_4": "baseline"
+  },
+  "v2_Real_03__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "control",
+    "candidate_3": "old_mixed",
+    "candidate_4": "baseline"
+  },
+  "v2_Real_04__positive_stress": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "revised",
+    "candidate_4": "control"
+  },
+  "v2_Real_05__positive_stress": {
+    "candidate_1": "control",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed",
+    "candidate_4": "revised"
+  },
+  "v2_Real_06__positive_stress": {
+    "candidate_1": "control",
+    "candidate_2": "old_mixed",
+    "candidate_3": "revised",
+    "candidate_4": "baseline"
+  },
+  "v2_Real_07__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed",
+    "candidate_4": "control"
+  },
+  "v2_Render_00__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "control",
+    "candidate_3": "baseline",
+    "candidate_4": "old_mixed"
+  },
+  "v2_Render_01__positive_stress": {
+    "candidate_1": "revised",
+    "candidate_2": "old_mixed",
+    "candidate_3": "control",
+    "candidate_4": "baseline"
+  },
+  "v2_Render_02__positive_stress": {
+    "candidate_1": "baseline",
+    "candidate_2": "control",
+    "candidate_3": "revised",
+    "candidate_4": "old_mixed"
+  },
+  "v2_Render_03__positive_stress": {
+    "candidate_1": "control",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed",
+    "candidate_4": "revised"
+  },
+  "v2_Render_04__positive_stress": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "baseline",
+    "candidate_3": "control",
+    "candidate_4": "revised"
+  },
+  "v2_Render_05__positive_stress": {
+    "candidate_1": "control",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed",
+    "candidate_4": "revised"
+  },
+  "v2_Render_06__positive_stress": {
+    "candidate_1": "control",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline",
+    "candidate_4": "revised"
+  },
+  "v2_Render_07__positive_stress": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "revised",
+    "candidate_4": "control"
+  }
+}

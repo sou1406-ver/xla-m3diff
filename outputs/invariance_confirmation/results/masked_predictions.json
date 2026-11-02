@@ -1,0 +1,802 @@
+[
+  {
+    "id": "fresh_Real_00__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The two black computer keyboards in front of the mouse disappear.",
+    "candidate_2": "The two black water cups that were in front of the keyboard have disappeared.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "fresh_Real_00__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The two black laptops on the desk are closed.",
+    "candidate_2": "The black keyboard on the desktop has been pressed down. The computer screen has become larger.",
+    "candidate_3": "The camera angle shifts to the left, revealing a portion of the table and stool. The black mouse moves from the right side of the keyboard to the left side."
+  },
+  {
+    "id": "fresh_Real_00__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The yellow and green water cup in the pen holder on the left side of the desk has disappeared. The black mouse pad under the keyboard has disappeared. The black laptop on the right side of the desk has changed its orientation from being placed vertically to being placed horizontally. The book with a brown cover on the middle layer of the white frame has been replaced by a yellow sticky note.",
+    "candidate_2": "The camera angle shifts to the right, revealing a portion of the desk and the stack of books under it. The number of notebooks on the left side of the table changes from two to one. The yellow-green pen in the pen holder on the left side of the table appears.",
+    "candidate_3": "The black mouse pad has been moved to the left side of the keyboard. The yellow notebook on the left side of the table has been replaced with a white sticky note. The monitor, which was previously tilted back, is now upright."
+  },
+  {
+    "id": "fresh_Real_00__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The computer screen has become larger. The blue storage box in the middle of the white rack has disappeared.",
+    "candidate_2": "The two laptops on the desk are closed, and the screen of the leftmost monitor is now open.",
+    "candidate_3": "The camera angle shifts to the right, revealing a portion of the desk and the lower-right corner of the monitor."
+  },
+  {
+    "id": "fresh_Real_00__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_00",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The ambient lighting has brightened. The camera lens on the left side of the table rotates to the right, revealing the lens mount. The black mouse moves to the left side of the keyboard.",
+    "candidate_2": "The ambient lighting has brightened. The black mouse on the right side of the keyboard disappeared, and a camera with a lens appeared to its left.",
+    "candidate_3": "The ambient lighting has brightened. The black mouse on the right side of the keyboard disappears, and a camera with a lens appears to its left."
+  },
+  {
+    "id": "fresh_Real_01__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The three people on the left, right, and center of the frame change from raising their hands to both arms extended straight up.",
+    "candidate_2": "The three people on the left, right, and center of the frame raise their arms straight up.",
+    "candidate_3": "The three people on the left, right, and center of the frame raise their arms straight up."
+  },
+  {
+    "id": "fresh_Real_01__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The three people in the middle of the formation change from having their hands raised high and palms open to having their hands raised high, palms open, and arms bent.",
+    "candidate_2": "The three people in the middle of the formation, who were previously facing forward with their arms raised high and palms open, are now facing upward with their arms raised high and palms open.",
+    "candidate_3": "The three people in the center of the formation, who were previously facing forward with their arms raised high and palms open, now turn to face the left side of the frame."
+  },
+  {
+    "id": "fresh_Real_01__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The three people in the middle of the formation change from having their arms raised high and extended to the sides, with palms facing upward, to having their arms raised high and extended to the sides, with palms facing outward.",
+    "candidate_2": "The three people in the middle of the formation have changed their posture from having both arms raised and extended horizontally to both arms raised, with the right hand bent and the left hand straight. The person on the left has turned to face the camera.",
+    "candidate_3": "The three people in the middle of the formation change from having their arms raised high and extended to the sides, with palms facing upward, to having their arms raised high and extended to the sides, with palms facing outward."
+  },
+  {
+    "id": "fresh_Real_01__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The three people in the middle of the formation, who previously had their arms raised high and extended to the sides, now have their arms bent at the elbows.",
+    "candidate_2": "The three people in the center of the formation, who were previously raising both arms straight up, now have their arms raised to shoulder height.",
+    "candidate_3": "The three people in the center of the formation, who were previously raising both arms straight up, now have their arms raised to shoulder height."
+  },
+  {
+    "id": "fresh_Real_01__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_01",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The three people in the middle of the formation, who previously had their arms raised high and extended to the sides, now have their right leg bent and their left arm extended forward. The person on the left has their left hand on their hip and their right arm extended backward. The person on the right has their left arm extended forward and their right hand resting on their waist.",
+    "candidate_2": "The three people in the center of the formation change from having both arms raised and extended horizontally to the sides, with legs apart, to having their right leg bent and the left leg extended forward, with the right arm pointing forward and the left arm bent at the waist.",
+    "candidate_3": "The three people in the center of the formation change from having both arms raised and extended horizontally to the sides, with their palms facing upward, to standing sideways with their left leg forward, right leg back, body leaning to the right, left hand pointing forward, and right hand raised."
+  },
+  {
+    "id": "fresh_Real_02__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward.",
+    "candidate_2": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward.",
+    "candidate_3": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward with its head slightly raised."
+  },
+  {
+    "id": "fresh_Real_02__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera.",
+    "candidate_2": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera.",
+    "candidate_3": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera."
+  },
+  {
+    "id": "fresh_Real_02__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking down at the polar bear in front of it.",
+    "candidate_2": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking down at the polar bear in front of it.",
+    "candidate_3": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking down at the polar bear in front of it."
+  },
+  {
+    "id": "fresh_Real_02__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera.",
+    "candidate_2": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera.",
+    "candidate_3": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking up at the camera."
+  },
+  {
+    "id": "fresh_Real_02__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_02",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking at the camera with its mouth slightly open.",
+    "candidate_2": "The polar bear on the right side of the image, which was previously facing left with its head lowered, is now looking at the camera.",
+    "candidate_3": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, is now looking at the camera with its mouth slightly open."
+  },
+  {
+    "id": "fresh_Real_03__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The brightness of the scene has increased.",
+    "candidate_2": "The brightness of the scene has increased.",
+    "candidate_3": "There is no difference between the two images."
+  },
+  {
+    "id": "fresh_Real_03__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The brightness of the scene has dimmed. The text on the wall changes from “Hello Kitty” to “Hello Kitty.”",
+    "candidate_2": "The brightness of the scene has dimmed. The text “Hello Kitty” on the wall has been moved to the upper left corner of the bed.",
+    "candidate_3": "The brightness of the scene has dimmed. The text on the wall changes from \"Hello Kitty\" to \"Hello Kitty.\""
+  },
+  {
+    "id": "fresh_Real_03__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The brightness of the scene has increased.",
+    "candidate_2": "The brightness of the scene has increased.",
+    "candidate_3": "The ambient lighting has slightly brightened."
+  },
+  {
+    "id": "fresh_Real_03__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The brightness of the scene has dimmed. The text on the wall changes from “Hello Kitty” to “Hello Kitty.”",
+    "candidate_2": "The brightness of the scene has dimmed. The text on the wall has changed from \"Hello Kitty\" to \"Hello Kitty.\"",
+    "candidate_3": "The brightness of the scene has dimmed."
+  },
+  {
+    "id": "fresh_Real_03__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_03",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The scene has become brighter. The white rolled-up mat on the floor at the foot of the bed disappears. The light blue blanket moves from the left side of the bed to the right side. The brown blanket with white spots that was previously rolled up at the foot of the bed is now folded and placed flat at the foot of the bed.",
+    "candidate_2": "The scene has become brighter. The folded blanket with a pattern of brown bears on the left side of the bed disappears. The rectangular pillow in the lower right corner of the bed disappears. The rectangular pillow in the middle of the bed disappears. The rectangular pillow in the upper right corner of the bed disappears. The white rolled-up item on the brown polka-dotted mat at the foot of the bed disappears. The light blue blanket that was rolled up at the foot of the bed is now unfolded and placed flat on the bed. A new red box appears on the left side of the headboard against the wall.",
+    "candidate_3": "The ambient lighting has brightened. The white cylindrical object that was previously placed vertically on the bed frame on the right side of the scene has disappeared.The light blue blanket that was previously unfolded and placed flat on the bed is now folded and stacked with the gray blanket on the left side of the bed. The brown mat that was previously placed on the bed has been replaced by a larger blanket with brown spots that was previously rolled up at the foot of the bed, which is now unfolded and placed flat."
+  },
+  {
+    "id": "fresh_Real_04__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The white box labeled \"KN95\" in the back left corner of the scene has disappeared.",
+    "candidate_3": "The scene is unchanged."
+  },
+  {
+    "id": "fresh_Real_04__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The box of test paper on the left side of the scene has been moved to the right side of the scene.",
+    "candidate_2": "The ambient lighting has dimmed.",
+    "candidate_3": "The box of tissues on the left side of the image has been moved to the right side."
+  },
+  {
+    "id": "fresh_Real_04__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The ambient lighting has dimmed.",
+    "candidate_2": "The ambient lighting has dimmed.",
+    "candidate_3": "The box of white masks on the right side of the table has changed its orientation from facing the left side of the table to facing the right side. The pink hair dryer on the left side of the table has moved to the center of the table."
+  },
+  {
+    "id": "fresh_Real_04__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The box of disinfectant on the left side of the pink hair dryer has been moved to the right side of the hair dryer.",
+    "candidate_2": "The ambient lighting has brightened.",
+    "candidate_3": "The ambient lighting has brightened."
+  },
+  {
+    "id": "fresh_Real_04__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_04",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The white remote control on the right side of the pink hair dryer has disappeared.",
+    "candidate_2": "The white air conditioner remote control located in the center of the image has disappeared.",
+    "candidate_3": "The white box containing the infrared thermometer on the right side of the pink plug has disappeared."
+  },
+  {
+    "id": "fresh_Real_05__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The black television at the back of the scene has disappeared.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "fresh_Real_05__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The black television at the back of the scene is no longer visible.",
+    "candidate_2": "The black television at the back of the scene has disappeared.",
+    "candidate_3": "The black television screen in the upper right corner of the scene changes to a green storage box."
+  },
+  {
+    "id": "fresh_Real_05__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The black television mounted on the wooden cabinet above the scene rotates to the left.",
+    "candidate_2": "The scene has become brighter.",
+    "candidate_3": "The black television at the back of the scene has disappeared."
+  },
+  {
+    "id": "fresh_Real_05__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The green storage box in the upper right corner of the scene disappears.",
+    "candidate_2": "The green storage box in the upper right corner of the scene has disappeared.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "fresh_Real_05__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_05",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The yellow and blue toy train on the green storage box in the back right of the scene has disappeared. The white and orange toy steering wheel on the rear part of the toy train has disappeared.",
+    "candidate_2": "The yellow and blue train toy on the green storage box in the back right of the scene disappears. The white handlebar of the stroller changes from facing left to facing right.",
+    "candidate_3": "The yellow and blue toy train on the floor in front of the green storage box disappears. The handlebar of the stroller changes from facing right to facing left."
+  },
+  {
+    "id": "fresh_Real_06__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The green stool on the right side of the scene has been moved to the left side, next to the wooden table."
+  },
+  {
+    "id": "fresh_Real_06__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The person sitting on the sofa is no longer visible.",
+    "candidate_3": "The person who was previously lying on the sofa is no longer visible."
+  },
+  {
+    "id": "fresh_Real_06__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The ambient lighting has brightened.",
+    "candidate_3": "The ambient lighting has brightened."
+  },
+  {
+    "id": "fresh_Real_06__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The brightness of the scene has decreased.",
+    "candidate_3": "The ambient lighting has brightened."
+  },
+  {
+    "id": "fresh_Real_06__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_06",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The green stool on the right side of the scene has appeared. The white goose plush toy, along with a green cushion, has newly appeared on the white table in the center of the scene. The person who was previously lying on the sofa is no longer visible.",
+    "candidate_2": "The green stool on the right side of the scene has moved to the left, and a new green stool has appeared in its original position. The white goose plush toy has been added to the white table in the center of the scene. A green cushion has been added to the gray stool on the left side of the scene.",
+    "candidate_3": "The green stool on the right side of the scene has moved to the left, and a new green stool has appeared in its original position. A white goose plush toy has been added to the white table on the right side of the scene. The teal stool on the left side of the scene has moved to the right side of the white table. A green cushion has been added to the gray stool on the left side of the scene."
+  },
+  {
+    "id": "fresh_Real_07__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The yellow car at the bottom of the screen disappears.",
+    "candidate_2": "The scene remains unchanged.",
+    "candidate_3": "The scene remains unchanged."
+  },
+  {
+    "id": "fresh_Real_07__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The yellow shared car in the lower right corner of the frame moves to the left.",
+    "candidate_2": "The scene is now more symmetrical.",
+    "candidate_3": "The yellow bicycle in the front row moves to the left."
+  },
+  {
+    "id": "fresh_Real_07__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The yellow bicycle in the front row moves to the left, revealing a black-and-yellow bicycle behind it.",
+    "candidate_2": "The yellow shared bicycle in the front moves to the left.",
+    "candidate_3": "The scene is now more symmetrical."
+  },
+  {
+    "id": "fresh_Real_07__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The yellow shared car in the lower right corner of the image has moved to the left.",
+    "candidate_2": "The brightness of the scene has increased.",
+    "candidate_3": "The brightness of the scene has increased."
+  },
+  {
+    "id": "fresh_Real_07__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Real_07",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "A person wearing a white T-shirt and black shorts appears in front of the electric car, standing with their back to the camera, looking down at their phone. The yellow saddlebag on the left rear of the electric car in the foreground is no longer present.",
+    "candidate_2": "A person wearing a white T-shirt appears in front of the shared bicycle, bending over and looking down at their phone.",
+    "candidate_3": "A person wearing a white T-shirt appears in front of the electric bike, bending over and looking down at their phone."
+  },
+  {
+    "id": "fresh_Render_00__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up. The black office chair at the far right of the second row of desks has turned from facing the left side of the image to facing the front of the image.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The white rectangular cabinet located behind the left side of the computer desk in the scene has disappeared."
+  },
+  {
+    "id": "fresh_Render_00__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The white keyboard on the far left of the second row of desks from the front has been replaced with a black keyboard. The chair in front of the computer desk at the back left of the scene has turned from facing the camera to facing the table.",
+    "candidate_2": "The scene has become more illuminated. The chair in front of the computer desk on the right side of the first row is turned to face the camera.",
+    "candidate_3": "The chair in front of the computer desk on the far right of the first row has turned from facing the camera to facing the left side. The chair in front of the computer desk at the back left of the scene has turned from facing the camera to facing the left side. The chair in front of the computer desk at the back center of the scene has turned from facing the camera to facing the left side."
+  },
+  {
+    "id": "fresh_Render_00__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become more illuminated. The chair in front of the computer desk at the back left of the scene changes from facing the table to facing the camera.",
+    "candidate_2": "The white keyboard in front of the gray desktop computer on the far right of the second row of tables is no longer present. The black office chair with a mesh backrest in the middle of the first row of tables, near the center of the scene, has turned from facing the left side to facing the right side. The black office chair with a mesh backrest in the middle of the second row of tables on the right side of the scene has turned from facing the left side to facing the right side. The black office chair with a mesh backrest in front of the desk on the far left of the scene has disappeared.",
+    "candidate_3": "The scene has become more illuminated. The chair in front of the computer desk on the far right of the first row, which was facing away from the camera, is now facing the camera. The chair in front of the computer desk at the back left of the scene, which was facing away from the camera, is now facing the camera. The chair in front of the computer desk at the back right of the scene, which was facing away from the camera, is now facing the camera. The chair in front of the computer desk at the back center of the scene, which was facing away from the camera, is now facing the camera."
+  },
+  {
+    "id": "fresh_Render_00__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated. The chair in the middle of the second row on the right side of the image is missing.",
+    "candidate_2": "The scene has become more illuminated. The black office chair with wheels in front of the leftmost table in the second row, near the center of the scene, is no longer present.",
+    "candidate_3": "The white keyboard on the center of the second row of desks on the right side has been moved to the far left desk in the second row. The black office chair with wheels near the center of the scene, positioned in front of the table and facing the camera, is no longer present."
+  },
+  {
+    "id": "fresh_Render_00__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_00",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The chair in front of the leftmost desk in the first row has turned from facing the camera to facing the right side. The chair in front of the second row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the third row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the fourth row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the fifth row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the sixth row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the seventh row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the eighth row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the ninth row of desks on the right side has turned from facing the camera to facing the right side. The chair in front of the tenth row of desks on the right side has turned from facing the camera to facing the right side.",
+    "candidate_2": "The chair in front of the leftmost desk in the second row, which was facing away from the camera, is now turned to face the camera. The chair in front of the rightmost desk in the second row has been moved closer to the table.",
+    "candidate_3": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The black office chair in front of the computer desk on the right side of the first row has turned from facing the left side of the screen to facing the front of the screen."
+  },
+  {
+    "id": "fresh_Render_01__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The white cup in the center of the picnic mat has increased in size. The small rock near the waterfall, positioned to the right of the trees and in front of the pond, has disappeared.",
+    "candidate_2": "The small gray rock that was placed on the grass to the right of the trees in the back left of the scene has disappeared.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "fresh_Render_01__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene has become more illuminated. A white cup with a handle has appeared to the left of the red and white picnic blanket, next to the food basket.A blue-and-white beach chair has moved from the right side of the picnic mat near the tree on the right side of the scene to the right side of the picnic mat near the tree on the left side of the scene.",
+    "candidate_2": "The scene has become more illuminated. A cup of white milk and a red glass of cola have swapped positions on the picnic blanket.",
+    "candidate_3": "The scene has become more visible. A yellow flower appears on the ground to the right of the small white table in the center of the picture."
+  },
+  {
+    "id": "fresh_Render_01__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The blue and white beach chair on the right side of the picnic blanket has turned from facing the trees to facing the waterfall. The picnic mat has shifted to the left, and a new plate of waffles has appeared in its original position.",
+    "candidate_2": "The blue and white beach chair on the right side of the picnic mat has turned from facing the trees on the left to facing the trees on the right. The picnic mat has shifted orientation from being parallel to the front of the scene to an angled position. A new yellow flower has appeared near the center of the scene, close to the picnic mat and slightly to the right of the bench.",
+    "candidate_3": "The scene has become more visible. The picnic mat moves to the right, and a blue-and-white beach chair appears on the right side of the mat."
+  },
+  {
+    "id": "fresh_Render_01__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated. The white teacup in the center of the picnic blanket moves to the right, closer to the blue and white beach chair.The chair rotates clockwise, facing the camera.",
+    "candidate_2": "The scene has become more illuminated. The white teacup in the picnic basket and the white teacup on the right side of the picnic table have swapped positions.The blue-and-white beach chair moves from the right tree to the left tree.",
+    "candidate_3": "The white round object on the picnic mat has changed from a ball to a cup. The blue-and-white beach chair in front of the tree on the right side of the scene has moved closer to the tree."
+  },
+  {
+    "id": "fresh_Render_01__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_01",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "A woman wearing a white vest and black pants appears on the right side of the picture, standing with her hands on her hips, her legs apart, and facing the tree on the left side of the picture.",
+    "candidate_2": "A man wearing a white vest and black pants has appeared behind the picture, standing with his legs apart, hands on his waist, facing the tree on the left side of the picture. The blue-and-white beach chair on the right side of the picnic blanket has turned from facing the trees in the back left to facing the trees in the back right.",
+    "candidate_3": "A woman wearing a white vest and black pants appears on the right side of the picture, standing with her hands on her hips, facing the waterfall in the distance."
+  },
+  {
+    "id": "fresh_Render_02__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The environment has become darker.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "fresh_Render_02__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The lighting has changed. The flowers in the vase on the bedside table to the left of the first bed on the right side of the aisle have changed from blue to red and white.",
+    "candidate_2": "The lighting has dimmed. The flowers in the vase on the bedside table to the left of the first bed on the right side of the aisle have changed from blue to red and white.",
+    "candidate_3": "The lighting has faded. The gray mattresses of the beds on both sides have been lowered."
+  },
+  {
+    "id": "fresh_Render_02__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become darker.",
+    "candidate_2": "The scene has become darker. The flowers in the vase on the bedside table to the left of the room have disappeared.",
+    "candidate_3": "The area has grown darker."
+  },
+  {
+    "id": "fresh_Render_02__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The lighting has improved. The leftmost bed in the scene now has a white bedside lamp.",
+    "candidate_2": "The light in the scene has diminished.",
+    "candidate_3": "The lighting has changed."
+  },
+  {
+    "id": "fresh_Render_02__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_02",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "A person wearing a white T-shirt, blue jeans, and white shoes appears in the center of the scene, facing the camera, holding a cardboard box.",
+    "candidate_2": "The environment has grown dimmer. A person wearing a white T-shirt, dark pants, and white shoes appears in the center of the scene, facing the camera, holding a cardboard box.",
+    "candidate_3": "The scene has become darker. A person wearing a white T-shirt, blue jeans, and white shoes appears in the center of the room, facing the camera, holding a cardboard box."
+  },
+  {
+    "id": "fresh_Render_03__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The blue spray-painted words \"跳跳\" on the wall at the top of the stairs are no longer visible.",
+    "candidate_2": "The blue spray-painted words \"跳跳\" on the wall at the top of the stairs have disappeared.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "fresh_Render_03__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The blue graffiti on the wall has changed from a horizontal orientation to a vertical orientation. The yellow electric vehicle in the front-right corner of the scene has turned its front wheel to the right.",
+    "candidate_3": "The scene has become more illuminated. The graffiti on the wall changes from blue to black."
+  },
+  {
+    "id": "fresh_Render_03__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The light in the scene has increased. The blue graffiti on the wall to the right of the yellow electric vehicle changed from a cloud-like shape to a rectangular shape.",
+    "candidate_2": "The scene has become more illuminated. The blue graffiti on the wall changes from a cloud shape to a rectangular shape.",
+    "candidate_3": "The scene has become more illuminated. The blue graffiti on the wall changes from a cloud shape to a rectangular shape."
+  },
+  {
+    "id": "fresh_Render_03__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated. The graffiti on the wall changes from blue to black.",
+    "candidate_2": "The scene has become more illuminated.",
+    "candidate_3": "The graffiti on the wall at the bottom right corner of the scene, next to the yellow electric vehicle, has decreased in size."
+  },
+  {
+    "id": "fresh_Render_03__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_03",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The yellow shared bicycle in the lower right corner of the scene rotates to the left, changing its orientation.",
+    "candidate_2": "The yellow electric car moves forward, away from the wall. The graffiti on the electrical box at the bottom right corner of the stairs changes from green to blue.",
+    "candidate_3": "The yellow shared bicycle next to the light box on the right side of the stairs has turned its front wheel to the left. The green box placed at the bottom of the stairs, near the wall and adjacent to the yellow electric vehicle, has been reduced in size."
+  },
+  {
+    "id": "fresh_Render_04__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The white keyboard on the center of the second row of desks from the left is no longer present. The black office chair with wheels, originally positioned in front of the computer monitor at the far right of the first row of tables, has disappeared."
+  },
+  {
+    "id": "fresh_Render_04__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene has become more illuminated. The black office chair in front of the computer desk on the left side of the center of the scene is missing.The black office chair in front of the computer desk at the back left of the scene is missing.The black office chair in front of the computer desk at the back right of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the back center of the scene is missing.The black office chair in front of the computer desk at the front center of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of the computer desk at the front left of the scene is missing.The black office chair in front of the computer desk at the front right of the scene is missing.The black office chair in front of",
+    "candidate_2": "The scene has become more illuminated. The black office chair in front of the computer monitor on the left side of the center of the second row is missing.",
+    "candidate_3": "The black office chair in front of the computer on the left side of the second row from the right has turned to face the table. The black office chair in front of the computer on the far right of the first row has turned to face the camera. The black office chair in front of the computer on the far right of the second row is no longer present. The black office chair in front of the computer on the far right of the third row is no longer present. The black office chair in front of the computer on the far right of the fourth row is no longer present. The black office chair in front of the computer on the far right of the fifth row is no longer present. The black office chair in front of the computer on the far right of the sixth row is no longer present. The black office chair in front of the computer on the far right of the seventh row is no longer present. The black office chair in front of the computer on the far right of the eighth row is no longer present. The black office chair in front of the computer on the far right of the ninth row is no longer present. The black office chair in front of the computer on the far right of the tenth row is no longer present. The black office chair in front of the computer on the far right of the eleventh row is no longer present. The black office chair in front of the computer on the far right of the twelfth row is no longer present. The black office chair in front of the computer on the far right of the thirteenth row is no longer present. The black office chair in front of the computer on the far right of the fourteenth row is no longer present. The black office chair in front of the computer on the far right of the fifteenth row is no longer present. The black office chair in front of the computer on the far right of the sixteenth row is no longer present. The black office chair in front of the computer on the far right of the seventeenth row is no longer present. The black office chair in front of the computer on the far right of the eighteenth row is no longer present. The black office chair in front of the computer on the far right of the nineteenth row is no longer present. The black office chair in front of the computer on the far right of the twentieth row is no longer present. The black office chair in front of the computer on the far right of the twenty-first row is no longer present. The black office chair in front of the computer on the far right of the twenty-second row is no longer present. The black office chair in front of the computer on the far right of the twenty-third row is no longer present. The black office chair in front of the computer on the far right of the twenty-fourth row is no longer present. The black office chair in front of the computer on the far right of the twenty-fifth row is no longer present. The black office chair in front of the computer on the far right of the twenty-sixth row is no longer present. The black office chair in front of the computer on the far right of the twenty-seventh row is no longer present. The black office chair in front of the computer on the far right of the twenty-eighth row is no longer present. The black office chair in front of the computer on the far right of the twenty-ninth row is no longer present. The black office chair in front of the computer on the far right of the thirtieth row is no longer present. The black office chair in front of the computer on the far right of the thirty-first row is no longer present. The black office chair in front of the computer on the far right of the thirty-second row is no longer present. The black office chair in front of the computer on the far right of the thirty-third row is no longer present. The black office chair in front of the computer on the far right of the thirty-fourth row is no longer present. The black office chair in front of the computer on the far right of the thirty-fifth row is no longer present. The black office chair in front of the computer on the far right of the thirty-sixth row is no longer present. The black office chair in front of the computer on the far right of the thirty-seventh row is no longer present. The black office chair in front of the computer on the far right of the thirty-eighth row is no longer present. The black office chair in front of the computer on the far right of the thirty-ninth row is no longer present. The black office chair in front of the computer on the far right of the fortieth row is no longer present. The black office chair in front of the computer on the far right of the forty-first row is no longer present. The black office chair in front of the computer on the far right of the forty-second row is no longer present. The black office chair in front of the computer on the far right of the forty-third row is no longer present. The black"
+  },
+  {
+    "id": "fresh_Render_04__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The black office chair in front of the computer on the left side of the second row from the right has turned to face the table. The gray keyboard in front of the computer on the far right of the first row is no longer visible. The black office chair in front of the computer on the far left of the second row from the right has disappeared. The black office chair in front of the computer on the far left of the third row from the right has disappeared. The black office chair in front of the computer on the far left of the fourth row from the right has disappeared. The black office chair in front of the computer on the far left of the fifth row from the right has disappeared. The black office chair in front of the computer on the far left of the sixth row from the right has disappeared. The black office chair in front of the computer on the far left of the seventh row from the right has disappeared. The black office chair in front of the computer on the far left of the eighth row from the right has disappeared. The black office chair in front of the computer on the far left of the ninth row from the right has disappeared. The black office chair in front of the computer on the far left of the tenth row from the right has disappeared. The black office chair in front of the computer on the far left of the eleventh row from the right has disappeared. The black office chair in front of the computer on the far left of the twelfth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the fourteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the fifteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the sixteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the seventeenth row from the right has disappeared. The black office chair in front of the computer on the far left of the eighteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the nineteenth row from the right has disappeared. The black office chair in front of the computer on the far left of the twentieth row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-first row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-second row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-third row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-fourth row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-fifth row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-sixth row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-seventh row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-eighth row from the right has disappeared. The black office chair in front of the computer on the far left of the twenty-ninth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirtieth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-first row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-second row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-third row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-fourth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-fifth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-sixth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-seventh row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-eighth row from the right has disappeared. The black office chair in front of the computer on the far left of the thirty-ninth row from the right has disappeared. The black office chair in front of the computer on the far left of the fortieth row from the right has disappeared. The black office chair in front of the computer on the far left of the forty-first row from the right has disappeared. The black office chair in front of the computer on the",
+    "candidate_2": "The scene has become more illuminated. The black office chair in front of the leftmost desk in the second row, facing away from the camera, is no longer visible.",
+    "candidate_3": "The scene has become more illuminated. The black office chair in front of the leftmost desk in the second row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the second row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the third row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the third row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the fourth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the fourth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the fifth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the fifth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the sixth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the sixth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the seventh row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the seventh row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the eighth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the eighth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the ninth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the ninth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the tenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the tenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the eleventh row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the eleventh row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the twelfth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the twelfth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the thirteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the thirteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the fourteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the fourteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the fifteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the fifteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the sixteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the sixteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the seventeenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the seventeenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the eighteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the rightmost desk in the eighteenth row, which was facing the camera, is now turned to face the table.The black office chair in front of the leftmost desk in the"
+  },
+  {
+    "id": "fresh_Render_04__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated. The black office chair in front of the leftmost desk in the second row, which was facing the camera, is now turned to face the desk.",
+    "candidate_2": "The black office chair with wheels in front of the computer monitor on the left side of the second row from the right has increased in size. The black office chair with wheels in front of the computer monitor at the far left of the first row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the first row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the second row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the second row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the third row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the third row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the fourth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the fourth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the fifth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the fifth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the sixth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the sixth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the seventh row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the seventh row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the eighth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the eighth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the ninth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the ninth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the tenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the tenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the eleventh row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the eleventh row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the twelfth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the twelfth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the thirteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the thirteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the fourteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the fourteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the fifteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the fifteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the sixteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the sixteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the seventeenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the seventeenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the eighteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the eighteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the nineteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the nineteenth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the twentieth row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the twentieth row has disappeared. The black office chair with wheels in front of the computer monitor at the far left of the twenty-first row has disappeared. The black office chair with wheels in front of the computer monitor at the far right of the twenty-first row has disappeared. The black office chair with wheels in front of the",
+    "candidate_3": "The scene has become more illuminated. The black office chair in front of the leftmost desk in the second row has been moved to the right side of the third row of desks."
+  },
+  {
+    "id": "fresh_Render_04__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_04",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The three-tiered black rack with open shelves, positioned in front of the leftmost table in the center of the scene, has disappeared. The white keyboard on the second row of desks on the right side of the scene is no longer visible. A light-colored \"Efficient\" sign has appeared on the floor in front of the scene, near the center of the room, just in front of the tables and chairs.",
+    "candidate_2": "The three-tiered black rack with open shelves in front of the left side of the table is no longer present. The word \"Efficient\" appears in light blue on the floor in front of the scene.",
+    "candidate_3": "The black office chair in front of the leftmost desk in the second row has been replaced by a black office chair with a gray backrest. The black three-tiered rack on the floor between the two desks in the center of the scene is no longer visible. A glowing blue sign displaying the word \"Efficient\" appears on the carpet near the bottom of the scene."
+  },
+  {
+    "id": "fresh_Render_05__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The white cup in the center of the picnic mat has increased in size. The small rock near the middle right of the scene, positioned to the right of the waterfall and behind the picnic mat, has disappeared.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The white cup in the center of the picnic mat has increased in size. The small rock on the right side of the scene, near the blue and white beach chair and next to the large stone, is no longer present."
+  },
+  {
+    "id": "fresh_Render_05__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene has become more illuminated. The white cup and the green glass in the center of the picnic mat have swapped positions.The blue-and-white beach chair on the right side of the picnic blanket rotates to the right, changing its orientation from facing left to facing right.",
+    "candidate_2": "The scene has become more illuminated. The white cup on the picnic blanket has been replaced by a transparent glass.The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall.",
+    "candidate_3": "The scene has become more illuminated. The white cup in the center of the picnic mat moves to the right, next to the red cup.The blue and white beach chair on the right side of the picnic mat rotates clockwise by a certain angle."
+  },
+  {
+    "id": "fresh_Render_05__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The round box containing small yellow cakes in the upper left corner of the picnic blanket has moved to the center of the picnic blanket.",
+    "candidate_2": "The scene has become more illuminated. The blue and white striped beach chair on the right side of the picnic mat rotates to the left, facing the camera.The picnic mat moves forward, closer to the camera.",
+    "candidate_3": "The scene has become more visible. The blue and white striped wooden lounge chair on the right side of the picnic mat rotates to the left, changing its orientation from facing the camera to facing the waterfall.The picnic mat moves forward, closer to the camera."
+  },
+  {
+    "id": "fresh_Render_05__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The blue and white beach chair on the right side of the picnic blanket has turned from facing the trees on the left to facing the trees on the right. The white spherical object in front of the picnic basket on the red and white checkered picnic blanket has decreased in size.",
+    "candidate_2": "The scene has become more visible. The blue and white striped wooden lounge chair on the right side of the picnic blanket rotates to the left, changing its orientation from facing the camera to facing the waterfall.The white round object in front of the picnic basket changes from a ball shape to a cup shape.",
+    "candidate_3": "The scene has become more illuminated. The blue and white striped lounge chair moves to the right, closer to the tree on the left side of the scene.The white ball-shaped object in front of the picnic basket changes from gray to white."
+  },
+  {
+    "id": "fresh_Render_05__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_05",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The scene has become more illuminated. A man wearing a white vest and black pants appears behind the picture, with his hands on his waist, facing the tree on the left side of the picture.",
+    "candidate_2": "The scene has become more illuminated. A man wearing a white vest and black pants appeared behind the picture, with his hands on his waist, facing the tree on the left side of the picture.",
+    "candidate_3": "The scene has become more illuminated. A man wearing a white vest and black pants appears behind the picture, with his hands on his waist, facing the tree on the left side of the picture."
+  },
+  {
+    "id": "fresh_Render_06__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The size of the blue glowing \"Shop\" sign on the ground in front of the person has increased.",
+    "candidate_3": "The size of the blue glowing \"Shop\" letters on the ground has increased."
+  },
+  {
+    "id": "fresh_Render_06__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The size of the blue glowing \"Shop\" sign on the ground in front of the person has decreased. The wooden table on the left side of the scene, next to the bench and near the blue box, has rotated from facing the front of the scene to facing the back of the scene.",
+    "candidate_2": "The scene has become darker.",
+    "candidate_3": "The scene has become more illuminated. The blue letters spelling \"Shop\" on the ground in front of the person have decreased in size."
+  },
+  {
+    "id": "fresh_Render_06__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become more illuminated. The blue glowing \"Shop\" sign on the ground in front of the person changes color from blue to green.",
+    "candidate_2": "The light in the scene has increased. The size of the blue \"Shop\" sign on the ground in front of the character has decreased.",
+    "candidate_3": "The light in the scene has increased. The size of the blue \"Shop\" letters on the ground has decreased."
+  },
+  {
+    "id": "fresh_Render_06__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The lighting has improved.",
+    "candidate_2": "The lighting has improved.",
+    "candidate_3": "The lighting has improved. The size of the blue letter \"Shop\" on the ground in front of the person has increased."
+  },
+  {
+    "id": "fresh_Render_06__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_06",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The scene has become darker. The blue glowing text \"Shop\" on the ground is no longer visible. The person wearing a white vest, blue overalls, and a hat, who was previously facing away from the camera with hands on hips, is no longer present. The green hose that was previously coiled in front of the bench near the entrance of the greenhouse is now visible.",
+    "candidate_2": "The person wearing a white vest, blue overalls, and a hat who was standing in the middle of the greenhouse, facing away from the camera towards the entrance, is no longer visible. The large glowing blue \"Shop\" sign on the ground near the center of the scene has disappeared. A green garden hose has appeared on the ground in the middle of the scene.",
+    "candidate_3": "The person wearing a white vest, blue overalls, and a blue hat who was standing in the middle of the greenhouse, facing away from the camera towards the back of the scene, is no longer visible. The large blue glowing sign spelling \"Shop\" on the ground has disappeared. The green hose that was previously coiled on the right side of the scene has moved to the center of the path."
+  },
+  {
+    "id": "fresh_Render_07__identity",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "fresh_Render_07__zoom_in_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene is now more lit up. The person in a black jacket and black shorts, who was on the left side of the road near the street corner, has moved to the right side of the road near the street corner.",
+    "candidate_2": "The light in the scene has increased. The person who was on the left side of the road, next to the street sign and near the building on the left side of the scene, is no longer visible.",
+    "candidate_3": "The scene is now more lit up. The person on the left side of the road, near the corner of the green building, has moved to the left and is now positioned closer to the street light."
+  },
+  {
+    "id": "fresh_Render_07__roll_8_safe",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become more illuminated. A person appears at the traffic light in the lower left corner of the road, walking towards the camera.",
+    "candidate_2": "The scene has become more illuminated. A person wearing a black vest and white shorts appeared on the left side of the road, standing next to the street light and facing the green building on the right side of the screen.The trash can at the bottom right corner of the crosswalk has moved to the left, now positioned next to the sidewalk lamp post.",
+    "candidate_3": "The scene is now more lit up. The person in a black jacket and black shorts on the right side of the road moves to the left side of the road, standing next to the street light."
+  },
+  {
+    "id": "fresh_Render_07__zoom_out_reverse_1p10",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene is now more lit up. The person in a black coat and black shorts standing on the right side of the road, next to the traffic light, has turned their body toward the left side of the screen.",
+    "candidate_2": "The scene is now more lit up. A person appears on the left side of the road, walking towards the traffic light at the corner near the small house.",
+    "candidate_3": "The light in the scene has increased. The person standing on the left side of the road, near the corner formed by the building on the left and the sidewalk, is no longer visible."
+  },
+  {
+    "id": "fresh_Render_07__natural",
+    "cohort": "fresh",
+    "scene": "fresh_Render_07",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The tree on the left side of the road has appeared. A woman in a black vest and red shorts who was on the left side of the road, walking towards the camera, is no longer visible.",
+    "candidate_2": "The scene is now more lit up. A new tree appears on the left side of the road near the sidewalk and building, positioned in front of the crosswalk and closer to the camera than the building.",
+    "candidate_3": "The scene is now more lit up. A new tree appears on the left side of the road near the corner of the building and the sidewalk."
+  }
+]

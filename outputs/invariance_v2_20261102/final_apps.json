@@ -1,0 +1,50 @@
+[
+  {
+    "app_id": "ap-iUSPUybguw2OzbAA6PBz3S",
+    "description": "m3diff-invariance-v2-positive-stress",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 17:23:38+07:00",
+    "stopped_at": "2026-11-02 17:28:59+07:00"
+  },
+  {
+    "app_id": "ap-y3DVFapxZJkcp9MY6AXvse",
+    "description": "m3diff-invariance-v2-positive-stress",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 17:02:39+07:00",
+    "stopped_at": "2026-11-02 17:03:05+07:00"
+  },
+  {
+    "app_id": "ap-GkCEGMY3CDLRFpCNjyLMAt",
+    "description": "m3diff-invariance-v2-positive-stress",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 16:58:59+07:00",
+    "stopped_at": "2026-11-02 17:02:14+07:00"
+  },
+  {
+    "app_id": "ap-Hch5P6oavYL34jDPiAAFav",
+    "description": "m3diff-invariance-v2-20261102",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 16:46:23+07:00",
+    "stopped_at": "2026-11-02 17:22:47+07:00"
+  },
+  {
+    "app_id": "ap-ZSGxpTILIu84uGRLlmbd4c",
+    "description": "m3diff-invariance-v2-20261102",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 16:37:12+07:00",
+    "stopped_at": "2026-11-02 16:45:31+07:00"
+  },
+  {
+    "app_id": "ap-WIQHsKBJxELCehvzmToiXV",
+    "description": "m3diff-invariance-v2-prepare-20261102",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-11-02 16:21:42+07:00",
+    "stopped_at": "2026-11-02 16:33:09+07:00"
+  }
+]

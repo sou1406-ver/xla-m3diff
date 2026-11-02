@@ -1,0 +1,51 @@
+{
+  "locked_before_new_predictions": true,
+  "reviewer": "Codex assistant image-first assessment; not independent human ground truth",
+  "facts": {
+    "v2_Real_00": ["An upright mask box appears on top of the central stack", "An air-conditioner remote appears upright in front of the stack", "Blue spray bottle changes to a clear bottle in a purple holder"],
+    "v2_Real_01": ["Adult polar bear changes head orientation from tilted sideways to more upright/down toward the cub"],
+    "v2_Real_02": ["Squirrel on the left stump is no longer visible", "A large dark bird appears on the left stump"],
+    "v2_Real_03": ["A yellow bicycle becomes visible in the immediate foreground, closer than the previously frontmost yellow bicycle"],
+    "v2_Real_04": ["A yellow snow-clearing vehicle appears at the right", "Snow is cleared into a dark curved path across the yard/driveway"],
+    "v2_Real_05": ["The three people turn their upper bodies/heads from facing the camera toward the side/back"],
+    "v2_Real_06": ["A camera with a large lens appears at the left/front of the desk", "The two computer mice move from the left part of the desk mat to the right"],
+    "v2_Real_07": ["Adult bear lowers its head and closes its previously open mouth", "Cub lowers/turns its head from looking toward the adult to resting sideways"],
+    "v2_Render_00": ["The hospital room becomes darker", "The small left-wall picture changes its depicted content"],
+    "v2_Render_01": ["A person appears at the kitchen counter", "Blue floor text kitchen appears"],
+    "v2_Render_02": ["Picnic blanket changes from solid green to red-and-white checks", "Blue text Picnic appears on the blanket"],
+    "v2_Render_03": ["Streetlamp left of the foreground crossing changes orientation/shape, with its arm now extending over the crossing"],
+    "v2_Render_04": ["A yellow bag appears on a desk in the middle-left of the classroom"],
+    "v2_Render_05": ["The near-left desk tabletop changes from brown/yellow to black/dark gray"],
+    "v2_Render_06": ["Front-right dining chair disappears", "Wall clock above the cabinet disappears", "Large juice pitcher disappears from the table", "Countertop toaster changes from brown/orange to green"],
+    "v2_Render_07": ["A gray trash bin appears at the base of the stairs left of center", "Wall/ground illumination becomes brighter around the bicycle"]
+  },
+  "notes": {
+    "v2_Real_00": "Known mask-box background. White mug and pink fan remain. Do not invent box removal.",
+    "v2_Real_01": "Same polar-bear background as Real07. Cub remains resting; head change is subtle, do not infer different bear count or physical size.",
+    "v2_Real_02": "A small dark bird also becomes visible in the background; not required in the minimal fact list. Peanuts vary, not adjudicated as an exact count.",
+    "v2_Real_03": "Both inputs are already rotated90degrees; not a between-image90degree rotation. Newly visible foreground bicycle could be introduced or moved; do not force a physical origin.",
+    "v2_Real_04": "Snow removal and yellow vehicle are the clear events; garden trees and buildings remain.",
+    "v2_Real_05": "Known exercise background. Three people remain; no disappearance or clothing change. No requirement for anatomical left/right wording.",
+    "v2_Real_06": "Known computer-desk background. Both mice remain; circular patterned item remains. View/framing changes as well.",
+    "v2_Real_07": "Same scene family as Real01; count as correlated background. Do not score adult disappearance or a new cub.",
+    "v2_Render_00": "Brightness difference is real; left-wall picture content also differs. Beds/furniture remain, no clear physical rearrangement.",
+    "v2_Render_03": "Image-difference visualization consulted BEFORE captions to locate subtle lamp change. Small crossing traffic-signal change not required or confidently classified.",
+    "v2_Render_04": "Yellow bag is visible on the desk; ceiling-fan and unrelated furniture changes not established.",
+    "v2_Render_06": "Two drinking glasses remain. Required missing item is the large juice pitcher, not every glass or plate.",
+    "v2_Render_07": "Difference visualization consulted before captions. A second gray bin/box behind bicycle is also visible after but not a required distinct count. Do not call bicycle newly added."
+  },
+  "scene_groups": {
+    "v2_Real_00":"mask_boxes", "v2_Real_01":"polar_bears", "v2_Real_02":"stump_wildlife", "v2_Real_03":"bicycle_parking", "v2_Real_04":"snow_yard", "v2_Real_05":"exercise", "v2_Real_06":"computer_desk", "v2_Real_07":"polar_bears",
+    "v2_Render_00":"hospital", "v2_Render_01":"kitchen", "v2_Render_02":"picnic", "v2_Render_03":"city", "v2_Render_04":"classroom", "v2_Render_05":"classroom", "v2_Render_06":"kitchen", "v2_Render_07":"bicycle_alley"
+  },
+  "synthetic_truth": {
+    "identity":"Exact same decoded image; all asserted changes are false.",
+    "zoom_in":"Closer crop, no rotation, no true object/light changes. Visibility at cropped margins can differ.",
+    "zoom_out":"Wider framing, no rotation, no true object/light changes. Newly visible margins are not object additions.",
+    "roll":"Image rotated by8degrees with safe crop; no true object/light changes.90degree rotation explanation is wrong.",
+    "brightness":"Brightness increased1.12 with clipping possible; no camera/object changes. Correct brighter claim is not an error."
+  },
+  "scoring":"For every synthetic caption score physical unsupported claim, false illumination claim, incorrect geometry claim, any-error union, and correct nuisance acknowledgement. Vague no-change is not credited with identifying a nuisance but is not automatically a hallucination. For natural captions score listed fact hits, additional unsupported claims and suppression; facts are a minimum, not an exhaustive truth list. Uncertain claims retained separately. Same sentence cleanup, if used, across all arms; keep raw text.",
+  "gate":"Candidate must reduce ANY-error synthetic cases relative to base, preserve natural fact hits in EACH domain, and not increase natural unsupported-pair count. Report control and old checkpoint even if they fail. Assistant label uncertainty and repeated backgrounds limit inference.",
+  "limits":"96 pairs from16 source pairs but only13 background groups. No exact RGB overlap with958 excluded hashes; several familiar semantic backgrounds remain. Official test and source scenes were used previously in the project. Not independent unseen-scene validation, not real3D viewpoint robustness."
+}

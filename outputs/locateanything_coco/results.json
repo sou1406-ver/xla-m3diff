@@ -1,0 +1,2342 @@
+[
+  {
+    "case_id": "23272_car_single",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "original_size": [
+      500,
+      375
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      500,
+      375
+    ],
+    "answer": "<ref>car</ref><box><0><0><998><997></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        0.0,
+        499.0,
+        373.875
+      ]
+    ],
+    "gt_boxes": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9913499768958863,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.9219930171966553
+  },
+  {
+    "case_id": "23272_car_all",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "original_size": [
+      500,
+      375
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      500,
+      375
+    ],
+    "answer": "<ref>car</ref><box><0><0><998><997></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        0.0,
+        499.0,
+        373.875
+      ]
+    ],
+    "gt_boxes": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9913499768958863,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.21059870719909668
+  },
+  {
+    "case_id": "23272_chair_single",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      375
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      500,
+      375
+    ],
+    "answer": "<ref>chair</ref><box><912><0><998><328></box><|im_end|>",
+    "pred_boxes": [
+      [
+        456.0,
+        0.0,
+        499.0,
+        123.0
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.21084332466125488
+  },
+  {
+    "case_id": "23272_chair_all",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      375
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      500,
+      375
+    ],
+    "answer": "<ref>chair</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.2089707851409912
+  },
+  {
+    "case_id": "26204_car_single",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "original_size": [
+      640,
+      427
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      640,
+      427
+    ],
+    "answer": "<ref>car</ref><box><252><573><458><784></box><|im_end|>",
+    "pred_boxes": [
+      [
+        161.28,
+        244.671,
+        293.12,
+        334.768
+      ]
+    ],
+    "gt_boxes": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 5,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9170947909458601,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.48970746994018555
+  },
+  {
+    "case_id": "26204_car_all",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "original_size": [
+      640,
+      427
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      640,
+      427
+    ],
+    "answer": "<ref>car</ref><box><258><574><456><778></box><|im_end|>",
+    "pred_boxes": [
+      [
+        165.12,
+        245.098,
+        291.84,
+        332.206
+      ]
+    ],
+    "gt_boxes": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 5,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9544820126389775,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.2972557544708252
+  },
+  {
+    "case_id": "26204_dog_single",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      427
+    ],
+    "prompt": "Locate a single instance that matches the following description: dog.",
+    "inference_size": [
+      640,
+      427
+    ],
+    "answer": "<ref>dog</ref><box><44><554><88><679></box><|im_end|>",
+    "pred_boxes": [
+      [
+        28.16,
+        236.558,
+        56.32,
+        289.933
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.2973060607910156
+  },
+  {
+    "case_id": "26204_dog_all",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      427
+    ],
+    "prompt": "Locate all the instances that match the following description: dog.",
+    "inference_size": [
+      640,
+      427
+    ],
+    "answer": "<ref>dog</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.29554176330566406
+  },
+  {
+    "case_id": "632_chair_single",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "original_size": [
+      640,
+      483
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      640,
+      483
+    ],
+    "answer": "<ref>chair</ref><box><384><481><544><660></box><|im_end|>",
+    "pred_boxes": [
+      [
+        245.76,
+        232.323,
+        348.16,
+        318.78
+      ]
+    ],
+    "gt_boxes": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9501783696801047,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.332197904586792
+  },
+  {
+    "case_id": "632_chair_all",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "original_size": [
+      640,
+      483
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      640,
+      483
+    ],
+    "answer": "<ref>chair</ref><box><384><552><539><659></box><|im_end|>",
+    "pred_boxes": [
+      [
+        245.76,
+        266.616,
+        344.96,
+        318.297
+      ]
+    ],
+    "gt_boxes": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.5556554658778514,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.45633816719055176
+  },
+  {
+    "case_id": "632_car_single",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      483
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      640,
+      483
+    ],
+    "answer": "<ref>car</ref><box><0><585><627><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        282.555,
+        401.28,
+        482.034
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.4530930519104004
+  },
+  {
+    "case_id": "632_car_all",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      483
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      640,
+      483
+    ],
+    "answer": "<ref>car</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.3307616710662842
+  },
+  {
+    "case_id": "1993_chair_single",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "original_size": [
+      640,
+      419
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      640,
+      419
+    ],
+    "answer": "<ref>chair</ref><box><169><593><356><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        108.16,
+        248.467,
+        227.84,
+        418.162
+      ]
+    ],
+    "gt_boxes": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 2,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9237431231930003,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.28568434715270996
+  },
+  {
+    "case_id": "1993_chair_all",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "original_size": [
+      640,
+      419
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      640,
+      419
+    ],
+    "answer": "<ref>chair</ref><box><169><591><356><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        108.16,
+        247.629,
+        227.84,
+        418.162
+      ]
+    ],
+    "gt_boxes": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 2,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9192045484575992,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.2853860855102539
+  },
+  {
+    "case_id": "1993_dog_single",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      419
+    ],
+    "prompt": "Locate a single instance that matches the following description: dog.",
+    "inference_size": [
+      640,
+      419
+    ],
+    "answer": "<ref>dog</ref><box><0><718><64><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        300.842,
+        40.96,
+        418.162
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.4410548210144043
+  },
+  {
+    "case_id": "1993_dog_all",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      419
+    ],
+    "prompt": "Locate all the instances that match the following description: dog.",
+    "inference_size": [
+      640,
+      419
+    ],
+    "answer": "<ref>dog</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.2840142250061035
+  },
+  {
+    "case_id": "22192_dog_single",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: dog.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>dog</ref><box><111><280><336><873></box><|im_end|>",
+    "pred_boxes": [
+      [
+        71.04,
+        119.28,
+        215.04,
+        371.898
+      ]
+    ],
+    "gt_boxes": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9716363229664936,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.2962150573730469
+  },
+  {
+    "case_id": "22192_dog_all",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: dog.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>dog</ref><box><111><280><336><871></box><|im_end|>",
+    "pred_boxes": [
+      [
+        71.04,
+        119.28,
+        215.04,
+        371.046
+      ]
+    ],
+    "gt_boxes": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9683529597141085,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.29634594917297363
+  },
+  {
+    "case_id": "22192_car_single",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>car</ref><box><108><282><339><876></box><|im_end|>",
+    "pred_boxes": [
+      [
+        69.12,
+        120.132,
+        216.96,
+        373.176
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.4487297534942627
+  },
+  {
+    "case_id": "22192_car_all",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>car</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.29473137855529785
+  },
+  {
+    "case_id": "22892_dog_single",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "original_size": [
+      500,
+      334
+    ],
+    "prompt": "Locate a single instance that matches the following description: dog.",
+    "inference_size": [
+      500,
+      334
+    ],
+    "answer": "<ref>dog</ref><box><76><231><582><877></box><|im_end|>",
+    "pred_boxes": [
+      [
+        38.0,
+        77.154,
+        291.0,
+        292.918
+      ]
+    ],
+    "gt_boxes": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9650016226232399,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.1889646053314209
+  },
+  {
+    "case_id": "22892_dog_all",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "original_size": [
+      500,
+      334
+    ],
+    "prompt": "Locate all the instances that match the following description: dog.",
+    "inference_size": [
+      500,
+      334
+    ],
+    "answer": "<ref>dog</ref><box><76><231><580><877></box><|im_end|>",
+    "pred_boxes": [
+      [
+        38.0,
+        77.154,
+        290.0,
+        292.918
+      ]
+    ],
+    "gt_boxes": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9687264606773167,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.18711137771606445
+  },
+  {
+    "case_id": "22892_bottle_single",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "bottle",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      334
+    ],
+    "prompt": "Locate a single instance that matches the following description: bottle.",
+    "inference_size": [
+      500,
+      334
+    ],
+    "answer": "<ref>bottle</ref><box><742><802><918><997></box><|im_end|>",
+    "pred_boxes": [
+      [
+        371.0,
+        267.868,
+        459.0,
+        332.998
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.30828380584716797
+  },
+  {
+    "case_id": "22892_bottle_all",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "bottle",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      334
+    ],
+    "prompt": "Locate all the instances that match the following description: bottle.",
+    "inference_size": [
+      500,
+      334
+    ],
+    "answer": "<ref>bottle</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.18731141090393066
+  },
+  {
+    "case_id": "14007_cat_single",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: cat.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>cat</ref><box><475><365><652><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        304.0,
+        155.49,
+        417.28,
+        425.148
+      ]
+    ],
+    "gt_boxes": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.3566670121969565,
+    "positive_hit_iou50": false,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 0,
+    "seconds": 0.29650425910949707
+  },
+  {
+    "case_id": "14007_cat_all",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: cat.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>cat</ref><box><0><66><481><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        28.116,
+        307.84,
+        425.148
+      ]
+    ],
+    "gt_boxes": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": false,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 0,
+    "seconds": 0.44472837448120117
+  },
+  {
+    "case_id": "14007_car_single",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>car</ref><box><472><592><841><986></box><|im_end|>",
+    "pred_boxes": [
+      [
+        302.08,
+        252.192,
+        538.24,
+        420.036
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.44472837448120117
+  },
+  {
+    "case_id": "14007_car_all",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>car</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.2966899871826172
+  },
+  {
+    "case_id": "18833_cat_single",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: cat.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>cat</ref><box><294><112><798><681></box><|im_end|>",
+    "pred_boxes": [
+      [
+        188.16,
+        47.712,
+        510.72,
+        290.106
+      ]
+    ],
+    "gt_boxes": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.739853785507329,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.4372732639312744
+  },
+  {
+    "case_id": "18833_cat_all",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: cat.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>cat</ref><box><292><110><791><666></box><|im_end|>",
+    "pred_boxes": [
+      [
+        186.88,
+        46.86,
+        506.24,
+        283.716
+      ]
+    ],
+    "gt_boxes": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.7286839242179691,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.2973470687866211
+  },
+  {
+    "case_id": "18833_chair_single",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>chair</ref><box><623><103><998><998></box><|im_end|>",
+    "pred_boxes": [
+      [
+        398.72,
+        43.878,
+        638.72,
+        425.148
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.2973487377166748
+  },
+  {
+    "case_id": "18833_chair_all",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      640,
+      426
+    ],
+    "answer": "<ref>chair</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.2977018356323242
+  },
+  {
+    "case_id": "35279_bottle_single",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "original_size": [
+      640,
+      463
+    ],
+    "prompt": "Locate a single instance that matches the following description: bottle.",
+    "inference_size": [
+      640,
+      463
+    ],
+    "answer": "<ref>bottle</ref><box><697><138><822><465></box><|im_end|>",
+    "pred_boxes": [
+      [
+        446.08,
+        63.894,
+        526.08,
+        215.295
+      ]
+    ],
+    "gt_boxes": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9810672762117068,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.4093325138092041
+  },
+  {
+    "case_id": "35279_bottle_all",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "original_size": [
+      640,
+      463
+    ],
+    "prompt": "Locate all the instances that match the following description: bottle.",
+    "inference_size": [
+      640,
+      463
+    ],
+    "answer": "<ref>bottle</ref><box><697><139><823><467></box><|im_end|>",
+    "pred_boxes": [
+      [
+        446.08,
+        64.357,
+        526.72,
+        216.221
+      ]
+    ],
+    "gt_boxes": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9767056053005637,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.43687891960144043
+  },
+  {
+    "case_id": "35279_car_single",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      463
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      640,
+      463
+    ],
+    "answer": "<ref>car</ref><box><0><189><270><508></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        87.507,
+        172.8,
+        235.204
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.46555233001708984
+  },
+  {
+    "case_id": "35279_car_all",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      463
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      640,
+      463
+    ],
+    "answer": "<ref>car</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.3159952163696289
+  },
+  {
+    "case_id": "50811_bottle_single",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "original_size": [
+      640,
+      605
+    ],
+    "prompt": "Locate a single instance that matches the following description: bottle.",
+    "inference_size": [
+      640,
+      605
+    ],
+    "answer": "<ref>bottle</ref><box><702><519><809><949></box><|im_end|>",
+    "pred_boxes": [
+      [
+        449.28,
+        313.995,
+        517.76,
+        574.145
+      ]
+    ],
+    "gt_boxes": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 3,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9283779390959275,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.5717513561248779
+  },
+  {
+    "case_id": "50811_bottle_all",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "original_size": [
+      640,
+      605
+    ],
+    "prompt": "Locate all the instances that match the following description: bottle.",
+    "inference_size": [
+      640,
+      605
+    ],
+    "answer": "<ref>bottle</ref><box><700><516><806><949></box><box><822><524><934><978></box><|im_end|>",
+    "pred_boxes": [
+      [
+        448.0,
+        312.18,
+        515.84,
+        574.145
+      ],
+      [
+        526.08,
+        317.02,
+        597.76,
+        591.69
+      ]
+    ],
+    "gt_boxes": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "n_pred": 2,
+    "n_gt": 3,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9432765733189497,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 2,
+    "seconds": 0.45741915702819824
+  },
+  {
+    "case_id": "50811_chair_single",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      605
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      640,
+      605
+    ],
+    "answer": "<ref>chair</ref><box><0><586><998><751></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        354.53,
+        638.72,
+        454.355
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.5126938819885254
+  },
+  {
+    "case_id": "50811_chair_all",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      605
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      640,
+      605
+    ],
+    "answer": "<ref>chair</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.4197840690612793
+  },
+  {
+    "case_id": "12576_cup_single",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "original_size": [
+      480,
+      640
+    ],
+    "prompt": "Locate a single instance that matches the following description: cup.",
+    "inference_size": [
+      480,
+      640
+    ],
+    "answer": "<ref>cup</ref><box><758><330><952><592></box><|im_end|>",
+    "pred_boxes": [
+      [
+        363.84,
+        211.2,
+        456.96,
+        378.88
+      ]
+    ],
+    "gt_boxes": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 4,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9639122996361177,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.4229888916015625
+  },
+  {
+    "case_id": "12576_cup_all",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "original_size": [
+      480,
+      640
+    ],
+    "prompt": "Locate all the instances that match the following description: cup.",
+    "inference_size": [
+      480,
+      640
+    ],
+    "answer": "<ref>cup</ref><box><294><314><456><541></box><box><569><183><648><303></box><box><758><328><952><589></box><box><796><178><888><269></box><|im_end|>",
+    "pred_boxes": [
+      [
+        141.12,
+        200.96,
+        218.88,
+        346.24
+      ],
+      [
+        273.12,
+        117.12,
+        311.04,
+        193.92
+      ],
+      [
+        363.84,
+        209.92,
+        456.96,
+        376.96
+      ],
+      [
+        382.08,
+        113.92,
+        426.24,
+        172.16
+      ]
+    ],
+    "gt_boxes": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "n_pred": 4,
+    "n_gt": 4,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.9760738293324713,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 4,
+    "seconds": 0.7410783767700195
+  },
+  {
+    "case_id": "12576_car_single",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      480,
+      640
+    ],
+    "prompt": "Locate a single instance that matches the following description: car.",
+    "inference_size": [
+      480,
+      640
+    ],
+    "answer": "<ref>car</ref><box><0><539><998><989></box><|im_end|>",
+    "pred_boxes": [
+      [
+        0.0,
+        344.96,
+        479.04,
+        632.96
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.48293495178222656
+  },
+  {
+    "case_id": "12576_car_all",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      480,
+      640
+    ],
+    "prompt": "Locate all the instances that match the following description: car.",
+    "inference_size": [
+      480,
+      640
+    ],
+    "answer": "<ref>car</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.33112478256225586
+  },
+  {
+    "case_id": "25986_cup_single",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "original_size": [
+      640,
+      480
+    ],
+    "prompt": "Locate a single instance that matches the following description: cup.",
+    "inference_size": [
+      640,
+      480
+    ],
+    "answer": "<ref>cup</ref><box><584><421><694><627></box><|im_end|>",
+    "pred_boxes": [
+      [
+        373.76,
+        202.08,
+        444.16,
+        300.96
+      ]
+    ],
+    "gt_boxes": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.7451423124497735,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.4268763065338135
+  },
+  {
+    "case_id": "25986_cup_all",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "original_size": [
+      640,
+      480
+    ],
+    "prompt": "Locate all the instances that match the following description: cup.",
+    "inference_size": [
+      640,
+      480
+    ],
+    "answer": "<ref>cup</ref><box><584><419><694><627></box><|im_end|>",
+    "pred_boxes": [
+      [
+        373.76,
+        201.12,
+        444.16,
+        300.96
+      ]
+    ],
+    "gt_boxes": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "n_pred": 1,
+    "n_gt": 1,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.7397377419667863,
+    "positive_hit_iou50": true,
+    "negative_false_positive": null,
+    "negative_correct_rejection": null,
+    "matched_gt": 1,
+    "seconds": 0.33339810371398926
+  },
+  {
+    "case_id": "25986_chair_single",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      480
+    ],
+    "prompt": "Locate a single instance that matches the following description: chair.",
+    "inference_size": [
+      640,
+      480
+    ],
+    "answer": "<ref>chair</ref><box><811><329><998><990></box><|im_end|>",
+    "pred_boxes": [
+      [
+        519.04,
+        157.92,
+        638.72,
+        475.2
+      ]
+    ],
+    "gt_boxes": [],
+    "n_pred": 1,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": false,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": true,
+    "negative_correct_rejection": false,
+    "matched_gt": 0,
+    "seconds": 0.48366761207580566
+  },
+  {
+    "case_id": "25986_chair_all",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      480
+    ],
+    "prompt": "Locate all the instances that match the following description: chair.",
+    "inference_size": [
+      640,
+      480
+    ],
+    "answer": "<ref>chair</ref><box>None</box><|im_end|>",
+    "pred_boxes": [],
+    "gt_boxes": [],
+    "n_pred": 0,
+    "n_gt": 0,
+    "format_ok": true,
+    "explicit_none": true,
+    "best_iou": 0.0,
+    "positive_hit_iou50": null,
+    "negative_false_positive": false,
+    "negative_correct_rejection": true,
+    "matched_gt": 0,
+    "seconds": 0.33153414726257324
+  }
+]

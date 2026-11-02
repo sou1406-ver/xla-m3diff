@@ -1,0 +1,2557 @@
+{
+  "reviewer": "Codex assistant; model names hidden, not independent human assessment",
+  "stage": "initial",
+  "masked_file_sha256": "5575ca761d3a2d57629008c1fc6178608a4372fe089e0c02a2e969321990c471",
+  "cases": [
+    {
+      "id": "v2_Real_00__identity",
+      "candidate_1": {
+        "caption": "The scene is symmetrical along the central vertical axis.",
+        "raw_sha256": "ecf2e5c25478bde9ccd8b838ec2e1e924aa81c0d751aa88888b58f8855ac4438",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Symmetry statement is vague; no explicit change claim"
+        ],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is symmetrical along the front-to-back axis.",
+        "raw_sha256": "2e1eefc562ce522b96946239a6a05508ef685563c1d049bb5dc10bb10734d11d",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Symmetry statement is vague; no explicit change claim"
+        ],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_00__zoom_in",
+      "candidate_1": {
+        "caption": "The pink hair dryer on the left side of the table has changed its orientation from facing the right side of the table to facing the left side. The white box labeled \"KN95\" on the right side of the table has disappeared.",
+        "raw_sha256": "110fd313ecf07cb6363c7fc8b9b4213692bb6b1f0457ff808d9b33b54915b9cb",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The pink hair dryer has moved from the front to the back of the table.",
+        "raw_sha256": "ee0dd1e716adc2dad0824382e1c4fbb6473e6841d953daee4f8b6bb9a987dd65",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_00__zoom_out",
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "raw_sha256": "55e91ab171de7ecc92ad4c232cb80bfc4b74d9640fafa565665d9d78fff01234",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The box of disinfectant on the left side of the table has been moved to the right side of the table.",
+        "raw_sha256": "f0f6cc09fd68de1b49aaee3f5fa30b03de79423fde55b0d66659babc86ee0ab5",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_00__roll",
+      "candidate_1": {
+        "caption": "The white box with a red logo on the right side of the table has changed its orientation, now facing away from the camera instead of towards it.",
+        "raw_sha256": "47eb3c2ff082c59a96ece7ce79548edcb1575056d57cfa27eacbf18ccb5e3f6a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The camera orientation changes from facing the right side of the image to facing the left side.",
+        "raw_sha256": "c83b8a49c1d049469c7c76b7e70293b4e1f1473642bc410a0bfbf92d989c44d0",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_00__brightness",
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "raw_sha256": "55e91ab171de7ecc92ad4c232cb80bfc4b74d9640fafa565665d9d78fff01234",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_00__natural",
+      "candidate_1": {
+        "caption": "The purple disinfectant bottle on the left side of the pink hair dryer has been replaced with a transparent disinfectant bottle. A white remote control has appeared in front of the stacked disposable masks. The white box labeled \"KN95\" on the right side of the scene has rotated 90 degrees clockwise, changing its orientation from horizontal to vertical.",
+        "raw_sha256": "4331256a511273cf2864020821b7775359ae4c8356e3b282b467435debf79d05",
+        "facts": [
+          2,
+          3
+        ],
+        "unsupported": [
+          "Right-front box is said to rotate/move although it remains; source bottle color is inaccurate"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The purple bottle of disinfectant on the left side of the pink hair dryer has been replaced with a white spray bottle. The air conditioner remote control has appeared in front of the stacked boxes of masks. The white box with a red 'H' mark on the right side of the image has moved to the top of the stacked boxes of masks.",
+        "raw_sha256": "a99f2e69722f616cb0bbf1dc71f710ace947619819250951841f2e2bfa27c5e1",
+        "facts": [
+          2,
+          3
+        ],
+        "unsupported": [
+          "Right-front box is said to move to stack although it remains"
+        ],
+        "uncertain": [
+          "Bottle described as white rather than clear"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__identity",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously standing with its head slightly tilted to the left and looking at the camera, is now lying down with its head resting on the snow.",
+        "raw_sha256": "9185a94dee6a54b08b2ad991bbcbc72a2b116351df64720876d9b3fa67378fa3",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "There is no visible difference between the two images.",
+        "raw_sha256": "74b6ccedb869b6c540de614f4dcf3cb173e5626ecf7e574eb9664854f8a21152",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__zoom_in",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously looking down at the polar bear in front of it, is now looking to the left.",
+        "raw_sha256": "a49314cd5209b857fc85e5a7a434d6223416d0676d8358fdb754d813f6d0183a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame, which was previously looking down at the polar bear in front of it, is now looking to the left.",
+        "raw_sha256": "a49314cd5209b857fc85e5a7a434d6223416d0676d8358fdb754d813f6d0183a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__zoom_out",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the image, which was previously standing with its head slightly lowered and looking at the snow in front, is now lying down with its head resting on the snow.",
+        "raw_sha256": "33c66463b0df85203c464ffa1b20e620da74c185678bc4ebe45ac33d3f8f4056",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame, which was previously standing with its head lowered and looking at the camera, is now lying down with its head resting on the snow.",
+        "raw_sha256": "1741e37ed3cda81dafb0316382d08d25991eb96e155dc057b4121895baa81a60",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__roll",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the image has changed its head orientation from facing left to facing forward.",
+        "raw_sha256": "9cac5fc9e37d5af65c35440563a93f96867cc890ee30caa4069b73087a79a38a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered and eyes closed, is now facing right with its head slightly lowered and eyes closed.",
+        "raw_sha256": "c3731a224a029ad4f63e1f9d2d31bfa80a4d67bb1043a634b915bf53414f6284",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__brightness",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the image, which was previously standing with its head slightly tilted to the left and looking at the camera, is now lying down.",
+        "raw_sha256": "02281dab69ed476a98674ec9e860a5dcb4e4b065041834a1bc107b96de8f490d",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "There is no visible difference between the two images.",
+        "raw_sha256": "74b6ccedb869b6c540de614f4dcf3cb173e5626ecf7e574eb9664854f8a21152",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_01__natural",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left with its head slightly raised.",
+        "raw_sha256": "5a7acb155fa1a191aa89eb977b6fe241cb1509ad5a44bcdbbef0e6b1b2838f6e",
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Subtle head-raise direction not confidently established"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left with its head slightly raised.",
+        "raw_sha256": "2d570f577ed2aabc600bc58f342a11c02870026c763987ce665eb1a84b301132",
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Subtle head-raise direction not confidently established"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__identity",
+      "candidate_1": {
+        "caption": "The quantity of food on the tree stump in the lower left corner has decreased.",
+        "raw_sha256": "162b2701135aca22a270ec4d8ef63c39a10127a7e195c7065b1a7a6c9591854c",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__zoom_in",
+      "candidate_1": {
+        "caption": "The brightness of the scene has dimmed.",
+        "raw_sha256": "19abf2141273accd2ab03bde0504a3a452311df864750e413a2bd19306b3c2be",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The quantity of food on the tree stump in the lower left corner has decreased.",
+        "raw_sha256": "162b2701135aca22a270ec4d8ef63c39a10127a7e195c7065b1a7a6c9591854c",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__zoom_out",
+      "candidate_1": {
+        "caption": "The brightness of the scene has increased. The squirrel on the left side of the image has moved to the right, and its posture has changed from having both paws in its mouth to having one paw in its mouth. The quantity of food on the tree stump in the lower left corner has decreased.",
+        "raw_sha256": "48a01ba0302cfde545e90fa831141edd6299b87bc1be1650d1f98792a9f1cb18",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The brightness of the scene has increased. The squirrel on the left side of the image has moved to the right, closer to the tree stump, and is now eating a peanut.",
+        "raw_sha256": "0695cf29875b610dd380d4ce696622a4f3d19e275b2a0f5a851925a21c49a2f5",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__roll",
+      "candidate_1": {
+        "caption": "The brightness of the scene has dimmed.",
+        "raw_sha256": "19abf2141273accd2ab03bde0504a3a452311df864750e413a2bd19306b3c2be",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The brightness of the scene has dimmed. The squirrel, which was originally positioned to the left of the tree stump and facing right, is now facing the front-right side of the image.",
+        "raw_sha256": "b59f8065231bff2f46de943aa965f992348f30c1aac23aef0f96e363d5622d2b",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__brightness",
+      "candidate_1": {
+        "caption": "The brightness of the scene has increased.",
+        "raw_sha256": "ee3a0ce9e728bd4e36871f2e7316121a606006f81acfbf30b8a8f2bfa61c765e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The quantity of food on the tree stump in the lower left corner has decreased.",
+        "raw_sha256": "162b2701135aca22a270ec4d8ef63c39a10127a7e195c7065b1a7a6c9591854c",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_02__natural",
+      "candidate_1": {
+        "caption": "The lighting has dimmed. The squirrel on the left side of the image has disappeared.The squirrel that was originally in the middle of the tree stump, eating a peanut, is no longer visible.A new black bird has appeared on the left side of the tree stump, with its back to the camera and its head turned to the right.",
+        "raw_sha256": "4b4f18563e1c2638bf9123b89e9e31e4fed3ea90e11fca3c834f702cd1dbc537",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Implies an additional original squirrel in stump center"
+        ],
+        "uncertain": [
+          "Global dimming not confidently established"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The squirrel on the left side of the image has disappeared. A black bird has appeared in the middle of the scene, standing on the ground with its back to the camera and facing the tree stump on the left. The peanut that was in the squirrel's mouth has disappeared.",
+        "raw_sha256": "b9e120479390f7d1eff0f0c34f0572db6cd191aabeb07314d3b4a8c33f2ddd8a",
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Bird description could refer to small background bird; does not establish large bird on stump"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__identity",
+      "candidate_1": {
+        "caption": "The scene remains unchanged.",
+        "raw_sha256": "46614a0dc72ff72c196bcc0e244b08265ae8a2ec5328e14ac73e093d9cde3aed",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The yellow car at the back of the scene disappears.",
+        "raw_sha256": "80ab38d07de1ec6c8417aca4f2f27432964fda731f88d2387de2e652c1a40ed3",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__zoom_in",
+      "candidate_1": {
+        "caption": "The scene is now more visible.",
+        "raw_sha256": "772b1e52b0c74f71bb0095112f3bea9398a99c4f4bb6b3a138e15568b9fb69f5",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The yellow car at the bottom right of the screen has moved to the left.",
+        "raw_sha256": "2c6105fdadf112b6be39fc39d87e9cf3663a43cf8df74de7394f0db0481eb31e",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__zoom_out",
+      "candidate_1": {
+        "caption": "The perspective of the image shifts to the right, revealing more of the road and a manhole cover in the foreground.",
+        "raw_sha256": "2ff8010049c7a404531a88b6dcc20ec243e5a87e24133cd9c6ffbb0d99b40d75",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The yellow car at the bottom right of the screen has moved to the left.",
+        "raw_sha256": "2c6105fdadf112b6be39fc39d87e9cf3663a43cf8df74de7394f0db0481eb31e",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__roll",
+      "candidate_1": {
+        "caption": "The yellow bike in the front has turned its head to the right.",
+        "raw_sha256": "39072dde36ff44d211c80b086ef00574c6d1020c6502999a3ce654b68e2677be",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more symmetrical.",
+        "raw_sha256": "98c08260f41198b0d1c5573572576bb9e9746903bc0f17c017fda6700dc2461f",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__brightness",
+      "candidate_1": {
+        "caption": "The yellow car at the back of the scene has disappeared.",
+        "raw_sha256": "9f5f858c55bec3f87b79ab7ad5531832db196774395aaebfd801ec447c974672",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene remains unchanged.",
+        "raw_sha256": "46614a0dc72ff72c196bcc0e244b08265ae8a2ec5328e14ac73e093d9cde3aed",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_03__natural",
+      "candidate_1": {
+        "caption": "The yellow bike in the foreground moves forward, revealing a white rear light.",
+        "raw_sha256": "b5dc38a46f45849bf9b69e5d8bab3726dcf716a5cda46273eedfcc2a6c6574f9",
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "White component called rear light; bicycle origin/move uncertain"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The yellow bike in the front of the image has moved to the right.",
+        "raw_sha256": "11cba1ea6f4924135c83dc7a9506226620ec8d4f0fc05b6ca951a5c5da4c1c21",
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Foreground relocation/new visibility credited without forcing physical origin"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__identity",
+      "candidate_1": {
+        "caption": "The red car in the distance on the right side of the screen has disappeared.",
+        "raw_sha256": "80e0eb5a9218bf9dbeedb850fdccc3db7b0b3c92a3da39eadc8fb2cd755cf241",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The red car in the distance on the right side of the frame is no longer visible.",
+        "raw_sha256": "f3a60d3af7f7264ecd4f485617a0f891b90af05e6826c8f9997a67bbd04b2245",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__zoom_in",
+      "candidate_1": {
+        "caption": "The scene has become brighter. The red car that was previously in the distance on the right side of the screen is no longer visible.",
+        "raw_sha256": "87d072620b67c202567a84b4ad50f96fd2449495bda374a486dd202d3d6e5503",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__zoom_out",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The red car in the distance on the right side of the screen has disappeared. The black car that was previously parked in the left rear of the frame has now moved to the front of the frame.",
+        "raw_sha256": "829ee4813357aa60bffcd114439f395698c7a780e2316d5643cc92757097a1fd",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__roll",
+      "candidate_1": {
+        "caption": "The scene has become brighter. A new car appears in the left rear of the frame, parked next to a house with a garage door. The red car that was previously at the back right of the screen is no longer visible.",
+        "raw_sha256": "75616baeb7597d2abd1279c5be683481b93c988c5d3343c1ce612cb3a915f867",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now brighter. A white car appears in the distance on the right side of the frame.",
+        "raw_sha256": "97983df58c8e845f30256e00cc3434ab78c8602bd51948e7343efa92e6d8fc50",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__brightness",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The red car in the distance on the right side of the screen has disappeared.",
+        "raw_sha256": "80e0eb5a9218bf9dbeedb850fdccc3db7b0b3c92a3da39eadc8fb2cd755cf241",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_04__natural",
+      "candidate_1": {
+        "caption": "The red car in the distance on the right side of the screen has been replaced by a yellow snowplow. The black car that was previously at the back left of the frame is no longer visible. A new snowplow has appeared on the road in the middle right of the frame, heading toward the camera.",
+        "raw_sha256": "afab60f948395e998078295961a7dfb5c54b86dec2fcc95e0285ce502baead95",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Red car replacement and black-car removal not established"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has brightened. A yellow snowplow appears on the right side of the screen, with its shovel touching the ground. The red car in the distance is now visible. The black car at the back left of the frame disappears.",
+        "raw_sha256": "d07ddd6208fab552a0f8d07789c27068d78458ab55fe1e15b69cbbb6ad8c4633",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Black-car removal and newly visible red car not established"
+        ],
+        "uncertain": [
+          "Global brightening unclear"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__identity",
+      "candidate_1": {
+        "caption": "The three people on the left, right, and center of the frame change their posture from having their arms crossed in front of their chests to having their arms crossed over their chests.",
+        "raw_sha256": "acb384b7476f0304f8af17a8400368756a1543158f860c13cd5fab1a89fd76c2",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Explicit posture-change assertion has redundant endpoints; scored as unsupported change"
+        ],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three people in the center of the frame shift their bodies to the right.",
+        "raw_sha256": "66ecf454e178d7edafb2f9fa4bbcedc7262975db1e02b3d5f074e1bad117125b",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__zoom_in",
+      "candidate_1": {
+        "caption": "The three people in the middle of the formation have shifted their left leg forward.",
+        "raw_sha256": "625bcba8bc2c886483c454866522dd2f76fdd41b2261e7d87c060e200a6ec14c",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three people in the center of the frame shift from having their arms crossed over their chests with their hands together to having their arms crossed over their chests with their hands apart.",
+        "raw_sha256": "0ce08a9c090dbaf15174df36b047d78bbd0e1aef950b00fe8bccfed3ddd42744",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__zoom_out",
+      "candidate_1": {
+        "caption": "The three models change their posture from facing the camera with their left legs forward and right legs backward, to standing straight with their feet apart.",
+        "raw_sha256": "d3d2067c5c35a364a3bf69e1dfea8aa71640482b94e40a498452303b7d4d6e79",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three models change from facing the camera to turning their heads to the left side of the frame.",
+        "raw_sha256": "4b01e105dff0f428cc565ae4d6bd25a194b70d5176a87bf3c290fcb1c99c320d",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__roll",
+      "candidate_1": {
+        "caption": "The three people in the middle of the formation change from standing with their legs apart and arms crossed in front of their chests to standing with their legs apart and arms bent at 90 degrees, with their hands crossed in front of their chests.",
+        "raw_sha256": "c955a3e07a6e7687c65de7ae456fe7e4ef2f0977764040205bea158ebc3c480a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three people change from standing with their legs apart and arms crossed in front of their chests to standing with their legs together and arms crossed.",
+        "raw_sha256": "ecdaae722b4658ebdbce5ccfe7241365761ffe027f7455f69137c965fc08d89f",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__brightness",
+      "candidate_1": {
+        "caption": "The three people in the center of the frame shift their weight from standing on both feet to standing on their left legs.",
+        "raw_sha256": "0a27ae08aed9d51ff84d10e2757edb30149ab7b305438a409289fd9c1e0d9f74",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three people on the left, right, and center of the frame change their posture from having their legs apart to standing with their legs together.",
+        "raw_sha256": "a9300102b1ba3013060526244a4b930a838a37dfb6d6d5af13743f48b6c6a833",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_05__natural",
+      "candidate_1": {
+        "caption": "The three people change from having their arms crossed in front of their chests to extending their right arms backward and their left arms forward.",
+        "raw_sha256": "39bc5d2b0cf659b0971f60cb1195e2847edeaaccfac73ec0cdbaaa606fa475fc",
+        "facts": [],
+        "unsupported": [
+          "Arms described as extended backward/forward instead of maintaining bent/crossed pose"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle of the formation change from having their arms crossed in front of their chests to turning to the left side of the frame with their backs to the camera, and their arms extended to the sides.",
+        "raw_sha256": "a9156e5095864954e883a8f27850cd019b8b5d0cf08b613f20b8487d028d31b4",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Arms described as extended to sides"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__identity",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The flag on the left side of the top shelf in the corner of the table is no longer visible.",
+        "raw_sha256": "06c51ecee73821cc8c3f7c22c064c5f838d7d9296ee57c8ac99eae0280af0729",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__zoom_in",
+      "candidate_1": {
+        "caption": "The camera frame in the middle of the screen disappears.",
+        "raw_sha256": "8383306114e163a364e551a31d58fa9aaa6be37dd461ade70964af480e6c82cb",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The black mouse, which was originally placed to the left of the keyboard on the desk, has moved to the right side of the keyboard. The monitor, which was previously tilted back, is now upright.",
+        "raw_sha256": "6c94d187cec291e9404757e79d43daefb12dedb0265b7227064e5a39de37b08b",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__zoom_out",
+      "candidate_1": {
+        "caption": "The blue storage box in the middle of the desk has disappeared. The black mouse, which was originally on the left side of the table, has moved to the right side of the keyboard.",
+        "raw_sha256": "ed31033f10bf734c6a51924fc14568e667f0f9791b9d496875da1253e7bcf981",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The camera perspective shifts to the right, revealing more of the desk and its items.",
+        "raw_sha256": "d1c061559fc563a4b72111a87969d836a1f70488ba367ef1b5bb631ed26086cc",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__roll",
+      "candidate_1": {
+        "caption": "The camera frame in the middle of the desk disappears.",
+        "raw_sha256": "9d0b2f0b7cd4b5f6f7bdf21a20324366c603e23fe07ebec4e8b6febe870419d4",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The black keyboard on the desk has been moved to the left side of the mouse. The size of the monitor has increased. The flag hanging on the wall at the top right corner of the screen has disappeared.",
+        "raw_sha256": "a2e195a542a75e386ce77cef648a9c4e6841b9fb52cafc53c283256b6412f95f",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__brightness",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The flag on the right side of the top shelf in the corner of the table, which had a red and blue striped design, is no longer visible.",
+        "raw_sha256": "79f55586b01d406015ee6ffb56ece3aded11e6432402d84ec40e7edf50cdb36b",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_06__natural",
+      "candidate_1": {
+        "caption": "The black mouse on the left side of the keyboard has moved to the right side of the keyboard. The black mouse on the mouse pad has disappeared. The black camera lens on the left side of the table has appeared. The stacked books in the middle shelf of the desk have changed from a blue book on top with a yellow bookmark to two yellow books. The red and blue flag hanging on the wall above the table has disappeared. The black keyboard cover on the black keyboard on the desk has disappeared.",
+        "raw_sha256": "4e7c8aa7edf067facc7948c6d8af78acc9e3e8efaa5cb1b679203b7b4f44c208",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Second mouse disappearance, book-color change, flag disappearance and keyboard-cover disappearance"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The camera lens on the left side of the keyboard is visible. The stacked books in the middle of the desk are no longer present, and a new camera with a lens has appeared to the right of the keyboard. The mouse has moved from the front left of the keyboard to the front right of the keyboard.",
+        "raw_sha256": "184ddfc89b8ed4c00af13d03c410840497f4b266bbf7c26e98eb41976b5e45ce",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Books disappear; camera additionally placed right of keyboard"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__identity",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame opens its mouth.",
+        "raw_sha256": "7c287405c22c9387c72c25b8510d5a82e656bc85be962d02a9e92b4a2fa44be5",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the image, which was previously yawning with its mouth open, is now no longer yawning.",
+        "raw_sha256": "2b3112772a7cf78058bcd66fb92c297660f971574d0b5bef1c4f851a57fe166e",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__zoom_in",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously raising its head and mouth, is now lowering its head and mouth.",
+        "raw_sha256": "d3aa62e039e2eda75ebe2db6b5863d9c45f91cfe59cf219a5a0a960198007d7d",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now closing its mouth.",
+        "raw_sha256": "b87d9e8bbcf346b4e60feb7374526b33b5d3e5d4e264319642d6bc0a4b9d6fc5",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__zoom_out",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously facing left with its mouth open and tongue visible, is now facing right.",
+        "raw_sha256": "3d3bc895d3513db4348d04dd6b34402624d61c90edb13b72a77dcc5283167520",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the image, which was previously facing left with its mouth open and tongue sticking out, is now facing forward with its mouth closed.",
+        "raw_sha256": "7d7e53f91e35e5d89f0e6fd426b8c8ad3264beedf149a28a685ce4b0e4289287",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__roll",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now smiling with its mouth closed.",
+        "raw_sha256": "7be72b7296a10b3063be06bd7656dd518c2d88a921839b042833003a4403a967",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open and tongue visible, is now looking up at the camera.",
+        "raw_sha256": "8869ece0892589392be42b3beba9e5ed780182dce2346e9a49332b763be2ca0d",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__brightness",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now no longer yawning.",
+        "raw_sha256": "489654573671e59819136107e28825c3f62b5391d84f022cfd7f05ede636614c",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the image, which was previously yawning with its mouth open, is now no longer doing so.",
+        "raw_sha256": "8a84e86c54adfae8f780c3a9a9cfb73e80a828261901a463c538b75005610d23",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Real_07__natural",
+      "candidate_1": {
+        "caption": "The polar bear on the right side of the image, which was previously standing with its mouth open and head tilted to the left, is now lying down with its head resting on the snow. The polar bear in the middle of the image, which was previously lying on the snow with its head facing downward, is now lying on the snow with its head resting on the back of the polar bear on the left.",
+        "raw_sha256": "df2b077005526296e7909ef4e40947f8a763210edcdc2131482c4c301dc9db45",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Adult is said to lie on snow rather than remain seated/lean over cub"
+        ],
+        "uncertain": [
+          "Cub support surface uncertain"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The polar bear on the right side of the frame has its mouth open, revealing its tongue. The polar bear in the middle has lowered its head and is resting against the mother polar bear's back.",
+        "raw_sha256": "684d2efc33872a68f829e820d757dd65f2e157d9cbd251be72c9e27e4e0a08dd",
+        "facts": [
+          2
+        ],
+        "unsupported": [
+          "Adult mouth said to be open after it closes"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_00__identity",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The area is now brighter.",
+        "raw_sha256": "3b539bbe6cf6931b3ff4097a2f1576cd9fa774e76331317ba9a5c941aeb6f01c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_00__zoom_in",
+      "candidate_1": {
+        "caption": "The lighting has changed. The beds in the center of the scene have been lowered.",
+        "raw_sha256": "c11acb5b58e4c4f4ca5f164c80f54e4d1b0a87f9ab00bca0ecc244280554b196",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The bouquet of flowers on the bedside table to the left of the first bed on the right side of the scene has changed from blue and white to red, green, and white. The second painting from the left above the wall-mounted cabinet on the left side of the room is no longer visible.",
+        "raw_sha256": "dc70be76e45b0297515c4586a207e4ff325c87c502d5ced3d1f7fa6f3cca5453",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_00__zoom_out",
+      "candidate_1": {
+        "caption": "The area is now brighter. The blue and white flowers in the flowerpot on the bedside table to the left of the room have been replaced with red and white flowers.",
+        "raw_sha256": "b06f2fddb907be4632e72b338531160225b45f8af69fd90c89bb55aee11d8c5f",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The leftmost bed in the foreground has a gray blanket, and its side table is visible.",
+        "raw_sha256": "e1ba5eb38cda24ced70039d9ed7892e5c2a0aa5104b0b4df43a18ae2517b1416",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_00__roll",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The left and right beds are rotated counterclockwise, with the headboard facing the center of the room instead of the wall.",
+        "raw_sha256": "9d4f6e39d178b9c44b0999840b43672e48c0e392bd2b1e7c9fedd309e0e979fb",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The rectangular painting with a red flower on a white background, which was hanging above the leftmost bedside table in the first row of the room, is no longer present.",
+        "raw_sha256": "97837c3f10b21416d7c6e8823d660ab46a91eb92d687ac6d93f28f71e3856f0c",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_00__brightness",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The area is now brighter.",
+        "raw_sha256": "3b539bbe6cf6931b3ff4097a2f1576cd9fa774e76331317ba9a5c941aeb6f01c",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_00__natural",
+      "candidate_1": {
+        "caption": "The area has grown darker.",
+        "raw_sha256": "1146400e7b34435c188324ea31e98838ede59e2867da06a19d3df3972fdad136",
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become darker.",
+        "raw_sha256": "e0393ecd112d2ace3a922ff52a0dd34d664510ccdd71d6b62a2f00b91f594b9c",
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_01__identity",
+      "candidate_1": {
+        "caption": "The white chair behind the wooden table on the right side of the room has disappeared. The transparent glass goblet in the center of the dining table has disappeared.",
+        "raw_sha256": "62a2aeed42b594c9227413b057cba58e25b22c889bc2ab3f53c42206484c06a7",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_01__zoom_in",
+      "candidate_1": {
+        "caption": "The white chair on the right side of the room has turned from facing the camera to facing the table. The two glasses of orange juice in the center of the table have been replaced with two cups of coffee.",
+        "raw_sha256": "d6539cc073f0a2b81f791adb75a88b46d4a34e6e6927dee6eee7cefbe34d3df0",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The white plate on the right side of the table has been moved to the left, and a new glass of orange juice has appeared in its original position.The red kettle on the black countertop at the back right of the kitchen has disappeared.The transparent glass water bottle on the left side of the table has been replaced by a new one with a yellow label.",
+        "raw_sha256": "802e1449c061e147a499263c61dd48ab55981927eabf8256b579daa2e982045d",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_01__zoom_out",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The white chair on the right side of the room has turned from facing the camera to facing the table. The transparent glass goblet in the center of the dining table has disappeared. The white plate with a slice of cake at the back left of the table has changed from two slices to one.",
+        "raw_sha256": "c183a7fc7a6c084009b10726411326a92f0aef0fa9cd3fe148fe8ecc3406337d",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_01__roll",
+      "candidate_1": {
+        "caption": "The red and white kettle on the black countertop at the back right of the scene has disappeared. The dining chair behind the table has turned from facing the camera to facing the cabinet on the left side of the room. The white teapot on the black countertop at the back right of the scene has disappeared. The white coffee machine on the black countertop at the back right of the scene has disappeared. The white plate in the center of the dining table has changed from white to transparent. The two glasses of orange juice on the table have changed from full to half full.",
+        "raw_sha256": "1ffa5149d055da5576dd9f3b05de888582ddfdecc21387c289454680f9dc3430",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_01__brightness",
+      "candidate_1": {
+        "caption": "The light in the scene has increased.",
+        "raw_sha256": "b982e336621add1b6a5d9172d0fa95371e913b135502124aad1d4d7ecd83edda",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_01__natural",
+      "candidate_1": {
+        "caption": "A person wearing a white top and blue pants has appeared near the stove on the right side of the kitchen, facing away from the camera and toward the stove. The word \"kitchen\" in light blue letters has appeared on the floor in front of the round table in the center of the scene.",
+        "raw_sha256": "51c0af42d4ea7cfba9f931bac2b8de90619f33460555b8bbf5055267b5fab735",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "A woman wearing a white top and blue pants appears in front of the stove on the right side of the kitchen, facing the wooden table. The word \"kitchen\" in light blue letters has appeared on the floor in front of the wooden table.",
+        "raw_sha256": "b7757afd244a60ded349d7c32243852a7eca69445c34b0bc2843a22fbb7d95fe",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Person said to face table rather than counter/stove"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__identity",
+      "candidate_1": {
+        "caption": "The white cup in the center of the picnic mat has increased in size.",
+        "raw_sha256": "f8358361f9dd2f65618a0b614b21e2fea330a552a6030aeccaa47564d84f626b",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__zoom_in",
+      "candidate_1": {
+        "caption": "The scene has become darker.",
+        "raw_sha256": "e0393ecd112d2ace3a922ff52a0dd34d664510ccdd71d6b62a2f00b91f594b9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The white cup on the green mat has been rotated, changing its orientation from facing the front of the scene to facing the back left.",
+        "raw_sha256": "16938251b3de05a3ab1df28f6c9338ece19e15fed91cc0dd0c2e4703845bb906",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__zoom_out",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. The blue and white striped lounge chair on the right side of the image rotates to the left, changing its orientation from facing the camera to facing the left side of the image.",
+        "raw_sha256": "242eb3e2fe7a4e0ebde3cd488c591d2f26d9ab4a44f1fd3af5180243d6220e5b",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The blue and white striped wooden lounge chair, which was originally facing the camera, is now facing away from the camera.",
+        "raw_sha256": "c222d3a85f06c2c153656b02df6a864df082684a933a1c5e58cafd73ffe06e2b",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__roll",
+      "candidate_1": {
+        "caption": "The blue-and-white striped beach chair on the right side of the scene has turned from facing the left side of the screen to facing the right side. The size of the white cup in the center of the picnic mat has decreased.",
+        "raw_sha256": "1f04e4f6b2567a6bbce450fa11286599cc5e898a02cb33a29517ebfa5fd7c2b0",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more visible. The blue-and-white striped beach chair on the right side of the mat rotates to the left, changing its orientation from facing the camera to facing the left side of the image.",
+        "raw_sha256": "67d2478dc5a76ea182389d307b9adbfb51661e4d8c698c2b9015c8833bbc1d76",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__brightness",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "raw_sha256": "f21c3c239d2c6616527a2116a3754237b08231f37afe164e4ebb2195244d6c6e",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The size of the gray rock on the right side of the scene has been reduced.",
+        "raw_sha256": "4a8e474ccb835eac0ab1ed3595a9b37c799267877594f953ae6bd4cb424060a7",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_02__natural",
+      "candidate_1": {
+        "caption": "The blue and white striped foldable chair, originally facing the waterfall, is now turned to face the picnic mat. The green picnic mat in front of the blue and white lounge chair has been replaced with a red and white checkered picnic blanket featuring the word \"picnic\" printed on it. The brown cup in the center of the picnic mat has changed from brown to red.",
+        "raw_sha256": "bda35508f631c88ba2933f250c56f60652c92b4ac19add78267f3d8345c58701",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Chair rotation not established"
+        ],
+        "uncertain": [
+          "Cup-color detail may be real; not required"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The blue-and-white striped beach chair moves from the right side of the picnic mat to the left side. The green picnic blanket is replaced by a red and white checkered picnic blanket with the word \"picnic\" printed on it. The two brown cups, one in front of the white cup and the other behind it, are replaced by a single red cup.",
+        "raw_sha256": "3d79546abeac96b739f2fa7da646fc52595d7fcec21c153c66a64f759f88897d",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Chair relocates left and two cups reduce to one"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_03__identity",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_03__zoom_in",
+      "candidate_1": {
+        "caption": "The surroundings have brightened. The person standing on the left side of the road, near the corner formed by the building on the left and the sidewalk, is no longer visible.The black trash can at the rear right of the pedestrian crossing has increased in size.",
+        "raw_sha256": "25840f5b23cd038ae498bab1907be98e881a31180873b52576898c751f47f410",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The black trash can near the middle of the right sidewalk has been moved to the left side of the pedestrian crossing.",
+        "raw_sha256": "3ebd6f2305aab1b17f8c9514d9508d324882b4fd3466f27e45a80a24583d363f",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_03__zoom_out",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The black trash can at the rear right of the pedestrian crossing changes to brown.",
+        "raw_sha256": "ac20c910850d5f83ccd105c7f1df210f46104efabc1eb4f91515f3c11c0bc46f",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The surroundings have brightened. A new identical street sign has appeared on the left side of the road, positioned near the sidewalk and adjacent to the blue building.",
+        "raw_sha256": "d4c1f6442608ea49bfcdc1054559059a81177fee965c6e0d1f33d6ae1c5d0b72",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_03__roll",
+      "candidate_1": {
+        "caption": "The light in the scene has increased. A black car appears on the road near the streetlight at the corner of the road on the left side of the scene.",
+        "raw_sha256": "3de57c696f8f3c02e958a5219c26eb587342a33bf16f018b225a7c9f4f2cf307",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. A black car appears on the road near the small building.",
+        "raw_sha256": "ca6bc10de3fb25b4c467467ffbc551c71ac04021d712052bfb9ce1ca4d8abc63",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_03__brightness",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_03__natural",
+      "candidate_1": {
+        "caption": "The person in a black vest and blue pants is no longer visible. The man in a white shirt and black shorts, who was previously on the left side of the road, has moved to the right side of the road.",
+        "raw_sha256": "802fbec8eef58a64371033152302c2a57ef91ca4e292bbed196017a7891bc4a5",
+        "facts": [],
+        "unsupported": [
+          "Invented disappearing/moving people"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The man in a black vest and blue pants, who was on the left side of the road crossing, is now walking towards the camera.",
+        "raw_sha256": "3fab3874b8f89d0d87420091384f1218d30be49753d297c5e18e0c0f923ddeb4",
+        "facts": [],
+        "unsupported": [
+          "Invented walking person"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_04__identity",
+      "candidate_1": {
+        "caption": "The black rectangular speaker located above the blackboard, to the left of the white podium, is no longer visible.",
+        "raw_sha256": "adda94fba2a0b904f86a754b426ea991b78560396b96322458ac15e3e09d0506",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more symmetrical.",
+        "raw_sha256": "98c08260f41198b0d1c5573572576bb9e9746903bc0f17c017fda6700dc2461f",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_04__zoom_in",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The chair at the far right of the first row on the left side of the classroom has been moved to the middle position of the second row.",
+        "raw_sha256": "6d346cbed7c6a2c1c8250b36d20a4dc8b349d2f433627872115d54acf58c1201",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+        "raw_sha256": "2836e7c302bcaf5228175286804870a94f62342520253a414b72f1592b13d156",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_04__zoom_out",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the white podium in the center of the classroom has decreased in size.",
+        "raw_sha256": "8075ab67f0f2955da68ad9f42cf938b98237821dbd2c9fbd4f58fe88425ad460",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Smaller apparent blackboard under wider framing is not forced into physical error"
+        ],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being tilted to upright.",
+        "raw_sha256": "6d6763ecf2a0552f64b4a008aa1fd2d1b3d08e10f9cb1866efe552d16f608bac",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Smaller apparent blackboard under wider framing is not forced into physical error"
+        ],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_04__roll",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium has decreased in size.",
+        "raw_sha256": "a8e7f481f5d737398164717be24fe8d6be53fe37da50aed1af5445e00fc2a48a",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being entirely black to having a white chalk drawing of a person on it.",
+        "raw_sha256": "f9580217958cb02e61561d6bb3cdb239c874d9e238320dc193b702dfad424b59",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_04__brightness",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+        "raw_sha256": "2836e7c302bcaf5228175286804870a94f62342520253a414b72f1592b13d156",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_04__natural",
+      "candidate_1": {
+        "caption": "The blackboard at the front of the classroom, behind the teacher's podium, has decreased in size. A new yellow schoolbag has appeared on the desk at the far left of the first row on the right side of the classroom.",
+        "raw_sha256": "fcb8d222c9049cc94b0ac47c0dd3c563fe85f3c80b07534ba10af0b2f876946d",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Blackboard shrinkage not established"
+        ],
+        "uncertain": [
+          "Bag row description imprecise"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. A yellow schoolbag has appeared on the desk at the front left of the classroom.",
+        "raw_sha256": "6deb2e3d7741c7b8763d3e4119f482c1fa9fe3959f0b518f03e4cf007dcd9adc",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Global illumination change not established"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_05__identity",
+      "candidate_1": {
+        "caption": "The blackboard located behind the teacher's podium has increased in size.",
+        "raw_sha256": "4c15abc29b5a2aa0a7366f127331bf9ef25350a9472a3db3bc8e07cd54385c24",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more symmetrical.",
+        "raw_sha256": "98c08260f41198b0d1c5573572576bb9e9746903bc0f17c017fda6700dc2461f",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_05__zoom_in",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The chair at the front left of the blackboard, next to another identical chair, has disappeared.",
+        "raw_sha256": "9620be84e0f2f742a83f8a5cc05c16d4174cbd6a79a1a89a0e32d9d8bf41a72c",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located at the far end of the classroom, behind the podium, has decreased in size.",
+        "raw_sha256": "514930a6412f64689df2b5b03b4dc70fff2cc6d25d7937ad42c7ece1c06310ad",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_05__zoom_out",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the podium in the center of the classroom has decreased in size.",
+        "raw_sha256": "3497b59b4e38f68556721d4522d730fe2f2de43a9724d4e44041191d428c771d",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Smaller apparent blackboard under wider framing is not forced into physical error"
+        ],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard at the front of the classroom has decreased in size.",
+        "raw_sha256": "0442ebd59e531265009b3188d40c385925ff0ddbbdc0908f69ad24a4f65713c5",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Smaller apparent blackboard under wider framing is not forced into physical error"
+        ],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_05__roll",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the podium in the center of the classroom has decreased in size.",
+        "raw_sha256": "3497b59b4e38f68556721d4522d730fe2f2de43a9724d4e44041191d428c771d",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being brighter to darker.",
+        "raw_sha256": "4b08b3370f6a3b79892edcd0fa2b45ab6569d988487103fabf804b34b01f1e4c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_05__brightness",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located behind the podium in the center of the classroom, above the teacher's podium, has decreased in size.",
+        "raw_sha256": "c1c4575c2112cf132d3adc92b610e67a9d04c1dfad23bed4f417c18c0eaa2923",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_05__natural",
+      "candidate_1": {
+        "caption": "The blackboard located behind the teacher's podium has decreased in size. The first row of desks on the right side of the classroom has disappeared.",
+        "raw_sha256": "f34777fa1b93a3f22b2fc21e61017709d3c197382c9eab9ae822265cdf55e966",
+        "facts": [],
+        "unsupported": [
+          "Blackboard shrinkage and desk-row disappearance"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The black table in the front left of the classroom is replaced by a black table with a wooden top.",
+        "raw_sha256": "5c49584bbe7cf11cf6d2dc36164aa2cf753e52c54c1ffb2b9d11ed1499f84e7e",
+        "facts": [],
+        "unsupported": [
+          "Tabletop color change reversed; global brightening not established"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_06__identity",
+      "candidate_1": {
+        "caption": "The red and white kettle on the black countertop to the left of the oven has disappeared.",
+        "raw_sha256": "854cc1115d9382e42cc27ddf85d926ab581cd522a5b11eee4351d47827d42e8a",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_06__zoom_in",
+      "candidate_1": {
+        "caption": "The two wine glasses on the black countertop at the back right of the scene have disappeared. The red and white kettle on the black countertop at the back right of the scene has disappeared. The transparent glass goblet in the center of the dining table has changed from yellow to transparent. The white plate at the back left edge of the dining table has disappeared.",
+        "raw_sha256": "910ff27ea20aeca889eb0271e05a49f0813fc7187dd4313068b867dfba2fb9a7",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_06__zoom_out",
+      "candidate_1": {
+        "caption": "The light in the scene has increased.",
+        "raw_sha256": "b982e336621add1b6a5d9172d0fa95371e913b135502124aad1d4d7ecd83edda",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The white chair on the right side of the dining table has turned from facing the camera to facing the left side of the room.The oven at the back right of the kitchen has changed from a black front panel to a red front panel.The two wine glasses in the center of the table have disappeared.The white teapot on the black countertop on the right side of the kitchen has disappeared.",
+        "raw_sha256": "782fb4d0e6e1bec2e15917f2d6109e7bec757f64fb550180bdd7e18014c3ca83",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_06__roll",
+      "candidate_1": {
+        "caption": "The red and white kettle on the black countertop at the back right of the scene has disappeared. The transparent glass goblet on the black countertop at the back right of the scene has disappeared. The white kettle on the black countertop at the back right of the scene has disappeared. The white microwave above the black countertop at the back right of the scene has disappeared. The two glasses of orange juice in front of the right side of the wooden table have changed from full to half full.",
+        "raw_sha256": "2759e5657e480e5bf0881f1724ed4e3a8a0107557a75d340b38d065757662175",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_06__brightness",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased.",
+        "raw_sha256": "b982e336621add1b6a5d9172d0fa95371e913b135502124aad1d4d7ecd83edda",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_06__natural",
+      "candidate_1": {
+        "caption": "The white chair on the right side of the round table has disappeared. The transparent glass water bottle on the left side of the round table has disappeared. The yellow coffee maker on the black countertop to the right of the stove has changed color from yellow to green. The red and white striped box in the center of the dining table has been replaced with a plate of pizza. The white teapot on the black countertop at the back right of the scene has disappeared. The two glasses of orange juice, originally placed on the round table, have been replaced by two glasses of white wine.",
+        "raw_sha256": "8cc7097104c576816b480e804d6260b5d2ed27dac576d0240d3288dd35e4c0dc",
+        "facts": [
+          1,
+          3,
+          4
+        ],
+        "unsupported": [
+          "Box replaced by pizza; teapot disappearance; juice replaced by white wine"
+        ],
+        "uncertain": [
+          "Correct green countertop appliance identified as coffee maker"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The chair on the right side of the round table has disappeared. The chair on the left side of the round table has also disappeared. The transparent glass water jug on the round table has disappeared. The yellow coffee cup in the center of the table has changed to a white one. The red kettle on the black countertop at the back right of the kitchen has changed to green. The two stacked plates on the left side of the table have been replaced by a single plate with a sandwich on top.",
+        "raw_sha256": "fcfecc007623ba2806f3f6b4a1b0f0411ad47058847ad4f79b513c3a3b0b6e78",
+        "facts": [
+          1,
+          3,
+          4
+        ],
+        "unsupported": [
+          "Left chair disappears; yellow cup becomes white"
+        ],
+        "uncertain": [
+          "Countertop appliance called kettle; plate/sandwich details uncertain"
+        ],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_07__identity",
+      "candidate_1": {
+        "caption": "The blue spray-painted tag on the wall at the bottom right corner of the stairs has disappeared.",
+        "raw_sha256": "bb63cd844dbb676fae9b8343684466060d92e4239a18ebd4eb980ed427899935",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "raw_sha256": "54500aa9d2835e72bc0ab255db5921b1396c1f9811b57a95f45019917f8a3c04",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_07__zoom_in",
+      "candidate_1": {
+        "caption": "The blue spray-painted tag on the wall near the floor on the right side of the stairs has changed from vertical to horizontal. The graffiti on the wall at the top of the stairs, near the railing and behind the yellow electric vehicle, has changed from white to black.",
+        "raw_sha256": "7f22a3ce6a447f86fc9ed56f1d9b2dd5a5adb53fbcab1ba6b75b61cceea5fcca",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The blue spray-painted tag on the wall to the right of the yellow electric vehicle changes from vertical to horizontal.",
+        "raw_sha256": "68204dad75082a021b6732ecc77edab0343fa53b81ad43e59931f6547ec23487",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_07__zoom_out",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. The blue spray-painted tag on the wall to the right of the yellow electric vehicle changes from \"WSS\" to \"WSS\".",
+        "raw_sha256": "05142ee37c3c16731965fb7ffd65e8f883495f32e5d8bdbf3649b326ae995274",
+        "physical": 1,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The blue spray-painted word \"WOLF\" on the wall above the yellow motorcycle has been moved to the right side of the wall, next to the light fixture. The graffiti on the wall at the top of the stairs, near the railing and behind the yellow vehicle, has changed from white to black.",
+        "raw_sha256": "8e85d4bc24cff740c8aab46cef0d2f1526c6590568ca59016fb85f8d2846ce31",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_07__roll",
+      "candidate_1": {
+        "caption": "The yellow electric vehicle in the rear right corner of the scene has turned from facing forward to facing left.",
+        "raw_sha256": "ea72726aadf85e5d947809a7450db2feee03659bf6dd36a33c824c1b543b6ddd",
+        "physical": 1,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 1,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 0
+      }
+    },
+    {
+      "id": "v2_Render_07__brightness",
+      "candidate_1": {
+        "caption": "The light in the scene has increased.",
+        "raw_sha256": "b982e336621add1b6a5d9172d0fa95371e913b135502124aad1d4d7ecd83edda",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "ack": 1
+      }
+    },
+    {
+      "id": "v2_Render_07__natural",
+      "candidate_1": {
+        "caption": "The streetlight on the right side of the stairs, which was facing downward, is now facing upward. A cylindrical trash can with a white lid has appeared in the lower-left corner of the scene, positioned next to the stair railing and near the wall.",
+        "raw_sha256": "901762ffb3878c27f187c44f6fcfb8aa7933e0df056c6932834112ba2b4c1ac8",
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Lamp direction reversal not established"
+        ],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. A cylindrical trash can appears in the lower left corner of the stairs.",
+        "raw_sha256": "eefbbac82d0e2177672b817812c07d1577f372dd5618b5471540d1d49aeb9399",
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [],
+        "uncertain": [],
+        "physical": 0,
+        "false_light": 0,
+        "wrong_geometry": 0,
+        "ack": 0
+      }
+    }
+  ]
+}

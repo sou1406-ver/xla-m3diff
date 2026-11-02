@@ -1,0 +1,28 @@
+{
+  "arms": {
+    "positive_control": {
+      "checks": {
+        "new_physical_fp_decreases": true,
+        "old_Real_facts_preserved": false,
+        "old_Render_facts_preserved": false,
+        "new_Real_facts_preserved": true,
+        "new_Render_facts_preserved": true,
+        "new_unsupported_not_increased": true
+      },
+      "passes": false
+    },
+    "mixed_objective": {
+      "checks": {
+        "new_physical_fp_decreases": true,
+        "old_Real_facts_preserved": true,
+        "old_Render_facts_preserved": true,
+        "new_Real_facts_preserved": true,
+        "new_Render_facts_preserved": true,
+        "new_unsupported_not_increased": true
+      },
+      "passes": true
+    }
+  },
+  "selected_for_broader_evaluation": "mixed_objective",
+  "limits": "Adaptive development scenes, one seed, synthetic2D, assistant labels. Not final benchmark proof."
+}

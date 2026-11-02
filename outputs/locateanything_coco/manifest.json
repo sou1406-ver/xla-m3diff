@@ -1,0 +1,914 @@
+[
+  {
+    "case_id": "23272_car_single",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "original_size": [
+      500,
+      375
+    ]
+  },
+  {
+    "case_id": "23272_car_all",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        0.0,
+        0.08,
+        499.46,
+        371.06
+      ]
+    ],
+    "original_size": [
+      500,
+      375
+    ]
+  },
+  {
+    "case_id": "23272_chair_single",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      375
+    ]
+  },
+  {
+    "case_id": "23272_chair_all",
+    "image_id": 23272,
+    "file_name": "000000023272.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      375
+    ]
+  },
+  {
+    "case_id": "26204_car_single",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "case_id": "26204_car_all",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "car",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        374.63,
+        257.99,
+        509.28999999999996,
+        330.53000000000003
+      ],
+      [
+        522.3,
+        259.99,
+        603.5999999999999,
+        307.64
+      ],
+      [
+        388.2,
+        246.65,
+        432.78,
+        270.76
+      ],
+      [
+        578.86,
+        253.21,
+        639.85,
+        318.83000000000004
+      ],
+      [
+        163.71,
+        242.28,
+        291.65,
+        332.01
+      ]
+    ],
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "case_id": "26204_dog_single",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "case_id": "26204_dog_all",
+    "image_id": 26204,
+    "file_name": "000000026204.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "case_id": "632_chair_single",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "original_size": [
+      640,
+      483
+    ]
+  },
+  {
+    "case_id": "632_chair_all",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        244.82,
+        230.45,
+        349.53999999999996,
+        318.14
+      ]
+    ],
+    "original_size": [
+      640,
+      483
+    ]
+  },
+  {
+    "case_id": "632_car_single",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      483
+    ]
+  },
+  {
+    "case_id": "632_car_all",
+    "image_id": 632,
+    "file_name": "000000000632.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      483
+    ]
+  },
+  {
+    "case_id": "1993_chair_single",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "original_size": [
+      640,
+      419
+    ]
+  },
+  {
+    "case_id": "1993_chair_all",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "chair",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        109.22,
+        250.46,
+        227.86,
+        408.64
+      ],
+      [
+        0.0,
+        298.68,
+        35.15,
+        408.0
+      ]
+    ],
+    "original_size": [
+      640,
+      419
+    ]
+  },
+  {
+    "case_id": "1993_dog_single",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      419
+    ]
+  },
+  {
+    "case_id": "1993_dog_all",
+    "image_id": 1993,
+    "file_name": "000000001993.jpg",
+    "query": "dog",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      419
+    ]
+  },
+  {
+    "case_id": "22192_dog_single",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "22192_dog_all",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        71.57,
+        120.67,
+        215.59,
+        375.93
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "22192_car_single",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "22192_car_all",
+    "image_id": 22192,
+    "file_name": "000000022192.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "22892_dog_single",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "original_size": [
+      500,
+      334
+    ]
+  },
+  {
+    "case_id": "22892_dog_all",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "dog",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        35.62,
+        76.0,
+        288.96999999999997,
+        295.76
+      ]
+    ],
+    "original_size": [
+      500,
+      334
+    ]
+  },
+  {
+    "case_id": "22892_bottle_single",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "bottle",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      334
+    ]
+  },
+  {
+    "case_id": "22892_bottle_all",
+    "image_id": 22892,
+    "file_name": "000000022892.jpg",
+    "query": "bottle",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      500,
+      334
+    ]
+  },
+  {
+    "case_id": "14007_cat_single",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "14007_cat_all",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        340.25,
+        153.38,
+        416.88,
+        298.41999999999996
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "14007_car_single",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "14007_car_all",
+    "image_id": 14007,
+    "file_name": "000000014007.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "18833_cat_single",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "18833_cat_all",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "cat",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        186.67,
+        46.91,
+        507.37,
+        370.48
+      ]
+    ],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "18833_chair_single",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "18833_chair_all",
+    "image_id": 18833,
+    "file_name": "000000018833.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      426
+    ]
+  },
+  {
+    "case_id": "35279_bottle_single",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "original_size": [
+      640,
+      463
+    ]
+  },
+  {
+    "case_id": "35279_bottle_all",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        445.74,
+        62.58,
+        526.3,
+        215.82999999999998
+      ]
+    ],
+    "original_size": [
+      640,
+      463
+    ]
+  },
+  {
+    "case_id": "35279_car_single",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      463
+    ]
+  },
+  {
+    "case_id": "35279_car_all",
+    "image_id": 35279,
+    "file_name": "000000035279.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      463
+    ]
+  },
+  {
+    "case_id": "50811_bottle_single",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "original_size": [
+      640,
+      605
+    ]
+  },
+  {
+    "case_id": "50811_bottle_all",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "bottle",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        448.87,
+        314.95,
+        521.73,
+        576.46
+      ],
+      [
+        524.71,
+        316.61,
+        595.36,
+        592.8199999999999
+      ],
+      [
+        448.06,
+        332.8,
+        467.86,
+        443.77
+      ]
+    ],
+    "original_size": [
+      640,
+      605
+    ]
+  },
+  {
+    "case_id": "50811_chair_single",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      605
+    ]
+  },
+  {
+    "case_id": "50811_chair_all",
+    "image_id": 50811,
+    "file_name": "000000050811.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      605
+    ]
+  },
+  {
+    "case_id": "12576_cup_single",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "original_size": [
+      480,
+      640
+    ]
+  },
+  {
+    "case_id": "12576_cup_all",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        140.27,
+        200.59,
+        217.17000000000002,
+        345.93
+      ],
+      [
+        364.34,
+        209.36,
+        455.82,
+        377.5
+      ],
+      [
+        272.33,
+        118.99,
+        311.2,
+        194.22
+      ],
+      [
+        381.72,
+        112.81,
+        426.25,
+        171.11
+      ]
+    ],
+    "original_size": [
+      480,
+      640
+    ]
+  },
+  {
+    "case_id": "12576_car_single",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      480,
+      640
+    ]
+  },
+  {
+    "case_id": "12576_car_all",
+    "image_id": 12576,
+    "file_name": "000000012576.jpg",
+    "query": "car",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      480,
+      640
+    ]
+  },
+  {
+    "case_id": "25986_cup_single",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "single",
+    "gt_boxes_original": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "original_size": [
+      640,
+      480
+    ]
+  },
+  {
+    "case_id": "25986_cup_all",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "cup",
+    "positive": true,
+    "style": "all",
+    "gt_boxes_original": [
+      [
+        370.13,
+        203.05,
+        448.67,
+        319.96000000000004
+      ]
+    ],
+    "original_size": [
+      640,
+      480
+    ]
+  },
+  {
+    "case_id": "25986_chair_single",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "single",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      480
+    ]
+  },
+  {
+    "case_id": "25986_chair_all",
+    "image_id": 25986,
+    "file_name": "000000025986.jpg",
+    "query": "chair",
+    "positive": false,
+    "style": "all",
+    "gt_boxes_original": [],
+    "original_size": [
+      640,
+      480
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "seed": 2026102802,
+  "selected": [
+    {
+      "scene": "fresh_Real_00",
+      "split": "Real",
+      "original_id": "real_test_pair_000242",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000056.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000058.jpg"
+      ],
+      "decoded_sha256": [
+        "571f45c2b0df049a4cab3f5f423566f2983689a9c5f77a0b10c8d75e7f9d71d1",
+        "dfdea8b593917eb8e2c9d127d2eda071bd02978cd3e6761a11e6924fd65fe59f"
+      ]
+    },
+    {
+      "scene": "fresh_Real_01",
+      "split": "Real",
+      "original_id": "real_test_pair_000278",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000066.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000068.jpg"
+      ],
+      "decoded_sha256": [
+        "09dade3751f96734976afbab520bf30b9d2338d4946b45309b704d3573a371b2",
+        "b236fb62f1889cf1281be62e88b0b10b20e0b441cf087fac4f06ccc864b3787c"
+      ]
+    },
+    {
+      "scene": "fresh_Real_02",
+      "split": "Real",
+      "original_id": "real_test_pair_000059",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000015.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000011.jpg"
+      ],
+      "decoded_sha256": [
+        "a46673a7e4c06c311048bf8d955c11d13e46ea271822d4df1e167a85cf432cbc",
+        "030386edff16372af330a30d5963138d1d72a6bd6c3aa9204f932d3e5463d75f"
+      ]
+    },
+    {
+      "scene": "fresh_Real_03",
+      "split": "Real",
+      "original_id": "real_test_pair_000327",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000075.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000080.jpg"
+      ],
+      "decoded_sha256": [
+        "d03447eee49a97861b8d66638038020bb7a88cb554a3a9e253bb98aaf8cc815e",
+        "4fb4b777167796e0afc45acaa408f611fe93b8d2af85989b09bddfbeb82da276"
+      ]
+    },
+    {
+      "scene": "fresh_Real_04",
+      "split": "Real",
+      "original_id": "real_test_pair_000107",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000036.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000027.jpg"
+      ],
+      "decoded_sha256": [
+        "5804f94c09b79c1f4cbc5e0c9cf808e7ad13a5b4aa804d9119e28d52d4734b65",
+        "8a187101d351320f879a4b4f9bb2c88c3d50715c87e68f08be37c8f965396926"
+      ]
+    },
+    {
+      "scene": "fresh_Real_05",
+      "split": "Real",
+      "original_id": "real_test_pair_000030",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000004.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000007.jpg"
+      ],
+      "decoded_sha256": [
+        "7f1df139157dddb086995822fd7a4eacc450c830ff713992e2d42760f2edc318",
+        "0922da52649752a58c5470e21c0b822e1d19c31a2f908eadf37187690738e258"
+      ]
+    },
+    {
+      "scene": "fresh_Real_06",
+      "split": "Real",
+      "original_id": "real_test_pair_000172",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000038.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000042.jpg"
+      ],
+      "decoded_sha256": [
+        "ee5b1e97ca06059d923ca8a6d88e0d1834d81b86cfda144301bce2dbd656077d",
+        "1fc378b542897f4bfd5f30f29f05f793af4ef1a45df6df77fc470c4a057067ca"
+      ]
+    },
+    {
+      "scene": "fresh_Real_07",
+      "split": "Real",
+      "original_id": "real_test_pair_000754",
+      "image": [
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000177.jpg",
+        "baseline_cache/OmniDiff/Real/test/images/real_test_000179.jpg"
+      ],
+      "decoded_sha256": [
+        "3b40f0fff5f9531dc936722497322a30d3a5e7e63e059cb540f332ca11f0216e",
+        "c113f02fdbd56d04006972dd989c75397b518a2ee5ed3c6d8306d4ccc5a049de"
+      ]
+    },
+    {
+      "scene": "fresh_Render_00",
+      "split": "Render",
+      "original_id": "render_test_pair_000434",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000009.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000011.jpg"
+      ],
+      "decoded_sha256": [
+        "3e39457bdaa2cf48ce72b3ab1694df6e44321e7e6a633868e7322d57bf74057d",
+        "1e3b7521b55eb3d12084818bcf07257289b69ef26f746d8463b27b14ef68e3f3"
+      ]
+    },
+    {
+      "scene": "fresh_Render_01",
+      "split": "Render",
+      "original_id": "render_test_pair_000303",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000050.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000044.jpg"
+      ],
+      "decoded_sha256": [
+        "57cdfb6b8f188619b24eaf1d8b65d0faa6b2fc894bdf852f39f6921ca701616d",
+        "124162ba06cc1e2723adb01f70bf8c28e35285c28dac7c877ef4e3c803900315"
+      ]
+    },
+    {
+      "scene": "fresh_Render_02",
+      "split": "Render",
+      "original_id": "render_test_pair_000714",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000058.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000056.jpg"
+      ],
+      "decoded_sha256": [
+        "9e7fabbc1ad9bdaee025043e859e584178b379090a0572c256f53829d84e50ae",
+        "efa49556a60c6c1e6f915502842acf1f444e2963e60ac176f143db6af0f7b1c8"
+      ]
+    },
+    {
+      "scene": "fresh_Render_03",
+      "split": "Render",
+      "original_id": "render_test_pair_000187",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000033.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000036.jpg"
+      ],
+      "decoded_sha256": [
+        "2360bf5b66eb711a3687a691ffcf3a90c5241976c2c75569a6547ebfc5693ba6",
+        "abe61c2eecbb67b99d7be1b4f7885bef854c400b2c74293e07448d4e1ccfa21d"
+      ]
+    },
+    {
+      "scene": "fresh_Render_04",
+      "split": "Render",
+      "original_id": "render_test_pair_000459",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000013.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000003.jpg"
+      ],
+      "decoded_sha256": [
+        "dd474b5b8b5286bc83f9177f9246724d2bc351e8cc02eff32dfee854bde24f32",
+        "bf0e20a840ef5cb28b7da6f3aea58ec3fbe280bc431e56710b2e0a60dbd32a04"
+      ]
+    },
+    {
+      "scene": "fresh_Render_05",
+      "split": "Render",
+      "original_id": "render_test_pair_000260",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000041.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000043.jpg"
+      ],
+      "decoded_sha256": [
+        "38c3c9b76bc212d3546f2fd9d9cb7fea2b5d607290eb49557906fce03bcd0bb2",
+        "fe999445e9d09f76e4214f3dbef226b0bf9712c1173932b5b172e118fef4a5ed"
+      ]
+    },
+    {
+      "scene": "fresh_Render_06",
+      "split": "Render",
+      "original_id": "render_test_pair_000371",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000061.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000062.jpg"
+      ],
+      "decoded_sha256": [
+        "915dc7433d19361e29901568e4bf5e4267094a6329f65906c939e78cbd49d344",
+        "626ff62f3cdf73531096d32577a551b4ae2b6ac617a59bbcd4072e58a5c96640"
+      ]
+    },
+    {
+      "scene": "fresh_Render_07",
+      "split": "Render",
+      "original_id": "render_test_pair_000157",
+      "image": [
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000026.jpg",
+        "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000025.jpg"
+      ],
+      "decoded_sha256": [
+        "6ce6b077754a078b475c1b840bca56d2376cb9182f808d920a763cb8e91e4fcd",
+        "ee9a63195bdde3b246d6408c2e0959d24ab7405b812832a237ef7e7ec48840a6"
+      ]
+    }
+  ],
+  "n_excluded_decoded_hashes": 497,
+  "exact_hash_collision_count": 0,
+  "limits": "Different RGB does not guarantee different semantic scene. Same dataset, not outside-domain validation."
+}

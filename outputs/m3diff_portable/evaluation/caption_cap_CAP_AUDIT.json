@@ -1,0 +1,221 @@
+{
+  "probes": [
+    {
+      "probe": "LoRA256",
+      "cap": 256,
+      "status": {
+        "n_expected": 23,
+        "n_completed": 23,
+        "complete": true,
+        "soft_stopped": false,
+        "exit_code": 0,
+        "elapsed_seconds": 165.872219625,
+        "GPU": "NVIDIA A10G, 23028 MiB",
+        "adapter_sha256": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f",
+        "cached_reference_not_same_run_timing": true
+      },
+      "natural_n": 19,
+      "natural_exact_match_cached_cross_job": 8,
+      "natural_cap_hit_ids": [],
+      "long_cases": [
+        {
+          "id": "render_test_pair_000412",
+          "cached1024_words": 969,
+          "capped_words": 247,
+          "common_prefix_words_vs_cache": 247,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "render_test_pair_000405",
+          "cached1024_words": 936,
+          "capped_words": 233,
+          "common_prefix_words_vs_cache": 233,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "render_test_pair_000427",
+          "cached1024_words": 935,
+          "capped_words": 244,
+          "common_prefix_words_vs_cache": 244,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "render_test_pair_000450",
+          "cached1024_words": 913,
+          "capped_words": 234,
+          "common_prefix_words_vs_cache": 234,
+          "cap_hit": true,
+          "token_slots": 256
+        }
+      ],
+      "cached_comparison_limit": "Natural cached captions came from earlierA100 pilot; these probes useA10/A10G. Differences below cap cannot be attributed to truncation. Long cached references came from earlier full runs, not the same model instance."
+    },
+    {
+      "probe": "base256",
+      "cap": 256,
+      "status": {
+        "model": "published base, no LoRA",
+        "cap": 256,
+        "n_expected": 23,
+        "n_completed": 23,
+        "complete": true,
+        "soft_stopped": false,
+        "exit_code": 0,
+        "elapsed_seconds": 124.14808792699999,
+        "GPU": "NVIDIA A10, 23028 MiB",
+        "base_config_sha256": "cd0608586cce1eb0af4f5ea61f873598fff45920a3b450609a17155f96eaaa95",
+        "cached_reference_not_same_run_timing": true
+      },
+      "natural_n": 19,
+      "natural_exact_match_cached_cross_job": 6,
+      "natural_cap_hit_ids": [],
+      "long_cases": [
+        {
+          "id": "render_test_pair_000706",
+          "cached1024_words": 983,
+          "capped_words": 245,
+          "common_prefix_words_vs_cache": 245,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "real_test_pair_000351",
+          "cached1024_words": 982,
+          "capped_words": 245,
+          "common_prefix_words_vs_cache": 245,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "real_test_pair_000355",
+          "cached1024_words": 982,
+          "capped_words": 246,
+          "common_prefix_words_vs_cache": 246,
+          "cap_hit": true,
+          "token_slots": 256
+        },
+        {
+          "id": "render_test_pair_000436",
+          "cached1024_words": 967,
+          "capped_words": 246,
+          "common_prefix_words_vs_cache": 246,
+          "cap_hit": true,
+          "token_slots": 256
+        }
+      ],
+      "cached_comparison_limit": "Natural cached captions came from earlierA100 pilot; these probes useA10/A10G. Differences below cap cannot be attributed to truncation. Long cached references came from earlier full runs, not the same model instance."
+    },
+    {
+      "probe": "base128",
+      "cap": 128,
+      "status": {
+        "model": "published base, no LoRA",
+        "cap": 128,
+        "n_expected": 23,
+        "n_completed": 23,
+        "complete": true,
+        "soft_stopped": false,
+        "exit_code": 0,
+        "elapsed_seconds": 151.06949115199998,
+        "GPU": "NVIDIA A10, 23028 MiB",
+        "base_config_sha256": "cd0608586cce1eb0af4f5ea61f873598fff45920a3b450609a17155f96eaaa95",
+        "cached_reference_not_same_run_timing": true,
+        "same_GPU_natural_controls_enabled": true,
+        "caption_row_generation_seconds_includes_control": true
+      },
+      "natural_n": 19,
+      "natural_exact_match_cached_cross_job": 6,
+      "natural_cap_hit_ids": [
+        "new__render_kitchen__natural"
+      ],
+      "long_cases": [
+        {
+          "id": "render_test_pair_000706",
+          "cached1024_words": 983,
+          "capped_words": 122,
+          "common_prefix_words_vs_cache": 122,
+          "cap_hit": true,
+          "token_slots": 128
+        },
+        {
+          "id": "real_test_pair_000351",
+          "cached1024_words": 982,
+          "capped_words": 122,
+          "common_prefix_words_vs_cache": 122,
+          "cap_hit": true,
+          "token_slots": 128
+        },
+        {
+          "id": "real_test_pair_000355",
+          "cached1024_words": 982,
+          "capped_words": 123,
+          "common_prefix_words_vs_cache": 123,
+          "cap_hit": true,
+          "token_slots": 128
+        },
+        {
+          "id": "render_test_pair_000436",
+          "cached1024_words": 967,
+          "capped_words": 123,
+          "common_prefix_words_vs_cache": 123,
+          "cap_hit": true,
+          "token_slots": 128
+        }
+      ],
+      "cached_comparison_limit": "Natural cached captions came from earlierA100 pilot; these probes useA10/A10G. Differences below cap cannot be attributed to truncation. Long cached references came from earlier full runs, not the same model instance.",
+      "same_GPU_natural": {
+        "n": 19,
+        "exact_caption_matches": 18,
+        "changed_ids": [
+          "new__render_kitchen__natural"
+        ],
+        "controls_token_slots": {
+          "old__furniture__natural": 59,
+          "old__exercise__natural": 65,
+          "old__yoga__natural": 78,
+          "old__mouse__natural": 45,
+          "old__kitchen__natural": 39,
+          "old__silhouette__natural": 72,
+          "old__hospital__natural": 52,
+          "old__street__natural": 32,
+          "old__picnic__natural": 21,
+          "old__office__natural": 77,
+          "old__greenhouse__natural": 69,
+          "old__classroom__natural": 34,
+          "new__computer_desk__natural": 105,
+          "new__snowy_street__natural": 109,
+          "new__basin_shelf__natural": 61,
+          "new__city_intersection__natural": 59,
+          "new__bunk_bedroom__natural": 40,
+          "new__bicycle_alley__natural": 23,
+          "new__render_kitchen__natural": 149
+        },
+        "all_controls_ended_before_1024": true
+      },
+      "paired_timing": {
+        "n_natural": 19,
+        "control1024_median_seconds": 2.7782886090000005,
+        "candidate_median_seconds": 2.7188052329999977,
+        "limits": "Natural controls only; control always first. No same-GPU1024 timing for long cases. Caption JSON generation_seconds for base128 includes both calls; use paired_timings instead."
+      }
+    }
+  ],
+  "changed_natural_vs_same_GPU": [
+    {
+      "id": "new__render_kitchen__natural",
+      "control1024": "A person wearing a white top and blue pants has appeared in front of the black stove on the right side of the kitchen, facing it with her back to the camera. A bright blue sign with the word \"kitchen\" has appeared on the wooden floor at the front of the scene, positioned in front of the round table. The transparent glass water bottle has appeared to the left of the yellow table. The white chair behind the yellow table has appeared. The blue and white striped plate in the upper right corner of the black countertop has appeared. The transparent glass goblet on the black countertop to the left of the stove has appeared. The stainless steel oven handle on the right side of the stove has changed from black to silver.",
+      "candidate128": "A person wearing a white top and blue pants has appeared in front of the black stove on the right side of the kitchen, facing it with her back to the camera. A bright blue sign with the word \"kitchen\" has appeared on the wooden floor at the front of the scene, positioned in front of the round table. The transparent glass water bottle has appeared to the left of the yellow table. The white chair behind the yellow table has appeared. The blue and white striped plate in the upper right corner of the black countertop has appeared. The transparent glass goblet on the black countertop to the left of the stove has appeared",
+      "control_token_slots": 149,
+      "candidate_token_slots": 128,
+      "candidate_hit_cap": true,
+      "common_prefix_words": 114
+    }
+  ],
+  "deployment_default_max_new_tokens": 1024,
+  "full_benchmark_scores_unchanged": true,
+  "no_retraining_performed": true,
+  "limits": "Known natural/failure cases, not heldout unbiased quality evaluation. Token cap bounds generated length, not factuality or model vision understanding."
+}

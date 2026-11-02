@@ -1,0 +1,13 @@
+{
+  "mode": "unmerged_fp32",
+  "adapter_path": "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/invariance_ablation_v1/m3diff-mixed-objective-lora",
+  "saved_keys_loaded": 392,
+  "saved_dtypes": [
+    "torch.float32"
+  ],
+  "effective_dtypes": [
+    "torch.float32"
+  ],
+  "exact_saved_values_restored": true,
+  "Modal_required": false
+}

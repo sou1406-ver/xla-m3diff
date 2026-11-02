@@ -1,0 +1,386 @@
+{
+  "v2_Real_00__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_00__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_00__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_00__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_00__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_00__natural": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_01__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_01__zoom_in": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_01__zoom_out": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_01__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_01__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_01__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_02__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_02__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_02__zoom_out": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_02__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_02__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_02__natural": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_03__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_03__zoom_in": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_03__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_03__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_03__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_03__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_04__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_04__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_04__zoom_out": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_04__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_04__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_04__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_05__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_05__zoom_in": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_05__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_05__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_05__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_05__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_06__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_06__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_06__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_06__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_06__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_06__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_07__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_07__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_07__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_07__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Real_07__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Real_07__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_00__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_00__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_00__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_00__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_00__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_00__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_01__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_01__zoom_in": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_01__zoom_out": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_01__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_01__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_01__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_02__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_02__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_02__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_02__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_02__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_02__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_03__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_03__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_03__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_03__roll": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_03__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_03__natural": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_04__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_04__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_04__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_04__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_04__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_04__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_05__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_05__zoom_in": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_05__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_05__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_05__brightness": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_05__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_06__identity": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_06__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_06__zoom_out": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_06__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_06__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_06__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_07__identity": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_07__zoom_in": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_07__zoom_out": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_07__roll": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  },
+  "v2_Render_07__brightness": {
+    "candidate_1": "control",
+    "candidate_2": "revised"
+  },
+  "v2_Render_07__natural": {
+    "candidate_1": "revised",
+    "candidate_2": "control"
+  }
+}

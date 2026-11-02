@@ -1,0 +1,21 @@
+{
+  "natural_probe_pairs": 16,
+  "exact_raw_caption_matches": 5,
+  "different_source_pair_ids": [
+    "real_test_pair_000327",
+    "real_test_pair_000107",
+    "real_test_pair_000030",
+    "real_test_pair_000754",
+    "render_test_pair_000434",
+    "render_test_pair_000303",
+    "render_test_pair_000714",
+    "render_test_pair_000187",
+    "render_test_pair_000459",
+    "render_test_pair_000371",
+    "render_test_pair_000157"
+  ],
+  "same_question_prompt_pairs": 2,
+  "same_prompt_exact_matches": 1,
+  "n_changed_prompts": 14,
+  "interpretation": "Legacy official benchmark has multiple prompts; confirmation fixes one.5/16 raw matches is not a matched-prompt reproducibility failure. Full benchmark must preserve every official question."
+}

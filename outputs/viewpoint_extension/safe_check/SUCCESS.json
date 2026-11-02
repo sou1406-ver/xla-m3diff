@@ -1,0 +1,8 @@
+{
+  "n": 5,
+  "exact_identity_only_replacement": true,
+  "all_nonidentity_captions_unchanged": true,
+  "metadata_order_preserved": true,
+  "old_v1_counterexample_now_preserved": true,
+  "GPU_used": false
+}

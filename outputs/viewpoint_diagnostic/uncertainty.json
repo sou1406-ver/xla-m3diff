@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "n_scenes": 6,
+    "delta_false_positive_percentage_points_camera_minus_baseline": -22.222222222222225,
+    "scene_bootstrap_CI95": [
+      -44.44444444444445,
+      -5.5555555555555545
+    ],
+    "interpretation": "Small descriptive diagnostic, not external validation or a multiple-seed confidence interval."
+  },
+  "validation": {
+    "n_scenes": 6,
+    "delta_false_positive_percentage_points_camera_minus_baseline": -11.111111111111109,
+    "scene_bootstrap_CI95": [
+      -22.222222222222225,
+      0.0
+    ],
+    "interpretation": "Small descriptive diagnostic, not external validation or a multiple-seed confidence interval."
+  },
+  "all": {
+    "n_scenes": 12,
+    "delta_false_positive_percentage_points_camera_minus_baseline": -16.666666666666668,
+    "scene_bootstrap_CI95": [
+      -30.555555555555557,
+      -5.5555555555555545
+    ],
+    "interpretation": "Small descriptive diagnostic, not external validation or a multiple-seed confidence interval."
+  }
+}

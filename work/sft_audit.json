@@ -1,0 +1,848 @@
+{
+  "checkpoint": {
+    "files": {
+      "README.md": 88,
+      "adapter_config.json": 7875,
+      "adapter_model.bin": 646058922,
+      "config.json": 3146,
+      "non_lora_trainables.bin": 161524428,
+      "trainer_state.json": 12323,
+      "checkpoint-300/README.md": 88,
+      "checkpoint-300/adapter_config.json": 7875,
+      "checkpoint-300/adapter_model.safetensors": 645975704,
+      "checkpoint-300/added_tokens.json": 101,
+      "checkpoint-300/config.json": 3149,
+      "checkpoint-300/merges.txt": 1671853,
+      "checkpoint-300/non_lora_trainables.bin": 161524428,
+      "checkpoint-300/optimizer.pt": 1615235500,
+      "checkpoint-300/rng_state.pth": 14244,
+      "checkpoint-300/scheduler.pt": 1064,
+      "checkpoint-300/special_tokens_map.json": 253,
+      "checkpoint-300/tokenizer_config.json": 1538,
+      "checkpoint-300/trainer_state.json": 10860,
+      "checkpoint-300/training_args.bin": 5496,
+      "checkpoint-300/vocab.json": 3383407
+    },
+    "adapter_config.json": {
+      "auto_mapping": null,
+      "base_model_name_or_path": "/root/ckpt/M3Diff",
+      "bias": "none",
+      "fan_in_fan_out": false,
+      "inference_mode": true,
+      "init_lora_weights": true,
+      "layers_pattern": null,
+      "layers_to_transform": null,
+      "lora_alpha": 128,
+      "lora_dropout": 0.05,
+      "modules_to_save": null,
+      "peft_type": "LORA",
+      "r": 64,
+      "revision": null,
+      "target_modules": [
+        "model.layers.15.self_attn.v_proj",
+        "model.layers.9.mlp.gate_proj",
+        "model.layers.16.mlp.gate_proj",
+        "model.layers.0.mlp.down_proj",
+        "model.layers.22.self_attn.v_proj",
+        "model.layers.16.mlp.down_proj",
+        "model.layers.7.self_attn.k_proj",
+        "model.layers.17.self_attn.v_proj",
+        "model.layers.22.mlp.gate_proj",
+        "model.layers.23.self_attn.v_proj",
+        "model.layers.12.mlp.up_proj",
+        "model.layers.25.mlp.down_proj",
+        "model.layers.8.mlp.up_proj",
+        "model.layers.19.self_attn.v_proj",
+        "model.layers.6.self_attn.o_proj",
+        "model.layers.13.self_attn.k_proj",
+        "model.layers.17.self_attn.o_proj",
+        "model.layers.15.mlp.gate_proj",
+        "model.layers.13.self_attn.v_proj",
+        "model.layers.3.self_attn.v_proj",
+        "model.layers.19.self_attn.k_proj",
+        "model.layers.1.mlp.down_proj",
+        "model.layers.6.self_attn.v_proj",
+        "model.layers.0.mlp.gate_proj",
+        "model.layers.0.self_attn.o_proj",
+        "model.layers.17.mlp.up_proj",
+        "model.layers.10.self_attn.k_proj",
+        "model.layers.16.self_attn.v_proj",
+        "model.layers.2.self_attn.o_proj",
+        "model.layers.12.self_attn.o_proj",
+        "model.layers.6.mlp.gate_proj",
+        "model.layers.12.mlp.gate_proj",
+        "model.layers.20.self_attn.k_proj",
+        "model.layers.18.self_attn.v_proj",
+        "model.layers.14.self_attn.o_proj",
+        "model.layers.6.self_attn.k_proj",
+        "model.layers.14.mlp.gate_proj",
+        "model.layers.18.self_attn.q_proj",
+        "model.layers.15.self_attn.k_proj",
+        "model.layers.2.self_attn.v_proj",
+        "model.layers.8.self_attn.o_proj",
+        "model.layers.11.mlp.up_proj",
+        "model.layers.7.mlp.down_proj",
+        "model.layers.1.self_attn.o_proj",
+        "model.layers.7.mlp.up_proj",
+        "model.layers.27.mlp.up_proj",
+        "model.layers.11.mlp.down_proj",
+        "model.layers.19.mlp.gate_proj",
+        "model.layers.22.mlp.down_proj",
+        "model.layers.13.mlp.up_proj",
+        "model.layers.7.self_attn.q_proj",
+        "model.layers.26.mlp.gate_proj",
+        "model.layers.1.self_attn.q_proj",
+        "model.layers.22.mlp.up_proj",
+        "model.layers.2.mlp.down_proj",
+        "model.layers.15.self_attn.q_proj",
+        "model.layers.12.self_attn.k_proj",
+        "model.layers.22.self_attn.q_proj",
+        "model.layers.19.self_attn.q_proj",
+        "model.layers.8.self_attn.q_proj",
+        "model.layers.25.self_attn.v_proj",
+        "model.layers.27.mlp.down_proj",
+        "model.layers.1.self_attn.k_proj",
+        "model.layers.25.mlp.gate_proj",
+        "model.layers.26.self_attn.k_proj",
+        "model.layers.8.mlp.down_proj",
+        "model.layers.24.mlp.up_proj",
+        "model.layers.24.self_attn.v_proj",
+        "model.layers.15.mlp.up_proj",
+        "model.layers.4.mlp.up_proj",
+        "model.layers.10.mlp.up_proj",
+        "model.layers.24.self_attn.q_proj",
+        "model.layers.25.self_attn.q_proj",
+        "model.layers.26.self_attn.o_proj",
+        "model.layers.6.mlp.up_proj",
+        "model.layers.3.self_attn.q_proj",
+        "model.layers.5.mlp.up_proj",
+        "model.layers.14.mlp.up_proj",
+        "model.layers.9.mlp.up_proj",
+        "model.layers.13.mlp.down_proj",
+        "model.layers.18.mlp.up_proj",
+        "model.layers.19.self_attn.o_proj",
+        "model.layers.0.mlp.up_proj",
+        "model.layers.13.mlp.gate_proj",
+        "model.layers.20.mlp.down_proj",
+        "model.layers.18.self_attn.o_proj",
+        "model.layers.1.mlp.gate_proj",
+        "model.layers.24.mlp.gate_proj",
+        "model.layers.4.self_attn.v_proj",
+        "model.layers.11.mlp.gate_proj",
+        "model.layers.24.self_attn.o_proj",
+        "model.layers.20.self_attn.o_proj",
+        "model.layers.21.mlp.gate_proj",
+        "model.layers.25.mlp.up_proj",
+        "model.layers.4.self_attn.q_proj",
+        "model.layers.18.mlp.down_proj",
+        "model.layers.3.mlp.gate_proj",
+        "model.layers.14.self_attn.v_proj",
+        "model.layers.26.mlp.up_proj",
+        "model.layers.20.mlp.gate_proj",
+        "model.layers.17.mlp.gate_proj",
+        "model.layers.6.self_attn.q_proj",
+        "model.layers.13.self_attn.q_proj",
+        "model.layers.10.mlp.down_proj",
+        "model.layers.11.self_attn.o_proj",
+        "model.layers.10.self_attn.v_proj",
+        "model.layers.21.self_attn.q_proj",
+        "model.layers.15.self_attn.o_proj",
+        "model.layers.27.self_attn.q_proj",
+        "model.layers.17.mlp.down_proj",
+        "model.layers.8.self_attn.v_proj",
+        "model.layers.22.self_attn.k_proj",
+        "model.layers.26.self_attn.v_proj",
+        "model.layers.24.self_attn.k_proj",
+        "model.layers.2.mlp.gate_proj",
+        "model.layers.23.mlp.gate_proj",
+        "model.layers.24.mlp.down_proj",
+        "model.layers.1.mlp.up_proj",
+        "model.layers.4.self_attn.k_proj",
+        "model.layers.5.self_attn.o_proj",
+        "model.layers.15.mlp.down_proj",
+        "model.layers.18.mlp.gate_proj",
+        "model.layers.16.self_attn.k_proj",
+        "model.layers.9.self_attn.q_proj",
+        "model.layers.21.self_attn.v_proj",
+        "model.layers.2.self_attn.q_proj",
+        "model.layers.21.mlp.down_proj",
+        "model.layers.25.self_attn.o_proj",
+        "model.layers.7.self_attn.v_proj",
+        "model.layers.8.mlp.gate_proj",
+        "model.layers.14.self_attn.q_proj",
+        "model.layers.27.mlp.gate_proj",
+        "model.layers.13.self_attn.o_proj",
+        "model.layers.14.mlp.down_proj",
+        "model.layers.21.self_attn.k_proj",
+        "model.layers.9.self_attn.k_proj",
+        "model.layers.27.self_attn.v_proj",
+        "model.layers.3.mlp.down_proj",
+        "model.layers.22.self_attn.o_proj",
+        "model.layers.5.mlp.down_proj",
+        "model.layers.4.mlp.gate_proj",
+        "model.layers.25.self_attn.k_proj",
+        "model.layers.10.mlp.gate_proj",
+        "model.layers.0.self_attn.k_proj",
+        "model.layers.14.self_attn.k_proj",
+        "model.layers.8.self_attn.k_proj",
+        "model.layers.12.self_attn.v_proj",
+        "model.layers.4.self_attn.o_proj",
+        "model.layers.11.self_attn.v_proj",
+        "model.layers.5.self_attn.k_proj",
+        "model.layers.18.self_attn.k_proj",
+        "model.layers.21.mlp.up_proj",
+        "model.layers.12.self_attn.q_proj",
+        "model.layers.11.self_attn.q_proj",
+        "model.layers.23.mlp.down_proj",
+        "model.layers.7.mlp.gate_proj",
+        "model.layers.6.mlp.down_proj",
+        "model.layers.23.self_attn.o_proj",
+        "model.layers.27.self_attn.o_proj",
+        "model.layers.5.self_attn.v_proj",
+        "model.layers.1.self_attn.v_proj",
+        "model.layers.9.self_attn.v_proj",
+        "model.layers.10.self_attn.o_proj",
+        "model.layers.0.self_attn.q_proj",
+        "model.layers.23.mlp.up_proj",
+        "model.layers.21.self_attn.o_proj",
+        "model.layers.7.self_attn.o_proj",
+        "model.layers.9.mlp.down_proj",
+        "model.layers.0.self_attn.v_proj",
+        "model.layers.5.self_attn.q_proj",
+        "model.layers.19.mlp.down_proj",
+        "model.layers.5.mlp.gate_proj",
+        "model.layers.3.self_attn.o_proj",
+        "model.layers.20.self_attn.v_proj",
+        "model.layers.4.mlp.down_proj",
+        "model.layers.23.self_attn.q_proj",
+        "model.layers.16.self_attn.q_proj",
+        "model.layers.2.mlp.up_proj",
+        "model.layers.9.self_attn.o_proj",
+        "model.layers.17.self_attn.q_proj",
+        "model.layers.16.self_attn.o_proj",
+        "model.layers.16.mlp.up_proj",
+        "model.layers.23.self_attn.k_proj",
+        "model.layers.26.self_attn.q_proj",
+        "model.layers.10.self_attn.q_proj",
+        "model.layers.19.mlp.up_proj",
+        "model.layers.20.mlp.up_proj",
+        "model.layers.2.self_attn.k_proj",
+        "model.layers.26.mlp.down_proj",
+        "model.layers.3.mlp.up_proj",
+        "model.layers.3.self_attn.k_proj",
+        "model.layers.11.self_attn.k_proj",
+        "model.layers.27.self_attn.k_proj",
+        "model.layers.20.self_attn.q_proj",
+        "model.layers.17.self_attn.k_proj",
+        "model.layers.12.mlp.down_proj"
+      ],
+      "task_type": "CAUSAL_LM"
+    },
+    "trainer_state.json": {
+      "best_metric": null,
+      "best_model_checkpoint": null,
+      "epoch": 0.9977859778597786,
+      "eval_steps": 500,
+      "global_step": 338,
+      "is_hyper_param_search": false,
+      "is_local_process_zero": true,
+      "is_world_process_zero": true,
+      "log_history": [
+        {
+          "epoch": 0.014760147601476014,
+          "grad_norm": 2.0985653400421143,
+          "learning_rate": 1.8181818181818182e-05,
+          "loss": 0.7075,
+          "step": 5
+        },
+        {
+          "epoch": 0.02952029520295203,
+          "grad_norm": 1.7181947231292725,
+          "learning_rate": 3.6363636363636364e-05,
+          "loss": 0.7624,
+          "step": 10
+        },
+        {
+          "epoch": 0.04428044280442804,
+          "grad_norm": 2.2261338233947754,
+          "learning_rate": 3.998523373104103e-05,
+          "loss": 0.6809,
+          "step": 15
+        },
+        {
+          "epoch": 0.05904059040590406,
+          "grad_norm": 2.243267059326172,
+          "learning_rate": 3.992528313106339e-05,
+          "loss": 0.6205,
+          "step": 20
+        },
+        {
+          "epoch": 0.07380073800738007,
+          "grad_norm": 2.757045269012451,
+          "learning_rate": 3.981936351198942e-05,
+          "loss": 0.5637,
+          "step": 25
+        },
+        {
+          "epoch": 0.08856088560885608,
+          "grad_norm": 2.0046226978302,
+          "learning_rate": 3.966771923777422e-05,
+          "loss": 0.5979,
+          "step": 30
+        },
+        {
+          "epoch": 0.1033210332103321,
+          "grad_norm": 1.7954033613204956,
+          "learning_rate": 3.947070016234414e-05,
+          "loss": 0.6796,
+          "step": 35
+        },
+        {
+          "epoch": 0.11808118081180811,
+          "grad_norm": 2.32922101020813,
+          "learning_rate": 3.9228760822459387e-05,
+          "loss": 0.6408,
+          "step": 40
+        },
+        {
+          "epoch": 0.13284132841328414,
+          "grad_norm": 2.354736089706421,
+          "learning_rate": 3.894245938906601e-05,
+          "loss": 0.6798,
+          "step": 45
+        },
+        {
+          "epoch": 0.14760147601476015,
+          "grad_norm": 1.8544235229492188,
+          "learning_rate": 3.861245637955651e-05,
+          "loss": 0.5577,
+          "step": 50
+        },
+        {
+          "epoch": 0.16236162361623616,
+          "grad_norm": 1.8215515613555908,
+          "learning_rate": 3.8239513133910184e-05,
+          "loss": 0.63,
+          "step": 55
+        },
+        {
+          "epoch": 0.17712177121771217,
+          "grad_norm": 2.5183684825897217,
+          "learning_rate": 3.782449005822856e-05,
+          "loss": 0.5101,
+          "step": 60
+        },
+        {
+          "epoch": 0.1918819188191882,
+          "grad_norm": 1.6654280424118042,
+          "learning_rate": 3.7368344639718516e-05,
+          "loss": 0.519,
+          "step": 65
+        },
+        {
+          "epoch": 0.2066420664206642,
+          "grad_norm": 2.1747448444366455,
+          "learning_rate": 3.687212923770245e-05,
+          "loss": 0.5925,
+          "step": 70
+        },
+        {
+          "epoch": 0.22140221402214022,
+          "grad_norm": 2.3920371532440186,
+          "learning_rate": 3.6336988655751835e-05,
+          "loss": 0.5566,
+          "step": 75
+        },
+        {
+          "epoch": 0.23616236162361623,
+          "grad_norm": 2.001760959625244,
+          "learning_rate": 3.576415750054548e-05,
+          "loss": 0.5374,
+          "step": 80
+        },
+        {
+          "epoch": 0.25092250922509224,
+          "grad_norm": 2.320727586746216,
+          "learning_rate": 3.515495733354577e-05,
+          "loss": 0.5694,
+          "step": 85
+        },
+        {
+          "epoch": 0.2656826568265683,
+          "grad_norm": 2.1285383701324463,
+          "learning_rate": 3.451079362206403e-05,
+          "loss": 0.5092,
+          "step": 90
+        },
+        {
+          "epoch": 0.28044280442804426,
+          "grad_norm": 1.6800205707550049,
+          "learning_rate": 3.383315249674944e-05,
+          "loss": 0.6446,
+          "step": 95
+        },
+        {
+          "epoch": 0.2952029520295203,
+          "grad_norm": 2.610853672027588,
+          "learning_rate": 3.312359732298181e-05,
+          "loss": 0.5313,
+          "step": 100
+        },
+        {
+          "epoch": 0.30996309963099633,
+          "grad_norm": 1.8001455068588257,
+          "learning_rate": 3.238376509407854e-05,
+          "loss": 0.5578,
+          "step": 105
+        },
+        {
+          "epoch": 0.3247232472324723,
+          "grad_norm": 2.367969274520874,
+          "learning_rate": 3.1615362654636743e-05,
+          "loss": 0.5656,
+          "step": 110
+        },
+        {
+          "epoch": 0.33948339483394835,
+          "grad_norm": 1.7382946014404297,
+          "learning_rate": 3.082016276272366e-05,
+          "loss": 0.4904,
+          "step": 115
+        },
+        {
+          "epoch": 0.35424354243542433,
+          "grad_norm": 1.9490820169448853,
+          "learning_rate": 3.0000000000000004e-05,
+          "loss": 0.4799,
+          "step": 120
+        },
+        {
+          "epoch": 0.36900369003690037,
+          "grad_norm": 1.6780307292938232,
+          "learning_rate": 2.9156766539212008e-05,
+          "loss": 0.6617,
+          "step": 125
+        },
+        {
+          "epoch": 0.3837638376383764,
+          "grad_norm": 2.490710973739624,
+          "learning_rate": 2.8292407778816837e-05,
+          "loss": 0.497,
+          "step": 130
+        },
+        {
+          "epoch": 0.3985239852398524,
+          "grad_norm": 2.3994455337524414,
+          "learning_rate": 2.7408917854812522e-05,
+          "loss": 0.5882,
+          "step": 135
+        },
+        {
+          "epoch": 0.4132841328413284,
+          "grad_norm": 2.678955078125,
+          "learning_rate": 2.650833504012702e-05,
+          "loss": 0.5247,
+          "step": 140
+        },
+        {
+          "epoch": 0.4280442804428044,
+          "grad_norm": 2.019709587097168,
+          "learning_rate": 2.5592737042180287e-05,
+          "loss": 0.5521,
+          "step": 145
+        },
+        {
+          "epoch": 0.44280442804428044,
+          "grad_norm": 1.9429985284805298,
+          "learning_rate": 2.466423620946822e-05,
+          "loss": 0.4915,
+          "step": 150
+        },
+        {
+          "epoch": 0.4575645756457565,
+          "grad_norm": 1.9930837154388428,
+          "learning_rate": 2.3724974658227212e-05,
+          "loss": 0.5304,
+          "step": 155
+        },
+        {
+          "epoch": 0.47232472324723246,
+          "grad_norm": 2.0086166858673096,
+          "learning_rate": 2.2777119330422482e-05,
+          "loss": 0.5144,
+          "step": 160
+        },
+        {
+          "epoch": 0.4870848708487085,
+          "grad_norm": 2.1385700702667236,
+          "learning_rate": 2.1822856994461668e-05,
+          "loss": 0.4655,
+          "step": 165
+        },
+        {
+          "epoch": 0.5018450184501845,
+          "grad_norm": 2.047959566116333,
+          "learning_rate": 2.086438920016748e-05,
+          "loss": 0.4384,
+          "step": 170
+        },
+        {
+          "epoch": 0.5166051660516605,
+          "grad_norm": 2.159867286682129,
+          "learning_rate": 1.9903927199648588e-05,
+          "loss": 0.5199,
+          "step": 175
+        },
+        {
+          "epoch": 0.5313653136531366,
+          "grad_norm": 1.7794355154037476,
+          "learning_rate": 1.8943686845786597e-05,
+          "loss": 0.4857,
+          "step": 180
+        },
+        {
+          "epoch": 0.5461254612546126,
+          "grad_norm": 2.1116621494293213,
+          "learning_rate": 1.7985883480108836e-05,
+          "loss": 0.4249,
+          "step": 185
+        },
+        {
+          "epoch": 0.5608856088560885,
+          "grad_norm": 2.0094802379608154,
+          "learning_rate": 1.7032726821840752e-05,
+          "loss": 0.4967,
+          "step": 190
+        },
+        {
+          "epoch": 0.5756457564575646,
+          "grad_norm": 2.202086925506592,
+          "learning_rate": 1.6086415869929444e-05,
+          "loss": 0.5799,
+          "step": 195
+        },
+        {
+          "epoch": 0.5904059040590406,
+          "grad_norm": 1.9864311218261719,
+          "learning_rate": 1.5149133829799558e-05,
+          "loss": 0.4622,
+          "step": 200
+        },
+        {
+          "epoch": 0.6051660516605166,
+          "grad_norm": 1.6460545063018799,
+          "learning_rate": 1.4223043076545993e-05,
+          "loss": 0.4905,
+          "step": 205
+        },
+        {
+          "epoch": 0.6199261992619927,
+          "grad_norm": 1.6576764583587646,
+          "learning_rate": 1.3310280166183587e-05,
+          "loss": 0.534,
+          "step": 210
+        },
+        {
+          "epoch": 0.6346863468634686,
+          "grad_norm": 2.3352115154266357,
+          "learning_rate": 1.2412950906463287e-05,
+          "loss": 0.5002,
+          "step": 215
+        },
+        {
+          "epoch": 0.6494464944649446,
+          "grad_norm": 1.731796145439148,
+          "learning_rate": 1.1533125498626619e-05,
+          "loss": 0.459,
+          "step": 220
+        },
+        {
+          "epoch": 0.6642066420664207,
+          "grad_norm": 2.280543804168701,
+          "learning_rate": 1.0672833761306922e-05,
+          "loss": 0.552,
+          "step": 225
+        },
+        {
+          "epoch": 0.6789667896678967,
+          "grad_norm": 2.073469877243042,
+          "learning_rate": 9.834060447596114e-06,
+          "loss": 0.4549,
+          "step": 230
+        },
+        {
+          "epoch": 0.6937269372693727,
+          "grad_norm": 2.0731430053710938,
+          "learning_rate": 9.018740666080677e-06,
+          "loss": 0.5134,
+          "step": 235
+        },
+        {
+          "epoch": 0.7084870848708487,
+          "grad_norm": 2.387746810913086,
+          "learning_rate": 8.228755416411143e-06,
+          "loss": 0.4427,
+          "step": 240
+        },
+        {
+          "epoch": 0.7232472324723247,
+          "grad_norm": 2.334221601486206,
+          "learning_rate": 7.46592724970455e-06,
+          "loss": 0.4635,
+          "step": 245
+        },
+        {
+          "epoch": 0.7380073800738007,
+          "grad_norm": 2.5247297286987305,
+          "learning_rate": 6.7320160637918085e-06,
+          "loss": 0.5571,
+          "step": 250
+        },
+        {
+          "epoch": 0.7527675276752768,
+          "grad_norm": 2.1652204990386963,
+          "learning_rate": 6.0287150430105464e-06,
+          "loss": 0.4855,
+          "step": 255
+        },
+        {
+          "epoch": 0.7675276752767528,
+          "grad_norm": 2.077915668487549,
+          "learning_rate": 5.357646751910628e-06,
+          "loss": 0.6309,
+          "step": 260
+        },
+        {
+          "epoch": 0.7822878228782287,
+          "grad_norm": 1.6784604787826538,
+          "learning_rate": 4.720359391884517e-06,
+          "loss": 0.4379,
+          "step": 265
+        },
+        {
+          "epoch": 0.7970479704797048,
+          "grad_norm": 1.9383199214935303,
+          "learning_rate": 4.118323229358541e-06,
+          "loss": 0.4788,
+          "step": 270
+        },
+        {
+          "epoch": 0.8118081180811808,
+          "grad_norm": 1.9710075855255127,
+          "learning_rate": 3.5529272037856497e-06,
+          "loss": 0.5104,
+          "step": 275
+        },
+        {
+          "epoch": 0.8265682656826568,
+          "grad_norm": 2.4913008213043213,
+          "learning_rate": 3.025475723265121e-06,
+          "loss": 0.4321,
+          "step": 280
+        },
+        {
+          "epoch": 0.8413284132841329,
+          "grad_norm": 2.2673709392547607,
+          "learning_rate": 2.5371856551820284e-06,
+          "loss": 0.5046,
+          "step": 285
+        },
+        {
+          "epoch": 0.8560885608856088,
+          "grad_norm": 1.7977261543273926,
+          "learning_rate": 2.0891835188092146e-06,
+          "loss": 0.4777,
+          "step": 290
+        },
+        {
+          "epoch": 0.8708487084870848,
+          "grad_norm": 2.05669903755188,
+          "learning_rate": 1.6825028863487314e-06,
+          "loss": 0.441,
+          "step": 295
+        },
+        {
+          "epoch": 0.8856088560885609,
+          "grad_norm": 2.0105178356170654,
+          "learning_rate": 1.3180819984085914e-06,
+          "loss": 0.5262,
+          "step": 300
+        },
+        {
+          "epoch": 0.9003690036900369,
+          "grad_norm": 1.8211692571640015,
+          "learning_rate": 9.96761599416185e-07,
+          "loss": 0.5203,
+          "step": 305
+        },
+        {
+          "epoch": 0.915129151291513,
+          "grad_norm": 1.762757658958435,
+          "learning_rate": 7.192829979622317e-07,
+          "loss": 0.4946,
+          "step": 310
+        },
+        {
+          "epoch": 0.9298892988929889,
+          "grad_norm": 2.343858242034912,
+          "learning_rate": 4.862863565500675e-07,
+          "loss": 0.476,
+          "step": 315
+        },
+        {
+          "epoch": 0.9446494464944649,
+          "grad_norm": 2.1826860904693604,
+          "learning_rate": 2.98309214696102e-07,
+          "loss": 0.4301,
+          "step": 320
+        },
+        {
+          "epoch": 0.959409594095941,
+          "grad_norm": 2.0101163387298584,
+          "learning_rate": 1.5578524878860024e-07,
+          "loss": 0.498,
+          "step": 325
+        },
+        {
+          "epoch": 0.974169741697417,
+          "grad_norm": 2.610530138015747,
+          "learning_rate": 5.9043271566003865e-08,
+          "loss": 0.4528,
+          "step": 330
+        },
+        {
+          "epoch": 0.988929889298893,
+          "grad_norm": 1.8257447481155396,
+          "learning_rate": 8.306473522976532e-09,
+          "loss": 0.4377,
+          "step": 335
+        },
+        {
+          "epoch": 0.9977859778597786,
+          "step": 338,
+          "total_flos": 3.21928012617264e+16,
+          "train_loss": 0.5318747931683557,
+          "train_runtime": 3530.0073,
+          "train_samples_per_second": 1.535,
+          "train_steps_per_second": 0.096
+        }
+      ],
+      "logging_steps": 5,
+      "max_steps": 338,
+      "num_input_tokens_seen": 0,
+      "num_train_epochs": 1,
+      "save_steps": 50,
+      "total_flos": 3.21928012617264e+16,
+      "train_batch_size": 4,
+      "trial_name": null,
+      "trial_params": null
+    }
+  },
+  "files": {
+    "llava/model/builder.py": "#    Copyright 2023 Haotian Liu\n#\n#    Licensed under the Apache License, Version 2.0 (the \"License\");\n#    you may not use this file except in compliance with the License.\n#    You may obtain a copy of the License at\n#\n#        http://www.apache.org/licenses/LICENSE-2.0\n#\n#    Unless required by applicable law or agreed to in writing, software\n#    distributed under the License is distributed on an \"AS IS\" BASIS,\n#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n#    See the License for the specific language governing permissions and\n#    limitations under the License.\n\n\nimport os\nimport warnings\n\nfrom transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig\nimport torch\nfrom llava.model import LlavaQwenForCausalLM\nfrom llava.constants import DEFAULT_IMAGE_PATCH_TOKEN\n\n\ndef load_pretrained_model(\n    model_path,\n    model_base,\n    model_name,\n    load_8bit=False,\n    load_4bit=False,\n    device_map=\"auto\",\n    device=\"cuda\",\n    use_flash_attn=False,\n    **kwargs,\n):\n    kwargs = {\"device_map\": device_map, **kwargs}\n    normalized_model_name = model_name.lower()\n    is_multimodal_model = any(\n        marker in normalized_model_name for marker in (\"llava\", \"m3diff\")\n    )\n\n    if device != \"cuda\":\n        kwargs[\"device_map\"] = {\"\": device}\n\n    if load_8bit:\n        kwargs[\"load_in_8bit\"] = True\n    elif load_4bit:\n        kwargs[\"load_in_4bit\"] = True\n        kwargs[\"quantization_config\"] = BitsAndBytesConfig(\n            load_in_4bit=True,\n            bnb_4bit_compute_dtype=torch.float16,\n            bnb_4bit_use_double_quant=True,\n            bnb_4bit_quant_type=\"nf4\",\n        )\n    else:\n        kwargs.setdefault(\"torch_dtype\", torch.float16)\n\n    if use_flash_attn:\n        kwargs[\"attn_implementation\"] = \"flash_attention_2\"\n\n    if is_multimodal_model:\n        # Load LLaVA model\n        if \"lora\" in normalized_model_name and model_base is None:\n            warnings.warn(\n                \"There is `lora` in model name but no `model_base` is provided. If you are loading a LoRA model, please provide the `model_base` argument.\"\n            )\n        if \"lora\" in normalized_model_name and model_base is not None:\n            from llava.model.language_model.llava_qwen import LlavaQwenConfig\n\n            lora_cfg_pretrained = LlavaQwenConfig.from_pretrained(model_path)\n            lora_config_file = os.path.join(model_path, \"config.json\")\n            if os.path.isfile(lora_config_file):\n                import json\n\n                with open(lora_config_file, \"r\", encoding=\"utf-8\") as f:\n                    saved_lora_config = json.load(f)\n                if \"vocab_size\" not in saved_lora_config:\n                    base_cfg_pretrained = AutoConfig.from_pretrained(model_base)\n                    base_vocab_size = getattr(base_cfg_pretrained, \"vocab_size\", None)\n                    if base_vocab_size is None:\n                        base_vocab_size = getattr(\n                            getattr(base_cfg_pretrained, \"text_config\", None),\n                            \"vocab_size\",\n                            None,\n                        )\n                    if base_vocab_size is None:\n                        raise ValueError(\n                            f\"Neither {lora_config_file} nor the base model \"\n                            f\"{model_base!r} defines vocab_size.\"\n                        )\n                    lora_cfg_pretrained.vocab_size = base_vocab_size\n            tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)\n            model = LlavaQwenForCausalLM.from_pretrained(\n                model_base, low_cpu_mem_usage=True, config=lora_cfg_pretrained, **kwargs\n            )\n\n            token_num, tokem_dim = model.lm_head.out_features, model.lm_head.in_features\n\n            if model.lm_head.weight.shape[0] != token_num:\n                model.lm_head.weight = torch.nn.Parameter(\n                    torch.empty(token_num, tokem_dim, device=model.device, dtype=model.dtype)\n                )\n                model.model.embed_tokens.weight = torch.nn.Parameter(\n                    torch.empty(token_num, tokem_dim, device=model.device, dtype=model.dtype)\n                )\n\n            print(\"Loading additional LLaVA weights...\")\n            if os.path.exists(os.path.join(model_path, \"non_lora_trainables.bin\")):\n                non_lora_trainables = torch.load(\n                    os.path.join(model_path, \"non_lora_trainables.bin\"), map_location=\"cpu\"\n                )\n            else:\n                from huggingface_hub import hf_hub_download\n\n                def load_from_hf(repo_id, filename, subfolder=None):\n                    cache_file = hf_hub_download(\n                        repo_id=repo_id, filename=filename, subfolder=subfolder\n                    )\n                    return torch.load(cache_file, map_location=\"cpu\")\n\n                non_lora_trainables = load_from_hf(model_path, \"non_lora_trainables.bin\")\n            non_lora_trainables = {\n                (k[11:] if k.startswith(\"base_model.\") else k): v\n                for k, v in non_lora_trainables.items()\n            }\n            if any(k.startswith(\"model.model.\") for k in non_lora_trainables):\n                non_lora_trainables = {\n                    (k[6:] if k.startswith(\"model.\") else k): v\n                    for k, v in non_lora_trainables.items()\n                }\n\n            model.load_state_dict(non_lora_trainables, strict=False)\n\n            from peft import PeftModel\n\n            print(\"Loading LoRA weights...\")\n            model = PeftModel.from_pretrained(model, model_path)\n            print(\"Merging LoRA weights...\")\n            model = model.merge_and_unload()\n            print(\"Model is loaded...\")\n        elif model_base is not None:\n            print(\"Loading LLaVA from base model...\")\n            tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)\n            cfg_pretrained = AutoConfig.from_pretrained(model_path)\n            model = LlavaQwenForCausalLM.from_pretrained(\n                model_base, low_cpu_mem_usage=True, config=cfg_pretrained, **kwargs\n            )\n\n            mm_projector_weights = torch.load(\n                os.path.join(model_path, \"mm_projector.bin\"), map_location=\"cpu\"\n            )\n            mm_projector_weights = {k: v.to(torch.float16) for k, v in mm_projector_weights.items()}\n            model.load_state_dict(mm_projector_weights, strict=False)\n        else:\n            tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)\n            model = LlavaQwenForCausalLM.from_pretrained(\n                model_path, low_cpu_mem_usage=True, **kwargs\n            )\n    else:\n        # Load language model\n        if model_base is not None:\n            from peft import PeftModel\n\n            tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)\n            model = AutoModelForCausalLM.from_pretrained(\n                model_base, low_cpu_mem_usage=True, **kwargs\n            )\n            print(f\"Loading LoRA weights from {model_path}\")\n            model = PeftModel.from_pretrained(model, model_path)\n            print(\"Merging weights\")\n            model = model.merge_and_unload()\n            print(\"Convert to FP16...\")\n            model.to(torch.float16)\n        else:\n            tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)\n            model = AutoModelForCausalLM.from_pretrained(\n                model_path, low_cpu_mem_usage=True, **kwargs\n            )\n\n    image_processor = None\n\n    if is_multimodal_model:\n        mm_use_im_patch_token = getattr(model.config, \"mm_use_im_patch_token\", True)\n        if mm_use_im_patch_token:\n            tokenizer.add_tokens([DEFAULT_IMAGE_PATCH_TOKEN], special_tokens=True)\n        tokenizer_size = len(tokenizer)\n        embedding_size = model.get_input_embeddings().num_embeddings\n        if tokenizer_size > embedding_size:\n            model.resize_token_embeddings(tokenizer_size)\n        vision_tower = model.get_vision_tower()\n\n        if not vision_tower.is_loaded:\n            vision_tower.load_model(\n                device_map=kwargs[\"device_map\"],\n                torch_dtype=kwargs.get(\"torch_dtype\", model.dtype),\n            )\n\n        image_processor = vision_tower.image_processor\n\n    if hasattr(model.config, \"max_sequence_length\"):\n        context_len = model.config.max_sequence_length\n    else:\n        context_len = 2048\n\n    return tokenizer, model, image_processor, context_len\n",
+    "llava/train/train.py": "# Adopted from https://github.com/lm-sys/FastChat. Below is the original copyright:\n# Adopted from tatsu-lab@stanford_alpaca. Below is the original copyright:\n#    Copyright 2023 Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li\n#\n#    Licensed under the Apache License, Version 2.0 (the \"License\");\n#    you may not use this file except in compliance with the License.\n#    You may obtain a copy of the License at\n#\n#        http://www.apache.org/licenses/LICENSE-2.0\n#\n#    Unless required by applicable law or agreed to in writing, software\n#    distributed under the License is distributed on an \"AS IS\" BASIS,\n#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n#    See the License for the specific language governing permissions and\n#    limitations under the License.\n\nimport os\nimport copy\nfrom dataclasses import dataclass, field\nimport json\nimport logging\nimport pathlib\nfrom typing import Dict, Optional, Sequence, List, Union\n\nimport torch\n\nimport transformers\nimport tokenizers\nfrom llava.constants import IGNORE_INDEX, IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN\nfrom torch.utils.data import Dataset\nfrom llava.train.llava_trainer import LLaVATrainer, save_compact_model_config\n\nfrom llava import conversation as conversation_lib\nfrom llava.model import LlavaQwenConfig, LlavaQwenForCausalLM\nfrom llava.mm_utils import tokenizer_image_token\n\nfrom PIL import Image\n\n\nlocal_rank = None\n\n\n\ndef rank0_print(*args):\n    if local_rank == 0:\n        print(*args)\n\n\nfrom packaging import version\nIS_TOKENIZER_GREATER_THAN_0_14 = version.parse(tokenizers.__version__) >= version.parse('0.14')\n\n\n@dataclass\nclass ModelArguments:\n    model_name_or_path: Optional[str] = field(default=\"facebook/opt-125m\")\n    pretrain_model: Optional[str] = field(default=None)\n    version: Optional[str] = field(default=\"v0\")\n    freeze_backbone: bool = field(default=False)\n    unfreeze_mm_vision_tower: bool = field(default=False)\n    tune_mm_mlp_adapter: bool = field(default=False)\n    tune_mm_vision_resampler: bool = field(default=False)\n    vision_tower: Optional[str] = field(default=None)\n    # Select one hidden-state index or a list of indices for multi-scale vision features.\n    mm_vision_select_layer: Optional[Union[int, str, List[int]]] = field(default=-2)\n    vision_tower_select_layer: Optional[Union[int, str]] = field(default=-2)\n    pretrain_mm_mlp_adapter: Optional[str] = field(default=None)\n    pretrain_vision_tower: Optional[str] = field(default=None)\n    mm_projector_type: Optional[str] = field(default='linear')\n    # Use \"mdp\" to enable the Multi-Scale Differential Perception resampler.\n    mm_resampler_type: Optional[str] = field(default=None)\n    mm_resampler_aux_type: Optional[str] = field(default=None)\n    mm_perceiver_depth: Optional[int] = field(default=6)\n    mm_resampler_query_num: Optional[int] = field(default=64)\n    mm_resampler_embed_dim: Optional[int] = field(default=3584)\n    mm_resampler_kv_dim: Optional[int] = field(default=1152)\n    mm_use_im_start_end: bool = field(default=False)\n    mm_use_im_patch_token: bool = field(default=True)\n    mm_patch_merge_type: Optional[str] = field(default='flat')\n    mm_vision_select_feature: Optional[str] = field(default=\"patch\")\n    mdp_args: Optional[str] = field(default=None)\n\n\n@dataclass\nclass DataArguments:\n    data_path: str = field(default=None,\n                           metadata={\"help\": \"Path to the training data.\"})\n    lazy_preprocess: bool = False\n    is_multimodal: bool = False\n    image_folder: Optional[str] = field(default=None)\n    video_folder: Optional[str] = field(default=None)\n    image_aspect_ratio: str = 'square'\n    max_slice_nums: int = 6\n    scale_resolution: int = 384\n    patch_size: int = 14\n\n\n@dataclass\nclass TrainingArguments(transformers.TrainingArguments):\n    cache_dir: Optional[str] = field(default=None)\n    optim: str = field(default=\"adamw_torch\")\n    remove_unused_columns: bool = field(default=False)\n    freeze_mm_mlp_adapter: bool = field(default=False)\n    freeze_reasmpler: bool = field(default=False)\n    mpt_attn_impl: Optional[str] = field(default=\"triton\")\n    model_max_length: int = field(\n        default=512,\n        metadata={\n            \"help\":\n            \"Maximum sequence length. Sequences will be right padded (and possibly truncated).\"\n        },\n    )\n    double_quant: bool = field(\n        default=True,\n        metadata={\"help\": \"Compress the quantization statistics through double quantization.\"}\n    )\n    quant_type: str = field(\n        default=\"nf4\",\n        metadata={\"help\": \"Quantization data type to use. Should be one of `fp4` or `nf4`.\"}\n    )\n    bits: int = field(\n        default=16,\n        metadata={\"help\": \"How many bits to use.\"}\n    )\n    lora_enable: bool = False\n    lora_r: int = 64\n    lora_alpha: int = 16\n    lora_dropout: float = 0.05\n    lora_weight_path: str = \"\"\n    lora_bias: str = \"none\"\n    mm_projector_lr: Optional[float] = None\n    mm_vision_tower_lr: Optional[float] = None\n    group_by_modality_length: bool = field(default=False)\n\n\ndef maybe_zero_3(param, ignore_status=False, name=None):\n    from deepspeed import zero\n    from deepspeed.runtime.zero.partition_parameters import ZeroParamStatus\n    if hasattr(param, \"ds_id\"):\n        if param.ds_status == ZeroParamStatus.NOT_AVAILABLE:\n            if not ignore_status:\n                logging.warning(f\"{name}: param.ds_status != ZeroParamStatus.NOT_AVAILABLE: {param.ds_status}\")\n        with zero.GatheredParameters([param]):\n            param = param.data.detach().cpu().clone()\n    else:\n        param = param.detach().cpu().clone()\n    return param\n\n\n# Borrowed from peft.utils.get_peft_model_state_dict\ndef get_peft_state_maybe_zero_3(named_params, bias):\n    if bias == \"none\":\n        to_return = {k: t for k, t in named_params if \"lora_\" in k}\n    elif bias == \"all\":\n        to_return = {k: t for k, t in named_params if \"lora_\" in k or \"bias\" in k}\n    elif bias == \"lora_only\":\n        to_return = {}\n        maybe_lora_bias = {}\n        lora_bias_names = set()\n        for k, t in named_params:\n            if \"lora_\" in k:\n                to_return[k] = t\n                bias_name = k.split(\"lora_\")[0] + \"bias\"\n                lora_bias_names.add(bias_name)\n            elif \"bias\" in k:\n                maybe_lora_bias[k] = t\n        for k, t in maybe_lora_bias:\n            if bias_name in lora_bias_names:\n                to_return[bias_name] = t\n    else:\n        raise NotImplementedError\n    to_return = {k: maybe_zero_3(v, ignore_status=True) for k, v in to_return.items()}\n    return to_return\n\n\ndef get_peft_state_non_lora_maybe_zero_3(named_params, require_grad_only=True):\n    to_return = {k: t for k, t in named_params if \"lora_\" not in k}\n    if require_grad_only:\n        to_return = {k: t for k, t in to_return.items() if t.requires_grad}\n    to_return = {k: maybe_zero_3(v, ignore_status=True).cpu() for k, v in to_return.items()}\n    return to_return\n\n\ndef get_mm_adapter_state_maybe_zero_3(named_params, keys_to_match):\n    to_return = {k: t for k, t in named_params if any(key_match in k for key_match in keys_to_match)}\n    to_return = {k: maybe_zero_3(v, ignore_status=True).cpu() for k, v in to_return.items()}\n    return to_return\n\n\ndef find_all_linear_names(model):\n    cls = torch.nn.Linear\n    lora_module_names = set()\n    multimodal_keywords = ['mm_projector', 'vision_tower', 'vision_resampler']\n    for name, module in model.named_modules():\n        if any(mm_keyword in name for mm_keyword in multimodal_keywords):\n            continue\n        if isinstance(module, cls):\n            lora_module_names.add(name)\n\n    if 'lm_head' in lora_module_names:  # Required when training in 16-bit precision.\n        lora_module_names.remove('lm_head')\n    return list(lora_module_names)\n\n\ndef safe_save_model_for_hf_trainer(trainer: transformers.Trainer,\n                                   output_dir: str):\n    \"\"\"Collects the state dict and dump to disk.\"\"\"\n\n\n    if trainer.deepspeed:\n        torch.cuda.synchronize()\n        trainer.save_model(output_dir)\n        return\n\n    state_dict = trainer.model.state_dict()\n    if trainer.args.should_save:\n        cpu_state_dict = {\n            key: value.cpu()\n            for key, value in state_dict.items()\n        }\n        del state_dict\n        trainer._save(output_dir, state_dict=cpu_state_dict)  # noqa\n\n\ndef smart_tokenizer_and_embedding_resize(\n    special_tokens_dict: Dict,\n    tokenizer: transformers.PreTrainedTokenizer,\n    model: transformers.PreTrainedModel,\n):\n    \"\"\"Resize tokenizer and embedding.\n\n    Note: This is the unoptimized version that may make your embedding size not be divisible by 64.\n    \"\"\"\n    num_new_tokens = tokenizer.add_special_tokens(special_tokens_dict)\n    model.resize_token_embeddings(len(tokenizer))\n\n    if num_new_tokens > 0:\n        input_embeddings = model.get_input_embeddings().weight.data\n        output_embeddings = model.get_output_embeddings().weight.data\n\n        input_embeddings_avg = input_embeddings[:-num_new_tokens].mean(\n            dim=0, keepdim=True)\n        output_embeddings_avg = output_embeddings[:-num_new_tokens].mean(\n            dim=0, keepdim=True)\n\n        input_embeddings[-num_new_tokens:] = input_embeddings_avg\n        output_embeddings[-num_new_tokens:] = output_embeddings_avg\n\n\ndef _tokenize_fn(strings: Sequence[str],\n                 tokenizer: transformers.PreTrainedTokenizer) -> Dict:\n    \"\"\"Tokenize a list of strings.\"\"\"\n    tokenized_list = [\n        tokenizer(\n            text,\n            return_tensors=\"pt\",\n            padding=\"longest\",\n            max_length=tokenizer.model_max_length,\n            truncation=True,\n        ) for text in strings\n    ]\n    input_ids = labels = [\n        tokenized.input_ids[0] for tokenized in tokenized_list\n    ]\n    input_ids_lens = labels_lens = [\n        tokenized.input_ids.ne(tokenizer.pad_token_id).sum().item()\n        for tokenized in tokenized_list\n    ]\n    return dict(\n        input_ids=input_ids,\n        labels=labels,\n        input_ids_lens=input_ids_lens,\n        labels_lens=labels_lens,\n    )\n\n\ndef _mask_targets(target, tokenized_lens, speakers):\n    cur_idx = tokenized_lens[0]\n    tokenized_lens = tokenized_lens[1:]\n    target[:cur_idx] = IGNORE_INDEX\n    for tokenized_len, speaker in zip(tokenized_lens, speakers):\n        if speaker == \"human\":\n            target[cur_idx+2:cur_idx + tokenized_len] = IGNORE_INDEX\n        cur_idx += tokenized_len\n\n\ndef _add_speaker_and_signal(header, source, get_conversation=True):\n    \"\"\"Add speaker and start/end signal on each round.\"\"\"\n    BEGIN_SIGNAL = \"### \"\n    END_SIGNAL = \"\\n\"\n    conversation = header\n    for sentence in source:\n        from_str = sentence[\"from\"]\n        if from_str.lower() == \"human\":\n            from_str = conversation_lib.default_conversation.roles[0]\n        elif from_str.lower() == \"gpt\":\n            from_str = conversation_lib.default_conversation.roles[1]\n        else:\n            from_str = 'unknown'\n        sentence[\"value\"] = (BEGIN_SIGNAL + from_str + \": \" +\n                             sentence[\"value\"] + END_SIGNAL)\n        if get_conversation:\n            conversation += sentence[\"value\"]\n    conversation += BEGIN_SIGNAL\n    return conversation\n\n\ndef preprocess_multimodal(\n    sources: Sequence[str],\n    data_args: DataArguments\n) -> Dict:\n    is_multimodal = data_args.is_multimodal\n    if not is_multimodal:\n        return sources\n    for source in sources:\n        for sentence in source:\n            if DEFAULT_IMAGE_TOKEN in sentence['value']:\n                if \"mmtag\" in conversation_lib.default_conversation.version:\n                    sentence['value'] = sentence['value'].replace(DEFAULT_IMAGE_TOKEN, '<Image>' + DEFAULT_IMAGE_TOKEN + '</Image>')\n            replace_token = DEFAULT_IMAGE_TOKEN\n            sentence[\"value\"] = sentence[\"value\"].replace(DEFAULT_IMAGE_TOKEN, replace_token)\n    return sources\n\n\ndef preprocess_llama_2(\n    sources,\n    tokenizer: transformers.PreTrainedTokenizer,\n    has_image: bool = False\n) -> Dict:\n    conv = conversation_lib.default_conversation.copy()\n    roles = {\"human\": conv.roles[0], \"gpt\": conv.roles[1]}\n\n    # Apply prompt templates\n    conversations = []\n    for i, source in enumerate(sources):\n        if roles[source[0][\"from\"]] != conv.roles[0]:\n            # Skip the first one if it is not from human\n            source = source[1:]\n\n        conv.messages = []\n        for j, sentence in enumerate(source):\n            role = roles[sentence[\"from\"]]\n            assert role == conv.roles[j % 2], f\"{i}\"\n            conv.append_message(role, sentence[\"value\"])\n        conversations.append(conv.get_prompt())\n\n    # Tokenize conversations\n\n    if has_image:\n        input_ids = torch.stack([tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations], dim=0)\n    else:\n        input_ids = tokenizer(\n            conversations,\n            return_tensors=\"pt\",\n            padding=\"longest\",\n            max_length=tokenizer.model_max_length,\n            truncation=True,\n        ).input_ids\n\n    targets = input_ids.clone()\n\n    assert conv.sep_style == conversation_lib.SeparatorStyle.LLAMA_2\n\n    # Mask targets\n    sep = \"[/INST] \"\n    for conversation, target in zip(conversations, targets):\n        total_len = int(target.ne(tokenizer.pad_token_id).sum())\n\n        rounds = conversation.split(conv.sep2)\n        cur_len = 1\n        target[:cur_len] = IGNORE_INDEX\n        for i, rou in enumerate(rounds):\n            if rou == \"\":\n                break\n\n            parts = rou.split(sep)\n            if len(parts) != 2:\n                break\n            parts[0] += sep\n\n            if has_image:\n                round_len = len(tokenizer_image_token(rou, tokenizer))\n                instruction_len = len(tokenizer_image_token(parts[0], tokenizer)) - 2\n            else:\n                round_len = len(tokenizer(rou).input_ids)\n                instruction_len = len(tokenizer(parts[0]).input_ids) - 2\n\n            target[cur_len : cur_len + instruction_len] = IGNORE_INDEX\n\n            cur_len += round_len\n        target[cur_len:] = IGNORE_INDEX\n\n        if cur_len < tokenizer.model_max_length:\n            if cur_len != total_len:\n                target[:] = IGNORE_INDEX\n                print(\n                    f\"WARNING: tokenization mismatch: {cur_len} vs. {total_len}.\"\n                    f\" (ignored)\"\n                )\n\n    return dict(\n        input_ids=input_ids,\n        labels=targets,\n    )\n\n\ndef preprocess_v1(\n    sources,\n    tokenizer: transformers.PreTrainedTokenizer,\n    has_image: bool = False\n) -> Dict:\n    conv = conversation_lib.default_conversation.copy()\n    roles = {\"human\": conv.roles[0], \"gpt\": conv.roles[1]}\n\n    # Apply prompt templates\n    conversations = []\n    for i, source in enumerate(sources):\n        if roles[source[0][\"from\"]] != conv.roles[0]:\n            # Skip the first one if it is not from human\n            source = source[1:]\n\n        conv.messages = []\n        for j, sentence in enumerate(source):\n            role = roles[sentence[\"from\"]]\n            assert role == conv.roles[j % 2], f\"{i}\"\n            conv.append_message(role, sentence[\"value\"])\n        conversations.append(conv.get_prompt())\n    # Tokenize conversations\n\n    if has_image:\n        input_ids = torch.stack([tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations], dim=0)\n    else:\n        input_ids = tokenizer(\n            conversations,\n            return_tensors=\"pt\",\n            padding=\"longest\",\n            max_length=tokenizer.model_max_length,\n            truncation=True,\n        ).input_ids\n\n    targets = input_ids.clone()\n\n    assert conv.sep_style == conversation_lib.SeparatorStyle.TWO\n\n    # Mask targets\n    sep = conv.sep + conv.roles[1] + \": \"\n    for conversation, target in zip(conversations, targets):\n        total_len = int(target.ne(tokenizer.pad_token_id).sum())\n\n        rounds = conversation.split(conv.sep2)\n        cur_len = 1\n        target[:cur_len] = IGNORE_INDEX\n        for i, rou in enumerate(rounds):\n            if rou == \"\":\n                break\n\n            parts = rou.split(sep)\n            if len(parts) != 2:\n                break\n            parts[0] += sep\n\n            if has_image:\n                round_len = len(tokenizer_image_token(rou, tokenizer))\n                instruction_len = len(tokenizer_image_token(parts[0], tokenizer)) - 2\n            else:\n                round_len = len(tokenizer(rou).input_ids)\n                instruction_len = len(tokenizer(parts[0]).input_ids) - 2\n\n            if i != 0 and not tokenizer.legacy and IS_TOKENIZER_GREATER_THAN_0_14:\n                round_len -= 1\n                instruction_len -= 1\n\n            target[cur_len : cur_len + instruction_len] = IGNORE_INDEX\n\n            cur_len += round_len\n        target[cur_len:] = IGNORE_INDEX\n\n        if cur_len < tokenizer.model_max_length:\n            if cur_len != total_len:\n                target[:] = IGNORE_INDEX\n                print(\n                    f\"WARNING: tokenization mismatch: {cur_len} vs. {total_len}.\"\n                    f\" (ignored)\"\n                )\n\n    return dict(\n        input_ids=input_ids,\n        labels=targets,\n    )\n\n\ndef preprocess_mpt(\n    sources,\n    tokenizer: transformers.PreTrainedTokenizer,\n    has_image: bool = False\n) -> Dict:\n    conv = conversation_lib.default_conversation.copy()\n    roles = {\"human\": conv.roles[0], \"gpt\": conv.roles[1]}\n\n    # Apply prompt templates\n    conversations = []\n    for i, source in enumerate(sources):\n        if roles[source[0][\"from\"]] != conv.roles[0]:\n            # Skip the first one if it is not from human\n            source = source[1:]\n\n        conv.messages = []\n        for j, sentence in enumerate(source):\n            role = roles[sentence[\"from\"]]\n            assert role == conv.roles[j % 2], f\"{i}\"\n            conv.append_message(role, sentence[\"value\"])\n        conversations.append(conv.get_prompt())\n\n    # Tokenize conversations\n\n    if has_image:\n        input_ids = torch.stack([tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations], dim=0)\n    else:\n        input_ids = tokenizer(\n            conversations,\n            return_tensors=\"pt\",\n            padding=\"longest\",\n            max_length=tokenizer.model_max_length,\n            truncation=True,\n        ).input_ids\n\n    targets = input_ids.clone()\n    assert conv.sep_style == conversation_lib.SeparatorStyle.MPT\n\n    # Mask targets\n    sep = conv.sep + conv.roles[1]\n    for conversation, target in zip(conversations, targets):\n        total_len = int(target.ne(tokenizer.pad_token_id).sum())\n\n        rounds = conversation.split(conv.sep)\n        re_rounds = [conv.sep.join(rounds[:3])]  # System + user + assistant.\n        for conv_idx in range(3, len(rounds), 2):\n            re_rounds.append(conv.sep.join(rounds[conv_idx:conv_idx+2]))  # User + assistant.\n        cur_len = 0\n        target[:cur_len] = IGNORE_INDEX\n        for i, rou in enumerate(re_rounds):\n            if rou == \"\":\n                break\n\n            parts = rou.split(sep)\n            if len(parts) != 2:\n                break\n            parts[0] += sep\n\n            if has_image:\n                round_len = len(tokenizer_image_token(rou, tokenizer))\n                instruction_len = len(tokenizer_image_token(parts[0], tokenizer)) - 1\n            else:\n                round_len = len(tokenizer(rou).input_ids)\n                instruction_len = len(tokenizer(parts[0]).input_ids) - 1\n\n            if i != 0 and getattr(tokenizer, 'legacy', False) and IS_TOKENIZER_GREATER_THAN_0_14:\n                round_len += 1\n                instruction_len += 1\n\n            target[cur_len : cur_len + instruction_len] = IGNORE_INDEX\n\n            cur_len += round_len\n        target[cur_len:] = IGNORE_INDEX\n\n        if cur_len < tokenizer.model_max_length:\n            if cur_len != total_len:\n                target[:] = IGNORE_INDEX\n                print(\n                    f\"WARNING: tokenization mismatch: {cur_len} vs. {total_len}.\"\n                    f\" (ignored)\"\n                )\n\n    return dict(\n        input_ids=input_ids,\n        labels=targets,\n    )\n\n\n\n\ndef preprocess_plain(\n    sources: Sequence[str],\n    tokenizer: transformers.PreTrainedTokenizer,\n) -> Dict:\n    # Append the end marker and concatenate the conversations.\n    conversations = []\n\n    for source in sources:\n        conversation = \"\"\n        conversation = source[0]['value'] + source[1]['value'] + \"\\n\" + source[2]['value'] + source[3]['value']\n        conversation += conversation_lib.default_conversation.sep\n        conversations.append(conversation)\n    # Tokenize the conversations.\n    input_ids = [tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations]\n\n    targets = copy.deepcopy(input_ids)\n    for target, source in zip(targets, sources):\n        tokenized_len = len(tokenizer_image_token(source[0]['value'], tokenizer))\n        target[:tokenized_len] = IGNORE_INDEX\n\n    return dict(input_ids=input_ids, labels=targets )\n\n\ndef preprocess_qwen(sources, tokenizer: transformers.PreTrainedTokenizer, has_image: bool = False,max_len=2048, system_message: str = \"You are a helpful assistant.\") -> Dict:\n    roles = {\"human\": \"<|im_start|>user\", \"gpt\": \"<|im_start|>assistant\"}\n    im_start, im_end = tokenizer.additional_special_tokens_ids[:2]\n    nl_tokens = tokenizer(\"\\n\").input_ids\n    _system = tokenizer(\"system\").input_ids + nl_tokens\n\n    # Apply prompt templates\n    input_ids, targets = [], []\n\n    source_copy = sources[0]\n    if roles[source_copy[0][\"from\"]] != roles[\"human\"]:\n        source_copy = source_copy[1:]\n\n    input_id, target = [], []\n    system = [im_start] + _system + tokenizer(system_message).input_ids + [im_end] + nl_tokens\n    input_id += system\n    target += [im_start] + [IGNORE_INDEX] * (len(system) - 3) + [im_end] + nl_tokens\n    assert len(input_id) == len(target)\n    for j, sentence in enumerate(source_copy):\n        role = roles[sentence[\"from\"]]\n        if has_image and sentence[\"value\"] is not None and \"<image>\" in sentence[\"value\"]:\n            texts = sentence[\"value\"].split('<image>')\n            _input_id = tokenizer(role).input_ids + nl_tokens\n            for i,text in enumerate(texts):\n                _input_id += tokenizer(text).input_ids\n                if i<len(texts)-1:\n                    _input_id += [IMAGE_TOKEN_INDEX]\n            _input_id += [im_end] + nl_tokens\n        else:\n            if sentence[\"value\"] is None:\n                _input_id = tokenizer(role).input_ids + nl_tokens\n            else:\n                _input_id = tokenizer(role).input_ids + nl_tokens + tokenizer(sentence[\"value\"]).input_ids + [im_end] + nl_tokens\n        input_id += _input_id\n        if role == \"<|im_start|>user\":\n            _target = [im_start] + [IGNORE_INDEX] * (len(_input_id) - 3) + [im_end] + nl_tokens\n        elif role == \"<|im_start|>assistant\":\n            _target = [im_start] + [IGNORE_INDEX] * len(tokenizer(role).input_ids) + _input_id[len(tokenizer(role).input_ids) + 1 : -2] + [im_end] + nl_tokens\n        else:\n            raise NotImplementedError\n        target += _target\n\n    input_ids.append(input_id)\n    targets.append(target)\n    input_ids = torch.tensor(input_ids, dtype=torch.long)\n    targets = torch.tensor(targets, dtype=torch.long)\n\n    return dict(input_ids=input_ids, labels=targets)\n\n\n\ndef preprocess(\n    sources: Sequence[str],\n    tokenizer: transformers.PreTrainedTokenizer,\n    has_image: bool = False\n) -> Dict:\n    \"\"\"\n    Given a list of sources, each is a conversation list. This transform:\n    1. Add signal '### ' at the beginning each sentence, with end signal '\\n';\n    2. Concatenate conversations together;\n    3. Tokenize the concatenated conversation;\n    4. Make a deepcopy as the target. Mask human words with IGNORE_INDEX.\n    \"\"\"\n\n    if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.PLAIN:\n        return preprocess_plain(sources, tokenizer)\n    if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.LLAMA_2:\n        return preprocess_llama_2(sources, tokenizer, has_image=has_image)\n\n    if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.CHATML:\n        return preprocess_qwen(sources, tokenizer, has_image=has_image)\n\n    if conversation_lib.default_conversation.version.startswith(\"v1\"):\n        return preprocess_v1(sources, tokenizer, has_image=has_image)\n    if conversation_lib.default_conversation.version == \"mpt\":\n        return preprocess_mpt(sources, tokenizer, has_image=has_image)\n    # Append the end marker and concatenate the conversations.\n    conversations = []\n    for source in sources:\n        header = f\"{conversation_lib.default_conversation.system}\\n\\n\"\n        conversation = _add_speaker_and_signal(header, source)\n        conversations.append(conversation)\n    # Tokenize the conversations.\n    def get_tokenize_len(prompts):\n        return [len(tokenizer_image_token(prompt, tokenizer)) for prompt in prompts]\n\n    if has_image:\n        input_ids = [tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations]\n    else:\n        conversations_tokenized = _tokenize_fn(conversations, tokenizer)\n        input_ids = conversations_tokenized[\"input_ids\"]\n\n    targets = copy.deepcopy(input_ids)\n    for target, source in zip(targets, sources):\n        if has_image:\n            tokenized_lens = get_tokenize_len([header] + [s[\"value\"] for s in source])\n        else:\n            tokenized_lens = _tokenize_fn([header] + [s[\"value\"] for s in source], tokenizer)[\"input_ids_lens\"]\n        speakers = [sentence[\"from\"] for sentence in source]\n        _mask_targets(target, tokenized_lens, speakers)\n\n    return dict(input_ids=input_ids, labels=targets)\n\n\n\n\n\nclass LazySupervisedDataset(Dataset):\n    \"\"\"Dataset for supervised fine-tuning.\"\"\"\n\n    def __init__(self, data_path: str,\n                 tokenizer: transformers.PreTrainedTokenizer,\n                 data_args: DataArguments):\n        super(LazySupervisedDataset, self).__init__()\n        list_data_dict = json.load(open(data_path, \"r\"))\n        self.list_data_dict = list_data_dict\n\n        rank0_print(\"Formatting inputs...Skip in lazy mode\")\n        self.tokenizer = tokenizer\n        self.data_args = data_args\n\n    def __len__(self):\n        return len(self.list_data_dict)\n\n    @property\n    def lengths(self):\n        length_list = []\n        for sample in self.list_data_dict:\n            img_tokens = 729 if 'image' in sample else 0\n            length_list.append(sum(len(conv['value'].split()) for conv in sample['conversations']) + img_tokens*2)\n        return length_list\n\n    @property\n    def modality_lengths(self):\n        length_list = []\n        for sample in self.list_data_dict:\n            cur_len = sum(len(conv['value'].split()) for conv in sample['conversations'])\n            cur_len = cur_len if 'image' in sample else -cur_len\n            length_list.append(cur_len)\n        return length_list\n\n\n\n    def __getitem__(self, i) -> Dict[str, torch.Tensor]:\n        sources = self.list_data_dict[i]\n        if isinstance(i, int):\n            sources = [sources]\n        assert len(sources) == 1, \"Expected one conversation for an image sample\"\n        if 'image' in sources[0]:\n            image_file = self.list_data_dict[i]['image']\n            image_folder = self.data_args.image_folder\n            processor = self.data_args.image_processor\n\n            if isinstance(image_file, list):\n                image = []\n                for img_file in image_file:\n                    image.append(Image.open(os.path.join(image_folder, img_file)).convert('RGB'))\n            else:\n                image = Image.open(os.path.join(image_folder, image_file)).convert('RGB')\n\n            if self.data_args.image_aspect_ratio == 'pad' :\n                def expand2square(pil_img, background_color):\n                    width, height = pil_img.size\n                    if width == height:\n                        return pil_img\n                    elif width > height:\n                        result = Image.new(pil_img.mode, (width, width), background_color)\n                        result.paste(pil_img, (0, (width - height) // 2))\n                        return result\n                    else:\n                        result = Image.new(pil_img.mode, (height, height), background_color)\n                        result.paste(pil_img, ((height - width) // 2, 0))\n                        return result\n\n                if isinstance(image, list):\n                    image = [expand2square(img, tuple(int(x*255) for x in processor.image_mean)) for img in image]\n                    image = [processor.preprocess(img, return_tensors='pt')['pixel_values'][0] for img in image]\n                else:\n                    image = expand2square(image, tuple(int(x*255) for x in processor.image_mean))\n                    image = processor.preprocess(image, return_tensors='pt')['pixel_values'][0]\n            else:\n                if isinstance(image, list):\n                    image = [processor.preprocess(img, return_tensors='pt')['pixel_values'][0] for img in image]\n                else:\n                    image = processor.preprocess(image, return_tensors='pt')['pixel_values'][0]\n\n            sources = preprocess_multimodal(\n                copy.deepcopy([e[\"conversations\"] for e in sources]),\n                self.data_args)\n\n\n        else:\n            sources = copy.deepcopy([e[\"conversations\"] for e in sources])\n\n        data_dict = preprocess(\n            sources,\n            self.tokenizer,\n            has_image=('image' in self.list_data_dict[i] or 'video' in self.list_data_dict[i]))\n\n        if isinstance(i, int):\n            data_dict = dict(input_ids=data_dict[\"input_ids\"][0],\n                                labels=data_dict[\"labels\"][0])\n\n        # Attach the image tensor when the sample references an image.\n        if 'image' in self.list_data_dict[i]:\n            data_dict['image'] = image\n\n        elif self.data_args.is_multimodal:\n            crop_size = self.data_args.image_processor.crop_size\n            data_dict['image'] = [torch.zeros(3, crop_size['height'], crop_size['width'])]\n\n        return data_dict\n\n@dataclass\nclass DataCollatorForSupervisedDataset(object):\n    \"\"\"Collate examples for supervised fine-tuning.\"\"\"\n    tokenizer: transformers.PreTrainedTokenizer\n    def __call__(self, instances: Sequence[Dict]) -> Dict[str, torch.Tensor]:\n        input_ids, labels = tuple([instance[key] for instance in instances]\n                                  for key in (\"input_ids\", \"labels\"))\n        input_ids = torch.nn.utils.rnn.pad_sequence(\n            input_ids,\n            batch_first=True,\n            padding_value=self.tokenizer.pad_token_id)\n        labels = torch.nn.utils.rnn.pad_sequence(labels,\n                                                 batch_first=True,\n                                                 padding_value=IGNORE_INDEX)\n        input_ids = input_ids[:, :self.tokenizer.model_max_length]\n        labels = labels[:, :self.tokenizer.model_max_length]\n        batch = dict(\n            input_ids=input_ids,\n            labels=labels,\n            attention_mask=input_ids.ne(self.tokenizer.pad_token_id),\n        )\n\n        if 'image' in instances[0]:\n            images = [instance['image'] for instance in instances]\n            if isinstance(images[0], list):\n                images = [torch.stack(img, dim=0) for img in images]\n                batch['images'] = images\n            else:\n\n                if all(x is not None and x.shape == images[0].shape for x in images):\n                    batch['images'] = torch.stack(images)\n                else:\n                    batch['images'] = images\n        return batch\n\n\ndef make_supervised_data_module(tokenizer: transformers.PreTrainedTokenizer,\n                                data_args) -> Dict:\n    \"\"\"Make dataset and collator for supervised fine-tuning.\"\"\"\n    train_dataset = LazySupervisedDataset(tokenizer=tokenizer,\n                                data_path=data_args.data_path,\n                                data_args=data_args)\n    data_collator = DataCollatorForSupervisedDataset(tokenizer=tokenizer)\n    return dict(train_dataset=train_dataset,\n                eval_dataset=None,\n                data_collator=data_collator)\n\n\ndef train(attn_implementation=None):\n    global local_rank\n    parser = transformers.HfArgumentParser(\n        (ModelArguments, DataArguments, TrainingArguments))\n    model_args, data_args, training_args = parser.parse_args_into_dataclasses()\n    local_rank = training_args.local_rank\n    compute_dtype = (torch.float16 if training_args.fp16 else (torch.bfloat16 if training_args.bf16 else torch.float32))\n    bnb_model_from_pretrained_args = {}\n    if training_args.bits in [4, 8]:\n        from transformers import BitsAndBytesConfig\n        bnb_model_from_pretrained_args.update(dict(\n            device_map={\"\": training_args.device},\n            load_in_4bit=training_args.bits == 4,\n            load_in_8bit=training_args.bits == 8,\n            quantization_config=BitsAndBytesConfig(\n                load_in_4bit=training_args.bits == 4,\n                load_in_8bit=training_args.bits == 8,\n                llm_int8_skip_modules=[\"mm_projector\"],\n                llm_int8_threshold=6.0,\n                llm_int8_has_fp16_weight=False,\n                bnb_4bit_compute_dtype=compute_dtype,\n                bnb_4bit_use_double_quant=training_args.double_quant,\n                bnb_4bit_quant_type=training_args.quant_type  # Supported values: \"fp4\" and \"nf4\".\n            )\n        ))\n\n    customized_kwargs = dict()\n    customized_kwargs.update(bnb_model_from_pretrained_args)\n    overwrite_config = {}\n    # The upstream checkpoint declares ``model_type: llava``, so AutoConfig\n    # creates a composite LlavaConfig.  In transformers 4.40 its deprecated\n    # top-level vocab_size property is not emitted by to_dict(), which makes a\n    # saved LoRA config fall back to Qwen2's default vocabulary size (151936)\n    # instead of the checkpoint's padded size (152064).  Load it as the actual\n    # language-model config so vocab_size remains a normal, serialized field.\n    cfg_pretrained = LlavaQwenConfig.from_pretrained(model_args.model_name_or_path)\n    if model_args.mm_resampler_type is not None:\n        overwrite_config[\"mm_resampler_type\"] = model_args.mm_resampler_type\n    if model_args.mm_vision_select_layer is not None:\n        overwrite_config[\"mm_vision_select_layer\"] = model_args.mm_vision_select_layer\n\n    if model_args.mm_resampler_type is not None and \"mdp\" in model_args.mm_resampler_type:\n        if model_args.mdp_args is not None:\n            overwrite_config['mdp_args'] = json.loads(model_args.mdp_args)\n\n\n    if overwrite_config:\n        assert cfg_pretrained is not None, \"cfg_pretrained is None\"\n\n        rank0_print(f\"Overwriting config with {overwrite_config}\")\n        for k, v in overwrite_config.items():\n            setattr(cfg_pretrained, k, v)\n\n        customized_kwargs[\"config\"] = cfg_pretrained\n\n    if model_args.vision_tower is not None:\n        if 'mpt' in model_args.model_name_or_path:\n            raise ValueError(\n                \"MPT checkpoints are not supported by this M^3Diff release; \"\n                \"use a Qwen checkpoint instead.\"\n            )\n        elif 'qwen' in model_args.model_name_or_path.lower():\n            model = LlavaQwenForCausalLM.from_pretrained(\n                model_args.model_name_or_path,\n                cache_dir=training_args.cache_dir,\n                attn_implementation=attn_implementation,\n                torch_dtype=(torch.bfloat16 if training_args.bf16 else None),\n                **customized_kwargs\n            )\n        else:\n            model = LlavaQwenForCausalLM.from_pretrained(\n                model_args.model_name_or_path,\n                cache_dir=training_args.cache_dir,\n                attn_implementation=attn_implementation,\n                torch_dtype=(torch.bfloat16 if training_args.bf16 else None),\n                **customized_kwargs\n            )\n\n    model.config.use_cache = False\n\n    if model_args.freeze_backbone:\n        model.model.requires_grad_(False)\n\n    if training_args.bits in [4, 8]:\n        from peft import prepare_model_for_kbit_training\n        model.config.torch_dtype=(torch.float32 if training_args.fp16 else (torch.bfloat16 if training_args.bf16 else torch.float32))\n        model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=training_args.gradient_checkpointing)\n\n\n    if training_args.gradient_checkpointing:\n        if hasattr(model, \"enable_input_require_grads\"):\n            model.enable_input_require_grads()\n        else:\n            def make_inputs_require_grad(module, input, output):\n                output.requires_grad_(True)\n            model.get_input_embeddings().register_forward_hook(make_inputs_require_grad)\n\n    if training_args.lora_enable:\n        from peft import LoraConfig, get_peft_model\n        lora_config = LoraConfig(\n            r=training_args.lora_r,\n            lora_alpha=training_args.lora_alpha,\n            target_modules=find_all_linear_names(model),\n            lora_dropout=training_args.lora_dropout,\n            bias=training_args.lora_bias,\n            task_type=\"CAUSAL_LM\",\n        )\n        if training_args.bits == 16:\n            if training_args.bf16:\n                model.to(torch.bfloat16)\n            if training_args.fp16:\n                model.to(torch.float16)\n        rank0_print(\"Adding LoRA adapters...\")\n        model = get_peft_model(model, lora_config)\n\n    if 'mpt' in model_args.model_name_or_path:\n        tokenizer = transformers.AutoTokenizer.from_pretrained(\n            model_args.model_name_or_path,\n            cache_dir=training_args.cache_dir,\n            model_max_length=training_args.model_max_length,\n            padding_side=\"right\"\n        )\n    else:\n\n        tokenizer = transformers.AutoTokenizer.from_pretrained(\n            model_args.model_name_or_path,\n            cache_dir=training_args.cache_dir,\n            model_max_length=training_args.model_max_length,\n            padding_side=\"right\",\n            use_fast=False,\n        )\n\n\n    if model_args.version == \"v0\":\n        if tokenizer.pad_token is None:\n            smart_tokenizer_and_embedding_resize(\n                special_tokens_dict=dict(pad_token=\"[PAD]\"),\n                tokenizer=tokenizer,\n                model=model,\n            )\n    elif model_args.version == \"v0.5\":\n        tokenizer.pad_token = tokenizer.unk_token\n\n    elif \"qwen\" in model_args.version:\n        tokenizer.pad_token = \"<|endoftext|>\"\n        conversation_lib.default_conversation = conversation_lib.conv_templates[model_args.version]\n\n\n    else:\n        tokenizer.pad_token = tokenizer.unk_token\n        if model_args.version in conversation_lib.conv_templates:\n            conversation_lib.default_conversation = conversation_lib.conv_templates[model_args.version]\n        else:\n            conversation_lib.default_conversation = conversation_lib.conv_templates[\"vicuna_v1\"]\n\n    if model_args.vision_tower is not None:\n        model.get_model().initialize_vision_modules(\n            model_args=model_args,\n            fsdp=training_args.fsdp\n        )\n\n        vision_tower = model.get_vision_tower()\n        vision_tower.to(dtype=torch.bfloat16 if training_args.bf16 else torch.float16, device=training_args.device)\n\n        data_args.image_processor = vision_tower.image_processor\n        data_args.is_multimodal = True\n        model.config.image_aspect_ratio = data_args.image_aspect_ratio\n        model.config.tokenizer_padding_side = tokenizer.padding_side\n        model.config.tokenizer_model_max_length = tokenizer.model_max_length\n        model.config.tune_mm_mlp_adapter = training_args.tune_mm_mlp_adapter = model_args.tune_mm_mlp_adapter\n        model.config.tune_mm_vision_resampler = training_args.tune_mm_vision_resampler = model_args.tune_mm_vision_resampler\n        model.config.unfreeze_mm_vision_tower = model_args.unfreeze_mm_vision_tower\n        model.config.freeze_mm_mlp_adapter = training_args.freeze_mm_mlp_adapter\n        model.config.freeze_mm_mlp_adapter = training_args.freeze_mm_mlp_adapter\n\n        if model_args.tune_mm_mlp_adapter:\n            model.requires_grad_(False)\n            for p in model.get_model().mm_projector.parameters():\n                p.requires_grad = True\n\n        if model_args.tune_mm_vision_resampler:\n            for p in model.get_model().vision_resampler.parameters():\n                p.requires_grad = True\n\n        if model_args.unfreeze_mm_vision_tower:\n            vision_tower.requires_grad_(True)\n        else:\n            vision_tower.requires_grad_(False)\n\n        if training_args.freeze_mm_mlp_adapter:\n            for p in model.get_model().mm_projector.parameters():\n                p.requires_grad = False\n\n        if training_args.freeze_reasmpler:\n            for p in model.get_model().vision_resampler.parameters():\n                p.requires_grad = False\n\n\n        if training_args.bits in [4, 8]:\n            model.get_model().mm_projector.to(dtype=compute_dtype, device=training_args.device)\n\n        model.config.mm_use_im_start_end = data_args.mm_use_im_start_end = model_args.mm_use_im_start_end\n        model.config.mm_projector_lr = training_args.mm_projector_lr\n        training_args.use_im_start_end = model_args.mm_use_im_start_end\n        model.config.mm_use_im_patch_token = model_args.mm_use_im_patch_token\n        model.initialize_vision_tokenizer(model_args, tokenizer=tokenizer)\n\n\n    if training_args.bits in [4, 8]:\n        from peft.tuners.lora import LoraLayer\n        for name, module in model.named_modules():\n            if isinstance(module, LoraLayer):\n                if training_args.bf16:\n                    module = module.to(torch.bfloat16)\n            if 'norm' in name:\n                module = module.to(torch.float32)\n            if 'lm_head' in name or 'embed_tokens' in name:\n                if hasattr(module, 'weight'):\n                    if training_args.bf16 and module.weight.dtype == torch.float32:\n                        module = module.to(torch.bfloat16)\n\n    # Report the parameters that will receive gradient updates.\n    def print_grads(model):\n        for name, param in model.named_parameters():\n            if param.requires_grad:\n                print(name)\n    print_grads(model)\n\n    data_module = make_supervised_data_module(tokenizer=tokenizer,\n                                              data_args=data_args)\n    trainer = LLaVATrainer(model=model,\n                    tokenizer=tokenizer,\n                    args=training_args,\n                    **data_module)\n\n    if list(pathlib.Path(training_args.output_dir).glob(\"checkpoint-*\")):\n        trainer.train(resume_from_checkpoint=True)\n    else:\n        trainer.train()\n    trainer.save_state()\n\n    model.config.use_cache = True\n\n    if training_args.lora_enable:\n        state_dict = get_peft_state_maybe_zero_3(\n            model.named_parameters(), training_args.lora_bias\n        )\n        non_lora_state_dict = get_peft_state_non_lora_maybe_zero_3(\n            model.named_parameters()\n        )\n        if training_args.local_rank == 0 or training_args.local_rank == -1:\n            model.save_pretrained(training_args.output_dir, state_dict=state_dict)\n            # PEFT saves adapter_config.json; write the base model config last\n            # and remove only the redundant nested defaults requested here.\n            save_compact_model_config(model.config, training_args.output_dir)\n            torch.save(non_lora_state_dict, os.path.join(training_args.output_dir, 'non_lora_trainables.bin'))\n    else:\n        safe_save_model_for_hf_trainer(trainer=trainer,\n                                       output_dir=training_args.output_dir)\n\n\nif __name__ == \"__main__\":\n    train()\n",
+    "pyproject.toml": "[build-system]\nrequires = [\"setuptools>=69\", \"wheel\"]\nbuild-backend = \"setuptools.build_meta\"\n\n[project]\nname = \"m3diff\"\nversion = \"0.1.0\"\ndescription = \"Official implementation of M3Diff for fine-grained image difference captioning\"\nreadme = \"README.md\"\nrequires-python = \">=3.10\"\nlicense = { file = \"LICENSE\" }\nauthors = [\n  { name = \"Yuan Liu\" },\n]\nkeywords = [\n  \"image difference captioning\",\n  \"multimodal large language model\",\n  \"computer vision\",\n  \"LLaVA\",\n]\nclassifiers = [\n  \"Development Status :: 3 - Alpha\",\n  \"Intended Audience :: Science/Research\",\n  \"License :: OSI Approved :: Apache Software License\",\n  \"Programming Language :: Python :: 3\",\n  \"Programming Language :: Python :: 3.10\",\n  \"Topic :: Scientific/Engineering :: Artificial Intelligence\",\n]\ndependencies = [\n  \"einops==0.6.1\",\n  \"einops-exts==0.0.4\",\n  \"huggingface-hub>=0.34,<1.0\",\n  \"packaging>=23.0\",\n  \"pillow>=10.0\",\n  \"shortuuid>=1.0.13\",\n  \"tokenizers==0.19.1\",\n  \"torch==2.2.2\",\n  \"torchvision==0.17.2\",\n  \"tqdm>=4.66\",\n  \"transformers==4.40.0\",\n]\n\n[project.optional-dependencies]\ntrain = [\n  \"accelerate==0.29.1\",\n  \"bitsandbytes==0.41.0\",\n  \"datasets==2.16.1\",\n  \"decord==0.6.0\",\n  \"deepspeed==0.14.4\",\n  \"hf-transfer>=0.1.9\",\n  \"numpy==1.26.1\",\n  \"opencv-python>=4.8\",\n  \"peft==0.4.0\",\n  \"scikit-learn==1.2.2\",\n  \"scipy>=1.10\",\n  \"sentencepiece==0.1.99\",\n  \"timm>=1.0\",\n  \"tyro>=0.8\",\n  \"wandb>=0.16\",\n]\neval = [\n  \"pycocoevalcap>=1.2\",\n  \"pycocotools>=2.0.7\",\n]\ndev = [\n  \"build>=1.2\",\n  \"ruff>=0.6\",\n]\n\n[project.urls]\nPaper = \"https://openaccess.thecvf.com/content/ICCV2025/html/Liu_OmniDiff_A_Comprehensive_Benchmark_for_Fine-grained_Image_Difference_Captioning_ICCV_2025_paper.html\"\nRepository = \"https://github.com/Yuan-Liu-01/M3Diff\"\nCheckpoint = \"https://huggingface.co/IVC-liuyuan/M3Diff\"\n\"Training annotations\" = \"https://huggingface.co/datasets/IVC-liuyuan/training_m3diff\"\n\n[tool.setuptools]\ninclude-package-data = false\n\n[tool.setuptools.packages.find]\ninclude = [\"llava*\"]\n\n[tool.black]\nline-length = 100\ntarget-version = [\"py310\"]\n\n[tool.ruff]\nline-length = 100\ntarget-version = \"py310\"\n\n[tool.ruff.lint]\nselect = [\"E\", \"F\", \"I\"]\nignore = [\"E501\"]\n"
+  },
+  "data": {
+    "ft/train_mix.json": {
+      "count": 5420,
+      "sample": [
+        {
+          "id": "ftsyn_light_0099",
+          "image": [
+            "ft_synth/images/light_0099_A.jpg",
+            "ft_synth/images/light_0099_B.jpg"
+          ],
+          "conversations": [
+            {
+              "from": "human",
+              "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+            },
+            {
+              "from": "gpt",
+              "value": "The ambient lighting has brightened."
+            }
+          ]
+        },
+        {
+          "id": "ftsyn_move_0356",
+          "image": [
+            "ft_synth/images/move_0356_A.jpg",
+            "ft_synth/images/move_0356_B.jpg"
+          ],
+          "conversations": [
+            {
+              "from": "human",
+              "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+            },
+            {
+              "from": "gpt",
+              "value": "The yellow bowl in the center of the scene has shifted toward the right side of the scene."
+            }
+          ]
+        }
+      ],
+      "test_image_overlap_rows": 0,
+      "test_path_rows": 0,
+      "existing_images": 0,
+      "total_images": 10840,
+      "all_dataset_count": 5420
+    },
+    "ft/orig/training_m3diff.json": {
+      "count": 28056,
+      "sample": [
+        {
+          "id": "21.subway",
+          "image": [
+            "OmniDiff/Render/val/images/render_val_outdoor_000002.jpg",
+            "OmniDiff/Render/val/images/render_val_outdoor_000001.jpg"
+          ],
+          "conversations": [
+            {
+              "from": "human",
+              "value": "Point out the variations between the two images.  <image><image>Difference:"
+            },
+            {
+              "from": "gpt",
+              "value": "The yellow cone next to the green pillar with the '74 Street' text on the left side of the subway car has disappeared.A new, thin black pole leans against a post labeled '74 Street'."
+            }
+          ]
+        },
+        {
+          "id": "21.subway",
+          "image": [
+            "OmniDiff/Render/val/images/render_val_outdoor_000002.jpg",
+            "OmniDiff/Render/val/images/render_val_outdoor_000003.jpg"
+          ],
+          "conversations": [
+            {
+              "from": "human",
+              "value": "Describe the contrast between these two images.  <image><image>Difference:"
+            },
+            {
+              "from": "gpt",
+              "value": "The yellow cone next to the green pillar on the left side of the subway car has disappeared. The black sign with the text '74th Street' that was fixed to the green pillar on the platform is no longer visible."
+            }
+          ]
+        }
+      ],
+      "test_image_overlap_rows": 0,
+      "test_path_rows": 0,
+      "existing_images": 0,
+      "total_images": 56112,
+      "all_dataset_count": 896015
+    }
+  },
+  "directories": {
+    "ft/orig": [
+      ".cache",
+      "omnidiff_only.json",
+      "training_m3diff.json"
+    ],
+    "baseline_cache/OmniDiff": [
+      ".cache",
+      "Real",
+      "Render"
+    ]
+  }
+}

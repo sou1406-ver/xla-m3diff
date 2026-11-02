@@ -1,0 +1,39 @@
+{
+  "questions_sha256": "a4886c4e6fb51a25e57ae9de4ca9627553138d2020366732e7fdfb01693523ea",
+  "image_file_sha256": {
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/viewpoint_extension_v1/dataset/clothesline_source.png": "02a8de6c4a338c9ede9c2cd45ac1ec3117908a1be3424f44d062f473d4e290f5",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png": "7ea1bd23627625d209e91a08a6861c64540431b2ea224b40c07224437f4d3e2e",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png": "0fb3ab6afccf109748c4726e01020e8364434420a66f7120e2082fe98692eac4",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/viewpoint_extension_v1/dataset/bunk_bedroom_source.png": "a29770996777ae5005f9371c3d644e6f5f2bb6953bea11c60221a39e444d5a3b"
+  },
+  "model_files_sha256": {
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/invariance_ablation_v1/m3diff-mixed-objective-lora/config.json": "4f6ada9e3550fe242252186716662eeba92aa66cc922cba300e8d9bff1361244",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/invariance_ablation_v1/m3diff-mixed-objective-lora/adapter_config.json": "bb895444f163eab857631ae6c142758605685a2822ad094bfd0a41231a9f45da",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/invariance_ablation_v1/m3diff-mixed-objective-lora/adapter_model.bin": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/invariance_ablation_v1/m3diff-mixed-objective-lora/non_lora_trainables.bin": "60fb82c3660319e6d0b239950b20c28181e97f1ade117dc0660b40e2ad94a89b",
+    "/__modal/volumes/vo-jSDHTvx1EJcjtmBcxfVE68/baseline_cache/M3Diff/config.json": "cd0608586cce1eb0af4f5ea61f873598fff45920a3b450609a17155f96eaaa95"
+  },
+  "model_path": "/mnt/m3diff/invariance_ablation_v1/m3diff-mixed-objective-lora",
+  "model_base": "/mnt/m3diff/baseline_cache/M3Diff",
+  "runtime_options": [
+    "--torch-dtype",
+    "bfloat16",
+    "--temperature",
+    "0",
+    "--num_beams",
+    "1",
+    "--max-new-tokens",
+    "1024",
+    "--conv-mode",
+    "qwen_2",
+    "--num-chunks",
+    "1",
+    "--chunk-idx",
+    "0",
+    "--no-flash-attention"
+  ],
+  "adapter_mode": "unmerged_fp32",
+  "exact_identity_guard": false,
+  "eval_runner_sha256": "9152195ce2a8ca19ac211456e22c14dce1d285aa37249f266e4d7d8122ed0549",
+  "loader_sha256": "9b009a14cc8410b26fcd7cae9fe88d15430303dd788234edcfeccd69ad5b3f55"
+}

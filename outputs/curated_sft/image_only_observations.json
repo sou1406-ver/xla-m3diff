@@ -1,0 +1,226 @@
+{
+  "reviewer": "Codex assistant visual review; not independently human adjudicated.",
+  "started_at": "2026-10-27 09:44:51 UTC",
+  "finished_at": "2026-10-27 09:54:47 UTC",
+  "model_captions_and_reference_captions_hidden": true,
+  "not_used_for_training": true,
+  "policy": "Record clear visible changes first, preserve uncertainty about occlusion/identity and limb sides. Later caption review must distinguish factual errors and omissions; uncertainty is not counted as a confirmed error.",
+  "observations": [
+    {
+      "index": 0,
+      "clear_changes": [
+        "A white goose-like plush toy appears lying across the gray ottoman and white tabletop.",
+        "A second mint-green plastic stool appears at the front right.",
+        "The chair cushion changes from a blue square cushion to a larger green rectangular cushion."
+      ],
+      "unchanged_context": [
+        "The gray ottoman, wooden table and white table remain.",
+        "The original mint stool remains."
+      ],
+      "uncertain": [
+        "Small changes in chair/table placement may be due to viewpoint; do not infer removal.",
+        "A partly visible white object on the background sofa may be related to the foreground plush; addition versus relocation is not certain."
+      ]
+    },
+    {
+      "index": 1,
+      "clear_changes": [
+        "The same three exercisers change from a wide-legged squat with hands held together low in front to an upright side bend toward the left side of the image.",
+        "In the after image one arm stretches overhead sideways while the other hand rests near the waist."
+      ],
+      "unchanged_context": [
+        "Three people remain in the same turquoise-and-white uniforms.",
+        "The sports field and tree/fence background remain."
+      ],
+      "uncertain": [
+        "Exact anatomical left/right arm descriptions are easy to invert; use image-side direction."
+      ]
+    },
+    {
+      "index": 2,
+      "clear_changes": [
+        "The same woman changes from a one-legged balance pose, torso leaning left and other leg extended behind, to a wide-legged forward bend with her head down.",
+        "Her arms change from one raised and one touching the circular gate to both stretched outward toward the lower sides/feet."
+      ],
+      "unchanged_context": [
+        "The white outfit, circular gateway, sign and garden background remain."
+      ],
+      "uncertain": [
+        "Exact hand-versus-foot contacts in the forward bend are partially occluded; avoid over-specific limb claims."
+      ]
+    },
+    {
+      "index": 3,
+      "clear_changes": [
+        "The chair cushion changes from blue to green.",
+        "A white goose plush becomes visible across the gray ottoman and white tabletop in the foreground, facing right."
+      ],
+      "unchanged_context": [
+        "There are two mint-green plastic stools before and after.",
+        "The wooden table, white table and gray ottoman remain."
+      ],
+      "uncertain": [
+        "Small furniture position changes may be viewpoint differences; do not infer a new stool.",
+        "A white object with an orange protrusion is partly visible on the background sofa before; it may be the same plush, so do not require a true addition claim."
+      ]
+    },
+    {
+      "index": 4,
+      "clear_changes": [
+        "The woman changes from a standing side stretch/balance with one leg lifted high and held by a hand to a headstand supported on her head/forearms.",
+        "In the after pose the legs are raised and split, with one extended upward and the other bent outward."
+      ],
+      "unchanged_context": [
+        "One woman remains in the same white outfit at the circular gate."
+      ],
+      "uncertain": [
+        "The camera tilt also changes slightly; exact anatomical limb sides are not needed."
+      ]
+    },
+    {
+      "index": 5,
+      "clear_changes": [
+        "The mouse moves from being fully outside on the wooden floor to peeking out through the opening in the wooden box/wall.",
+        "The viewpoint changes from an oblique overhead view to a more frontal, lower view of the opening."
+      ],
+      "unchanged_context": [
+        "One mouse and scattered food/seeds remain visible.",
+        "The opening already belongs to the wooden structure; no clear newly created hole."
+      ],
+      "uncertain": [
+        "Seed quantity/distribution is not directly comparable because framing and viewpoint change.",
+        "The after view is darker, but its physical lighting cause is not established."
+      ]
+    },
+    {
+      "index": 6,
+      "clear_changes": [
+        "The clear handled drinking jar with a pale-green lid moves forward toward the front edge of the table.",
+        "A red-and-black cylindrical thermos is now visible behind the clear jar in the area it previously occupied.",
+        "A patch of white powder/white residue appears on the tabletop to the left/front of the large blue-lidded tin."
+      ],
+      "unchanged_context": [
+        "The kettle, blue-lidded tin, cutting boards, red bottle with green cap, large dark water jug and yellow/red child's cup remain."
+      ],
+      "uncertain": [
+        "Whether the red-and-black thermos is newly added or was occluded before cannot be fully established from the contact sheet."
+      ]
+    },
+    {
+      "index": 7,
+      "clear_changes": [
+        "The person changes from a crossed-leg standing pose with one arm curved overhead and the other extended outward to balancing on one bent supporting leg while kicking the other leg forward toward the right of the image.",
+        "The after pose has one arm reaching diagonally forward/up and the other drawn back.",
+        "The background/framing changes: the bright sun is directly visible near the right horizon and a much larger dark cloud occupies the upper sky."
+      ],
+      "unchanged_context": [
+        "One silhouetted person in a cap remains by the water."
+      ],
+      "uncertain": [
+        "Do not infer physical disappearance of mountains or exact weather/time progression from the viewpoint difference.",
+        "Exact anatomical limb sides are uncertain."
+      ]
+    },
+    {
+      "index": 8,
+      "clear_changes": [
+        "The end/foot panel of the back-right hospital bed changes from white to red.",
+        "The small picture on the left wall nearer the back changes to an anatomical heart illustration."
+      ],
+      "unchanged_context": [
+        "The room layout, six beds, ceiling panels and large flower pictures remain."
+      ],
+      "uncertain": [
+        "The front-left overbed tabletop changes apparent orientation/extent while its base stays near the same position; physical resizing versus rotation is not certain."
+      ]
+    },
+    {
+      "index": 9,
+      "clear_changes": [
+        "The single bicycle near the right curb moves slightly toward the curb and rotates from a more side-on horizontal view to a more diagonal orientation."
+      ],
+      "unchanged_context": [
+        "There is one bicycle before and after.",
+        "The houses, trees, road and fence remain in the same layout."
+      ],
+      "uncertain": [
+        "Do not infer a newly added or removed bicycle."
+      ]
+    },
+    {
+      "index": 10,
+      "clear_changes": [
+        "A second pie/tart appears at the front center of the picnic cloth.",
+        "A large upright pale rock appears on the right edge of the pool.",
+        "The visible waterfall becomes narrower."
+      ],
+      "unchanged_context": [
+        "The existing pie at the back, picnic basket, crockery and striped deck chair remain."
+      ],
+      "uncertain": []
+    },
+    {
+      "index": 11,
+      "clear_changes": [
+        "A monitor on the rear-left row rotates so that its silver back is visible instead of its dark screen."
+      ],
+      "unchanged_context": [
+        "Close inspection shows the adjacent chairs and table legs remain in the same positions.",
+        "The number of monitors/chairs and ceiling lights stays the same."
+      ],
+      "uncertain": []
+    },
+    {
+      "index": 12,
+      "clear_changes": [
+        "A purple watering can becomes visible on the ground beside the soil bags at the left of the aisle.",
+        "The white watering can previously visible farther back on the left is no longer visible in its original position."
+      ],
+      "unchanged_context": [
+        "The hose loop, wooden table/chair, soil bags and large right-side potted plants remain."
+      ],
+      "uncertain": [
+        "The can may have moved forward and changed from white to purple; do not require treating it as an additional second can.",
+        "A smaller right-side clay pot may shift slightly, but this is not confidently established."
+      ]
+    },
+    {
+      "index": 13,
+      "clear_changes": [
+        "The classroom becomes brighter."
+      ],
+      "unchanged_context": [
+        "The desks/chairs, ceiling fans and lamps, chalkboard drawing/text, windows and speakers appear to keep the same arrangement."
+      ],
+      "uncertain": [
+        "No clear object addition, removal or movement is identified at contact-sheet resolution."
+      ]
+    },
+    {
+      "index": 14,
+      "clear_changes": [
+        "A small yellow folding caution sign appears in the road near the steps of the blue house."
+      ],
+      "unchanged_context": [
+        "The bicycle already lies diagonally near the right curb and keeps that arrangement.",
+        "The houses, trees and fences remain."
+      ],
+      "uncertain": [
+        "The small sign's exact lettering is not readable at contact-sheet resolution."
+      ]
+    },
+    {
+      "index": 15,
+      "clear_changes": [
+        "A small yellow folding caution sign appears near the steps of the blue house.",
+        "The bicycle near the right curb moves/rotates from a more horizontal side-on position to a more diagonal orientation closer to the curb."
+      ],
+      "unchanged_context": [
+        "There is one bicycle before and after; the street and houses remain."
+      ],
+      "uncertain": [
+        "Do not describe a newly added second bicycle."
+      ]
+    }
+  ]
+}

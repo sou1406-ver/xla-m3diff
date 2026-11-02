@@ -1,0 +1,1651 @@
+{
+  "35b9c643f9f78a4a7f11d03d40550544999cdbc769cbdc9d7799b57812803e91": {
+    "image": "Real/test/images/real_test_000075.jpg",
+    "label": "bed",
+    "boxes": [
+      [
+        23,
+        306,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bed</ref><box><23><306><999><999></box><|im_end|>"
+  },
+  "e1eb613d791f4cdc518382f8b8f9b262500bf7664e420e34bbfb93eb55b91721": {
+    "image": "Real/test/images/real_test_000077.jpg",
+    "label": "bed",
+    "boxes": [
+      [
+        19,
+        302,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bed</ref><box><19><302><999><999></box><|im_end|>"
+  },
+  "f7288657b8e9b5888d89cb63ef69bea6bfefa61cde559d0696245c94e1de8a5c": {
+    "image": "Real/test/images/real_test_000037.jpg",
+    "label": "chair",
+    "boxes": [
+      [
+        0,
+        0,
+        332,
+        455
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box><0><0><332><455></box><|im_end|>"
+  },
+  "6d5f25cf529a40928c8cd63d38727b4e8a8abb6e25edc64bc6b74bfcb7dc1ed2": {
+    "image": "Real/test/images/real_test_000038.jpg",
+    "label": "chair",
+    "boxes": [
+      [
+        0,
+        0,
+        248,
+        264
+      ],
+      [
+        0,
+        90,
+        108,
+        333
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box><0><0><248><264></box><box><0><90><108><333></box><|im_end|>"
+  },
+  "554e78aef78381de7f8fbec1f5636e637aff568cff428f9b697b1580b6971af3": {
+    "image": "Real/test/images/real_test_000037.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        114,
+        184,
+        870,
+        703
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><114><184><870><703></box><|im_end|>"
+  },
+  "8da1281cb39598669e1dc30eabc5cfffc2e5064a83b8d1df9301f86ea10d9d63": {
+    "image": "Real/test/images/real_test_000038.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        117,
+        211,
+        851,
+        693
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><117><211><851><693></box><|im_end|>"
+  },
+  "1b2687fcceb09316620e61268665653755f23e6df581824ad2b52b211adf6835": {
+    "image": "Real/test/images/real_test_000127.jpg",
+    "label": "dog",
+    "boxes": [
+      [
+        554,
+        191,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>dog</ref><box><554><191><999><999></box><|im_end|>"
+  },
+  "9eb60bf2faaf4c3b44e86fd3fee77111cce2355cd5b8d9d549852df93bb717d3": {
+    "image": "Real/test/images/real_test_000128.jpg",
+    "label": "dog",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>dog</ref><box>None</box><|im_end|>"
+  },
+  "cef16cca2a3d3f3e10c0ecc45c27b1b8d4a41e302d218c9a091ade249ca3e4a9": {
+    "image": "Real/test/images/real_test_000104.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        120,
+        554,
+        386,
+        890
+      ],
+      [
+        384,
+        527,
+        691,
+        871
+      ],
+      [
+        585,
+        547,
+        932,
+        854
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><120><554><386><890></box><box><384><527><691><871></box><box><585><547><932><854></box><|im_end|>"
+  },
+  "a732f7adf1701bc2cad202ea10b22d6b94fff0aaba5233b749eaa820c05def2e": {
+    "image": "Real/test/images/real_test_000101.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        81,
+        483,
+        442,
+        935
+      ],
+      [
+        344,
+        482,
+        622,
+        952
+      ],
+      [
+        573,
+        462,
+        864,
+        954
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><81><483><442><935></box><box><344><482><622><952></box><box><573><462><864><954></box><|im_end|>"
+  },
+  "35691966008a6941c0f2d8d628e7bdfc5664899184d7c3f5c24c209e7d6d1e27": {
+    "image": "Real/test/images/real_test_000143.jpg",
+    "label": "toy car",
+    "boxes": [
+      [
+        361,
+        362,
+        472,
+        467
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>toy car</ref><box><361><362><472><467></box><|im_end|>"
+  },
+  "7550903d2ebd043e90ac1e9ee4a90750b0f967d76f21f97561888f58149c9951": {
+    "image": "Real/test/images/real_test_000136.jpg",
+    "label": "toy car",
+    "boxes": [
+      [
+        147,
+        283,
+        247,
+        379
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>toy car</ref><box><147><283><247><379></box><|im_end|>"
+  },
+  "63d156556dc59f160f82cc7b7d5be64c9cac8fd5d5abb18c232a0e5f0c9e8e4e": {
+    "image": "Real/test/images/real_test_000143.jpg",
+    "label": "chair",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+  },
+  "ad9981a369d1ac6667afcec49cc675bc534f307532eebfe2c47a24e4992eb128": {
+    "image": "Real/test/images/real_test_000136.jpg",
+    "label": "chair",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+  },
+  "80f741fc7d81e1ce5169c53137462f8f2738219b69d05c556371307806fd3369": {
+    "image": "Real/test/images/real_test_000099.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        198,
+        572,
+        487,
+        946
+      ],
+      [
+        337,
+        559,
+        614,
+        944
+      ],
+      [
+        444,
+        554,
+        765,
+        947
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><198><572><487><946></box><box><337><559><614><944></box><box><444><554><765><947></box><|im_end|>"
+  },
+  "1f0cef5a43ad2e3602fb94606726374f747e0f543d6a3bbdc9c3565f09bf9af4": {
+    "image": "Real/test/images/real_test_000120.jpg",
+    "label": "bottle",
+    "boxes": [
+      [
+        589,
+        642,
+        745,
+        846
+      ],
+      [
+        603,
+        478,
+        704,
+        661
+      ],
+      [
+        688,
+        366,
+        874,
+        751
+      ],
+      [
+        711,
+        558,
+        833,
+        750
+      ],
+      [
+        817,
+        616,
+        972,
+        780
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bottle</ref><box><589><642><745><846></box><box><603><478><704><661></box><box><688><366><874><751></box><box><711><558><833><750></box><box><817><616><972><780></box><|im_end|>"
+  },
+  "30916fb16b23b4da3082bcedaa2a0c1068ce2f097192f5092df34ef0d1828169": {
+    "image": "Real/test/images/real_test_000122.jpg",
+    "label": "bottle",
+    "boxes": [
+      [
+        604,
+        479,
+        706,
+        653
+      ],
+      [
+        688,
+        366,
+        875,
+        646
+      ],
+      [
+        711,
+        559,
+        834,
+        749
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bottle</ref><box><604><479><706><653></box><box><688><366><875><646></box><box><711><559><834><749></box><|im_end|>"
+  },
+  "fbdb3e2fabc1f33bdcdbd400a287fb07973eeb21a42cefd3b3b92699cb59d2ad": {
+    "image": "Real/test/images/real_test_000129.jpg",
+    "label": "dog",
+    "boxes": [
+      [
+        37,
+        199,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>dog</ref><box><37><199><999><999></box><|im_end|>"
+  },
+  "468e2702329e26116b07e8cef73bdde59ffed424014b05e0f9b671bd97a8908f": {
+    "image": "Real/test/images/real_test_000132.jpg",
+    "label": "dog",
+    "boxes": [
+      [
+        669,
+        95,
+        999,
+        695
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>dog</ref><box><669><95><999><695></box><|im_end|>"
+  },
+  "c5236ccdb978bdf8a936e2cf9638ef820ef022226fa1abe7de0aae85fc7b17de": {
+    "image": "Real/test/images/real_test_000129.jpg",
+    "label": "plant",
+    "boxes": [
+      [
+        0,
+        0,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>plant</ref><box><0><0><999><999></box><|im_end|>"
+  },
+  "8c4476235afc67317f00531992b2da342ce372bc08724a3958ae7880d471c925": {
+    "image": "Real/test/images/real_test_000132.jpg",
+    "label": "plant",
+    "boxes": [
+      [
+        0,
+        0,
+        999,
+        999
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>plant</ref><box><0><0><999><999></box><|im_end|>"
+  },
+  "583e523fc4205bf5074cb7f1f81616d274572db13ba21d92b8723df60f9d1da0": {
+    "image": "Real/test/images/real_test_000174.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "a81339bf127bbb2c506d29b4dde4972e9dc2dac253e0efab1c0ae95eaa1ec17a": {
+    "image": "Real/test/images/real_test_000179.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "25b48b9087828a985bf1104b892cd763f7de0861ba8f185df11de47f423decb3": {
+    "image": "Real/test/images/real_test_000174.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "bebd02dc1bbbcf3e4f05c9abf6f91903dc2d42a7458e0b87fe2d8dcded552f49": {
+    "image": "Real/test/images/real_test_000179.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        74,
+        413,
+        1000,
+        718
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><74><413><1000><718></box><|im_end|>"
+  },
+  "52a3a341bad0b767338c82680ba6e523bc53953f0ff7e6a77797cf3f3d8b35b5": {
+    "image": "Real/test/images/real_test_000072.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        48,
+        333,
+        237,
+        790
+      ],
+      [
+        394,
+        350,
+        580,
+        840
+      ],
+      [
+        685,
+        344,
+        872,
+        789
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><48><333><237><790></box><box><394><350><580><840></box><box><685><344><872><789></box><|im_end|>"
+  },
+  "23467bd41b06ff23a0888e5ab59513ad23bf4d1185ec3d4237b4ba0a4e25fc2f": {
+    "image": "Real/test/images/real_test_000073.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        50,
+        335,
+        237,
+        790
+      ],
+      [
+        395,
+        351,
+        581,
+        839
+      ],
+      [
+        688,
+        341,
+        872,
+        789
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><50><335><237><790></box><box><395><351><581><839></box><box><688><341><872><789></box><|im_end|>"
+  },
+  "99709dcf174d2434c59a050ea78e4f0c94b7522a1c8a9eb9da10f9325fad3a76": {
+    "image": "Real/test/images/real_test_000131.jpg",
+    "label": "dog",
+    "boxes": [
+      [
+        322,
+        197,
+        854,
+        812
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>dog</ref><box><322><197><854><812></box><|im_end|>"
+  },
+  "b7dcbad1310b81a8c42c2272ee53013c397ee0934ad1bcaae1bd43ab03eab98a": {
+    "image": "Real/test/images/real_test_000009.jpg",
+    "label": "toy car",
+    "boxes": [
+      [
+        512,
+        245,
+        733,
+        521
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>toy car</ref><box><512><245><733><521></box><|im_end|>"
+  },
+  "b549556f458a46a955f929a4a70bf369d22f069ea4f5a5c29e600956f1b8e06b": {
+    "image": "Real/test/images/real_test_000005.jpg",
+    "label": "toy car",
+    "boxes": [
+      [
+        171,
+        269,
+        311,
+        679
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>toy car</ref><box><171><269><311><679></box><|im_end|>"
+  },
+  "c3ca79d8a31b466d326dc1e57852929aa4fa786c6f0bab0c4fcd3f20557a3361": {
+    "image": "Render/test/images/render_test_outdoor_000033.jpg",
+    "label": "bicycle",
+    "boxes": [
+      [
+        676,
+        461,
+        922,
+        729
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bicycle</ref><box><676><461><922><729></box><|im_end|>"
+  },
+  "5af604c618ea5fc61b16529287eb431de7896bc29b25cc2faf70b43065edd840": {
+    "image": "Render/test/images/render_test_outdoor_000028.jpg",
+    "label": "bicycle",
+    "boxes": [
+      [
+        628,
+        479,
+        966,
+        709
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bicycle</ref><box><628><479><966><709></box><|im_end|>"
+  },
+  "b9072aa5b8eaaa14e11fc350ece14c6edb542ce35ff7251eefa4776277f84eff": {
+    "image": "Render/test/images/render_test_outdoor_000033.jpg",
+    "label": "box",
+    "boxes": [
+      [
+        594,
+        571,
+        674,
+        699
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>box</ref><box><594><571><674><699></box><|im_end|>"
+  },
+  "2c7e3f0a8d8d4615b70d2d3e0bbb73f718f53814b023e496ea9d5c3ec49af420": {
+    "image": "Render/test/images/render_test_outdoor_000028.jpg",
+    "label": "box",
+    "boxes": [
+      [
+        594,
+        571,
+        674,
+        691
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>box</ref><box><594><571><674><691></box><|im_end|>"
+  },
+  "b9e3159c29a118626cd615f0d5ea9828a13fad809450031635320459d2ed527c": {
+    "image": "Render/test/images/render_test_indoor_000035.jpg",
+    "label": "chair",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+  },
+  "3bc8e648742190fa43d4e8eb46bfb2c7e532650deb4cea65e3c5f359dbee00a9": {
+    "image": "Render/test/images/render_test_indoor_000028.jpg",
+    "label": "chair",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+  },
+  "405aac57892426a6bad5824e9d364ba84af7b166493e34a2618fdc438c183114": {
+    "image": "Render/test/images/render_test_indoor_000035.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "394ad6ef267c4278fcf3b155e1afec3242ec89df056b6a02026d0385d0ad3667": {
+    "image": "Render/test/images/render_test_indoor_000028.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        400,
+        543,
+        543,
+        754
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><400><543><543><754></box><|im_end|>"
+  },
+  "c5252cea648467e1dd0ca5f9bd743099e4a04d1b0d9767d3a2ae72454eac3232": {
+    "image": "Render/test/images/render_test_indoor_000043.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        0,
+        783,
+        358,
+        999
+      ],
+      [
+        5,
+        688,
+        280,
+        785
+      ],
+      [
+        62,
+        654,
+        136,
+        686
+      ],
+      [
+        197,
+        643,
+        274,
+        681
+      ],
+      [
+        215,
+        615,
+        266,
+        641
+      ],
+      [
+        312,
+        586,
+        379,
+        613
+      ],
+      [
+        325,
+        604,
+        384,
+        639
+      ],
+      [
+        342,
+        637,
+        393,
+        680
+      ],
+      [
+        392,
+        678,
+        487,
+        805
+      ],
+      [
+        441,
+        594,
+        484,
+        618
+      ],
+      [
+        444,
+        772,
+        693,
+        999
+      ],
+      [
+        479,
+        625,
+        554,
+        663
+      ],
+      [
+        509,
+        570,
+        565,
+        596
+      ],
+      [
+        562,
+        587,
+        612,
+        620
+      ],
+      [
+        646,
+        671,
+        724,
+        777
+      ],
+      [
+        701,
+        574,
+        746,
+        634
+      ],
+      [
+        702,
+        771,
+        989,
+        999
+      ],
+      [
+        731,
+        656,
+        931,
+        780
+      ],
+      [
+        766,
+        532,
+        781,
+        546
+      ],
+      [
+        768,
+        603,
+        908,
+        661
+      ],
+      [
+        781,
+        571,
+        893,
+        609
+      ],
+      [
+        854,
+        542,
+        877,
+        569
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><0><783><358><999></box><box><5><688><280><785></box><box><62><654><136><686></box><box><197><643><274><681></box><box><215><615><266><641></box><box><312><586><379><613></box><box><325><604><384><639></box><box><342><637><393><680></box><box><392><678><487><805></box><box><441><594><484><618></box><box><444><772><693><999></box><box><479><625><554><663></box><box><509><570><565><596></box><box><562><587><612><620></box><box><646><671><724><777></box><box><701><574><746><634></box><box><702><771><989><999></box><box><731><656><931><780></box><box><766><532><781><546></box><box><768><603><908><661></box><box><781><571><893><609></box><box><854><542><877><569></box><|im_end|>"
+  },
+  "d50c890cec40ed4a16eb63a868c5e06712fa5365a2de7f26c0980767c0833eb0": {
+    "image": "Render/test/images/render_test_indoor_000045.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        0,
+        781,
+        358,
+        999
+      ],
+      [
+        5,
+        688,
+        281,
+        785
+      ],
+      [
+        62,
+        654,
+        138,
+        686
+      ],
+      [
+        196,
+        641,
+        275,
+        681
+      ],
+      [
+        215,
+        615,
+        266,
+        646
+      ],
+      [
+        312,
+        586,
+        386,
+        607
+      ],
+      [
+        322,
+        604,
+        384,
+        638
+      ],
+      [
+        342,
+        637,
+        392,
+        682
+      ],
+      [
+        381,
+        679,
+        489,
+        798
+      ],
+      [
+        438,
+        771,
+        693,
+        999
+      ],
+      [
+        486,
+        625,
+        554,
+        665
+      ],
+      [
+        509,
+        570,
+        612,
+        576
+      ],
+      [
+        510,
+        589,
+        613,
+        664
+      ],
+      [
+        592,
+        669,
+        726,
+        891
+      ],
+      [
+        622,
+        545,
+        661,
+        599
+      ],
+      [
+        701,
+        575,
+        745,
+        651
+      ],
+      [
+        703,
+        772,
+        993,
+        999
+      ],
+      [
+        731,
+        666,
+        932,
+        782
+      ],
+      [
+        766,
+        533,
+        908,
+        650
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><0><781><358><999></box><box><5><688><281><785></box><box><62><654><138><686></box><box><196><641><275><681></box><box><215><615><266><646></box><box><312><586><386><607></box><box><322><604><384><638></box><box><342><637><392><682></box><box><381><679><489><798></box><box><438><771><693><999></box><box><486><625><554><665></box><box><509><570><612><576></box><box><510><589><613><664></box><box><592><669><726><891></box><box><622><545><661><599></box><box><701><575><745><651></box><box><703><772><993><999></box><box><731><666><932><782></box><box><766><533><908><650></box><|im_end|>"
+  },
+  "fe88885112100f8c62150858db4159640ed8ea2b645a0b64086f3835e32e0bbd": {
+    "image": "Render/test/images/render_test_indoor_000047.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        625,
+        388,
+        721,
+        493
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><625><388><721><493></box><|im_end|>"
+  },
+  "cbb219fc27510ac80fed899536cd8ada4895f0ebaec302dd3fda1219aeec1119": {
+    "image": "Render/test/images/render_test_indoor_000040.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        880,
+        431,
+        967,
+        649
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><880><431><967><649></box><|im_end|>"
+  },
+  "5eb4096036934ff1eaeac5e97bc6e0670bfa75cc3b64bdc74a7c6415376d8938": {
+    "image": "Render/test/images/render_test_indoor_000058.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        0,
+        599,
+        394,
+        847
+      ],
+      [
+        52,
+        565,
+        169,
+        635
+      ],
+      [
+        216,
+        566,
+        396,
+        600
+      ],
+      [
+        354,
+        549,
+        419,
+        575
+      ],
+      [
+        594,
+        551,
+        801,
+        604
+      ],
+      [
+        688,
+        601,
+        909,
+        807
+      ],
+      [
+        854,
+        612,
+        966,
+        646
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><0><599><394><847></box><box><52><565><169><635></box><box><216><566><396><600></box><box><354><549><419><575></box><box><594><551><801><604></box><box><688><601><909><807></box><box><854><612><966><646></box><|im_end|>"
+  },
+  "9ae0ca4d6d3e014d60b1a7bb8190041f5fc307e07d9ab0a6468299b804d2d4ac": {
+    "image": "Render/test/images/render_test_indoor_000061.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        58,
+        614,
+        167,
+        642
+      ],
+      [
+        131,
+        604,
+        339,
+        849
+      ],
+      [
+        215,
+        568,
+        396,
+        636
+      ],
+      [
+        354,
+        551,
+        419,
+        576
+      ],
+      [
+        471,
+        544,
+        512,
+        602
+      ],
+      [
+        592,
+        554,
+        661,
+        578
+      ],
+      [
+        622,
+        569,
+        732,
+        603
+      ],
+      [
+        688,
+        601,
+        910,
+        850
+      ],
+      [
+        744,
+        579,
+        827,
+        645
+      ],
+      [
+        855,
+        615,
+        966,
+        646
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><58><614><167><642></box><box><131><604><339><849></box><box><215><568><396><636></box><box><354><551><419><576></box><box><471><544><512><602></box><box><592><554><661><578></box><box><622><569><732><603></box><box><688><601><910><850></box><box><744><579><827><645></box><box><855><615><966><646></box><|im_end|>"
+  },
+  "891062badf176ea3e4411be963d7d718bfe8be70b733b36a057e8601f07047b8": {
+    "image": "Render/test/images/render_test_indoor_000058.jpg",
+    "label": "flower",
+    "boxes": [
+      [
+        86,
+        562,
+        141,
+        604
+      ],
+      [
+        216,
+        543,
+        250,
+        568
+      ],
+      [
+        764,
+        542,
+        799,
+        569
+      ],
+      [
+        883,
+        561,
+        938,
+        601
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>flower</ref><box><86><562><141><604></box><box><216><543><250><568></box><box><764><542><799><569></box><box><883><561><938><601></box><|im_end|>"
+  },
+  "b984463fc9014430724e33caf52003a68efdcba17d131835654000612ce61b58": {
+    "image": "Render/test/images/render_test_indoor_000061.jpg",
+    "label": "flower",
+    "boxes": [
+      [
+        87,
+        562,
+        141,
+        604
+      ],
+      [
+        217,
+        543,
+        250,
+        568
+      ],
+      [
+        768,
+        542,
+        799,
+        569
+      ],
+      [
+        884,
+        563,
+        959,
+        605
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>flower</ref><box><87><562><141><604></box><box><217><543><250><568></box><box><768><542><799><569></box><box><884><563><959><605></box><|im_end|>"
+  },
+  "cb9140855401cbc38f50dfa5248e04ac1e6154874e18e51fb87807d058cf8ade": {
+    "image": "Render/test/images/render_test_outdoor_000023.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "f7d6f7ad6de3303e3c7dcd0d4ade98037fbdf259dc9520a7296798c33c098d22": {
+    "image": "Render/test/images/render_test_outdoor_000018.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "9cdf4be4a9e78da0cabef5cd20d9fb1c6a45823fbc466065fed00511ab1dd40f": {
+    "image": "Render/test/images/render_test_outdoor_000023.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        632,
+        365,
+        646,
+        418
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><632><365><646><418></box><|im_end|>"
+  },
+  "da267dffc5ea0962d6c219fd38d5454489ecea5762e576472687c43f681fd1ef": {
+    "image": "Render/test/images/render_test_outdoor_000018.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        706,
+        481,
+        745,
+        568
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><706><481><745><568></box><|im_end|>"
+  },
+  "774781ee6e3202f21b39ec4ae1c9c7850d78a8c866742ba86719d27b2ffaaad6": {
+    "image": "Render/test/images/render_test_outdoor_000037.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "b6b6681608c46fc82bbb9a2b9ff8a00100d6dc89e21b9d59810175d89d115797": {
+    "image": "Render/test/images/render_test_outdoor_000029.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        372,
+        465,
+        451,
+        648
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><372><465><451><648></box><|im_end|>"
+  },
+  "40fc1b83658e86989048f984136d54b85004a3c27bca08b0d1230033b09e6675": {
+    "image": "Render/test/images/render_test_outdoor_000037.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "9a9201725f6015bc45299b0272ba4a4b221f2028db0833e5cdf0d011f9827b18": {
+    "image": "Render/test/images/render_test_outdoor_000032.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "4c88741623329fc7380e5f0c5e243bd962b5b8bde2c8d2546becf49c9a126f05": {
+    "image": "Render/test/images/render_test_outdoor_000051.jpg",
+    "label": "chair",
+    "boxes": [
+      [
+        674,
+        438,
+        960,
+        665
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box><674><438><960><665></box><|im_end|>"
+  },
+  "b070be229b9003d12f980bde41ae9773e58ec3ca4d983c9da624d84413dccba5": {
+    "image": "Render/test/images/render_test_outdoor_000042.jpg",
+    "label": "chair",
+    "boxes": [
+      [
+        676,
+        438,
+        959,
+        664
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>chair</ref><box><676><438><959><664></box><|im_end|>"
+  },
+  "1c2557bb64b505a08aee73726671eff012246003c3b7281c5866374ee95e4c94": {
+    "image": "Render/test/images/render_test_outdoor_000051.jpg",
+    "label": "ball",
+    "boxes": [
+      [
+        109,
+        502,
+        118,
+        509
+      ],
+      [
+        119,
+        522,
+        129,
+        544
+      ],
+      [
+        125,
+        501,
+        133,
+        508
+      ],
+      [
+        138,
+        524,
+        149,
+        545
+      ],
+      [
+        155,
+        501,
+        165,
+        511
+      ],
+      [
+        162,
+        532,
+        173,
+        546
+      ],
+      [
+        302,
+        534,
+        310,
+        542
+      ],
+      [
+        318,
+        519,
+        327,
+        527
+      ],
+      [
+        362,
+        518,
+        372,
+        529
+      ],
+      [
+        448,
+        528,
+        458,
+        536
+      ],
+      [
+        449,
+        547,
+        459,
+        556
+      ],
+      [
+        498,
+        544,
+        507,
+        554
+      ],
+      [
+        541,
+        517,
+        551,
+        525
+      ],
+      [
+        619,
+        543,
+        632,
+        561
+      ],
+      [
+        644,
+        543,
+        654,
+        555
+      ],
+      [
+        701,
+        571,
+        715,
+        579
+      ],
+      [
+        754,
+        630,
+        768,
+        645
+      ],
+      [
+        814,
+        583,
+        825,
+        593
+      ],
+      [
+        850,
+        602,
+        859,
+        613
+      ],
+      [
+        856,
+        615,
+        870,
+        625
+      ],
+      [
+        972,
+        599,
+        984,
+        609
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": false,
+    "raw": "<ref>ball</ref><box><109><502><118><509></box><box><119><522><129><544></box><box><125><501><133><508></box><box><138><524><149><545></box><box><154><500><152><512></box><box><155><501><165><511></box><box><162><532><173><546></box><box><302><534><310><542></box><box><318><519><327><527></box><box><362><518><372><529></box><box><448><528><458><536></box><box><449><547><459><556></box><box><498><544><507><554></box><box><541><517><551><525></box><box><619><543><632><561></box><box><644><543><654><555></box><box><701><571><715><579></box><box><754><630><768><645></box><box><814><583><825><593></box><box><833><601><837><594></box><box><850><602><859><613></box><box><856><615><870><625></box><box><972><599><984><609></box><|im_end|>"
+  },
+  "96c76485588dc9d68ddd3e3770fbc840198653f856a847eae538706f359dbb03": {
+    "image": "Render/test/images/render_test_outdoor_000042.jpg",
+    "label": "ball",
+    "boxes": [
+      [
+        109,
+        502,
+        118,
+        510
+      ],
+      [
+        119,
+        537,
+        129,
+        542
+      ],
+      [
+        125,
+        503,
+        133,
+        508
+      ],
+      [
+        138,
+        523,
+        149,
+        532
+      ],
+      [
+        138,
+        536,
+        148,
+        544
+      ],
+      [
+        154,
+        501,
+        163,
+        511
+      ],
+      [
+        162,
+        534,
+        173,
+        545
+      ],
+      [
+        302,
+        535,
+        310,
+        543
+      ],
+      [
+        319,
+        519,
+        327,
+        527
+      ],
+      [
+        362,
+        520,
+        372,
+        529
+      ],
+      [
+        448,
+        528,
+        458,
+        538
+      ],
+      [
+        449,
+        550,
+        459,
+        558
+      ],
+      [
+        498,
+        546,
+        507,
+        554
+      ],
+      [
+        541,
+        518,
+        551,
+        525
+      ],
+      [
+        619,
+        557,
+        632,
+        562
+      ],
+      [
+        644,
+        544,
+        653,
+        555
+      ],
+      [
+        701,
+        573,
+        715,
+        579
+      ],
+      [
+        754,
+        631,
+        768,
+        643
+      ],
+      [
+        815,
+        585,
+        823,
+        593
+      ],
+      [
+        850,
+        603,
+        858,
+        612
+      ],
+      [
+        856,
+        616,
+        871,
+        625
+      ],
+      [
+        972,
+        600,
+        984,
+        609
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": false,
+    "raw": "<ref>ball</ref><box><109><502><118><510></box><box><119><537><129><542></box><box><125><503><133><508></box><box><138><523><149><532></box><box><138><536><148><544></box><box><154><501><163><511></box><box><162><534><173><545></box><box><302><535><310><543></box><box><319><519><327><527></box><box><362><520><372><529></box><box><448><528><458><538></box><box><449><550><459><558></box><box><498><546><507><554></box><box><541><518><551><525></box><box><619><557><632><562></box><box><644><544><653><555></box><box><701><573><715><579></box><box><754><631><768><643></box><box><815><585><823><593></box><box><834><604><837><592></box><box><850><603><858><612></box><box><856><616><871><625></box><box><972><600><984><609></box><|im_end|>"
+  },
+  "db78d4f7f318e19df14ffdeccbb793f9db89efec455f977e6f85eb81ca5ae38b": {
+    "image": "Render/test/images/render_test_outdoor_000033.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "96a23c7bc756b0f7f265c784701b9997b1fa86c84910601daaf3656e22e6686e": {
+    "image": "Render/test/images/render_test_outdoor_000030.jpg",
+    "label": "car",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>car</ref><box>None</box><|im_end|>"
+  },
+  "5187cad0966d96a56e2407149380eaa47a3badd567660d4c42fb9e3a52b203c9": {
+    "image": "Render/test/images/render_test_outdoor_000033.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "41ff777bbd0092e497dea18d55ae13ed6ef6b5aeb281518e0f7662b72625bfd4": {
+    "image": "Render/test/images/render_test_outdoor_000030.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        388,
+        468,
+        438,
+        649
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><388><468><438><649></box><|im_end|>"
+  },
+  "2629a839804d2681e2649f9f4f33459d16eda8d9c614fc572311e768bab66662": {
+    "image": "Render/test/images/render_test_indoor_000030.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "0fd821fa39d21fe2dea1ecfbbcd8f6a2f1f5d25cb5780b505595c3129389ed05": {
+    "image": "Render/test/images/render_test_indoor_000027.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        395,
+        542,
+        559,
+        758
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><395><542><559><758></box><|im_end|>"
+  },
+  "708a95e839e846c4b3a637b306d7fbe381e76209ea2e9e6d5e687d753d11491d": {
+    "image": "Render/test/images/render_test_indoor_000030.jpg",
+    "label": "bed",
+    "boxes": [
+      [
+        230,
+        307,
+        944,
+        859
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bed</ref><box><230><307><944><859></box><|im_end|>"
+  },
+  "152c2bd508196bdeefdbd7a243e22e6a9ea20defa764d6ecb2ee42393f2494f4": {
+    "image": "Render/test/images/render_test_indoor_000027.jpg",
+    "label": "bed",
+    "boxes": [
+      [
+        133,
+        305,
+        945,
+        859
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>bed</ref><box><133><305><945><859></box><|im_end|>"
+  },
+  "59a4b066a64dbc9453f324d62bb028ba4623be2520c65aa8b262bada8994393e": {
+    "image": "Render/test/images/render_test_indoor_000003.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        0,
+        521,
+        374,
+        700
+      ],
+      [
+        372,
+        519,
+        949,
+        782
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><0><521><374><700></box><box><372><519><949><782></box><|im_end|>"
+  },
+  "7ec56f6a42477b32b814f342112a25696eeed7befbd9fde4a25e33d78a6953c6": {
+    "image": "Render/test/images/render_test_indoor_000006.jpg",
+    "label": "table",
+    "boxes": [
+      [
+        0,
+        522,
+        165,
+        700
+      ],
+      [
+        275,
+        521,
+        478,
+        676
+      ],
+      [
+        372,
+        524,
+        806,
+        783
+      ],
+      [
+        846,
+        538,
+        999,
+        716
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>table</ref><box><0><522><165><700></box><box><275><521><478><676></box><box><372><524><806><783></box><box><846><538><999><716></box><|im_end|>"
+  },
+  "26c21d3f6b659de3381f10103cf7ddd2f27f5db94445bc5df7c69e5c80e7c613": {
+    "image": "Render/test/images/render_test_indoor_000003.jpg",
+    "label": "person",
+    "boxes": [],
+    "explicit_none": true,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box>None</box><|im_end|>"
+  },
+  "a76ce80e7fef0132f6c7916b8487ac47c6e4094f80aee9f855cff13afd2025fd": {
+    "image": "Render/test/images/render_test_indoor_000006.jpg",
+    "label": "person",
+    "boxes": [
+      [
+        164,
+        362,
+        274,
+        751
+      ]
+    ],
+    "explicit_none": false,
+    "format_ok": true,
+    "raw": "<ref>person</ref><box><164><362><274><751></box><|im_end|>"
+  }
+}

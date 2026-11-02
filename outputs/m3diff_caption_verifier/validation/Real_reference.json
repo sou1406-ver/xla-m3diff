@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "id": "real_test_pair_000025",
+      "image_id": "real_test_pair_000025",
+      "caption": "The children's walker with blue wheels in the front left has moved to the right of the teal rocking horse, and in its original position, a new children's push toy car with a yellow lid has appeared. To the right of the push toy car, a new dark teal cone-shaped toy has been placed."
+    },
+    {
+      "id": "real_test_pair_000116",
+      "image_id": "real_test_pair_000116",
+      "caption": "The pink fan has been replaced with a white water cup."
+    },
+    {
+      "id": "real_test_pair_000345",
+      "image_id": "real_test_pair_000345",
+      "caption": "The cylindrical pillow on the brown bedsheet is no longer present. The light grey rectangular pillow next to the brown bedsheet has vanished. "
+    },
+    {
+      "id": "real_test_pair_000351",
+      "image_id": "real_test_pair_000351",
+      "caption": "The cylindrical pillow on the brown bedsheet is no longer present.The tiger-shaped plush toy that was added next to the light grey pillow is no longer visible. The cylindrical pillow that was added on top of the light grey pillow is no longer present. The light grey rectangular pillow beside the brown bedsheet has vanished. The brown bedsheet, which was previously folded into an almost square shape, has been unfolded lengthwise into a rectangle. The light bluish bedsheet, initially folded into a near square, has been stretched widthwise into a rectangular form. The grey bedsheet with striped patterns on the bed has become wrinkled. The fruit-themed hanging toy on the wall has disappeared."
+    },
+    {
+      "id": "real_test_pair_000515",
+      "image_id": "real_test_pair_000515",
+      "caption": "In the center of the image, a transparent cup with a teal lid and a straw has been added to the right front of the blue-capped milk powder can. The yellow and red water bottle, which was originally positioned to the front and right of the blue-capped milk powder can, has been moved to the right side of the desk. The cylindrical storage container located to the right rear of the milk powder can has changed its base color from green to pink."
+    },
+    {
+      "id": "real_test_pair_000528",
+      "image_id": "real_test_pair_000528",
+      "caption": "The number of blue-capped milk powder cans has decreased from two to one. The transparent cup with a teal lid and a straw, which was originally in front of the blue pot, has now been placed to the right front of the blue-capped milk powder can in the center of the image. A new dark red cup with a black lid has appeared in the original position of the transparent cup. The cylindrical storage container located to the right rear of the milk powder can has changed from having a pink lid and a green base to a pink lid and a pink base. The kettle on the left side of the image has rotated, with the handle changing from facing right to facing forward. Additionally, the power strip hanging on the wall behind the desk is now fully visible."
+    },
+    {
+      "id": "real_test_pair_000585",
+      "image_id": "real_test_pair_000585",
+      "caption": "The lighting has brightened. The small white toy car in the middle in front of the sofa has moved to the left edge of the sofa, and a toy car with red wheels, facing right, has appeared in its original position. Two half-purple, half-red oval-shaped toy balls have appeared in front of the yellow excavator."
+    },
+    {
+      "id": "real_test_pair_000668",
+      "image_id": "real_test_pair_000668",
+      "caption": "The white soap that was originally on the blue box has now moved to the yellow box in the top row, and the blue box has gained an additional red soap. The milk carton has been placed into the blue basin."
+    },
+    {
+      "id": "real_test_pair_000761",
+      "image_id": "real_test_pair_000761",
+      "caption": "The black and red xds bicycle to the left of the black electric vehicle in the middle of the screen moves to the right side of the blue bicycle on the right side of the screen. Two yellow shared bicycles have been added to the left side of the black electric vehicle, with their handlebars aligned with the direction of the black electric vehicle's handlebars."
+    },
+    {
+      "id": "real_test_pair_000771",
+      "image_id": "real_test_pair_000771",
+      "caption": "The ambient lighting has dimmed.The ground has accumulated snow. An additional black sedan has appeared in front of the house in the middle of the image. The color of the car on the far right in front of the house on the far right has changed from red to white."
+    },
+    {
+      "id": "real_test_pair_000791",
+      "image_id": "real_test_pair_000791",
+      "caption": "The ambient lighting has changed.The amount of snow on the ground has increased from some snow to a thick layer of snow. A path has been cleared through the snow on the road. A yellow snowplow has appeared on the road on the right side of the scene. The white car on the left side of the road is no longer visible. The two cars on the left in front of the house on the right side of the image have appeared. The car on the far right in front of the house in the distance has changed color from white to red."
+    },
+    {
+      "id": "real_test_pair_000798",
+      "image_id": "real_test_pair_000798",
+      "caption": "The ambient lighting has brightened. Some snow has accumulated on parts of the ground. There were originally three cars in front of the house in the distance on the right side of the image, but the two on the left have disappeared, leaving only one."
+    }
+  ],
+  "images": [
+    {
+      "filename": "real_test_pair_000025",
+      "id": "real_test_pair_000025"
+    },
+    {
+      "filename": "real_test_pair_000116",
+      "id": "real_test_pair_000116"
+    },
+    {
+      "filename": "real_test_pair_000345",
+      "id": "real_test_pair_000345"
+    },
+    {
+      "filename": "real_test_pair_000351",
+      "id": "real_test_pair_000351"
+    },
+    {
+      "filename": "real_test_pair_000515",
+      "id": "real_test_pair_000515"
+    },
+    {
+      "filename": "real_test_pair_000528",
+      "id": "real_test_pair_000528"
+    },
+    {
+      "filename": "real_test_pair_000585",
+      "id": "real_test_pair_000585"
+    },
+    {
+      "filename": "real_test_pair_000668",
+      "id": "real_test_pair_000668"
+    },
+    {
+      "filename": "real_test_pair_000761",
+      "id": "real_test_pair_000761"
+    },
+    {
+      "filename": "real_test_pair_000771",
+      "id": "real_test_pair_000771"
+    },
+    {
+      "filename": "real_test_pair_000791",
+      "id": "real_test_pair_000791"
+    },
+    {
+      "filename": "real_test_pair_000798",
+      "id": "real_test_pair_000798"
+    }
+  ]
+}

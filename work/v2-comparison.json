@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "real_test_pair_000324",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000075.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "control": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "grounded": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "references": [
+      "The lighting has brightened. The cylindrical pillow on the brown bedsheet has been replaced with a tiger-shaped plush toy."
+    ],
+    "v2": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 325,
+      "inliers": 283,
+      "inlier_ratio": 0.8707692307692307,
+      "inlier_coverage": 0.31631369786704666,
+      "H": [
+        [
+          0.9999227050050211,
+          0.00010416808039187895,
+          -0.33555066497337566
+        ],
+        [
+          -0.0006188581491949919,
+          1.0011017287648056,
+          -0.5587001031810216
+        ],
+        [
+          -7.688337970694091e-07,
+          3.695581028015848e-07,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 5,
+          "sentence": "A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+          "event": "added",
+          "label": "blanket"
+        },
+        "action": "keep",
+        "reason": "multiple instances: sentence identity not established",
+        "A": {
+          "image": "Real/test/images/real_test_000075.jpg",
+          "label": "blanket",
+          "boxes": [
+            [
+              180,
+              492,
+              470,
+              662
+            ],
+            [
+              343,
+              534,
+              798,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>blanket</ref><box><180><492><470><662></box><box><343><534><798><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000077.jpg",
+          "label": "blanket",
+          "boxes": [
+            [
+              178,
+              492,
+              469,
+              661
+            ],
+            [
+              342,
+              665,
+              797,
+              1000
+            ],
+            [
+              394,
+              535,
+              732,
+              710
+            ],
+            [
+              443,
+              491,
+              653,
+              566
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>blanket</ref><box><178><492><469><661></box><box><342><665><797><1000></box><box><394><535><732><710></box><box><443><491><653><566></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "multiple instances: sentence identity not established",
+          "aligned_box_iou": 0.9780894673928885
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000161",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "baseline": "The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.",
+    "control": "The stool on the left side of the scene has disappeared, and the color of the stool on the right side has changed from brown to green.",
+    "grounded": "The stool on the left side of the scene has been replaced with a green plastic stool. The blue cushion on the black metal chair in the upper left corner of the scene is no longer present, and the gray low stool that was previously placed on the wooden table in the center of the scene has moved to the right side of the white table.",
+    "references": [
+      "The lighting has brightened. A chair with a blue cushion in the back left of the image has disappeared."
+    ],
+    "v2": "The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "not enough reliable keypoints",
+      "matches": 25,
+      "inliers": 18,
+      "inlier_ratio": 0.72
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.",
+          "event": "removed",
+          "label": "cushion"
+        },
+        "action": "keep",
+        "reason": "alignment not reliable: not enough reliable keypoints",
+        "A": {
+          "image": "Real/test/images/real_test_000037.jpg",
+          "label": "cushion",
+          "boxes": [
+            [
+              0,
+              32,
+              242,
+              279
+            ],
+            [
+              273,
+              199,
+              332,
+              312
+            ],
+            [
+              274,
+              184,
+              575,
+              338
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>cushion</ref><box><0><32><242><279></box><box><273><199><332><312></box><box><274><184><575><338></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000038.jpg",
+          "label": "cushion",
+          "boxes": [
+            [
+              0,
+              152,
+              106,
+              237
+            ],
+            [
+              71,
+              52,
+              248,
+              194
+            ],
+            [
+              270,
+              188,
+              566,
+              338
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>cushion</ref><box><0><152><106><237></box><box><71><52><248><194></box><box><270><188><566><338></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000554",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000127.jpg",
+      "Real/test/images/real_test_000128.jpg"
+    ],
+    "baseline": "The dog has turned to the right and is now facing away from the camera.",
+    "control": "The dog has turned to the right and is now facing away from the camera, with its head lowered towards the grass.",
+    "grounded": "The dog has turned to the right and is now facing away from the camera.",
+    "references": [
+      "The dog, which was previously on the right side of the image facing left with its head looking back to the left rear, has now turned its head to the right. Additionally, the dog has moved further to the right, and only part of its body is now visible."
+    ],
+    "v2": "The dog has turned to the right and is now facing away from the camera.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000425",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000104.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "baseline": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "control": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "grounded": "The three people in the image change from leaning to the left with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "references": [
+      "The pose of three people changes from standing in a row, facing the left side of the frame, with bent legs, bodies leaning back, and arms naturally spread to facing the camera, standing on the right leg, with arms crossed together."
+    ],
+    "v2": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000577",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000143.jpg",
+      "Real/test/images/real_test_000136.jpg"
+    ],
+    "baseline": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "control": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "grounded": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "references": [
+      "The small white toy car in front of the sofa has moved to the left edge of the sofa. The yellow toy excavator on the right side of the sofa has been replaced with a toy car with red wheels."
+    ],
+    "v2": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 493,
+      "inliers": 458,
+      "inlier_ratio": 0.9290060851926978,
+      "inlier_coverage": 0.512533843104332,
+      "H": [
+        [
+          1.0198761650030452,
+          0.01731929494555108,
+          -30.63444552442952
+        ],
+        [
+          -0.006826687451038142,
+          1.0087617054382736,
+          2.976097630991271
+        ],
+        [
+          2.8695648176745064e-05,
+          -1.8724547214046154e-07,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+          "event": "added",
+          "label": "toy truck"
+        },
+        "action": "keep",
+        "reason": "no unambiguous corresponding boxes",
+        "A": {
+          "image": "Real/test/images/real_test_000143.jpg",
+          "label": "toy truck",
+          "boxes": [
+            [
+              602,
+              221,
+              881,
+              483
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy truck</ref><box><602><221><881><483></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000136.jpg",
+          "label": "toy truck",
+          "boxes": [
+            [
+              685,
+              235,
+              853,
+              417
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy truck</ref><box><685><235><853><417></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "no unambiguous corresponding boxes",
+          "aligned_box_iou": 0.42256213687749106
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000440",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000099.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "baseline": "The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.",
+    "control": "The three people have changed from leaning forward with their heads resting on each other's shoulders to standing upright with one leg raised, hands on hips. The person in the middle now has their left hand on the shoulder of the person on the right.",
+    "grounded": "The three individuals have changed from leaning forward with their heads resting on each other's shoulders to standing upright with one leg raised, hands on hips.",
+    "references": [
+      "The three people transition from leaning against each other at an angle to facing the camera, standing on their right legs, with their arms crossed in front."
+    ],
+    "v2": "The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000534",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000120.jpg",
+      "Real/test/images/real_test_000122.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. A new pink bottle appears in the center of the scene.",
+    "control": "A new pink bottle appears in the center of the scene.",
+    "grounded": "The pink bottle in the center of the scene has appeared.",
+    "references": [
+      "A container with a pink lid and a pink base has been added to the right rear of the blue-capped milk powder can. The kettle on the left side of the image has been rotated, with the handle changing from facing right to facing forward."
+    ],
+    "v2": "The ambient lighting has brightened. A new pink bottle appears in the center of the scene.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 236,
+      "inliers": 191,
+      "inlier_ratio": 0.809322033898305,
+      "inlier_coverage": 0.4807634103165841,
+      "H": [
+        [
+          0.9929343205172425,
+          -0.007201928889727748,
+          3.543711589421834
+        ],
+        [
+          0.0003685337797223324,
+          0.9892774102747321,
+          1.7477286626575343
+        ],
+        [
+          -1.983790807758122e-08,
+          -1.3279118651658586e-05,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A new pink bottle appears in the center of the scene.",
+          "event": "added",
+          "label": "bottle"
+        },
+        "action": "keep",
+        "reason": "multiple instances: sentence identity not established",
+        "A": {
+          "image": "Real/test/images/real_test_000120.jpg",
+          "label": "bottle",
+          "boxes": [
+            [
+              589,
+              642,
+              745,
+              846
+            ],
+            [
+              603,
+              478,
+              704,
+              661
+            ],
+            [
+              688,
+              366,
+              874,
+              751
+            ],
+            [
+              711,
+              558,
+              833,
+              750
+            ],
+            [
+              817,
+              616,
+              972,
+              780
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bottle</ref><box><589><642><745><846></box><box><603><478><704><661></box><box><688><366><874><751></box><box><711><558><833><750></box><box><817><616><972><780></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000122.jpg",
+          "label": "bottle",
+          "boxes": [
+            [
+              604,
+              479,
+              706,
+              653
+            ],
+            [
+              688,
+              366,
+              875,
+              646
+            ],
+            [
+              711,
+              559,
+              834,
+              749
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bottle</ref><box><604><479><706><653></box><box><688><366><875><646></box><box><711><559><834><749></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "multiple instances: sentence identity not established",
+          "aligned_box_iou": 0.9837820937032081
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000567",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000132.jpg"
+    ],
+    "baseline": "The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.",
+    "control": "The dog has turned to the right and is looking at something in the distance. The background wall has changed from yellow to gray.",
+    "grounded": "The dog has turned its head to the right, and a new blue toy has appeared in the lower left corner of the image.",
+    "references": [
+      "The silver-gray-furred dog is now sitting on the ground facing forward with its head turned to the left and is positioned on the right side of the image, rather than facing the front right."
+    ],
+    "v2": "The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000742",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000174.jpg",
+      "Real/test/images/real_test_000179.jpg"
+    ],
+    "baseline": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "control": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "grounded": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "references": [
+      "The white bicycle, which was originally on the left side of the blue bicycle, is now positioned between the blue bicycle and the black and red XDS bicycle.An additional yellow shared bicycle has been added to the left of the black electric vehicle, bringing the total number of yellow shared bicycles to two.The front end of the shared bicycle on the far left is oriented in the opposite direction to the black electric vehicle, with a pink clothes hanger newly added in the black basket.The front end of the other shared bicycle is oriented in the same direction as the black electric vehicle, with a person wearing a white T-shirt standing next to it."
+    ],
+    "v2": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 636,
+      "inliers": 594,
+      "inlier_ratio": 0.9339622641509434,
+      "inlier_coverage": 0.6864595578760725,
+      "H": [
+        [
+          1.000642952190383,
+          -0.00042886218680736603,
+          -2.6774995780216915
+        ],
+        [
+          0.0004174733628353636,
+          0.9988111402730927,
+          0.8286928451638294
+        ],
+        [
+          1.2415524570959167e-06,
+          -2.0952599789789244e-06,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Real/test/images/real_test_000174.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000179.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              74,
+              413,
+              1000,
+              718
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><74><413><1000><718></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000304",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "baseline": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "control": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "grounded": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "references": [
+      "Three people's postures have changed from standing with legs apart, upper bodies turned to the left side of the frame, with arms positioned in front of their shoulders, to standing with legs apart, upper bodies turned to the right side of the frame, with arms still positioned in front of their shoulders."
+    ],
+    "v2": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000566",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000131.jpg"
+    ],
+    "baseline": "The dog has lowered its head and is sniffing the ground.",
+    "control": "The dog has lowered its head and is sniffing the ground.",
+    "grounded": "The dog has lowered its head and is sniffing the ground.",
+    "references": [
+      "The silver-gray-furred dog in the image has shifted its position from facing the front right to sitting on the ground with its body facing forward and its head turned to the left, now positioned at the center of the image."
+    ],
+    "v2": "The dog has lowered its head and is sniffing the ground.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "real_test_pair_000005",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "baseline": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "control": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "grounded": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "references": [
+      "A children's push toy car with a yellow lid and teal wheels has been added to the front left."
+    ],
+    "v2": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 457,
+      "inliers": 356,
+      "inlier_ratio": 0.7789934354485777,
+      "inlier_coverage": 0.3574081968365304,
+      "H": [
+        [
+          0.9993127109319276,
+          0.0006971219520988292,
+          -1.16433792434181
+        ],
+        [
+          0.002820211511942609,
+          0.9992099751222511,
+          1.0854663066772279
+        ],
+        [
+          7.022953608698151e-07,
+          7.748358904073439e-06,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+          "event": "added",
+          "label": "train toy"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Real/test/images/real_test_000009.jpg",
+          "label": "train toy",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>train toy</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000005.jpg",
+          "label": "train toy",
+          "boxes": [
+            [
+              171,
+              269,
+              311,
+              679
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>train toy</ref><box><171><269><311><679></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000180",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "baseline": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "control": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left, and the fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "grounded": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left.",
+    "references": [
+      "A lantern has replaced the small light originally mounted on the wall above the yellow bike. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    ],
+    "v2": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "render_test_pair_000575",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000035.jpg",
+      "Render/test/images/render_test_indoor_000028.jpg"
+    ],
+    "baseline": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "control": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "grounded": "The blue and white rectangular cushions on the lower bed have appeared. The black blanket at the foot of the lower bed has appeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has appeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "references": [
+      "The gray mattress with black stains on the black rolling bed at the bottom of the bunk has been replaced by a flat gray mattress. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing the wall of the lower bunk, with arms wrapped tightly around their knees. The gray mattress has unfolded and become flat. A glowing blue word 'Rost' has appeared on the wall of the lower bunk. The dark brown wooden round stool with curved legs, which was on the floor to the right of the lower bunk, is no longer present."
+    ],
+    "v2": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 438,
+      "inliers": 428,
+      "inlier_ratio": 0.9771689497716894,
+      "inlier_coverage": 0.5672011332412442,
+      "H": [
+        [
+          0.9994788125369752,
+          -0.00045853260114686156,
+          0.15326454907523057
+        ],
+        [
+          -0.00015915281808461733,
+          0.9991841199847894,
+          0.12244543889639475
+        ],
+        [
+          -2.798388635702571e-07,
+          -1.338896479360941e-06,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The blue and white rectangular cushions on the lower bed have disappeared.",
+          "event": "removed",
+          "label": "cushion"
+        },
+        "action": "keep",
+        "reason": "multiple instances: sentence identity not established",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "cushion",
+          "boxes": [
+            [
+              250,
+              258,
+              414,
+              350
+            ],
+            [
+              259,
+              523,
+              494,
+              620
+            ],
+            [
+              372,
+              269,
+              475,
+              348
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>cushion</ref><box><250><258><414><350></box><box><259><523><494><620></box><box><372><269><475><348></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "cushion",
+          "boxes": [
+            [
+              250,
+              258,
+              414,
+              348
+            ],
+            [
+              260,
+              523,
+              447,
+              622
+            ],
+            [
+              347,
+              559,
+              449,
+              623
+            ],
+            [
+              372,
+              269,
+              475,
+              328
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>cushion</ref><box><250><258><414><348></box><box><260><523><447><622></box><box><347><559><449><623></box><box><372><269><475><328></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "multiple instances: sentence identity not established",
+          "aligned_box_iou": 0.9772889740760328
+        }
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The black blanket at the foot of the lower bed has disappeared.",
+          "event": "removed",
+          "label": "blanket"
+        },
+        "action": "keep",
+        "reason": "no unambiguous corresponding boxes",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "blanket",
+          "boxes": [
+            [
+              377,
+              325,
+              523,
+              423
+            ],
+            [
+              377,
+              596,
+              673,
+              721
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>blanket</ref><box><377><325><523><423></box><box><377><596><673><721></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "blanket",
+          "boxes": [
+            [
+              245,
+              257,
+              417,
+              349
+            ],
+            [
+              345,
+              557,
+              450,
+              624
+            ],
+            [
+              372,
+              267,
+              475,
+              323
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>blanket</ref><box><245><257><417><349></box><box><345><557><450><624></box><box><372><267><475><323></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "no unambiguous corresponding boxes",
+          "aligned_box_iou": 0.0486325199227429
+        }
+      },
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared.",
+          "event": "removed",
+          "label": "stool"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "stool",
+          "boxes": [
+            [
+              861,
+              711,
+              967,
+              862
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>stool</ref><box><861><711><967><862></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "stool",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>stool</ref><box>None</box><|im_end|>"
+        }
+      },
+      {
+        "claim": {
+          "sentence_index": 3,
+          "sentence": "A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              400,
+              543,
+              543,
+              754
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><400><543><543><754></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000614",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000043.jpg",
+      "Render/test/images/render_test_indoor_000045.jpg"
+    ],
+    "baseline": "The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.",
+    "control": "The first row of school desks on the right side has shifted forward.",
+    "grounded": "The first row of school desks on the right side has shifted forward.",
+    "references": [
+      "The chair in the second-to-last row on the far right of the classroom is no longer tilted. The size of the third stool from the right in the third-to-last row increased."
+    ],
+    "v2": "The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "render_test_pair_000648",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000047.jpg",
+      "Render/test/images/render_test_indoor_000040.jpg"
+    ],
+    "baseline": "A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.",
+    "control": "The red fire extinguisher hanging on the right wall of the classroom is no longer present, and a black speaker has appeared above the teacher's podium.",
+    "grounded": "The red fire extinguisher on the right wall of the classroom is no longer present, and a person wearing a hat, dark jacket, shorts, and yellow shoes has appeared at the door on the right side of the classroom.",
+    "references": [
+      "The black speaker in the upper-right corner at the front of the classroom has changed from red to black. A person wearing light-colored clothes, a hat, and carrying a backpack has appeared in the aisle near the wall on the right side of the classroom. They are facing the blackboard and walking toward the podium."
+    ],
+    "v2": "A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 1465,
+      "inliers": 1457,
+      "inlier_ratio": 0.9945392491467577,
+      "inlier_coverage": 0.7869784434116325,
+      "H": [
+        [
+          0.9998043760900076,
+          -0.0001476560208812356,
+          0.08728338877096792
+        ],
+        [
+          6.651630499402417e-05,
+          0.9996703991900369,
+          0.056599741679333807
+        ],
+        [
+          9.776323570723083e-08,
+          -3.842209097552613e-07,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A black speaker has newly appeared on the right side wall above the teacher's podium.",
+          "event": "added",
+          "label": "speaker"
+        },
+        "action": "keep",
+        "reason": "multiple instances: sentence identity not established",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000047.jpg",
+          "label": "speaker",
+          "boxes": [
+            [
+              396,
+              364,
+              440,
+              403
+            ],
+            [
+              820,
+              288,
+              859,
+              338
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>speaker</ref><box><396><364><440><403></box><box><820><288><859><338></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000040.jpg",
+          "label": "speaker",
+          "boxes": [
+            [
+              396,
+              364,
+              440,
+              403
+            ],
+            [
+              820,
+              287,
+              859,
+              337
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>speaker</ref><box><396><364><440><403></box><box><820><287><859><337></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "multiple instances: sentence identity not established",
+          "aligned_box_iou": 0.9992432348019733
+        }
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "no unambiguous corresponding boxes",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000047.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              625,
+              388,
+              721,
+              493
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><625><388><721><493></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000040.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              880,
+              431,
+              967,
+              649
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><880><431><967><649></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "no unambiguous corresponding boxes",
+          "aligned_box_iou": 0.0
+        }
+      },
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The red fire extinguisher hanging on the right wall of the classroom is no longer present.",
+          "event": "removed",
+          "label": "fire extinguisher"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000047.jpg",
+          "label": "fire extinguisher",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>fire extinguisher</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000040.jpg",
+          "label": "fire extinguisher",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>fire extinguisher</ref><box>None</box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000717",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000058.jpg",
+      "Render/test/images/render_test_indoor_000061.jpg"
+    ],
+    "baseline": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "control": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "grounded": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "references": [
+      "A new potted plant, identical to the original one with blue flowers, has been added to the bedside table between the first and second beds on the right side. The picture frame with red flowers above the bed in the second row on the right side moved to the middle hospital bed above the aisle."
+    ],
+    "v2": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "render_test_pair_000137",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000023.jpg",
+      "Render/test/images/render_test_outdoor_000018.jpg"
+    ],
+    "baseline": "A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "control": "A person wearing a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "grounded": "The red car on the rooftop of the green building on the right side of the scene has been replaced by a green sofa.",
+    "references": [
+      "The chair on the left side of the third row of round tables on the rooftop of the building on the right side of the scene has changed from red to green. A man wearing a blue sweatshirt, black pants, and white shoes has appeared on the open-air roof on the right, next to the green flower bed in the upper left corner, stepping forward with his left leg, facing the table and chairs in the middle of the roof."
+    ],
+    "v2": "A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 1277,
+      "inliers": 1269,
+      "inlier_ratio": 0.9937353171495693,
+      "inlier_coverage": 0.597708540883094,
+      "H": [
+        [
+          1.0000051803688588,
+          -8.74623775588435e-06,
+          -0.003322272182659789
+        ],
+        [
+          2.4482162527772016e-05,
+          0.9998539431419851,
+          0.032147406793801785
+        ],
+        [
+          9.21043481042055e-08,
+          -1.534730811243057e-07,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "no unambiguous corresponding boxes",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000023.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              632,
+              365,
+              646,
+              418
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><632><365><646><418></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000018.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              706,
+              481,
+              745,
+              568
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><706><481><745><568></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "no unambiguous corresponding boxes",
+          "aligned_box_iou": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000219",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "baseline": "A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.",
+    "control": "A man wearing a black jacket, black pants, and white shoes has appeared on the left side of the stairs, facing the stairs while holding a camera in his right hand.",
+    "grounded": "A person wearing a black jacket, black pants, and white shoes has appeared on the left side of the stairs, holding a camera in their right hand and facing the stairs.",
+    "references": [
+      "The handrail of the first floor staircase changed from yellow to gray. A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. He faces the front of the screen, with his hands crossed in front of his chest, his right leg steps forward, and he turns his head to look to the left front of the screen."
+    ],
+    "v2": "A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 2507,
+      "inliers": 2502,
+      "inlier_ratio": 0.9980055843637814,
+      "inlier_coverage": 0.8795401449674338,
+      "H": [
+        [
+          0.9999466439303016,
+          1.635685942725259e-05,
+          0.004611516506781294
+        ],
+        [
+          -5.407372044278589e-05,
+          0.9999918922893625,
+          0.023916791870073638
+        ],
+        [
+          -9.259018671449144e-08,
+          4.886230018189645e-08,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000037.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000029.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              372,
+              465,
+              451,
+              648
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><372><465><451><648></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000222",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "baseline": "A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "control": "The word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "grounded": "A new blue sign with the word \"Cautious\" has appeared on the wall above the electric vehicle.",
+    "references": [
+      "The handrail of the first floor staircase has changed from yellow to gray. A blue text sign that reads \"Cautiuos\" has appeared on the upper right wall of the scene, near the yellow bike and just above a small light fixture."
+    ],
+    "v2": "A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "changed": false,
+    "alignment": {
+      "ok": false,
+      "reason": "no eligible event claims"
+    },
+    "decisions": []
+  },
+  {
+    "id": "render_test_pair_000309",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "baseline": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "control": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "grounded": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is now visible.",
+    "references": [
+      "The white teapot that was shifted closer to the center of the picnic blanket is now positioned next to a blue teacup rather than a white teacup. The white teacup in the middle of the picnic blanket has been replaced with a blue teacup. A biscuit box is now present next to the blue teacup."
+    ],
+    "v2": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 2548,
+      "inliers": 2541,
+      "inlier_ratio": 0.9972527472527473,
+      "inlier_coverage": 0.8534426666008046,
+      "H": [
+        [
+          0.9999835671577884,
+          9.351267922935481e-06,
+          -0.0026979529265221875
+        ],
+        [
+          -6.524172501062395e-06,
+          0.9999792170194144,
+          0.004048812183548301
+        ],
+        [
+          -2.3344350323304875e-08,
+          -1.2604077415671342e-08,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+          "event": "removed",
+          "label": "ball"
+        },
+        "action": "keep",
+        "reason": "invalid grounding format",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000051.jpg",
+          "label": "ball",
+          "boxes": [
+            [
+              109,
+              502,
+              118,
+              509
+            ],
+            [
+              119,
+              522,
+              129,
+              544
+            ],
+            [
+              125,
+              501,
+              133,
+              508
+            ],
+            [
+              138,
+              524,
+              149,
+              545
+            ],
+            [
+              155,
+              501,
+              165,
+              511
+            ],
+            [
+              162,
+              532,
+              173,
+              546
+            ],
+            [
+              302,
+              534,
+              310,
+              542
+            ],
+            [
+              318,
+              519,
+              327,
+              527
+            ],
+            [
+              362,
+              518,
+              372,
+              529
+            ],
+            [
+              448,
+              528,
+              458,
+              536
+            ],
+            [
+              449,
+              547,
+              459,
+              556
+            ],
+            [
+              498,
+              544,
+              507,
+              554
+            ],
+            [
+              541,
+              517,
+              551,
+              525
+            ],
+            [
+              619,
+              543,
+              632,
+              561
+            ],
+            [
+              644,
+              543,
+              654,
+              555
+            ],
+            [
+              701,
+              571,
+              715,
+              579
+            ],
+            [
+              754,
+              630,
+              768,
+              645
+            ],
+            [
+              814,
+              583,
+              825,
+              593
+            ],
+            [
+              850,
+              602,
+              859,
+              613
+            ],
+            [
+              856,
+              615,
+              870,
+              625
+            ],
+            [
+              972,
+              599,
+              984,
+              609
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": false,
+          "raw": "<ref>ball</ref><box><109><502><118><509></box><box><119><522><129><544></box><box><125><501><133><508></box><box><138><524><149><545></box><box><154><500><152><512></box><box><155><501><165><511></box><box><162><532><173><546></box><box><302><534><310><542></box><box><318><519><327><527></box><box><362><518><372><529></box><box><448><528><458><536></box><box><449><547><459><556></box><box><498><544><507><554></box><box><541><517><551><525></box><box><619><543><632><561></box><box><644><543><654><555></box><box><701><571><715><579></box><box><754><630><768><645></box><box><814><583><825><593></box><box><833><601><837><594></box><box><850><602><859><613></box><box><856><615><870><625></box><box><972><599><984><609></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000042.jpg",
+          "label": "ball",
+          "boxes": [
+            [
+              109,
+              502,
+              118,
+              510
+            ],
+            [
+              119,
+              537,
+              129,
+              542
+            ],
+            [
+              125,
+              503,
+              133,
+              508
+            ],
+            [
+              138,
+              523,
+              149,
+              532
+            ],
+            [
+              138,
+              536,
+              148,
+              544
+            ],
+            [
+              154,
+              501,
+              163,
+              511
+            ],
+            [
+              162,
+              534,
+              173,
+              545
+            ],
+            [
+              302,
+              535,
+              310,
+              543
+            ],
+            [
+              319,
+              519,
+              327,
+              527
+            ],
+            [
+              362,
+              520,
+              372,
+              529
+            ],
+            [
+              448,
+              528,
+              458,
+              538
+            ],
+            [
+              449,
+              550,
+              459,
+              558
+            ],
+            [
+              498,
+              546,
+              507,
+              554
+            ],
+            [
+              541,
+              518,
+              551,
+              525
+            ],
+            [
+              619,
+              557,
+              632,
+              562
+            ],
+            [
+              644,
+              544,
+              653,
+              555
+            ],
+            [
+              701,
+              573,
+              715,
+              579
+            ],
+            [
+              754,
+              631,
+              768,
+              643
+            ],
+            [
+              815,
+              585,
+              823,
+              593
+            ],
+            [
+              850,
+              603,
+              858,
+              612
+            ],
+            [
+              856,
+              616,
+              871,
+              625
+            ],
+            [
+              972,
+              600,
+              984,
+              609
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": false,
+          "raw": "<ref>ball</ref><box><109><502><118><510></box><box><119><537><129><542></box><box><125><503><133><508></box><box><138><523><149><532></box><box><138><536><148><544></box><box><154><501><163><511></box><box><162><534><173><545></box><box><302><535><310><543></box><box><319><519><327><527></box><box><362><520><372><529></box><box><448><528><458><538></box><box><449><550><459><558></box><box><498><546><507><554></box><box><541><518><551><525></box><box><619><557><632><562></box><box><644><544><653><555></box><box><701><573><715><579></box><box><754><631><768><643></box><box><815><585><823><593></box><box><834><604><837><592></box><box><850><603><858><612></box><box><856><616><871><625></box><box><972><600><984><609></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000182",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "baseline": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "control": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left.",
+    "grounded": "The yellow non-motorized vehicle has turned its front wheel to the right. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "references": [
+      "A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. His orientation is toward the right wall, with hands crossed in front of his chest, his right leg forward, and his gaze directed toward the right wall. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    ],
+    "v2": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 1933,
+      "inliers": 1922,
+      "inlier_ratio": 0.9943093636833937,
+      "inlier_coverage": 0.8808068533095942,
+      "H": [
+        [
+          1.0000630167404996,
+          1.0439693269475128e-05,
+          -0.01021523697606868
+        ],
+        [
+          3.1737070378545525e-05,
+          1.0000322152278398,
+          -0.004601735251420863
+        ],
+        [
+          6.853609515195165e-08,
+          4.023464134719416e-08,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000033.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000030.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              388,
+              468,
+              438,
+              649
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><388><468><438><649></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000549",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000030.jpg",
+      "Render/test/images/render_test_indoor_000027.jpg"
+    ],
+    "baseline": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "control": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "grounded": "A person wearing a white long-sleeve shirt, blue pants, and black shoes has appeared on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "references": [
+      "The vertical metallic ladder on the right side of the bunk bed changes color from blue to black. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing to the right, with arms wrapped tightly around their knees. A glowing blue \"Rest\" sign appears on the wall of the lower bunk."
+    ],
+    "v2": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 428,
+      "inliers": 422,
+      "inlier_ratio": 0.985981308411215,
+      "inlier_coverage": 0.5752027821089905,
+      "H": [
+        [
+          0.9997747407923382,
+          -0.0004384523406478766,
+          0.10730776339718845
+        ],
+        [
+          1.3828245293708213e-05,
+          0.9993021934699073,
+          0.06579349333916917
+        ],
+        [
+          2.0120078772443173e-07,
+          -1.4530629519094416e-06,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The blue ladder on the right side of the lower bed has disappeared.",
+          "event": "removed",
+          "label": "ladder"
+        },
+        "action": "keep",
+        "reason": "visual agreement insufficient; keep caption",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000030.jpg",
+          "label": "ladder",
+          "boxes": [
+            [
+              802,
+              406,
+              859,
+              725
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>ladder</ref><box><802><406><859><725></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000027.jpg",
+          "label": "ladder",
+          "boxes": [
+            [
+              805,
+              408,
+              855,
+              721
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>ladder</ref><box><805><408><855><721></box><|im_end|>"
+        },
+        "visual_evidence": {
+          "stable": false,
+          "reason": "visual agreement insufficient; keep caption",
+          "aligned_box_iou": 0.8617352246996489,
+          "ssim": 0.5896357297897339,
+          "edge_correlation": 0.5474270099916345,
+          "box_a": [
+            410.624,
+            207.872,
+            439.808,
+            371.2
+          ],
+          "box_b_aligned": [
+            412.1737976074219,
+            208.86708068847656,
+            437.8031311035156,
+            369.13330078125
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000391",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "baseline": "The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "control": "The word \"Efficient\" on the floor near the center of the room is no longer visible. A woman wearing an orange coat, black leggings, black boots, and a black hat has appeared in the center of the scene, facing away from the camera towards the desks with computers.",
+    "grounded": "The word \"Efficient\" is no longer visible on the floor, and a woman wearing an orange coat, black leggings, black boots, and a black hat has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "references": [
+      "The word \"Efficient,\" which appeared on the floor towards the front left of the scene, with large, blue, bold letters slanted diagonally across the striped carpet, is no longer present. A person wearing a black hat, an orange top, black leggings, and black shoes has appeared near the left side of the room, standing beside a desk with a row of computers, facing away from the camera while turning their head to look toward the right side of the scene."
+    ],
+    "v2": "The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "changed": false,
+    "alignment": {
+      "ok": true,
+      "reason": "reliable global 2D alignment",
+      "matches": 1083,
+      "inliers": 1051,
+      "inlier_ratio": 0.9704524469067405,
+      "inlier_coverage": 0.7961056984484549,
+      "H": [
+        [
+          1.0001247304738126,
+          1.4464711169688942e-05,
+          -0.020110051421969987
+        ],
+        [
+          6.948696156042341e-05,
+          1.0000477832679038,
+          -0.0027823912010702403
+        ],
+        [
+          1.9693902869085191e-07,
+          2.8167104330049584e-08,
+          1.0
+        ]
+      ]
+    },
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+          "event": "added",
+          "label": "person"
+        },
+        "action": "keep",
+        "reason": "missing detections are not proof; keep original",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000003.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000006.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              164,
+              362,
+              274,
+              751
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><164><362><274><751></box><|im_end|>"
+        }
+      }
+    ]
+  }
+]

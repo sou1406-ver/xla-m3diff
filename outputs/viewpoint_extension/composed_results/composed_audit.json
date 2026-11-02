@@ -1,0 +1,986 @@
+[
+  {
+    "id": "clothesline__zoom_in_1p10_plus_square32_delta16",
+    "scene": "clothesline",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2841,
+      "inliers": 2769,
+      "inlier_ratio": 0.9746568109820486,
+      "grid_cells": 16,
+      "scale": 1.0999970618398,
+      "angle": 0.0009481593830998697,
+      "matrix": [
+        [
+          1.0999970616891814,
+          -1.8203304752664183e-05,
+          -51.16099578588397
+        ],
+        [
+          1.8203304752664183e-05,
+          1.0999970616891814,
+          -51.175358551666626
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.868054747581482,
+      "p99_max_channel_error": 16.0,
+      "fraction_max_channel_above_30": 0.00026416778564453125,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "clothesline__roll_8_safe_plus_square32_delta16",
+    "scene": "clothesline",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2784,
+      "inliers": 2692,
+      "inlier_ratio": 0.9669540229885057,
+      "grid_cells": 16,
+      "scale": 1.131680363328979,
+      "angle": -8.000514779057482,
+      "matrix": [
+        [
+          1.1206655127132754,
+          0.1575095341860334,
+          -142.35456669595766
+        ],
+        [
+          -0.1575095341860334,
+          1.1206655127132754,
+          18.861480468868994
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 2.0360288619995117,
+      "p99_max_channel_error": 17.0,
+      "fraction_max_channel_above_30": 0.0005903244018554688,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "clothesline__zoom_out_1p10_plus_square32_delta16",
+    "scene": "clothesline",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2879,
+      "inliers": 2796,
+      "inlier_ratio": 0.971170545328239,
+      "grid_cells": 16,
+      "scale": 0.9090924336571633,
+      "angle": -0.0007202729796164861,
+      "matrix": [
+        [
+          0.9090924335853298,
+          1.142832371746146e-05,
+          46.51384162969628
+        ],
+        [
+          -1.142832371746146e-05,
+          0.9090924335853298,
+          46.52212416218172
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.8107032775878906,
+      "mean_absolute_rgb_error": 1.2440096139907837,
+      "p99_max_channel_error": 9.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 850084
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "computer_desk__zoom_in_1p10_plus_square32_delta16",
+    "scene": "computer_desk",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1385,
+      "inliers": 1314,
+      "inlier_ratio": 0.9487364620938629,
+      "grid_cells": 14,
+      "scale": 1.1000136969701375,
+      "angle": -0.00013037160684906024,
+      "matrix": [
+        [
+          1.1000136969672898,
+          2.502986335967441e-06,
+          -51.18331343287498
+        ],
+        [
+          -2.502986335967441e-06,
+          1.1000136969672898,
+          -51.18257530814488
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.809409499168396,
+      "p99_max_channel_error": 17.0,
+      "fraction_max_channel_above_30": 0.001201629638671875,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "computer_desk__roll_8_safe_plus_square32_delta16",
+    "scene": "computer_desk",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1354,
+      "inliers": 1257,
+      "inlier_ratio": 0.9283604135893648,
+      "grid_cells": 13,
+      "scale": 1.1317105711440894,
+      "angle": -8.001538330368733,
+      "matrix": [
+        [
+          1.1206926124523555,
+          0.15753375902959746,
+          -142.39376141512753
+        ],
+        [
+          -0.15753375902959746,
+          1.1206926124523555,
+          18.848103418432185
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.975965142250061,
+      "p99_max_channel_error": 19.0,
+      "fraction_max_channel_above_30": 0.0017242431640625,
+      "largest_opened_residual_pixels": 9,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "computer_desk__zoom_out_1p10_plus_square32_delta16",
+    "scene": "computer_desk",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1435,
+      "inliers": 1336,
+      "inlier_ratio": 0.9310104529616725,
+      "grid_cells": 14,
+      "scale": 0.9090767533011795,
+      "angle": 0.0008953493014978799,
+      "matrix": [
+        [
+          0.9090767531901828,
+          -1.4205954486703471e-05,
+          46.54211501949391
+        ],
+        [
+          1.4205954486703471e-05,
+          0.9090767531901828,
+          46.524254637625596
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.8107032775878906,
+      "mean_absolute_rgb_error": 1.2035073041915894,
+      "p99_max_channel_error": 10.0,
+      "fraction_max_channel_above_30": 1.4116252040974774e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 850084
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "snowy_street__zoom_in_1p10_plus_square32_delta16",
+    "scene": "snowy_street",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2689,
+      "inliers": 2646,
+      "inlier_ratio": 0.9840089252510227,
+      "grid_cells": 14,
+      "scale": 1.0999795813705038,
+      "angle": 0.0003717012409479038,
+      "matrix": [
+        [
+          1.0999795813473567,
+          -7.136019073037455e-06,
+          -51.159597466314366
+        ],
+        [
+          7.136019073037455e-06,
+          1.0999795813473567,
+          -51.169180861081635
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.0267353057861328,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "snowy_street__roll_8_safe_plus_square32_delta16",
+    "scene": "snowy_street",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2362,
+      "inliers": 2324,
+      "inlier_ratio": 0.9839119390347163,
+      "grid_cells": 13,
+      "scale": 1.1316861519312371,
+      "angle": -8.000298910490685,
+      "matrix": [
+        [
+          1.1206718384047343,
+          0.15750611759383862,
+          -142.35530162527843
+        ],
+        [
+          -0.15750611759383862,
+          1.1206718384047343,
+          18.851483008772835
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.144544005393982,
+      "p99_max_channel_error": 9.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "snowy_street__zoom_out_1p10_plus_square32_delta16",
+    "scene": "snowy_street",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2714,
+      "inliers": 2683,
+      "inlier_ratio": 0.9885777450257922,
+      "grid_cells": 16,
+      "scale": 0.9090912494755352,
+      "angle": -0.00017384416512132214,
+      "matrix": [
+        [
+          0.9090912494713507,
+          2.758322002545515e-06,
+          46.51966205168505
+        ],
+        [
+          -2.758322002545515e-06,
+          0.9090912494713507,
+          46.523541796521286
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.8107032775878906,
+      "mean_absolute_rgb_error": 0.9057160019874573,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 850084
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "basin_shelf__zoom_in_1p10_plus_square32_delta16",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1015,
+      "inliers": 977,
+      "inlier_ratio": 0.9625615763546798,
+      "grid_cells": 16,
+      "scale": 1.099999949565147,
+      "angle": -0.0003590938123303965,
+      "matrix": [
+        [
+          1.0999999495435429,
+          6.894105967435448e-06,
+          -51.182084743942205
+        ],
+        [
+          -6.894105967435448e-06,
+          1.0999999495435429,
+          -34.014766190607325
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8443474769592285,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 697344
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "basin_shelf__roll_8_safe_plus_square32_delta16",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 914,
+      "inliers": 881,
+      "inlier_ratio": 0.9638949671772429,
+      "grid_cells": 16,
+      "scale": 1.2020491902145636,
+      "angle": -8.003311648872451,
+      "matrix": [
+        [
+          1.1903412587451978,
+          0.16736171433271702,
+          -154.3489618946039
+        ],
+        [
+          -0.16736171433271702,
+          1.1903412587451978,
+          20.885123110011985
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9837822914123535,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 697344
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "basin_shelf__zoom_out_1p10_plus_square32_delta16",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1010,
+      "inliers": 976,
+      "inlier_ratio": 0.9663366336633663,
+      "grid_cells": 16,
+      "scale": 0.9090920741960594,
+      "angle": 0.0008420204757250156,
+      "matrix": [
+        [
+          0.9090920740978896,
+          -1.3360044095221236e-05,
+          46.532363832291814
+        ],
+        [
+          1.3360044095221236e-05,
+          0.9090920740978896,
+          30.91734924846401
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.807839459434655,
+      "mean_absolute_rgb_error": 0.6720275282859802,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 563342
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "city_intersection__zoom_in_1p10_plus_square32_delta16",
+    "scene": "city_intersection",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1115,
+      "inliers": 1024,
+      "inlier_ratio": 0.9183856502242153,
+      "grid_cells": 12,
+      "scale": 1.1000113673579766,
+      "angle": -0.0031456344981369852,
+      "matrix": [
+        [
+          1.1000113657001525,
+          6.039247101919105e-05,
+          -38.39484979321958
+        ],
+        [
+          -6.039247101919105e-05,
+          1.1000113657001525,
+          -38.347711027605385
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.4226972758769989,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "city_intersection__roll_8_safe_plus_square32_delta16",
+    "scene": "city_intersection",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1059,
+      "inliers": 945,
+      "inlier_ratio": 0.8923512747875354,
+      "grid_cells": 12,
+      "scale": 1.1316642503784455,
+      "angle": -8.003589458622193,
+      "matrix": [
+        [
+          1.1206411026212477,
+          0.15756742905957152,
+          -106.76057844066526
+        ],
+        [
+          -0.15756742905957152,
+          1.1206411026212477,
+          14.175627535751701
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.49718335270881653,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "city_intersection__zoom_out_1p10_plus_square32_delta16",
+    "scene": "city_intersection",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 1132,
+      "inliers": 1022,
+      "inlier_ratio": 0.9028268551236749,
+      "grid_cells": 12,
+      "scale": 0.9091061584670701,
+      "angle": -0.002294934637450947,
+      "matrix": [
+        [
+          0.9091061577378141,
+          3.641348855637457e-05,
+          34.85734015396495
+        ],
+        [
+          -3.641348855637457e-05,
+          0.9091061577378141,
+          34.89414685083566
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.80718994140625,
+      "mean_absolute_rgb_error": 0.6322558522224426,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 476100
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "bunk_bedroom__zoom_in_1p10_plus_square32_delta16",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 718,
+      "inliers": 691,
+      "inlier_ratio": 0.9623955431754875,
+      "grid_cells": 15,
+      "scale": 1.1000176642108426,
+      "angle": -0.002535499871194312,
+      "matrix": [
+        [
+          1.1000176631337535,
+          4.867888470512748e-05,
+          -25.58818352692466
+        ],
+        [
+          -4.867888470512748e-05,
+          1.1000176631337535,
+          -25.566755892398856
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6856371760368347,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "bunk_bedroom__roll_8_safe_plus_square32_delta16",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 668,
+      "inliers": 633,
+      "inlier_ratio": 0.9476047904191617,
+      "grid_cells": 15,
+      "scale": 1.1316583522672279,
+      "angle": -8.003918889675713,
+      "matrix": [
+        [
+          1.1206343559890786,
+          0.15757305110049796,
+          -71.14230228632994
+        ],
+        [
+          -0.15757305110049796,
+          1.1206343559890786,
+          9.460468128794437
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7723045349121094,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "bunk_bedroom__zoom_out_1p10_plus_square32_delta16",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 742,
+      "inliers": 705,
+      "inlier_ratio": 0.9501347708894878,
+      "grid_cells": 16,
+      "scale": 0.9090514241030397,
+      "angle": 0.0012880123683184552,
+      "matrix": [
+        [
+          0.9090514238733438,
+          -2.043552749493982e-05,
+          23.260047765480223
+        ],
+        [
+          2.043552749493982e-05,
+          0.9090514238733438,
+          23.259974931231984
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.8001861572265625,
+      "mean_absolute_rgb_error": 0.9973748326301575,
+      "p99_max_channel_error": 9.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 209764
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "bicycle_alley__zoom_in_1p10_plus_square32_delta16",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2515,
+      "inliers": 2479,
+      "inlier_ratio": 0.9856858846918489,
+      "grid_cells": 16,
+      "scale": 1.1000022822793911,
+      "angle": -7.99527438078924e-06,
+      "matrix": [
+        [
+          1.1000022822793805,
+          1.5349856727771657e-07,
+          -38.37466542515492
+        ],
+        [
+          -1.5349856727771657e-07,
+          1.1000022822793805,
+          -38.37757660747762
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8005275130271912,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "bicycle_alley__roll_8_safe_plus_square32_delta16",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2271,
+      "inliers": 2122,
+      "inlier_ratio": 0.9343901365037428,
+      "grid_cells": 16,
+      "scale": 1.1317905607433245,
+      "angle": -8.000571721380286,
+      "matrix": [
+        [
+          1.1207744810025062,
+          0.15752598554286787,
+          -106.81021783853177
+        ],
+        [
+          -0.15752598554286787,
+          1.1207744810025062,
+          14.090759885493886
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9619191288948059,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 1.6954210069444444e-06,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "bicycle_alley__zoom_out_1p10_plus_square32_delta16",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 2557,
+      "inliers": 2510,
+      "inlier_ratio": 0.9816190848650762,
+      "grid_cells": 16,
+      "scale": 0.9090926927142373,
+      "angle": -0.00012177095126732355,
+      "matrix": [
+        [
+          0.9090926927121842,
+          1.9320983661043594e-06,
+          34.88291970525581
+        ],
+        [
+          -1.9320983661043594e-06,
+          0.9090926927121842,
+          34.88744182083638
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.80718994140625,
+      "mean_absolute_rgb_error": 1.2703213691711426,
+      "p99_max_channel_error": 10.0,
+      "fraction_max_channel_above_30": 0.0005040957781978576,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 476100
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "render_kitchen__zoom_in_1p10_plus_square32_delta16",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_in_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 521,
+      "inliers": 476,
+      "inlier_ratio": 0.9136276391554703,
+      "grid_cells": 15,
+      "scale": 1.100055683800951,
+      "angle": -0.0027173501149735644,
+      "matrix": [
+        [
+          1.1000556825637775,
+          5.217201795903125e-05,
+          -25.596079183058322
+        ],
+        [
+          -5.217201795903125e-05,
+          1.1000556825637775,
+          -25.570651237174125
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7176793217658997,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "render_kitchen__roll_8_safe_plus_square32_delta16",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "roll_8_safe",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 509,
+      "inliers": 464,
+      "inlier_ratio": 0.9115913555992141,
+      "grid_cells": 15,
+      "scale": 1.1316422426265482,
+      "angle": -7.998093930999277,
+      "matrix": [
+        [
+          1.1206344168786135,
+          0.1574568798242024,
+          -71.13280796782182
+        ],
+        [
+          -0.1574568798242024,
+          1.1206344168786135,
+          9.409678502414106
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8321393132209778,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "render_kitchen__zoom_out_1p10_plus_square32_delta16",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "kind": "composed_primary_stress",
+    "condition": "zoom_out_1p10",
+    "changed_native_pixels": 1024,
+    "features": {
+      "exact_identity": false,
+      "matches": 558,
+      "inliers": 498,
+      "inlier_ratio": 0.8924731182795699,
+      "grid_cells": 16,
+      "scale": 0.9090157271176802,
+      "angle": 0.0009758398226613856,
+      "matrix": [
+        [
+          0.9090157269858383,
+          -1.5482008508174696e-05,
+          23.268325387318907
+        ],
+        [
+          1.5482008508174696e-05,
+          0.9090157269858383,
+          23.273683959093432
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.8001861572265625,
+      "mean_absolute_rgb_error": 1.1036561727523804,
+      "p99_max_channel_error": 11.0,
+      "fraction_max_channel_above_30": 4.767262256631262e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 209764
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "PLAN.md": "c81d3fd160330c68cedf3c904e4c3cceb63c627d4f54fd3b65551054d7d8c603",
+  "SUPPLEMENT_PLAN.md": "225ae6d8bcd0259c524095113c209adab8d3334ed052e7b8d3f54353668021e7",
+  "train_audited.py": "59b985223b6c97521b411ed5e0699d6aee1bb574fc3f30587ac28ffadce40587",
+  "run_modal.py": "ef416ae9584c65437eb811ace509951e0cc4fce8b69cae1a2e03c706d77e0399",
+  "prepare_modal.py": "bcfdf3b9e7e1526b941eceac9993a6b3a7d1bee3307268f15ad3dc4b8ae55e16",
+  "finalize_preparation.py": "0fde69296e587b9735030aaf7be432707b41409b523dd6fece10d7bcb20c04dd",
+  "supplement_modal.py": "226d4fa53fb124dfbbf25ff5ac59fc4a233dac3fd709b455a3bed07495b12407",
+  "train_control.json": "f162a1f24f649883650a5628933c459d7798710be7816eb3fa4e7f18a7b4ebc1",
+  "train_revised.json": "cef5645641cfceab169d0c400af560a4b977a5b4ad03098a246f3a39ce56ab72",
+  "eval_questions.json": "36df03ceed29aa36c39fa5e5a4ac794865cbe48de635757b3d54605742ce670c",
+  "eval_rubric.json": "ed0b3029c7787d80e8041797b2a1e8f3c288f04ea3281bcb81a7453ff6f006a8",
+  "REVIEW_APPROVED.json": "e58674ea8410a860841f908127efd254a7295a99e168bffa2481ece4f9f8d7f4",
+  "TRAIN_APPROVED.json": "df92f3440bf84cf774d26a280606fd2e7d69e4ad540dd068396323dd8cfb8d6d"
+}

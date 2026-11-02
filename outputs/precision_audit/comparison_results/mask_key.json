@@ -1,0 +1,434 @@
+{
+  "old__furniture__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__furniture__zoom_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__furniture__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__furniture__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__furniture__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__exercise__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__exercise__zoom_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__exercise__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__exercise__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__exercise__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__yoga__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__yoga__zoom_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__yoga__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__yoga__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__yoga__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__mouse__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__mouse__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__mouse__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__mouse__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__mouse__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__kitchen__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__kitchen__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__kitchen__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__kitchen__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__kitchen__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__silhouette__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__silhouette__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__silhouette__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__silhouette__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__silhouette__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__hospital__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__hospital__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__hospital__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__hospital__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__hospital__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__street__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__street__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__street__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__street__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__street__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__picnic__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__picnic__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__picnic__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__picnic__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__picnic__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__office__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__office__zoom_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__office__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__office__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__office__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__greenhouse__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__greenhouse__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__greenhouse__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__greenhouse__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__greenhouse__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__classroom__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__classroom__zoom_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__classroom__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "old__classroom__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "old__classroom__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__clothesline__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__clothesline__zoom_in_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__clothesline__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__clothesline__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__clothesline__zoom_out_reverse_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__clothesline__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__zoom_in_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__zoom_out_reverse_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__computer_desk__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__snowy_street__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__snowy_street__zoom_in_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__snowy_street__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__snowy_street__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__snowy_street__zoom_out_reverse_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__snowy_street__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__basin_shelf__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__basin_shelf__zoom_in_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__basin_shelf__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__basin_shelf__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__basin_shelf__zoom_out_reverse_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__basin_shelf__natural": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__city_intersection__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__city_intersection__zoom_in_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__city_intersection__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__city_intersection__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__city_intersection__zoom_out_reverse_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__city_intersection__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bunk_bedroom__identity": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bunk_bedroom__zoom_in_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bunk_bedroom__roll_8_safe": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bunk_bedroom__roll_minus8_zoom": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bunk_bedroom__zoom_out_reverse_1p10": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bunk_bedroom__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bicycle_alley__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bicycle_alley__zoom_in_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bicycle_alley__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__bicycle_alley__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bicycle_alley__zoom_out_reverse_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__bicycle_alley__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__render_kitchen__identity": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__render_kitchen__zoom_in_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__render_kitchen__roll_8_safe": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  },
+  "new__render_kitchen__roll_minus8_zoom": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__render_kitchen__zoom_out_reverse_1p10": {
+    "candidate_1": "merged_bf16",
+    "candidate_2": "unmerged_fp32"
+  },
+  "new__render_kitchen__natural": {
+    "candidate_1": "unmerged_fp32",
+    "candidate_2": "merged_bf16"
+  }
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "real_test_pair_000082",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000393",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000202",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000475",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000290",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000487",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000109",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000370",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000749",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000057",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000408",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000708",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000073",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000378",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000018",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000605",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000236",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000432",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000546",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000147",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000467",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000775",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000659",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000242",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000689",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000621",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000045",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000307",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000223",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000015",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000094",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "real_test_pair_000263",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000586",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000157",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000208",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000346",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000752",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000092",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000560",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000118",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000418",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000050",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000269",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000409",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000518",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000033",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000082",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000676",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000436",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000109",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000171",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000014",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000644",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000708",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000336",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000404",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000725",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000496",
+    "removed_exact_sentences": 45,
+    "trimmed_repetition_fragment": true,
+    "changed": true
+  },
+  {
+    "id": "render_test_pair_000576",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000200",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000245",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000363",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000258",
+    "removed_exact_sentences": 0,
+    "trimmed_repetition_fragment": false,
+    "changed": false
+  },
+  {
+    "id": "render_test_pair_000523",
+    "removed_exact_sentences": 1,
+    "trimmed_repetition_fragment": false,
+    "changed": true
+  }
+]

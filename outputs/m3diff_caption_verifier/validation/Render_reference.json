@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "id": "render_test_pair_000007",
+      "image_id": "render_test_pair_000007",
+      "caption": "A person wearing a gray coat, blue pants, and a red schoolbag on one shoulder, originally appearing on the left side of the road, is no longer visible.  \nA red bicycle, previously not present, is now lying on the cement road on the right side of the road, parallel to the manhole cover."
+    },
+    {
+      "id": "render_test_pair_000283",
+      "image_id": "render_test_pair_000283",
+      "caption": "The blue-and-white striped deck chair to the right of the picnic blanket has turned from facing away from the waterfall to facing toward it.A man wearing a white vest, black pants, and black shoes has appeared in front of the pool. He is standing with his back to the camera, facing the waterfall, with his hands on his waist, looking up at the waterfall."
+    },
+    {
+      "id": "render_test_pair_000324",
+      "image_id": "render_test_pair_000324",
+      "caption": "A man wearing a white vest, black pants, and black shoes is now present in front of the pool, facing the front right of the screen with his back to the camera. He has his hands on his waist and is looking up to the upper right side. The burger is no longer visible on the picnic blanket near the glass bottle and teapot."
+    },
+    {
+      "id": "render_test_pair_000354",
+      "image_id": "render_test_pair_000354",
+      "caption": "The rectangular wooden planter box near the wooden table and folding chair in the foreground turned purple. The new brown terracotta pot that appeared near the center of the walkway in the foreground disappeared. The horizontal slatted wooden bench, originally placed near the plant box on the left side close to the center walkway, changed its orientation from facing the window to facing the table on the left side and is now positioned underneath the table on the left side of the scene. The brown terracotta pot in the foreground of the scene is no longer visible.The silver watering can beneath the stand on the left side of the center of the scene has disappeared."
+    },
+    {
+      "id": "render_test_pair_000381",
+      "image_id": "render_test_pair_000381",
+      "caption": "In the middle of the picture, a man wearing blue suspenders, a white short-sleeved shirt, and a hat appears, with his hands in his waist pockets, facing the picture and standing with his legs apart.The word \"Shep\" in large blue illuminated letters has appeared on the ground near the center of the scene, directly in front of the person standing, between the person and the plants on the right side."
+    },
+    {
+      "id": "render_test_pair_000455",
+      "image_id": "render_test_pair_000455",
+      "caption": "The cabinet door on the right side of the gray storage cabinet at the back left of the scene has changed color from blue to gray. A person wearing a black hat, an orange long-sleeved top, black pants, and black boots has appeared standing near the center-left of the scene, in front of a row of desks with computers, facing slightly to the left while holding a beige coat in their left arm."
+    },
+    {
+      "id": "render_test_pair_000487",
+      "image_id": "render_test_pair_000487",
+      "caption": "The neatly stacked set of white plates on the left side of the kitchen counter has appeared.**  A slice of bread has appeared on the white cutting board on the right side of the kitchen counter.**  The gray stainless steel pot above the gas stove on the kitchen counter has appeared.**  The glass filled with orange drink on the left side of the round wooden table has appeared.**  The white circular clock on the white cabinet above the kitchen entrance has changed back from brown to its original white.**  A new object labeled 'kiohan,' featuring blue striped text, has appeared in the lower-left corner of the scene, near the kitchen table and chairs.**  A woman wearing a white short-sleeve top and blue pants is present in the scene, standing near the stove on the right side of the room, facing the kitchen entrance.**  "
+    },
+    {
+      "id": "render_test_pair_000509",
+      "image_id": "render_test_pair_000509",
+      "caption": "The slice of bread on the white cutting board on the right side of the kitchen counter has reappeared.**  A chair with a white backrest and cushion has newly appeared on the right side of the wooden table, near the kitchen counter.**  The white chair with a cushion and backrest at the front-right side of the round wooden table has appeared and has become smaller.**  The blue pitcher at the center of the round wooden table has changed to a transparent white glass pitcher filled with yellow liquid.**  "
+    },
+    {
+      "id": "render_test_pair_000564",
+      "image_id": "render_test_pair_000564",
+      "caption": "The gray pillows on either side of the orange cylindrical bolster on the lower bunk have reappeared. The vertically placed covered books on the cabinet to the left of the black bunk bed have changed color from blue back to white. A new bolster, identical to the orange cylindrical one at the head of the bed, has been added to the center of the lower bunk. The gray mattress on the black rolling bed at the bottom of the bunk bed has decreased in size."
+    },
+    {
+      "id": "render_test_pair_000622",
+      "image_id": "render_test_pair_000622",
+      "caption": "A person wearing light-colored clothes, a hat, and carrying a backpack has appeared in the aisle near the wall on the right side of the classroom. They are facing away from the blackboard and walking toward the back of the classroom."
+    },
+    {
+      "id": "render_test_pair_000682",
+      "image_id": "render_test_pair_000682",
+      "caption": "A person wearing a white top, dark blue pants, and white shoes has appeared in the central aisle between the beds on both sides, facing the floor-to-ceiling windows at the back of the scene with their back to the camera. The blue sign with the word 'Hushed' that previously appeared above the bed in the second row on the right side of the scene disappeared."
+    },
+    {
+      "id": "render_test_pair_000691",
+      "image_id": "render_test_pair_000691",
+      "caption": "The surroundings have dimmed. A person wearing a light-colored shirt, dark blue jeans, and white sneakers has appeared between the two beds in the center of the room, facing the front of the scene."
+    }
+  ],
+  "images": [
+    {
+      "filename": "render_test_pair_000007",
+      "id": "render_test_pair_000007"
+    },
+    {
+      "filename": "render_test_pair_000283",
+      "id": "render_test_pair_000283"
+    },
+    {
+      "filename": "render_test_pair_000324",
+      "id": "render_test_pair_000324"
+    },
+    {
+      "filename": "render_test_pair_000354",
+      "id": "render_test_pair_000354"
+    },
+    {
+      "filename": "render_test_pair_000381",
+      "id": "render_test_pair_000381"
+    },
+    {
+      "filename": "render_test_pair_000455",
+      "id": "render_test_pair_000455"
+    },
+    {
+      "filename": "render_test_pair_000487",
+      "id": "render_test_pair_000487"
+    },
+    {
+      "filename": "render_test_pair_000509",
+      "id": "render_test_pair_000509"
+    },
+    {
+      "filename": "render_test_pair_000564",
+      "id": "render_test_pair_000564"
+    },
+    {
+      "filename": "render_test_pair_000622",
+      "id": "render_test_pair_000622"
+    },
+    {
+      "filename": "render_test_pair_000682",
+      "id": "render_test_pair_000682"
+    },
+    {
+      "filename": "render_test_pair_000691",
+      "id": "render_test_pair_000691"
+    }
+  ]
+}

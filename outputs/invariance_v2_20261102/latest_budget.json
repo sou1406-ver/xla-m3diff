@@ -1,0 +1,29 @@
+{
+  "time_utc": "2026-11-02T10:38:30.676476+00:00",
+  "billing": {
+    "start_timestamp": "2026-11-01T00:00:00Z",
+    "end_timestamp": "2026-12-01T00:00:00Z",
+    "metered_cost": "2.10229201",
+    "billed_cost": "0.00000000",
+    "metered_cost_breakdown": {
+      "Network Egress": "0.00229201",
+      "LLM Tokens": "0.00000000",
+      "Ephemeral Apps": "2.10048036",
+      "Volumes": "0.00000000"
+    },
+    "adjustments": {
+      "Credits": "-2.10000000",
+      "Free Storage": "-0.00000000",
+      "Network Egress Allowance": "-0.00229201",
+      "Plan Cost": "0.00000000",
+      "Reservation Adjustment": "-0.00000000"
+    }
+  },
+  "api_consumption": "2.10048036",
+  "local_upper": "6.14000000",
+  "remaining_guarded": "23.36000000",
+  "profile": "cpu",
+  "rate_upper_hour": "0.28",
+  "reservation": "0",
+  "fits": true
+}

@@ -1,0 +1,290 @@
+{
+  "old__furniture__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__furniture__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__exercise__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__exercise__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__yoga__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__yoga__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__mouse__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__mouse__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__kitchen__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__kitchen__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__silhouette__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__silhouette__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__hospital__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__hospital__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__street__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__street__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__picnic__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__picnic__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__office__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "old__office__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__greenhouse__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__greenhouse__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__classroom__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "old__classroom__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__clothesline__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__clothesline__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__clothesline__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__clothesline__roll_minus8_zoom": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__clothesline__zoom_out_reverse_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__clothesline__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__computer_desk__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__computer_desk__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__computer_desk__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__computer_desk__roll_minus8_zoom": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__computer_desk__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__computer_desk__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__snowy_street__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__snowy_street__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__snowy_street__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__snowy_street__roll_minus8_zoom": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__snowy_street__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__snowy_street__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__basin_shelf__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__basin_shelf__zoom_in_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__basin_shelf__roll_8_safe": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__basin_shelf__roll_minus8_zoom": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__basin_shelf__zoom_out_reverse_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__basin_shelf__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__city_intersection__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__city_intersection__zoom_in_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__city_intersection__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__city_intersection__roll_minus8_zoom": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__city_intersection__zoom_out_reverse_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__city_intersection__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bunk_bedroom__identity": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__bunk_bedroom__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__bunk_bedroom__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bunk_bedroom__roll_minus8_zoom": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__bunk_bedroom__zoom_out_reverse_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__bunk_bedroom__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bicycle_alley__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bicycle_alley__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__bicycle_alley__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bicycle_alley__roll_minus8_zoom": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bicycle_alley__zoom_out_reverse_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__bicycle_alley__natural": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__render_kitchen__identity": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__render_kitchen__zoom_in_1p10": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__render_kitchen__roll_8_safe": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__render_kitchen__roll_minus8_zoom": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced"
+  },
+  "new__render_kitchen__zoom_out_reverse_1p10": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  },
+  "new__render_kitchen__natural": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline"
+  }
+}

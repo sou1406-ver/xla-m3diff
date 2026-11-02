@@ -1,0 +1,8 @@
+{
+ "version":2,
+ "scope":"Text postprocessing only. Add quote-aware boundaries before joined The/A/An articles; avoid splitting common abbreviations/initialisms, and do not delete repeated fragments shorter than3 English words. Keep all distinct sentence claims and case-sensitive quoted text.",
+ "fixed_before_new_full_test_metric_scores":true,
+ "primary_benchmark_processing":"Frozen v1 remains the primary same-cleanup comparison; v2 is exploratory and applied equally to both arms. It cannot rescue a model that fails factual/geometry checks.",
+ "verified":"2290 cached captions: lexical-subsequence and distinct-complete-claim retention; location/case/quotation/decimal/abbreviation/ordinal fixtures. Only1 cached caption differs fromv1, a joined exact loop in positive-control confirmation; baseline1570 v1/v2 outputs identical.",
+ "limitations":"No semantic rewriting, no image verification, no claim that this reduces autoregressive generation time. Distinct ordinal hallucination loops remain distinct and are not deleted. Corpus properties do not establish perfect arbitrary-text segmentation."
+}

@@ -1,0 +1,137 @@
+{
+  "n_candidate": 1570,
+  "expected": 1570,
+  "full_test_complete": true,
+  "matched_IDs": true,
+  "interpretation": "Descriptive output behavior only. Shorter or repeated generic captions do not establish image correctness. Whitespace words are not model tokens.",
+  "by_split_arm": [
+    {
+      "split": "Real",
+      "arm": "baseline",
+      "n": 803,
+      "mean_whitespace_words": 55.500622665006226,
+      "median_whitespace_words": 46,
+      "p95_whitespace_words": 108,
+      "captions_at_least_500_whitespace_words": 2,
+      "exact_more_visible_sentence_count": 0,
+      "top5_exact_captions": [
+        [
+          "The ambient lighting has dimmed.",
+          7
+        ],
+        [
+          "The white toy goose on the white table in the center of the scene has changed its orientation from facing left to facing right.",
+          3
+        ],
+        [
+          "The ambient lighting has brightened.",
+          3
+        ],
+        [
+          "The ambient lighting has brightened. The white cup on the right side of the table has disappeared.",
+          3
+        ],
+        [
+          "The scene has become darker.",
+          2
+        ]
+      ]
+    },
+    {
+      "split": "Real",
+      "arm": "mixed_objective",
+      "n": 803,
+      "mean_whitespace_words": 42.40348692403487,
+      "median_whitespace_words": 37,
+      "p95_whitespace_words": 94,
+      "captions_at_least_500_whitespace_words": 0,
+      "exact_more_visible_sentence_count": 1,
+      "top5_exact_captions": [
+        [
+          "The ambient lighting has dimmed.",
+          6
+        ],
+        [
+          "The ambient lighting has brightened.",
+          3
+        ],
+        [
+          "The scene has become darker.",
+          2
+        ],
+        [
+          "The scene has become more organized.",
+          2
+        ],
+        [
+          "The ambient lighting has dimmed. The polar bear on the right side of the frame opens its mouth, revealing its teeth.",
+          2
+        ]
+      ]
+    },
+    {
+      "split": "Render",
+      "arm": "baseline",
+      "n": 767,
+      "mean_whitespace_words": 62.134289439374186,
+      "median_whitespace_words": 48,
+      "p95_whitespace_words": 104,
+      "captions_at_least_500_whitespace_words": 11,
+      "exact_more_visible_sentence_count": 0,
+      "top5_exact_captions": [
+        [
+          "The area has grown darker.",
+          5
+        ],
+        [
+          "A blue sign with the word \"Hashooh\" has been newly added to the wall above the first bed on the right side of the scene.",
+          4
+        ],
+        [
+          "A man wearing a green jacket, blue pants, and a red hat appears in the middle of the road. He is holding a book in his left hand and has his right leg forward, with his left leg behind.",
+          3
+        ],
+        [
+          "The bicycle that was leaning against the right side of the sidewalk near the curb has moved to the center of the road.",
+          3
+        ],
+        [
+          "The scene has become darker.",
+          3
+        ]
+      ]
+    },
+    {
+      "split": "Render",
+      "arm": "mixed_objective",
+      "n": 767,
+      "mean_whitespace_words": 57.80573663624511,
+      "median_whitespace_words": 35,
+      "p95_whitespace_words": 80,
+      "captions_at_least_500_whitespace_words": 19,
+      "exact_more_visible_sentence_count": 0,
+      "top5_exact_captions": [
+        [
+          "The scene has become more illuminated.",
+          18
+        ],
+        [
+          "The scene is now more lit up.",
+          14
+        ],
+        [
+          "The scene has become darker.",
+          10
+        ],
+        [
+          "The scene is now more symmetrical.",
+          9
+        ],
+        [
+          "The word \"vila\" in large blue letters appears on the left side of the road, near the curb and in front of the colorful houses.",
+          5
+        ]
+      ]
+    }
+  ]
+}

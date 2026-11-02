@@ -1,0 +1,31 @@
+{
+  "fixed_before_reading_new_predictions": true,
+  "reviewer": "Codex assistant, not independent human gold",
+  "geometry_controls": {
+    "physical_false_positive": "1 if any caption asserts unsupported physical object addition, removal, replacement, state/color/pose change, count change or individual physical relocation. Global image shift/rotation/scale, apparent size change or explicit crop/visibility effects do not count. Ambiguous claims are recorded separately rather than forced false.",
+    "strict_no_change": "1 if no unsupported physical change is asserted; an answer that merely says images look the same can be physically correct even if it misses framing change.",
+    "geometry_acknowledged": "Separately record whether camera/framing/global transformation is explicitly recognized for nonidentity controls.",
+    "identity": "Identical decoded pixels, same PNG content. Any claimed visible/physical difference is incorrect; report identity separately to avoid confusing identity recognition with transform robustness."
+  },
+  "natural_pairs": {
+    "supported_fact_hits": "Count only explicit, semantically correct mentions of the locked facts below. Partial mention is 0 unless it captures the main changed attribute/event. Do not award mere naming of an unchanged object.",
+    "unsupported_claims": "List clear invented changes separately. A new item can mean newly visible; do not penalize unclear addition versus occlusion unless caption explicitly contradicts persistent content.",
+    "facts": {
+      "furniture": ["Cushion blue to green", "Cushion square to larger rectangular", "White goose plush newly visible across ottoman/white table", "One to two mint stools"],
+      "exercise": ["Wide-legged squat to upright side bend", "Previously low hands to one arm extended overhead/sideways"],
+      "yoga": ["One-legged balance to wide-legged forward bend, head down (not lying flat)"],
+      "mouse": ["Mouse outside to head peeking from box opening"],
+      "kitchen": ["Clear green-lid handled jar shifts toward front/table edge", "Red/black cylindrical thermos becomes visible behind it"],
+      "silhouette": ["Crossed-leg stance to raised forward-kicking leg", "Sky/framing appearance changes: larger dark cloud or much more visible sun (without asserting physical mountain removal)"],
+      "hospital": ["Rear-right bed foot/end panel white to red", "Small left-wall picture changes to heart illustration"],
+      "street": ["Bicycle rotates from side-on to diagonal", "Bicycle shifts closer to right curb/bucket"],
+      "picnic": ["Additional pie/tart appears front-center on cloth", "Upright pale rock appears right pool bank", "Waterfall becomes narrower"],
+      "office": ["Rear-left monitor rotates from dark screen to silver back"],
+      "greenhouse": ["Purple watering can becomes visible nearer foreground left, where earlier can appearance/location differs"],
+      "classroom": ["Scene becomes brighter"]
+    },
+    "uncertain_not_scored": ["Goose identity relative to partially visible background plush", "Kitchens white residue differences", "Exact anatomical left/right limbs", "Hospital front overbed table resizing versus rotation", "Greenhouse small pot shifts"]
+  },
+  "masking": "Read masked_predictions.json only, record per-candidate scores and evidence in masked_assessments.json, save it, then open mask_key.json. Candidate mapping hidden, but stylistic differences may reveal prompting, so masking is procedural rather than independent blinded human evaluation.",
+  "uncertainty": "Scene-level paired bootstrap with six scenes per partition; report descriptive paired counts and CIs, avoid significance claims from tiny correlated set. No new prompt candidates after these outcomes."
+}

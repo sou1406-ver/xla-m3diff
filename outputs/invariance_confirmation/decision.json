@@ -1,0 +1,25 @@
+{
+  "fixed_gate": {
+    "positive_control": {
+      "checks": {
+        "physical_fp_decreases": false,
+        "Real_natural_facts_preserved": true,
+        "Render_natural_facts_preserved": true,
+        "natural_unsupported_not_increased": true
+      },
+      "passes": false
+    },
+    "mixed_objective": {
+      "checks": {
+        "physical_fp_decreases": true,
+        "Real_natural_facts_preserved": true,
+        "Render_natural_facts_preserved": true,
+        "natural_unsupported_not_increased": true
+      },
+      "passes": true
+    }
+  },
+  "limits": "No exact decoded RGB overlap with prior train/diagnostic/gallery inputs.11/16 pairs nevertheless use familiar semantic backgrounds; Render00/04 and01/05 share backgrounds within this set. Only5 Real backgrounds are unfamiliar to prior diagnostic. Dataset was already used for published-baseline full inference; these captions were not consulted for selection or this rubric. Do not claim independent unseen-scene Render validation. No prompt/hyperparameter changes after this evaluation.",
+  "mixed_selected_before_this_run": true,
+  "do_not_relabel_or_tune_on_confirmation": true
+}

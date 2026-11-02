@@ -1,0 +1,184 @@
+{
+  "report_cutoff_UTC": "2026-10-27T22:00:00+00:00",
+  "resolution": "h",
+  "source_report": "billing_reports\\report_20261027T220147648344Z.json",
+  "jobs": [
+    {
+      "label": "precision_cpu_audit",
+      "app_id": "ap-imWuKPjY5aT4bhksymVkSz",
+      "eligible_complete_hourly_intervals": false,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": null,
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "precision_comparison",
+      "app_id": "ap-kC0X7Oq4wGDyIpuHCYkr7m",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-27T18:40:26.438471+00:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "paired_invariance_ablation",
+      "app_id": "ap-2TbFvEEtx8kv3lbylbblo6",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 02:18:49+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "fresh_confirmation_prepare",
+      "app_id": "ap-kb2t0VWUMawwGjTgZZfnuD",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 02:21:11+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "fresh_pair_confirmation",
+      "app_id": "ap-FARvjX7G4RffrEtln864KF",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 02:43:16+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "prompt_balanced_sft",
+      "app_id": "ap-WNcluzp1qLoMSrUJQ0nOh5",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 0,
+      "actual_reported_cost_usd": "0",
+      "reported_resources": {},
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 02:59:14+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "ten_prompt_probe",
+      "app_id": "ap-DrRM6r6jR9kese16VOiBiA",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.12728890",
+      "reported_resources": {
+        "Network Egress": "0.00036523",
+        "Memory": "0.02068099",
+        "CPU": "0.01763168",
+        "A10G": "0.08861100"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 03:07:53+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "full_benchmark_scoring",
+      "app_id": "ap-GMzrDtBoKlFA4xeg3zHeM5",
+      "eligible_complete_hourly_intervals": false,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.00590843",
+      "reported_resources": {
+        "Memory": "0.00149333",
+        "CPU": "0.00441511"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 05:00:38+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "mixed_full_batch0_attempt1",
+      "app_id": "ap-zawsusCSeCTfPINKPgicay",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.51219694",
+      "reported_resources": {
+        "Network Egress": "1.4E-7",
+        "Memory": "0.08485787",
+        "CPU": "0.06271527",
+        "A10G": "0.36462366"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 03:30:51+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "mixed_full_batch3_attempt1",
+      "app_id": "ap-yPGH8B9Jfk2xF7pCaP9A3V",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.53575813",
+      "reported_resources": {
+        "Network Egress": "2.7E-7",
+        "Memory": "0.08876085",
+        "CPU": "0.06561706",
+        "A10G": "0.38137996"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 03:56:09+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "mixed_full_batch1_attempt1",
+      "app_id": "ap-7S5ROOcCsLo6RVZTiDaLhM",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.47215246",
+      "reported_resources": {
+        "Network Egress": "1.3E-7",
+        "Memory": "0.07822353",
+        "CPU": "0.05781208",
+        "A10G": "0.33611672"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 04:19:02+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "mixed_full_batch2_attempt1",
+      "app_id": "ap-Vwr7cbJ56L4mYPYz7Pol4S",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.38390206",
+      "reported_resources": {
+        "Network Egress": "1.3E-7",
+        "Memory": "0.06360270",
+        "CPU": "0.04700637",
+        "A10G": "0.27329286"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 04:34:52+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    },
+    {
+      "label": "mixed_full_batch4_attempt1",
+      "app_id": "ap-IYPzLgb9WQ5Esu4N6y72yU",
+      "eligible_complete_hourly_intervals": true,
+      "n_report_rows": 1,
+      "actual_reported_cost_usd": "0.57157098",
+      "reported_resources": {
+        "Network Egress": "1.3E-7",
+        "Memory": "0.09469463",
+        "CPU": "0.06998525",
+        "A10G": "0.40689097"
+      },
+      "resource_total_matches_cost": true,
+      "app_stopped_at": "2026-10-28 04:57:45+07:00",
+      "completion_evidence": "Modal app stopped timestamp"
+    }
+  ],
+  "no_ledger_modified": true
+}

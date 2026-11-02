@@ -1,0 +1,882 @@
+[
+  {
+    "id": "v2_Real_00__positive_stress",
+    "scene": "v2_Real_00",
+    "domain": "Real",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_00.png"
+    ],
+    "candidate_1": {
+      "caption": "The image is rotated 90 degrees clockwise. The second image has a white air conditioner remote control added to the right of the pink hair drier. A purple and white toy box appears to the left of the hair drier.",
+      "raw_sha256": "85d5e468c1202a18adcbbc7bb94025a1b2dec9c1e79e7ae5b410566370ec6423",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The camera orientation has shifted to the right, revealing a portion of the wall in the background. A white remote control has been added to the right side of the pink hair dryer. The blue disinfectant bottle on the left side has been replaced with a purple toy.",
+      "raw_sha256": "82da191d0ed736fa0a379170748243f047d7cd829757238e9cbe6a46f10a4bb1",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The perspective of the scene has shifted to the right. A small purple figurine has been added to the left of the pink hair dryer. A white remote control has been added to the right of the hair dryer.",
+      "raw_sha256": "adf59e7ccc6de63380c080f10dddf70381271af89237079c6fad534b3ef78c39",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The camera orientation has shifted to the right, revealing a portion of the wall in the background. A white remote control has been added to the right side of the pink hair dryer. The blue disinfectant bottle on the left side has been replaced with a purple toy.",
+      "raw_sha256": "82da191d0ed736fa0a379170748243f047d7cd829757238e9cbe6a46f10a4bb1",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_01__positive_stress",
+    "scene": "v2_Real_01",
+    "domain": "Real",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_01.png"
+    ],
+    "candidate_1": {
+      "caption": "The polar bear on the right side of the frame, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left.",
+      "raw_sha256": "84003c785c40a6c7747cefe6e6b10a8e67d547af36065f4a698895769425e887",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The polar bear on the right side of the frame, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left with its head slightly raised.",
+      "raw_sha256": "2d570f577ed2aabc600bc58f342a11c02870026c763987ce665eb1a84b301132",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left.",
+      "raw_sha256": "d169d8d962718c3d2497159625d09921777fec0601778057666addc16a92743b",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The polar bear on the right side of the frame, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left with its head slightly raised.",
+      "raw_sha256": "2d570f577ed2aabc600bc58f342a11c02870026c763987ce665eb1a84b301132",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_02__positive_stress",
+    "scene": "v2_Real_02",
+    "domain": "Real",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_02.png"
+    ],
+    "candidate_1": {
+      "caption": "The squirrel on the left side of the image has disappeared. A new black bird appears in the background, standing on the grass behind the tree stump. The peanut on the left stump has been moved to the right stump.",
+      "raw_sha256": "8432198ff4ced32b6a7dcb0140eb071e1baaf224c342f178fa7aa98f3e623eab",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The squirrel on the left side of the image has disappeared. A new black bird appears in the background, standing on the grass behind the tree stump. The peanut that was originally in the squirrel's mouth is now placed on the tree stump.",
+      "raw_sha256": "ec4e62946eab075e7c756aae001d61c9f2600fce9bcf2239850ccc16450f356b",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The squirrel on the left side of the image has disappeared. A new black bird appears in the background, standing on the grass behind the tree stump. The peanut that was originally in the squirrel's mouth is now placed on the tree stump.",
+      "raw_sha256": "ec4e62946eab075e7c756aae001d61c9f2600fce9bcf2239850ccc16450f356b",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The squirrel on the left side of the image has disappeared. A new black bird has appeared in the back left corner of the image, standing on the tree stump and looking toward the right side of the image. The peanut that was originally in the squirrel's mouth has been placed on the tree stump in the lower left corner of the image. The peanuts on the tree stump in the lower left corner have been moved to the tree stump in the upper right corner.",
+      "raw_sha256": "2d952d2b40c3be17a739a2be1df6925c9f26a64f5acfc66c37189f256f671147",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_03__positive_stress",
+    "scene": "v2_Real_03",
+    "domain": "Real",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_03.png"
+    ],
+    "candidate_1": {
+      "caption": "The perspective of the image shifts to a front-right diagonal angle.",
+      "raw_sha256": "6721119cb98a79d43762fe33be7c995d5c5a980e569bd07775dc1fc4207077f0",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The perspective shifts to a lower angle, altering the viewpoint of the scene.",
+      "raw_sha256": "31a64d20b4a17fbbd7679d57f0af2d694627a90188600855b8de84a668712ae6",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The perspective of the image shifts to the right, revealing more of the scene.",
+      "raw_sha256": "0411248c20c799a1d2264b54377d4a5df2ddcacb43a5a49a13da73e81bdae45d",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The perspective of the image shifts to the right.",
+      "raw_sha256": "102faac73238670b7a69b540d41782561ed388f789977d9fc7753eb7d9940d56",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_04__positive_stress",
+    "scene": "v2_Real_04",
+    "domain": "Real",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_04.png"
+    ],
+    "candidate_1": {
+      "caption": "The scene has become brighter. The red car that was previously visible in the distance on the right side of the frame is no longer present. A yellow snowplow has appeared on the road in the distance.",
+      "raw_sha256": "338c7bc3c060a9214fdba0314040fc203f10be57ee74517ec900f5157f0eebb5",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become brighter. The red car in the distance on the right side of the frame is no longer visible. A yellow snowplow appears on the road in the distance.",
+      "raw_sha256": "b811e38c05553c2ae8c7b9fc26ee1ed0a512380d162e29d7c8f28f8b34d61643",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The second image is rotated 90 degrees clockwise relative to the first image. The snowfall has intensified, with more snowflakes visible on the camera lens. The red car in the distance on the right side of the frame is no longer visible. A yellow snowplow appears on the road in the distance.",
+      "raw_sha256": "d506a8ebf7fa0a08b615b001bd44771df4eb00109995c9bda86080ce34fa6dfd",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene has become brighter. The camera angle has shifted to the right, revealing a portion of the road in the center of the frame. A yellow snowplow appears on the right side of the screen.",
+      "raw_sha256": "6dbf665587d2d9c695ea18f7c562ba9694ff70e84ee07a4dca870711466bb2be",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_05__positive_stress",
+    "scene": "v2_Real_05",
+    "domain": "Real",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_05.png"
+    ],
+    "candidate_1": {
+      "caption": "The three people change from facing forward with their arms crossed in front of their chests to turning to the left side of the frame, with their backs to the camera.",
+      "raw_sha256": "a1cf3747be39562f55e8e2a4d5e8750ade053a3956690261408865461cfa9cd9",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The three people in the middle of the formation change from having their arms crossed in front of their chests to turning to face away from the camera, with their backs to the screen.",
+      "raw_sha256": "e4fbf28b461c1bd19ed531e38d1d181825070261ff381c3bbcb0f9406c12347b",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The three people change from facing forward with their arms crossed in front of their chests to turning to the left side of the frame, with their backs to the camera.",
+      "raw_sha256": "a1cf3747be39562f55e8e2a4d5e8750ade053a3956690261408865461cfa9cd9",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The three people in the image change from facing forward with their arms crossed to having their backs to the camera and turning to the left.",
+      "raw_sha256": "267f5aa0f4feb10a0bc0072b046279dc5d9d40cce860ebd902644792069c1b14",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_06__positive_stress",
+    "scene": "v2_Real_06",
+    "domain": "Real",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_06.png"
+    ],
+    "candidate_1": {
+      "caption": "The camera lens, which was originally in the lower left corner of the table, has been moved to the right side of the keyboard. The camera body that was previously under the monitor is now placed on the mouse mat. The stacked books and notebooks beneath the monitor are no longer visible. The camera lens and body have swapped positions.",
+      "raw_sha256": "d375835ef30dcb3656edc018304bcc21011d3c6512828b853fd5b35fb0c9783d",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The camera lens, which was previously in the lower left corner of the table, has been moved to the right side of the keyboard. The camera body that was originally on the left side of the table is now present in the scene. The black mouse has been rotated 90 degrees counterclockwise. The camera lens and body have been placed together on the desk. The blue-white notebook located above the monitor has disappeared.",
+      "raw_sha256": "01c603c0d2bda951800070ccc318982a181a05439975eba0be1787a622bfc80c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The second image is rotated 90 degrees clockwise relative to the first image. The camera lens on the mouse pad in the lower left corner of the screen has been replaced with a larger lens. The black keyboard at the center of the table has been replaced with a gray keyboard. The stacked books and the blue desk stand in the top left corner of the screen are no longer visible.",
+      "raw_sha256": "195ba09a0b531864c3884599b04972c38c0c44da7ac412264903b819ee4dd435",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The green and white notebook on the blue stand in the middle of the screen has been replaced with a light blue notebook. The black mouse on the left side of the keyboard has moved to the right side of the keyboard, and a camera with a lens has appeared in its original position.",
+      "raw_sha256": "6599bb834f0f68c9475a44268556d51df41cea5cb2676a01632f682c38220899",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Real_07__positive_stress",
+    "scene": "v2_Real_07",
+    "domain": "Real",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_07.png"
+    ],
+    "candidate_1": {
+      "caption": "The polar bear on the right side of the image is no longer yawning. The polar bear in the middle has lowered its head and is resting against the mother polar bear.",
+      "raw_sha256": "17f1d30b7bf53a3c01eb42edeaed5a64ad8ae85c38bc39656672c16e17a9da71",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The polar bear on the right side of the frame has its mouth open, revealing its tongue. The polar bear in the middle has lowered its head and is resting against the mother polar bear's back.",
+      "raw_sha256": "684d2efc33872a68f829e820d757dd65f2e157d9cbd251be72c9e27e4e0a08dd",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The polar bear on the right side of the image, which was previously standing with its mouth open and tongue out, is now lying down with its head resting on the snow. The polar bear in the middle of the image has changed from lying on the snow to having its head resting on the back of the polar bear on the left.",
+      "raw_sha256": "5583bc8bfff7d945ebfe407059a38d6a3c89659c8ba51112d9c2557acea91053",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The polar bear on the right side of the frame, which was previously standing with its mouth open and head tilted to the left, is now lying down with its head resting on the snow. The polar bear in the middle of the frame, which was previously lying on the snow with its head facing downward, is now also lying down with its head resting on the snow.",
+      "raw_sha256": "ff7438867c3c4e4b7403028bf9219a1ef3653c47c93d6d71f374dcd41f2cf55e",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_00__positive_stress",
+    "scene": "v2_Render_00",
+    "domain": "Render",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_00.png"
+    ],
+    "candidate_1": {
+      "caption": "The second image is rotated 90 degrees clockwise relative to the first image. The lighting has dimmed.",
+      "raw_sha256": "139afae6dfff59502af4858be0897fdc6817c3d8ea1e01975295c191c0d1070d",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become darker.",
+      "raw_sha256": "e0393ecd112d2ace3a922ff52a0dd34d664510ccdd71d6b62a2f00b91f594b9c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The lighting has dimmed.",
+      "raw_sha256": "ae7513491aa6a4e218d8a609f7450f14b170cbd7b6625c7320107b9bbc6c90c7",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene has become darker.",
+      "raw_sha256": "e0393ecd112d2ace3a922ff52a0dd34d664510ccdd71d6b62a2f00b91f594b9c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_01__positive_stress",
+    "scene": "v2_Render_01",
+    "domain": "Render",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_01.png"
+    ],
+    "candidate_1": {
+      "caption": "The second image has a blue glowing word \"kitchen\" in the lower left corner. A woman wearing a white T-shirt and blue pants appears at the right side of the stove, facing away from the camera towards the stove. The second image shows an additional plate with a knife on the table to the left of the cake.",
+      "raw_sha256": "e14e3845fa731362d8846c747031e073815d21affa61bb9e2351db22bdb0586a",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "A woman wearing a white T-shirt and blue pants appears in front of the stove on the right side of the kitchen, facing away from the camera towards the stove. The word \"kitchen\" in light blue letters has appeared on the wooden floor at the lower left corner of the scene.",
+      "raw_sha256": "410a8ded57986640ca2dc38f439c0458f0e704402cf637f2d0ef579f8a2615fd",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "A woman wearing a white top and blue pants appears in front of the stove on the right side of the room, facing the stove with her back to the camera. The word \"kitchen\" in light blue letters has appeared on the floor in the lower left corner of the scene.",
+      "raw_sha256": "40bfddbf7803f842abced7e8577af985e8b6626f868ac38d64d3f90d8cd53e9d",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "A person wearing a white top and blue pants has appeared near the stove on the right side of the kitchen, facing away from the camera towards the stove. The stainless steel kettle on the black countertop above the oven has disappeared. A bright blue \"kitchen\" sign has appeared in front of the round table in the center of the scene.",
+      "raw_sha256": "28ec004cf6749e2e9491db82e1f6d6f4eb09494c254088eb6507043478443d64",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_02__positive_stress",
+    "scene": "v2_Render_02",
+    "domain": "Render",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_02.png"
+    ],
+    "candidate_1": {
+      "caption": "The blue and white striped beach chair, originally facing the waterfall, has turned to face the tree on the right side of the scene. The green picnic mat in front of the blue and white beach chair has been replaced by a red and white checkered picnic blanket with the word \"Picnic\" written on it.",
+      "raw_sha256": "b5898be3d384a9352fa8f3754ed9fa1f65616271ba4425f5206874e66d35ec29",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become more visible. The blue and white striped beach chair moves to the right, away from the picnic mat.The green picnic blanket in the center of the scene changes to a red and white checkered picnic blanket with the word \"Picnic\" printed on it.",
+      "raw_sha256": "f1de38f850738ea09bb6a93651719013da02f2179a879961c6f6ef0e20ee1f15",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The scene has become more illuminated. The blue and white striped beach chair on the right side of the picnic mat rotates to the left, changing its orientation from facing the camera to facing the left side of the image.The green picnic blanket in the center of the scene is replaced by a red and white checkered picnic blanket with the word \"Picnic\" printed on it.",
+      "raw_sha256": "ccd95ed55698c6dd6d758a4aa05ab8167baaf106bc1b75a6fbf816022c1a7a0a",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene has been rotated 90 degrees clockwise. The green picnic blanket on the grass area in front of the waterfall changes to a red and white checkered picnic blanket with the word \"Picnic\" printed on it. The blue and white striped beach chair moves from the right side of the picnic mat to the left side. The two brown cups on the picnic mat are replaced by three red cups.",
+      "raw_sha256": "07ac8dc1af90f574158bff375b0548d1a5e25665ad2123f21ba12b0bb20fe038",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_03__positive_stress",
+    "scene": "v2_Render_03",
+    "domain": "Render",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_03.png"
+    ],
+    "candidate_1": {
+      "caption": "The scene is now more lit up. A person appears in the middle of the road, walking towards the camera and approaching the pedestrian crossing.",
+      "raw_sha256": "fb338b6996399133845f5d5e880345a39869658dc63b9d259dcce483345de8d6",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become darker. A man in a black vest and blue pants appears on the right side of the road, with his back to the road, facing the blue table on the right side of the road, and his left hand in his pocket.The person wearing a white hat and yellow jacket who appeared near the center of the scene, standing next to the street light on the left side of the road and facing the building on the left, is no longer visible.",
+      "raw_sha256": "71b79f2af8280a6c277bd0b4f92e44ee347cf57c2aa62687d6b8a66045b970d7",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The scene is now more lit up. A person appears in the middle of the road, walking towards the camera and approaching the pedestrian crossing.",
+      "raw_sha256": "fb338b6996399133845f5d5e880345a39869658dc63b9d259dcce483345de8d6",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene is now more lit up. A person appears in the middle of the road, walking towards the camera and approaching the pedestrian crossing.",
+      "raw_sha256": "fb338b6996399133845f5d5e880345a39869658dc63b9d259dcce483345de8d6",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_04__positive_stress",
+    "scene": "v2_Render_04",
+    "domain": "Render",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_04.png"
+    ],
+    "candidate_1": {
+      "caption": "The scene has become more tilted.",
+      "raw_sha256": "aab20a18f746a6aca8a2c689a00d79d87d8a80d54f18cdfada4ad23bff45fc79",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become more illuminated. The blackboard located behind the teacher's podium in the center of the classroom has decreased in size.",
+      "raw_sha256": "50250ab7ef2a6fb2b098cdca1ceadc734bf487cd5c6e9b164dac6611ee501533",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The scene has become more tilted.",
+      "raw_sha256": "aab20a18f746a6aca8a2c689a00d79d87d8a80d54f18cdfada4ad23bff45fc79",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene has become darker.",
+      "raw_sha256": "e0393ecd112d2ace3a922ff52a0dd34d664510ccdd71d6b62a2f00b91f594b9c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_05__positive_stress",
+    "scene": "v2_Render_05",
+    "domain": "Render",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_05.png"
+    ],
+    "candidate_1": {
+      "caption": "The scene has become darker. The black table in the front left of the classroom is replaced by a black chair.",
+      "raw_sha256": "e12667e602a6a73876d844008a2fd16b7baa2ea46a53cb48cfca630a78b55576",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The blackboard located behind the teacher's podium has shifted to the right. The first row of school desks on the right side has been replaced by a black rectangular table.",
+      "raw_sha256": "a2f60976be60f6a6353c27c31b49c5268f87c06d90371f63a7b774c3cfc78df9",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being visible to invisible.",
+      "raw_sha256": "982e7768ea927908d808e340ab0304c7fa63431fe03841b7939717bcbf42d43c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene is now more lit up. The second image has a black table in the front left of the classroom, while the first image does not.",
+      "raw_sha256": "9bf385c303f69b2188c0d55aa558f45c08dc851ab65a28c88c483edf038a236b",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_06__positive_stress",
+    "scene": "v2_Render_06",
+    "domain": "Render",
+    "angle": -10,
+    "scale": 1.0,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_06.png"
+    ],
+    "candidate_1": {
+      "caption": "The chair on the right side of the round table has disappeared. The chair on the left side of the round table has also disappeared. The transparent glass water jug in the center of the table has been replaced by a white cup. The red kettle on the right-side stove is now green. The brown clock hanging on the wall at the back left of the scene has disappeared.",
+      "raw_sha256": "cffd20c7b905d82882c9b87b0db824d225757446a95d794a22074c736cc5f3ad",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The chair on the right side of the round table has disappeared. The chair on the left side of the round table has also disappeared. The transparent glass water jug in the center of the table has been replaced by a white cup. The red kettle on the right side of the stove is now green. The brown clock hanging on the wall at the back left of the scene has disappeared.",
+      "raw_sha256": "3d9582ef82964051df04a3edd9e5e3663b3f7c2fda36b06890199e4e5a87ccb1",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The chair on the front left side of the wooden table has disappeared. The chair on the back right side of the wooden table has also disappeared. The transparent glass water pitcher on the wooden table has been replaced by a white and transparent glass cup. The red kettle on the black countertop above the stove on the right side of the kitchen has changed to green. The yellow kettle on the black countertop above the oven on the right side of the kitchen has appeared. The brown clock hanging on the green wall at the back left of the scene has disappeared.",
+      "raw_sha256": "ff7742e6914ea565701f9345486e4e5f71b9e31fe2e06af0a623b915f15e8579",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The second image is rotated 90 degrees clockwise relative to the first image. The second image shows a white chair on the left side of the table, while the first image shows a green chair in the same position. The second image shows a white chair on the right side of the table, while the first image shows a green chair in the same position. The second image shows a white chair behind the table, while the first image shows a green chair in the same position.",
+      "raw_sha256": "68f299033a12db74d439d894b3eed0e0ddb5a9694fa1b3d067eef9bbe1af65ff",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 33,
+        "trimmed_repetition_fragment": true,
+        "changed": true,
+        "semantic_similarity_used": false
+      }
+    }
+  },
+  {
+    "id": "v2_Render_07__positive_stress",
+    "scene": "v2_Render_07",
+    "domain": "Render",
+    "angle": 0,
+    "scale": 0.88,
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_07.png"
+    ],
+    "candidate_1": {
+      "caption": "The scene has become more illuminated. A cylindrical trash can has been newly placed at the bottom of the stairs on the left side of the scene, positioned next to the stair railing and beneath a light strip.",
+      "raw_sha256": "5281c41a204a1c3652a8750345c39dfd17882d854c839f0eb86decbeab3e0b94",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_2": {
+      "caption": "The scene has become more illuminated.",
+      "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_3": {
+      "caption": "The scene has become more illuminated. The second image is rotated counterclockwise by 90 degrees.",
+      "raw_sha256": "68b7fb8019f872c6c26a666a9e2460e6706030f041b302782cd290014983400e",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    },
+    "candidate_4": {
+      "caption": "The scene has become more illuminated.",
+      "raw_sha256": "b11cb154c22f7ed5fe713c1570ef92c23cb395a7a8c8caccc1a30a2d79857d9c",
+      "cleanup": {
+        "version": 2,
+        "removed_exact_sentences": 0,
+        "trimmed_repetition_fragment": false,
+        "changed": false,
+        "semantic_similarity_used": false
+      }
+    }
+  }
+]

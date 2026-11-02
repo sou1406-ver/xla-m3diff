@@ -1,0 +1,16 @@
+{
+  "mode": "unmerged_fp32",
+  "saved_dtypes": [
+    "torch.float32"
+  ],
+  "initial_loaded_dtypes": [
+    "torch.float32"
+  ],
+  "effective_adapter_dtypes": [
+    "torch.float32"
+  ],
+  "n_adapter_tensors": 392,
+  "all_saved_keys_loaded": true,
+  "all_lora_B_nonzero": true,
+  "saved_values_restored_exactly_after_fp32_cast": true
+}

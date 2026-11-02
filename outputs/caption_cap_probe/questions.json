@@ -1,0 +1,301 @@
+[
+  {
+    "id": "old__furniture__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/furniture_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/furniture_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__exercise__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/exercise_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/exercise_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__yoga__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/yoga_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/yoga_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__mouse__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/mouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/mouse_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__kitchen__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__silhouette__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__hospital__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/hospital_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/hospital_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__street__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/street_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/street_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__picnic__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/picnic_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/picnic_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__office__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/office_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/office_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__greenhouse__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "old__classroom__natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/classroom_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/classroom_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__computer_desk__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_natural_0.png",
+      "viewpoint_extension_v1/dataset/computer_desk_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__snowy_street__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_natural_0.png",
+      "viewpoint_extension_v1/dataset/snowy_street_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__basin_shelf__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_natural_0.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__city_intersection__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_natural_0.png",
+      "viewpoint_extension_v1/dataset/city_intersection_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_natural_0.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_natural_0.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "new__render_kitchen__natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_natural_0.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_natural_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000412",
+    "image": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000405",
+    "image": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000427",
+    "image": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000450",
+    "image": [
+      "Render/test/images/render_test_indoor_000011.jpg",
+      "Render/test/images/render_test_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  }
+]

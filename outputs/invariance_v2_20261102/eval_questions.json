@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "v2_Real_00__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_00__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "invariance_v2_20261102/images/v2_Real_00_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_00__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_00_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_00__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "invariance_v2_20261102/images/v2_Real_00_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_00__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "invariance_v2_20261102/images/v2_Real_00_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_00__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "invariance_v2_20261102/images/v2_Real_01_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_01_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "invariance_v2_20261102/images/v2_Real_01_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "invariance_v2_20261102/images/v2_Real_01_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000014.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "invariance_v2_20261102/images/v2_Real_02_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_02_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "invariance_v2_20261102/images/v2_Real_02_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "invariance_v2_20261102/images/v2_Real_02_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000090.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "invariance_v2_20261102/images/v2_Real_03_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_03_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "invariance_v2_20261102/images/v2_Real_03_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "invariance_v2_20261102/images/v2_Real_03_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000175.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "invariance_v2_20261102/images/v2_Real_04_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_04_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "invariance_v2_20261102/images/v2_Real_04_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "invariance_v2_20261102/images/v2_Real_04_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000190.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "invariance_v2_20261102/images/v2_Real_05_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_05_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "invariance_v2_20261102/images/v2_Real_05_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "invariance_v2_20261102/images/v2_Real_05_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "invariance_v2_20261102/images/v2_Real_06_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_06_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "invariance_v2_20261102/images/v2_Real_06_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "invariance_v2_20261102/images/v2_Real_06_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "invariance_v2_20261102/images/v2_Real_07_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Real_07_zoom.png",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "invariance_v2_20261102/images/v2_Real_07_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "invariance_v2_20261102/images/v2_Real_07_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "invariance_v2_20261102/images/v2_Render_00_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_00_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "invariance_v2_20261102/images/v2_Render_00_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "invariance_v2_20261102/images/v2_Render_00_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "invariance_v2_20261102/images/v2_Render_01_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_01_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "invariance_v2_20261102/images/v2_Render_01_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "invariance_v2_20261102/images/v2_Render_01_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "invariance_v2_20261102/images/v2_Render_02_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_02_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "invariance_v2_20261102/images/v2_Render_02_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "invariance_v2_20261102/images/v2_Render_02_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "invariance_v2_20261102/images/v2_Render_03_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_03_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "invariance_v2_20261102/images/v2_Render_03_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "invariance_v2_20261102/images/v2_Render_03_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "invariance_v2_20261102/images/v2_Render_04_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_04_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "invariance_v2_20261102/images/v2_Render_04_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "invariance_v2_20261102/images/v2_Render_04_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "invariance_v2_20261102/images/v2_Render_05_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_05_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "invariance_v2_20261102/images/v2_Render_05_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "invariance_v2_20261102/images/v2_Render_05_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "invariance_v2_20261102/images/v2_Render_06_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_06_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "invariance_v2_20261102/images/v2_Render_06_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "invariance_v2_20261102/images/v2_Render_06_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000020.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__identity",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__zoom_in",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "invariance_v2_20261102/images/v2_Render_07_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__zoom_out",
+    "image": [
+      "invariance_v2_20261102/images/v2_Render_07_zoom.png",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__roll",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "invariance_v2_20261102/images/v2_Render_07_roll.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__brightness",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "invariance_v2_20261102/images/v2_Render_07_brightness.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__natural",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  }
+]

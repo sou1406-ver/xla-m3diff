@@ -1,0 +1,8 @@
+{
+  "exact_RGB_despite_different_metadata": true,
+  "same_pair_guard_exits_without_torch_or_model_load": true,
+  "unchanged_inputs_resume_successfully": true,
+  "one_changed_pixel_not_guarded": true,
+  "same_ID_changed_file_blocks_stale_resume": true,
+  "GPU_model_smoke": "Not rerun by this CPU check; see portable_smoke_audit.json and EXPORT_MANIFEST.json for the separate 2/2 GPU comparison."
+}

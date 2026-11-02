@@ -1,0 +1,10 @@
+{
+ "run":"invariance_prompt_balanced_v1",
+ "change":"Only64 negative question templates redistributed in proportion to192 positive templates,6or8 negatives per template, every16-record augmentation group covers all10 templates. Same images, assistant targets, record order and hyperparameters as prior mixed arm.",
+ "training":{"seed":42,"lora_r":16,"lora_alpha":32,"learning_rate":0.00002,"epochs":2,"optimizer_updates":64,"positive_forward_examples":384,"negative_forward_examples":128,"vision_projector_MDP":"frozen"},
+ "evaluation":"Fresh published baseline and balanced adapter on same72 fixed pairs in one GPU container; original fixed diagnostic prompt, BF16 base+FP32 active LoRA, greedy1024. New captions rated masked before decoding; exactsame case/question/caption annotations may reuse. Fixed gate: improve32 geometry FP, preserve natural facts onold/new Real/Render, no increase new natural unsupported pairs.",
+ "matching":"Compare LoRA/MDP initialization hashes and actual both-epoch index orders to old mixed arm. Question lengths alter GPU dropout RNG consumption, so cannot claim identical dropout masks. Keep record order and all images/targets fixed.",
+ "motivation":"Distribution confound found from source prompts before reading or decoding80-pair confirmation outputs, not from tuning on their labels. Prior negative fraction fixed question64/83 while other questions0; balanced negative fractions approximate25percent each. This is possible language shortcut, not proof of mechanism.",
+ "selection":"See invariance_ablation/PROMPT_FOLLOWUP_PLAN.md frozen before this training; decide candidate for full official benchmark before any full test scores. Preserve official variable prompts in benchmark.",
+ "budget":"Single A100 function <=1200seconds, check existing credit before dispatch; no purchase or billing change. Save and release GPU."
+}

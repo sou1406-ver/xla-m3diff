@@ -1,0 +1,53 @@
+{
+  "Real/baseline": {
+    "repeat_3plus_count": 0,
+    "repeat_ids": [],
+    "median_words": 54.5
+  },
+  "Real/old_ft": {
+    "repeat_3plus_count": 0,
+    "repeat_ids": [],
+    "median_words": 44.0
+  },
+  "Real/random_sft": {
+    "repeat_3plus_count": 0,
+    "repeat_ids": [],
+    "median_words": 56.5
+  },
+  "Real/hard_sft": {
+    "repeat_3plus_count": 0,
+    "repeat_ids": [],
+    "median_words": 53.0
+  },
+  "Render/baseline": {
+    "repeat_3plus_count": 2,
+    "repeat_ids": [
+      "render_test_pair_000496",
+      "render_test_pair_000523"
+    ],
+    "median_words": 44.0
+  },
+  "Render/old_ft": {
+    "repeat_3plus_count": 1,
+    "repeat_ids": [
+      "render_test_pair_000496"
+    ],
+    "median_words": 39.0
+  },
+  "Render/random_sft": {
+    "repeat_3plus_count": 2,
+    "repeat_ids": [
+      "render_test_pair_000496",
+      "render_test_pair_000523"
+    ],
+    "median_words": 35.0
+  },
+  "Render/hard_sft": {
+    "repeat_3plus_count": 2,
+    "repeat_ids": [
+      "render_test_pair_000496",
+      "render_test_pair_000523"
+    ],
+    "median_words": 40.5
+  }
+}

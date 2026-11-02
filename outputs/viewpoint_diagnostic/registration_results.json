@@ -1,0 +1,69 @@
+{
+  "counts": {
+    "dev": {
+      "geometry_pairs": 24,
+      "identity_pairs": 6,
+      "transformed_pairs": 18,
+      "identity_routed": 6,
+      "transformed_routed": 15,
+      "natural_pairs": 6,
+      "natural_wrongly_routed": 0,
+      "physical_fp_before_geometry": 18,
+      "physical_fp_after_geometry": 1,
+      "physical_fp_before_transformed": 15,
+      "physical_fp_after_transformed": 1,
+      "natural_fact_hits_before": 7,
+      "natural_fact_hits_after": 7
+    },
+    "validation": {
+      "geometry_pairs": 24,
+      "identity_pairs": 6,
+      "transformed_pairs": 18,
+      "identity_routed": 6,
+      "transformed_routed": 12,
+      "natural_pairs": 6,
+      "natural_wrongly_routed": 0,
+      "physical_fp_before_geometry": 19,
+      "physical_fp_after_geometry": 5,
+      "physical_fp_before_transformed": 14,
+      "physical_fp_after_transformed": 5,
+      "natural_fact_hits_before": 2,
+      "natural_fact_hits_after": 2
+    },
+    "all": {
+      "geometry_pairs": 48,
+      "identity_pairs": 12,
+      "transformed_pairs": 36,
+      "identity_routed": 12,
+      "transformed_routed": 27,
+      "natural_pairs": 12,
+      "natural_wrongly_routed": 0,
+      "physical_fp_before_geometry": 37,
+      "physical_fp_after_geometry": 6,
+      "physical_fp_before_transformed": 29,
+      "physical_fp_after_transformed": 6,
+      "natural_fact_hits_before": 9,
+      "natural_fact_hits_after": 9
+    }
+  },
+  "stress_changes": 18,
+  "stress_wrongly_routed": 0,
+  "fixed_gate_checks": {
+    "routes_nonidentity_validation": true,
+    "no_natural_validation_suppressed": true,
+    "rejects_all_stress_changes": true
+  },
+  "promising_on_diagnostic_only": true,
+  "default_cli_mode": "identity-only",
+  "approximate_registration": "explicit opt-in; heuristic, not proof of scene identity",
+  "transformed_coverage_by_domain": {
+    "Real": {
+      "n": 18,
+      "routed": 9
+    },
+    "Render": {
+      "n": 18,
+      "routed": 18
+    }
+  }
+}

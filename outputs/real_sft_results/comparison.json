@@ -1,0 +1,962 @@
+[
+  {
+    "id": "real_test_pair_000082",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000026.jpg",
+      "Real/test/images/real_test_000022.jpg"
+    ],
+    "baseline": "The card in the first row, second column, originally featuring a white horse on a black background, has been replaced with a card displaying a white circle, a brush, and a tube of toothpaste on a white background. The card in the third row, second column, which originally featured a smiling white tooth on a black background, has been replaced with a card showing a rocking horse on a white background. The card in the fourth row, first column, which originally featured a black and white striped pattern on a black background, has been replaced with a card displaying a black backpack on a white background. The card in the fourth row, third column, which originally featured a white mushroom on a black background, has been replaced with a card displaying a pair of multicolored footprints on a white background.",
+    "old_ft": "The card in the first row, second column, originally had a card with a horse pattern, but now it has changed to a card with a white circle, a brush, and colorful footprints. The card in the third row, second column, which previously featured a tooth pattern, has been replaced by a card with a black and white striped brush on a white background.",
+    "random_sft": "The card in the first row, second column, originally featuring a white horse on a black background, has been replaced with a card displaying a white circle, a brush, and a tube of toothpaste on a white background. The card in the third row, second column, which previously featured a smiling white tooth on a black background, has been replaced with a card showing a rocking horse on a white background. The card in the fourth row, first column, which previously featured a black and white striped pattern on a black background, has been replaced with a card displaying a black backpack on a white background. The card in the fourth row, third column, which previously featured a white mushroom on a black background, has been replaced with a card displaying a pair of multicolored footprints on a white background.",
+    "hard_sft": "The card in the first row, second column, originally featuring a white horse on a black background, has been replaced with a card displaying a white ball, a hand holding a brush, and a brush stroke on a white background. The card in the third row, second column, which previously featured a toothpaste and toothbrush on a black background, now shows a white car on a white background.",
+    "references": [
+      "The second card in the first row, which had a horse pattern, has been replaced with a card featuring a ping pong paddle and ball.The third card in the first row, which had a black background with a hot air balloon, has been replaced with a card containing a pair of footprints on a white background. The first card in the second row, which featured a sock on a black background, has been replaced with a card showing a black backpack on a white background.The second card in the second row, which had a black background with various sized dots, has been replaced with a card containing a black rocking horse on a white background.The second card in the third row, which had a tooth pattern on a black background, has been replaced with a card featuring a toothbrush and toothpaste on a white background."
+    ]
+  },
+  {
+    "id": "real_test_pair_000393",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000089.jpg",
+      "Real/test/images/real_test_000094.jpg"
+    ],
+    "baseline": "The black bird that was on the tree stump on the left side of the image has moved to the lower right corner of the image, with its head lowered and facing the ground. The quantity of food on the tree stump in the upper left corner has decreased.",
+    "old_ft": "The shooting perspective has zoomed out. The black bird that was on the left tree stump is now in front of the right tree stump, positioned on the grass with its head facing downward.",
+    "random_sft": "The black bird that was on the tree stump on the left side of the image has moved to the lower right corner of the image, with its head lowered and facing the ground. The quantity of food on the tree stump in the upper left corner has decreased.",
+    "hard_sft": "The black bird that was on the tree stump on the left side of the image has moved to the lower right corner of the image, with its head lowered and facing the ground. The quantity of food on the tree stump in the upper left corner has decreased.",
+    "references": [
+      "The black bird that was behind the left tree stump, facing sideways and looking to the right side of the image, is now on the grass in the lower right corner, positioned sideways with its head facing the front left of the image."
+    ]
+  },
+  {
+    "id": "real_test_pair_000202",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000047.jpg",
+      "Real/test/images/real_test_000053.jpg"
+    ],
+    "baseline": "The black pants on the right have disappeared. The yellow shirt on the left has been replaced by a white short-sleeved T-shirt with \"AESTHETE\" printed on it. The plaid top on the left has been moved to the right side of the white T-shirt, and a new pair of shorts with a pattern identical to the plaid top has appeared in its original position.",
+    "old_ft": "The hanger on the left side of the white T-shirt with \"AESTHETE\" printed in yellow letters has disappeared, and the white T-shirt has moved to the right. The black pants on the far right have disappeared. A new orange shirt with a pattern has appeared on the left side of the scene. The black and white checkered top and the yellow shirt on the right have swapped positions.",
+    "random_sft": "The black pants on the right have disappeared. The yellow T-shirt on the left has been replaced by a white T-shirt with \"AESTHETE\" printed in black letters. The plaid shirt on the left has moved to the right side of the white T-shirt, and a new pair of shorts with a pattern of black, white, and brown stripes has appeared on the left.",
+    "hard_sft": "The black pants on the right have disappeared. The yellow T-shirt on the left has been replaced by a white T-shirt with \"AESTHETE\" printed in black letters. The plaid shirt on the left has moved to the right side of the white T-shirt, and a new pair of shorts with a pattern of black, white, and brown stripes has appeared on the left.",
+    "references": [
+      "The white shorts on the far left have been replaced with an orange T-shirt. The yellow vest, which was originally to the right of the white T-shirt, is now to the right of the black and white checkered shorts. The fifth pair of black pants from left to right has disappeared. The red and gray striped shorts have moved to the left."
+    ]
+  },
+  {
+    "id": "real_test_pair_000475",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000107.jpg",
+      "Real/test/images/real_test_000110.jpg"
+    ],
+    "baseline": "The posture of the figure changes from a side profile with the right leg raised and the left leg bent, to standing on the left leg with the right leg raised, arms extended horizontally.",
+    "old_ft": "The posture of the person changes from a position where the right leg is raised, the left leg stands firmly on the ground, the body slightly tilts to the right, and both hands are extended forward with fingers spread, to a pose where the head faces away from the camera, the left leg stands straight, the right leg is raised and bent, and both arms are extended horizontally.",
+    "random_sft": "The posture of the figure changes from a side profile with the right leg raised and the left leg bent, to standing on the left leg with the right leg raised.",
+    "hard_sft": "The posture of the figure changes from a side profile with the right leg raised and the left leg bent, to standing on the left leg with the right leg raised.",
+    "references": [
+      "The pose shifts from facing the left side of the frame, stepping forward with arms spread open behind, to adopting a more dynamic jumping posture with the right leg lifted high, body leaning forward, and both arms straight and spread out."
+    ]
+  },
+  {
+    "id": "real_test_pair_000290",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000068.jpg",
+      "Real/test/images/real_test_000069.jpg"
+    ],
+    "baseline": "The three people in the image change from a formation where the person on the left stands with their right leg forward, left leg backward, and both arms extended to the left side, to a formation where the three people stand in a row, facing forward, with their left legs straight, right legs bent backward, and both arms extended horizontally.",
+    "old_ft": "The three people in the image change their posture from three individuals facing right with their left leg extended forward and right arm raised, to three individuals standing side by side with their arms extended horizontally. The man on the left changes from facing right to facing forward. The woman in the middle changes from facing right to facing forward. The man on the right changes from facing right to facing forward.",
+    "random_sft": "The three people in the image change from a formation where the person on the left stands with their right leg forward and left leg backward, arms extended to the sides, to a formation where the person on the left stands with their right leg forward and left leg backward, arms extended to the sides. The person in the middle changes from a formation where they stand with their right leg forward and left leg backward, arms raised high, to a formation where they stand with their right leg forward and left leg backward, arms extended to the sides. The person on the right changes from a formation where they stand with their right leg forward and left leg backward, arms raised high, to a formation where they stand with their right leg forward and left leg backward, arms extended to the sides.",
+    "hard_sft": "The three people in the image change from a formation where the person on the left stands with their right leg forward, left leg backward, and both arms extended to the left side, to a formation where the person on the left stands with their right leg forward, left leg backward, and both arms extended to the left side. The person in the middle changes from having their right arm raised high and their left arm extended to the left side, to standing with both arms extended horizontally. The person on the right changes from having their right arm raised high and their left arm extended to the left side, to standing with both arms extended horizontally.",
+    "references": [
+      "The posture of the three individuals has changed from having their right hand stretched upward, the other hand on their waist, with their bodies tilted to the right and their legs positioned one in front of the other, to each person lifting their left leg high while simultaneously extending both arms to the sides."
+    ]
+  },
+  {
+    "id": "real_test_pair_000487",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000109.jpg",
+      "Real/test/images/real_test_000113.jpg"
+    ],
+    "baseline": "The posture of the person in the image changes from a position where the left leg is raised, the right leg is extended forward, the body is slightly tilted to the right, and both arms are bent with the right hand pointing forward, to a posture where the body is leaning forward, the left leg is straight, the right leg is bent and lifted, the right hand is raised and bent, and the left hand is extended forward.",
+    "old_ft": "The posture of the person in the image changes from a position where the left leg is raised, the right leg stands firmly on the ground, the body is slightly tilted to the right, and both arms are bent with the right hand pointing forward, to a posture where the body leans forward, the left leg stands firmly, the right leg is raised, both hands are extended forward with fingers slightly bent, and the head is slightly tilted upward.",
+    "random_sft": "The posture of the person in the image changes from a position where the left leg is raised, the right leg is extended forward, the body is slightly tilted to the right, and both arms are bent with the right hand pointing forward, to a posture where the body is leaning forward, the left leg is straight and supporting the body, the right leg is raised, the right hand is extended forward with fingers slightly bent, and the left hand is raised near the head.",
+    "hard_sft": "The posture of the person in the image changes from a position where the left leg is raised, the right leg is bent and supports the body, the right hand is extended forward, and the left hand is bent at the waist, to a posture where the body leans forward with the head tilted back, the right hand is raised and extended forward, and the left hand is bent at the waist.",
+    "references": [
+      "The pose changes from facing left with the left leg in front, right leg behind, left hand at the waist, and the right hand clenched and extended in a punching gesture to facing right in a forward-leaning posture, with both hands extended forward and palms open."
+    ]
+  },
+  {
+    "id": "real_test_pair_000109",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000036.jpg",
+      "Real/test/images/real_test_000029.jpg"
+    ],
+    "baseline": "The white remote control next to the fan has disappeared. A new white cup with a patterned design has appeared in the center of the scene, positioned between the box containing masks on the right and the blue bottle on the left.",
+    "old_ft": "The white remote control that was in the center of the scene has been moved to the box on the right side. A white cup has appeared in the middle of the scene.",
+    "random_sft": "The white remote control that was in the center of the scene has disappeared. A white handle cup with a patterned design has newly appeared in the middle of the scene.",
+    "hard_sft": "The white remote control next to the fan has disappeared. A new white cup with a patterned design has appeared in front of the box on the right side of the scene.",
+    "references": [
+      "The air conditioner remote has been moved to rest on top of the stacked mask boxes, and a white water cup has appeared in its original position. The pink fan has rotated slightly counterclockwise."
+    ]
+  },
+  {
+    "id": "real_test_pair_000370",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000086.jpg",
+      "Real/test/images/real_test_000091.jpg"
+    ],
+    "baseline": "The brightness of the scene has increased. A squirrel has appeared on the left tree stump, with its head lowered and facing toward the front left of the image. The quantity of peanuts on the tree stumps has changed.",
+    "old_ft": "The ambient lighting has brightened. The squirrel on the left side of the scene has moved to the left, with its head lowered and facing the tree stump. A new peanut has appeared on the ground in front of the tree stump on the left.",
+    "random_sft": "The brightness of the scene has increased. A squirrel has appeared on the left tree stump, with its head lowered and facing toward the front left of the image. The quantity of peanuts on the tree stump has changed.",
+    "hard_sft": "The brightness of the scene has increased. A squirrel has appeared on the left tree stump, with its head lowered and facing toward the front left of the image. The quantity of peanuts on the tree stump has changed.",
+    "references": [
+      "The ambient lighting has brightened.A squirrel has appeared on the left tree stump, lying flat on its stomach, facing to the right, with two peanuts appearing in front of the left tree stump."
+    ]
+  },
+  {
+    "id": "real_test_pair_000749",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000176.jpg",
+      "Real/test/images/real_test_000177.jpg"
+    ],
+    "baseline": "The rear rack of the yellow electric car on the left side of the image has appeared.",
+    "old_ft": "The black basket on the front of the yellow bike in the foreground has become smaller.",
+    "random_sft": "The rear rack of the yellow electric car on the left side of the image has been unfolded.",
+    "hard_sft": "The rear rack of the yellow electric car on the left side of the image has been unfolded.",
+    "references": [
+      "A pink hanger has been added in the black basket of the leftmost shared bicycle."
+    ]
+  },
+  {
+    "id": "real_test_pair_000057",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000014.jpg",
+      "Real/test/images/real_test_000016.jpg"
+    ],
+    "baseline": "The ambient lighting has dimmed. The polar bear on the right side of the frame, which was previously sitting with its head lowered and mouth closed, is now standing up with its mouth open. The polar bear in the middle of the frame, which was previously lying down with its head resting on the snow, is now leaning forward with its head resting on the mother polar bear's leg.",
+    "old_ft": "The ambient lighting has dimmed. The polar bear on the right side of the frame, which was previously sitting with its head lowered and mouth closed, is now standing with its mouth open. The polar bear in the middle of the frame, which was previously lying down with its head resting on the mother bear's back, is now leaning against the mother bear with its head facing downward.",
+    "random_sft": "The ambient lighting has dimmed. The polar bear on the right side of the frame, which was previously sitting with its head lowered and mouth closed, is now standing up with its mouth open. The polar bear in the middle of the frame, which was previously lying down with its head resting on the snow, is now leaning forward with its head resting on the mother polar bear's leg.",
+    "hard_sft": "The ambient lighting has dimmed. The polar bear on the right side of the frame, which was previously sitting with its head lowered and mouth closed, is now standing up with its mouth open. The polar bear in the middle of the frame, which was previously lying down with its head resting on the snow, is now leaning forward with its head resting on the mother polar bear's leg.",
+    "references": [
+      "The ambient lighting has dimmed.The mother bear sitting on the right side of the screen changes from turning her head to the left to having her mouth open. The cub in the lower left corner, which was sticking its head out from the mother bear's embrace while lying down with its eyes closed, remains unchanged. The cub on the right is no longer lying with its eyes closed; instead, it has tucked its head into the mother bear's embrace."
+    ]
+  },
+  {
+    "id": "real_test_pair_000408",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000095.jpg",
+      "Real/test/images/real_test_000100.jpg"
+    ],
+    "baseline": "The overall lighting of the scene becomes brighter. Three people form a vertical line, with the person in the middle standing and the person at the bottom sitting on the ground. They all raise their arms to shoulder height, with their hands open. The three people change to three people standing upright, each raising one arm high while bending their bodies to the left.",
+    "old_ft": "The scene has become brighter. Three people stand in a row, with the person in the middle raising both arms and the person on the bottom sitting cross-legged while extending their arms. They all face forward, with their heads turned to the left. The three people now lean back, bending their bodies backward, with their right hands pointing toward the sky and their left hands crossed over their chests.",
+    "random_sft": "The overall lighting of the scene becomes brighter. Three people form a vertical line, with the person in the middle standing and the person at the bottom sitting on the ground. They all raise their arms to shoulder height, with their hands open. The three people stand in a row, leaning back with their right arms raised high, left arms bent and crossed over their chests, heads tilted back, and eyes looking up toward the sky.",
+    "hard_sft": "The overall lighting of the scene becomes brighter. Three people form a vertical line, with the person in the middle standing and the person at the bottom sitting on the ground. They all raise their arms to shoulder height, with their hands open. The three people stand in a row, leaning back with their right arms raised high, left arms bent and crossed over their chests, heads tilted back, and eyes looking up toward the sky.",
+    "references": [
+      "The ambient lighting has brightened.The pose of three people changes from being arranged in an overlapping sequence, decreasing in height from back to front with arms extended horizontally to raising their right arms, placing the left hand on the waist, and slightly tilting their bodies."
+    ]
+  },
+  {
+    "id": "real_test_pair_000708",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000165.jpg",
+      "Real/test/images/real_test_000171.jpg"
+    ],
+    "baseline": "The mouse has moved from the right side of the wooden box's entrance to the left side. Its head is now facing upward, and its body is standing on its hind legs.",
+    "old_ft": "The mouse has moved from the right side of the wooden box's door, peeking its head out of the hole, to standing on its hind legs in front of the wooden box entrance.",
+    "random_sft": "The mouse has moved from the left side of the wooden box's entrance, peeking its head out, to standing on its hind legs in front of the wooden box entrance.",
+    "hard_sft": "The mouse has moved from the left side of the wooden box's entrance, peeking its head out, to standing on its hind legs in front of the wooden box entrance.",
+    "references": [
+      "The number of grains on the floor has increased. The mouse, which previously had only its head visible outside the hole, is now standing on its hind legs with its front legs resting outside the mouse hole."
+    ]
+  },
+  {
+    "id": "real_test_pair_000073",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000018.jpg",
+      "Real/test/images/real_test_000021.jpg"
+    ],
+    "baseline": "The scene has become brighter. The card in the second row, first column features a white sock on a black background, which is replaced by a white backpack on a black background.The card in the second row, third column features a white parachute on a black background, which is replaced by a white rocking horse on a black background.The card in the third row, second column features a white tooth with a smiling face on a black background, which is replaced by a white footprint containing colored footprints on a white background.The card in the fourth row, first column features a white car on a black background, which is replaced by a white toothbrush on a black background.The card in the fourth row, third column features a white vertical striped pattern on a black background, which is replaced by a white mushroom on a black background.",
+    "old_ft": "The lighting in the environment has become brighter. The card in the second row, first column features a white sock on a black background, replaced by a white backpack on a black background. The card in the second row, third column features a card with a pattern of white dots on a black background, replaced by a card with a white brush and toothpaste on a black background. The card in the third row, second column features a card with a smiling white tooth on a black background, replaced by a card with a pair of black footprints on a white background. The card in the fourth row, third column features a card with a black horse on a white background, replaced by a card with a black rocking horse on a white background.",
+    "random_sft": "The scene has become brighter. The card in the second row, first column features a white sock on a black background, which is replaced by a white backpack on a black background.The card in the second row, third column features a white parachute on a black background, which is replaced by a white rocking horse on a black background.The card in the third row, second column features a white tooth with a smiling face on a black background, which is replaced by a white footprint on a black background with colored toes and a yellow sole.The card in the fourth row, first column features a white car on a black background, which is replaced by a white toothbrush on a black background.The card in the fourth row, third column features a black mushroom on a white background, which is replaced by a white backpack on a black background.",
+    "hard_sft": "The scene has become brighter. The card in the second row, first column features a white sock on a black background, which is replaced by a white backpack on a black background.The card in the second row, third column features a white parachute on a black background, which is replaced by a white rocking horse on a black background.The card in the third row, second column features a white tooth with a smiling face on a black background, which is replaced by a white footprint containing colorful footprints on a white background.The card in the fourth row, first column features a white car on a black background, which is replaced by a white toothbrush on a black background.The card in the fourth row, third column features a white vertical striped pattern on a black background, which is replaced by a white mushroom on a black background.",
+    "references": [
+      "The lighting has brightened. The second card in the first row, which had a horse pattern, has been replaced with a card featuring a ping pong paddle and ball. The third card in the first row, which had a black background with a hot air balloon, has been replaced with a card containing a black rocking horse on a white background.The first card in the second row, which featured a sock on a black background, has been replaced with a card showing a black backpack on a white background.The second card in the second row, which had a black background with various sized dots, has been replaced with a card containing a pair of footprints on a white background.The second card in the third row, which had a tooth pattern on a black background, has been replaced with a card featuring a toothbrush and toothpaste on a white background."
+    ]
+  },
+  {
+    "id": "real_test_pair_000378",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000087.jpg",
+      "Real/test/images/real_test_000090.jpg"
+    ],
+    "baseline": "The lighting has dimmed. The squirrel on the left side of the image has disappeared.The black bird in the distance on the right side of the image has appeared.A new black bird has appeared on the tree stump on the left side of the image, with its back to the camera and its head turned to the right.",
+    "old_ft": "The lighting in the environment has dimmed. The squirrel on the left side of the image has disappeared. A new black bird has appeared on the left side of the scene, positioned on the tree stump and facing away from the camera.",
+    "random_sft": "The lighting has dimmed. The squirrel on the left side of the image has disappeared.The black bird in the distance on the right side of the image has appeared.A new black bird has appeared on the tree stump on the left side of the image, with its back to the camera and its head turned to the right.",
+    "hard_sft": "The lighting has dimmed. The squirrel on the left side of the image has disappeared.The squirrel that was originally in the upper left corner is no longer visible.A new black bird has appeared on the left tree stump, with its back to the camera and its head turned to the right.",
+    "references": [
+      "The squirrel on the left tree stump has disappeared, and a black bird has appeared on the front edge of the left tree stump, facing away from the image and looking into the distance. A new black bird has appeared on the grass in the far left of the image, with its head raised and looking toward the front right of the image. The two peanuts that had fallen in front of the left tree stump have disappeared."
+    ]
+  },
+  {
+    "id": "real_test_pair_000018",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000002.jpg",
+      "Real/test/images/real_test_000004.jpg"
+    ],
+    "baseline": "The scene has become brighter. The toy train on the right side of the scene has been moved to the left, and its direction has changed from facing left to facing right.",
+    "old_ft": "The lighting in the environment has become brighter The blue toy on the right side of the scene has shrunk.",
+    "random_sft": "The scene has become brighter. The toy train on the right side of the scene has been moved to the left, and its direction has changed from facing left to facing right.",
+    "hard_sft": "The scene has become brighter. The toy train on the right side of the scene has been moved to the left, and its direction has changed from facing left to facing right.",
+    "references": [
+      "The ambient lighting has brightened. The third children's walker with blue wheels from the left has been replaced with a children's push toy car that has a yellow lid."
+    ]
+  },
+  {
+    "id": "real_test_pair_000605",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000138.jpg",
+      "Real/test/images/real_test_000142.jpg"
+    ],
+    "baseline": "The red and white toy bus with the number \"84\" on its side has been replaced by a white police car with blue and orange stripes. The number of yellow balls in the center of the gray ottoman has decreased from one to none, and a new blue circular identification mark with the number \"59\" has appeared in its place. The white truck with colorful patterns on its front has moved from the left side of the ottoman to the right side.",
+    "old_ft": "The white truck has moved from the left side of the gray ottoman to the right side. The red and white toy bus on the left side of the ottoman has been replaced by a blue and white police car. The number 84 on the side of the red and white bus has disappeared. The yellow ball in front of the yellow excavator on the ottoman has been replaced by a blue circular toy with the number 59.",
+    "random_sft": "The red and white toy bus on the left side of the ottoman has been replaced by a blue and white police car. The number 84 on the side of the red and white bus has disappeared. The white truck in the center of the scene has rotated to face the right side of the scene. The yellow ball in front of the white truck on the ottoman has disappeared. A blue circular toy with the number 50 on it has appeared in front of the yellow excavator on the ottoman.",
+    "hard_sft": "The red and white toy bus on the left side of the ottoman has been replaced by a blue and white police car. The number 84 on the side of the red and white bus has disappeared. The white truck in the center of the scene has rotated to face the right side of the scene. The yellow ball in front of the white truck on the ottoman has disappeared. A blue circular toy with the number 50 on it has appeared on the ottoman.",
+    "references": [
+      "The yellow ball in front of the concrete truck with a white cab has disappeared. The toy car with red wheels at the lower left corner of the gray stool has been replaced with a smaller blue and white police car. The red bus at the upper left and the concrete truck with a white cab, which previously had their fronts facing the front of the scene, are now turned to face the back of the scene. In front of the yellow excavator, a circular blue token with the number “50” has appeared."
+    ]
+  },
+  {
+    "id": "real_test_pair_000236",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000064.jpg",
+      "Real/test/images/real_test_000059.jpg"
+    ],
+    "baseline": "A camera with a lens attached has appeared to the left of the keyboard. The black keyboard in front of the computer has been replaced by a camera with a lens attached.",
+    "old_ft": "A camera with a lens has been added to the left side of the table, in front of the keyboard. The black mouse on the right side of the desk has changed from facing the upper right corner to facing the lower right corner.",
+    "random_sft": "A camera with a lens has been added to the left side of the keyboard. The black mouse on the right side of the keyboard has changed from a vertical to a horizontal position.",
+    "hard_sft": "A camera with a lens has been added to the left side of the keyboard. The black keyboard in front of the computer has been replaced by a camera with a lens.",
+    "references": [
+      "The two mice on the right side of the table have moved slightly to the right, and the distance between them has decreased. A camera with its lens facing right has been added to the left side of the table."
+    ]
+  },
+  {
+    "id": "real_test_pair_000432",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000097.jpg",
+      "Real/test/images/real_test_000102.jpg"
+    ],
+    "baseline": "The person in the blue jacket, who was previously sitting on the ground with legs crossed and arms spread wide, is now standing to the right of the orange-jacketed person. The person in the light blue jacket, who was previously standing behind the person in the orange jacket, is now standing to the left of the orange-jacketed person. The person in the orange jacket, who was previously standing behind the person in the blue jacket, is now standing in the middle. The three people are now leaning their bodies to the right, with their right hands raised high and their left hands placed on their chests.",
+    "old_ft": "The person in the blue jacket, who was previously sitting on the ground with legs crossed and arms spread wide, is now standing to the right of the orange-jacketed person and leaning to the right. The person in the light blue jacket, who was previously standing behind the orange-jacketed person with their back to the camera, is now standing to the left of the orange-jacketed person, facing forward. The person in the orange jacket, who was previously supporting the person in the blue jacket, is now standing in the middle, facing forward.",
+    "random_sft": "The person in the blue jacket, who was previously sitting on the ground with legs crossed and arms spread wide, is now standing to the right of the orange-jacketed person. The person in the light blue jacket, who was previously standing behind the person in the orange jacket, is now standing to the left of the orange-jacketed person. The person in the orange jacket, who was previously standing behind the person in the light blue jacket, is now standing in the middle. The person in the orange jacket, who was previously kneeling on the ground, is now standing. All three people are smiling and raising their right hands high while leaning back slightly.",
+    "hard_sft": "The person in the blue jacket, who was previously sitting on the ground with legs crossed and arms spread wide, is now standing to the right of the orange-jacketed person. The person in the light blue jacket, who was previously standing behind the person in the orange jacket, is now standing to the left of the orange-jacketed person. The person in the orange jacket, who was previously standing behind the person in the blue jacket, is now standing in the middle. The three people are now leaning their bodies to the right, with their right hands raised high and their left hands placed on their chests.",
+    "references": [
+      "The formation of three shifts from a layered arrangement with heights decreasing from back to front and arms stretched outward to gathering together, with the individuals on the sides raising one arm each, while the person in the middle places their hands on their chest, cradling their face."
+    ]
+  },
+  {
+    "id": "real_test_pair_000546",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000126.jpg",
+      "Real/test/images/real_test_000125.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened.",
+    "old_ft": "The lighting in the scene has increased.",
+    "random_sft": "The lighting in the environment has become brighter.",
+    "hard_sft": "The lighting in the environment has become brighter.",
+    "references": [
+      "The lighting has brightened."
+    ]
+  },
+  {
+    "id": "real_test_pair_000147",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000032.jpg",
+      "Real/test/images/real_test_000034.jpg"
+    ],
+    "baseline": "The purple disinfectant bottle on the left side of the pink hair dryer has been replaced with a transparent disinfectant bottle.",
+    "old_ft": "The blue mist inhaler on the left side of the scene has been replaced with a purple water droplet toy.",
+    "random_sft": "The purple disinfectant bottle on the left side of the pink hair dryer has been replaced with a transparent disinfectant bottle.",
+    "hard_sft": "The purple disinfectant bottle on the left side of the pink hair dryer has been replaced with a transparent disinfectant bottle.",
+    "references": [
+      "The alcohol bottle has rotated clockwise in place, and the label on the bottle is now facing away from the camera. A new purple bracelet has appeared, wrapped around the alcohol bottle."
+    ]
+  },
+  {
+    "id": "real_test_pair_000467",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000106.jpg",
+      "Real/test/images/real_test_000108.jpg"
+    ],
+    "baseline": "The posture of the figure changes from bending over with the head tilted back, arms raised high, and the body leaning backward to a pose where the right leg is lifted forward, the left leg stands firmly on the ground, both arms are extended outward, and the head is slightly tilted.",
+    "old_ft": "The posture of the figure changes from having the head tilted back, eyes looking upward, both hands extended high, and the body leaning backward to a side profile with the right leg lifted forward, the left leg supporting the body, and both arms extended.",
+    "random_sft": "The posture of the figure changes from bending over with the head tilted back, arms raised high, and the body leaning backward to a pose where the right leg is lifted forward, the left leg stands firmly on the ground, both arms are extended outward, and the head is slightly tilted.",
+    "hard_sft": "The posture of the figure changes from bending over with the head tilted back, arms raised high, and the body leaning backward to a pose where the right leg is lifted forward, the left leg stands firmly on the ground, both arms are extended outward, and the head is slightly tilted.",
+    "references": [
+      "The pose shifts from leaning backward with the right hand extended upward and the body forming a curved posture to facing the right side of the frame, stepping forward with arms extended, one to the left and one to the right."
+    ]
+  },
+  {
+    "id": "real_test_pair_000775",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000184.jpg",
+      "Real/test/images/real_test_000186.jpg"
+    ],
+    "baseline": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The silver car that was previously in the center of the screen has disappeared. The red car at the back right of the screen has moved to the right side of the screen. The black SUV parked on the right side of the screen has appeared. The blue car in the distance on the right side of the screen has disappeared.",
+    "old_ft": "The scene has darkened, and yellow lights have come on around the area. The white pickup truck in the rear right of the frame has disappeared. The blue car that was previously in the center of the frame is no longer visible.",
+    "random_sft": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The silver car that was previously in the center of the screen has disappeared. The red car at the back right of the screen has moved to the right side of the screen. The black SUV parked on the right side of the screen has appeared.",
+    "hard_sft": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The silver car that was previously in the center of the screen has disappeared. The red car at the back right of the screen has moved to the right side of the screen.",
+    "references": [
+      "The ambient lighting has dimmed.The ground has accumulated more snow, increasing the snow cover. The blue car that was previously in the middle of the road is no longer visible. The color of the car in front of the house on the far right has changed from red to white."
+    ]
+  },
+  {
+    "id": "real_test_pair_000659",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000154.jpg",
+      "Real/test/images/real_test_000156.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The pink basin on the left side of the second level has disappeared. The rectangular white object on the right side of the second level has disappeared, and a rectangular bar of soap has appeared in its place. The pink basin on the third level has disappeared. The pink basin on the fourth level has changed from pink to blue.",
+    "old_ft": "The ambient lighting has slightly brightened. The pink bowl on the right side of the second level has moved to the top of the first level. A rectangular white object has appeared in the original position of the pink bowl on the second level. The rectangular toiletry bottle on the left side of the second level has disappeared, and a rectangular bar of soap has appeared in its place.",
+    "random_sft": "The ambient lighting has brightened. The pink basin on the right side of the second level has disappeared. The rectangular white object on the far right side of the third level has disappeared. The rectangular white object on the left side of the third level has rotated 90 degrees clockwise, changing from horizontal to vertical placement. The pink rectangular object on the left side of the second level has been replaced with a rectangular white bar of soap.",
+    "hard_sft": "The ambient lighting has brightened. The pink basin on the right side of the second level has disappeared. The rectangular white object on the far right side of the third level has disappeared. The rectangular white object on the left side of the third level has rotated 90 degrees clockwise, changing from horizontal to vertical placement. The pink rectangular object on the left side of the second level has been replaced with a rectangular white bar of soap.",
+    "references": [
+      "The ambient light becomes brighter. The red soap on the first row of yellow boxes swaps positions with the white soap on the blue boxes."
+    ]
+  },
+  {
+    "id": "real_test_pair_000242",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000056.jpg",
+      "Real/test/images/real_test_000058.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The black mouse on the right side of the keyboard disappeared, and a camera with a lens appeared to its left.",
+    "old_ft": "The ambient lighting has become brighter. The black mouse on the right side of the desk has disappeared, and a black camera with a lens attached has appeared in its place.",
+    "random_sft": "The ambient lighting has brightened. The black mouse on the right side of the keyboard disappeared, and a camera with a lens appeared to its left.",
+    "hard_sft": "The ambient lighting has brightened. The black mouse on the right side of the keyboard disappeared, and a camera with a lens appeared to its left.",
+    "references": [
+      "The ambient lighting has brightened. The two mice on the right side of the table have disappeared. A camera with its lens facing right has been added to the left side of the table."
+    ]
+  },
+  {
+    "id": "real_test_pair_000689",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000163.jpg",
+      "Real/test/images/real_test_000168.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The mouse that was previously standing on its hind legs with its head facing upward is now lying flat in the mouse hole, with only its head and back visible.",
+    "old_ft": "The ambient lighting has slightly brightened. The mouse that was previously standing on its hind legs with its head facing upward is now lying flat in the mouse hole, with only its head and part of its back visible. The quantity of food scattered on the wooden table has increased.",
+    "random_sft": "The ambient lighting has brightened. The mouse that was previously standing on its hind legs with its head facing upward and looking toward the front of the image is no longer visible. A new mouse has appeared, peeking its head out from the mouse hole, with only its head and part of its back visible.",
+    "hard_sft": "The ambient lighting has brightened. The mouse that was previously standing on its hind legs with its head facing upward is now lying flat in the mouse hole, with only its head and back visible.",
+    "references": [
+      "The ambient lighting has brightened. The mouse's posture has changed from standing on its hind legs with its front legs resting outside the mouse hole to having its body inside the hole, with only its head still visible. The number of food particles on the ground has increased."
+    ]
+  },
+  {
+    "id": "real_test_pair_000621",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000153.jpg",
+      "Real/test/images/real_test_000145.jpg"
+    ],
+    "baseline": "The posture of the person in a white outfit changes from facing the right side with the left leg forward and the right leg backward, to facing the right side with the right leg forward and the left leg backward.",
+    "old_ft": "The shooting perspective has zoomed in.",
+    "random_sft": "The posture of the person in a white outfit changes from facing the right side with the left leg forward and the right leg back, to facing the right side with the right leg forward and the left leg back.",
+    "hard_sft": "The posture of the person in a white outfit changes from facing the right side with the left leg forward and the right leg backward, to facing the right side with the right leg forward and the left leg backward. The head orientation shifts from looking toward the left side of the frame to looking toward the right side of the frame.",
+    "references": [
+      "there is no change."
+    ]
+  },
+  {
+    "id": "real_test_pair_000045",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000011.jpg",
+      "Real/test/images/real_test_000013.jpg"
+    ],
+    "baseline": "The polar bear on the right side of the image, which was previously standing with its head turned to the left and looking at the camera, is now lying down with its head resting on the snow. The polar bear in the middle of the image has changed from lying on the snow with its head facing upward to having its head resting on the back of the polar bear on the left.",
+    "old_ft": "The polar bear on the right side of the frame, which was previously standing with its head slightly raised and looking at the camera, is now lying down with its head lowered. The polar bear in the middle of the frame has changed from lying on the snow with its head facing upward to lying on the snow with its head resting on the back of the polar bear on the left.",
+    "random_sft": "The polar bear on the right side of the image, which was previously standing with its head slightly raised and looking at the camera, is now lying down with its head lowered. The polar bear in the middle of the image has changed from lying on the snow to having its head resting on the back of the polar bear on the left.",
+    "hard_sft": "The polar bear on the right side of the image, which was previously standing with its head slightly raised and looking at the camera, is now lying down with its head lowered. The polar bear in the middle of the image has changed from lying on the snow to having its head resting on the back of the polar bear on the left.",
+    "references": [
+      "The mother bear on the right side of the scene changes from looking towards the right front to turning her head to the left and lying on top of the cub. The cub in the lower left corner extends its head out from the mother bear's embrace and lies there with its eyes closed."
+    ]
+  },
+  {
+    "id": "real_test_pair_000307",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000074.jpg",
+      "Real/test/images/real_test_000067.jpg"
+    ],
+    "baseline": "The three people in the middle of the formation, who were previously standing with their feet together and hands hanging naturally at their sides, now have their left leg extended forward, their right leg bent backward, their arms crossed across their chests, and their bodies facing forward. The person on the far left, who was previously facing forward, now turns to face the left side of the frame. The person on the far right, who was previously facing forward, now turns to face the right side of the frame.",
+    "old_ft": "The three people in the middle of the formation change from standing with their feet together to standing with their legs apart and their arms crossed in front of their chests.",
+    "random_sft": "The three people in the middle of the formation, who were previously standing with their feet together and hands hanging naturally at their sides, now have their left leg extended forward, their right leg bent backward, their arms crossed across their chests, and their bodies facing forward. The person on the far left of the original formation has turned to face the camera. The person on the far right of the original formation has also turned to face the camera.",
+    "hard_sft": "The three people in the middle of the formation, who were previously standing with their feet together and hands hanging naturally at their sides, now have their left leg extended forward, their right leg bent backward, their arms crossed across their chests, and their bodies facing forward. The person on the far left of the original formation has moved to the center position. The person on the far right of the original formation has moved to the leftmost position.",
+    "references": [
+      "Three people stand with their legs together, arms naturally hanging down, gazing forward, then change to standing with legs apart and arms crossed in front of the chest."
+    ]
+  },
+  {
+    "id": "real_test_pair_000223",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000052.jpg",
+      "Real/test/images/real_test_000054.jpg"
+    ],
+    "baseline": "The black and white checkered top on the left side of the clothes rack has swapped positions with the orange shirt on the far left.",
+    "old_ft": "The shooting perspective has zoomed in.",
+    "random_sft": "The black and white checkered top on the left side of the clothes rack has swapped positions with the orange shirt on the far left.",
+    "hard_sft": "The black and white checkered top on the left side of the clothes rack has swapped positions with the orange shirt on the far left.",
+    "references": [
+      "A white pair of shorts has appeared to the left of the yellow T-shirt. The black and white checkered shorts, which were on the right side of the black pants, have moved to the right side of the yellow vest."
+    ]
+  },
+  {
+    "id": "real_test_pair_000015",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000001.jpg",
+      "Real/test/images/real_test_000008.jpg"
+    ],
+    "baseline": "A new train toy has appeared in front of the toy seat on the left. An orange cone has appeared on the floor in the middle of the scene.",
+    "old_ft": "The shooting angle has tilted counterclockwise.",
+    "random_sft": "The green storage box in the upper right corner of the scene has disappeared. The toy train on the left side of the scene has moved to the front left of the stroller. An orange cone has appeared on the floor in the middle of the scene.",
+    "hard_sft": "The green storage box in the upper right corner of the scene has disappeared. The toy train on the left side of the scene has moved to the front left of the stroller. An orange cone has appeared on the floor in the middle of the scene.",
+    "references": [
+      "The visible part of the toy storage box on the left side has increased. The number of storage boxes visible in the upper right corner has increased to two. A children's push toy car with a yellow lid and teal wheels has been placed directly in front of the teal children's seat. An orange cone-shaped mesh toy has appeared to the right of the push toy car. The white canvas bag and yellow slippers in the upper right corner of the original image are no longer visible."
+    ]
+  },
+  {
+    "id": "real_test_pair_000094",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000020.jpg",
+      "Real/test/images/real_test_000023.jpg"
+    ],
+    "baseline": "The card in the first row, first column, which featured a white sun on a black background, has been replaced with a card displaying two black leaves on a white background. The card in the second row, third column, which featured a pair of black footprints on a white background accompanied by colorful dots, has been replaced with a card featuring a black rocking horse on a white background. The card in the third row, second column, which featured a pair of black and yellow footprints on a white background, has been replaced with a card featuring a black toothbrush and tube of toothpaste on a white background.",
+    "old_ft": "The card in the first row, first column, which featured a white sun on a black background, has been replaced with a card displaying two black leaves on a white background. The card in the second row, third column, which had a pair of colored footprints on a white background, now features a black rocking horse on a white background. The card in the third row, second column, which previously contained a pair of black and yellow footprints on a white background, now shows a black and white soccer ball on a white background. The card in the fourth row, first column, which had a white car on a black background, is now a card featuring a white toothbrush and tube of toothpaste on a white background.",
+    "random_sft": "The card in the first row, first column, which featured a white sun on a black background, has been replaced with a card displaying two black leaves on a white background. The card in the second row, third column, which featured a pair of black footprints on a white background accompanied by colorful dots, has been replaced with a card featuring a black rocking horse on a white background. The card in the third row, second column, which featured a white tooth on a black background, has been replaced with a card displaying a black brush and tube of toothpaste on a white background.",
+    "hard_sft": "The card in the first row, first column, which featured a white sun on a black background, has been replaced with a card displaying two black leaves on a white background. The card in the second row, third column, which featured a pair of black footprints on a white background accompanied by colorful dots, has been replaced with a card featuring a black rocking horse on a white background. The card in the third row, second column, which featured a white tooth on a black background, has been replaced with a card displaying a black brush and tube of toothpaste on a white background.",
+    "references": [
+      "The first card in the first row, which originally had a white sunflower on a black background, has been changed to a card with a black maple leaf on a white background. The second card in the first row, which originally had a ping pong paddle and ball, has been changed to a card with a soccer ball on a white background. The third card in the first row, which originally had a black rocking horse on a white background, has been replaced with a card featuring a pair of footprints on a white background. The second card in the second row, which originally had a pair of footprints on a white background, has been replaced with a card featuring a black rocking horse on a white background. The second card in the third row, which originally had a tooth pattern on a black background, has been replaced with a card displaying a toothbrush and toothpaste on a white background."
+    ]
+  },
+  {
+    "id": "real_test_pair_000263",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000060.jpg",
+      "Real/test/images/real_test_000061.jpg"
+    ],
+    "baseline": "The monitor, which was previously off, is now on. The yellow and black water cup in the left corner of the desk has been replaced with a black water cup. The red and blue flag hanging on the wall above the table is no longer visible. The books under the pen holder have appeared. The mouse placed on the mat has moved to the right side of the keyboard. The number of data disks in the middle of the table has decreased by one. The gray laptop placed vertically on the stand on the right side of the table has disappeared.",
+    "old_ft": "The shooting perspective has zoomed in.",
+    "random_sft": "The monitor, which was previously tilted back, is now upright. The yellow and black water cup on the left side of the keyboard has been replaced with a black water cup. The blue notebook that was originally under the monitor is now placed on top of the keyboard. The red flag on the right side of the monitor is no longer visible. The number of notebooks on the left side of the desk has decreased from two to one.",
+    "hard_sft": "The monitor, which was previously tilted back, is now upright. The yellow and black water cup on the left side of the table has been replaced with a black water cup. The red and blue flag hanging on the wall above the table is no longer visible. The books placed under the desk have disappeared.",
+    "references": [
+      "A blue and brown notebook has been added to the white riser at the bottom left of the monitor. The shape of the blue sticky note on the white riser at the bottom right of the monitor has changed from a square to a rectangle."
+    ]
+  },
+  {
+    "id": "render_test_pair_000586",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000038.jpg",
+      "Render/test/images/render_test_indoor_000039.jpg"
+    ],
+    "baseline": "The first row of school desks on the left side of the scene has decreased in size from two desks to one. The yellow school desk at the front center of the scene, positioned between two desks, is no longer present.",
+    "old_ft": "The yellow chair in the front left of the scene has been replaced with a black one.",
+    "random_sft": "The first row of school desks on the left side of the scene has been replaced by a black table.",
+    "hard_sft": "The first row of school desks on the left side of the scene has decreased in size from two desks to one. The yellow desktop at the front center of the classroom, placed on the floor between two desks, is no longer present.",
+    "references": [
+      "The stack of yellow notebooks on the third desk from the right in the second-to-last row is no longer present. The third rectangular desk from the right in the last row has been replaced with a semicircular desk."
+    ]
+  },
+  {
+    "id": "render_test_pair_000157",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000026.jpg",
+      "Render/test/images/render_test_outdoor_000025.jpg"
+    ],
+    "baseline": "A new tree with a dense canopy and thin branches has appeared on the left side of the road, near the corner of the building and in front of the seating area. The woman in a white shirt and black shorts, who was previously on the left side of the road crossing, is now positioned on the right side of the road.",
+    "old_ft": "A new tree with a thin trunk and green foliage has appeared on the left side of the scene, positioned near the corner of the street and in front of the blue building. The person who was previously located on the left side of the road, near the sidewalk and close to the building on the left side of the scene, is now standing next to the lamppost at the corner of the right side of the road.",
+    "random_sft": "A new tree with a dense canopy and thin branches has appeared on the left side of the scene, positioned near the corner of the street in front of the blue building.",
+    "hard_sft": "A new tree with a dense canopy and thin branches has appeared on the left side of the road, near the corner of the building and in front of the seating area. The woman in a white shirt and black shorts, who was previously on the left side of the road crossing, is now positioned on the right side of the road.",
+    "references": [
+      "A new tree has appeared on the sidewalk in front of the building on the left side of the scene, positioned between the building and the street."
+    ]
+  },
+  {
+    "id": "render_test_pair_000208",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000035.jpg",
+      "Render/test/images/render_test_outdoor_000038.jpg"
+    ],
+    "baseline": "A new wall-mounted light has appeared on the right side of the scene, positioned to the left of the yellow bicycle. The black trash can hanging on the wall on the right side of the yellow bicycle is present.",
+    "old_ft": "A new wall-mounted light has appeared on the right side of the scene.",
+    "random_sft": "A new wall-mounted light has appeared on the right side of the scene, positioned to the left of the yellow bicycle. The black trash can hanging on the wall on the right side of the yellow bicycle is present.",
+    "hard_sft": "A new wall-mounted light has appeared on the right side of the scene, positioned to the left of the yellow bicycle. The black trash can hanging on the wall on the right side of the yellow bicycle is present.",
+    "references": [
+      "The brightness of the scene has increased. A black sandbag has appeared on the ground to the left of the blue door under the stairs. A new light has been added to the wall above the yellow bicycle, to the right of the original street light."
+    ]
+  },
+  {
+    "id": "render_test_pair_000346",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000056.jpg",
+      "Render/test/images/render_test_outdoor_000062.jpg"
+    ],
+    "baseline": "The wooden lounge chair on the left side of the scene has been moved to the right, closer to the bench. The red potted plant in the middle of the left wall has appeared.",
+    "old_ft": "The shooting perspective has slightly zoomed out.",
+    "random_sft": "The wooden lounge chair on the left side of the scene has been moved to the right, closer to the bench. The red trash bin at the far end of the greenhouse on the right side of the green hose is present.",
+    "hard_sft": "The wooden lounge chair on the left side of the scene has been moved to the right, closer to the bench. The red trash bin at the far end of the greenhouse on the right side of the green hose has appeared.",
+    "references": [
+      "The setting is now brighter. The silver watering can beneath the stand on the left side of the center of the scene has changed from silver to red."
+    ]
+  },
+  {
+    "id": "render_test_pair_000752",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000063.jpg",
+      "Render/test/images/render_test_indoor_000054.jpg"
+    ],
+    "baseline": "A blue sign with the word \"Hashooh\" has been newly added to the wall above the first bed on the right side of the scene.",
+    "old_ft": "A blue sign with the word \"Hashooh\" has appeared on the wall above the first bed on the right side of the scene.",
+    "random_sft": "A blue sign with the word \"Hashooh\" has appeared on the wall above the first bed on the right side of the scene.",
+    "hard_sft": "A blue sign with the word \"Hashooh\" has been newly added to the wall above the first bed on the right side of the scene.",
+    "references": [
+      "A blue sign with the word \"Hashod\" has appeared on the wall above the second-row bed on the right side of the scene. "
+    ]
+  },
+  {
+    "id": "render_test_pair_000092",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000016.jpg",
+      "Render/test/images/render_test_outdoor_000017.jpg"
+    ],
+    "baseline": "A man with a black umbrella is no longer visible on the left side of the road, near the corner of the green building and the blue building. A person wearing a red shirt and blue pants appears at the traffic light on the right side of the road.",
+    "old_ft": "A man with a black umbrella is no longer visible on the left side of the road, near the corner of the green building and the blue building. A person appears at the traffic light post on the right side of the road, facing the camera with their hands on their waist.",
+    "random_sft": "A man with a black umbrella is no longer visible on the left side of the road, near the corner of the green building and the blue building. A person wearing a red shirt and blue pants appears at the traffic light on the right side of the road.",
+    "hard_sft": "A man with a black umbrella is no longer visible on the left side of the road, near the corner of the green building and the blue building. A person wearing a red shirt and blue pants appears at the traffic light on the right side of the road.",
+    "references": [
+      "A man wearing a blue sweatshirt, black pants, and white shoes appears on the open roof on the right, next to the green flower bed in the upper left corner, with his left leg forward, facing the building on the left side of the picture. The streetlight pole with a wide, flat, circular lamp was previously replaced by a standard streetlight pole with a yellow lampshade."
+    ]
+  },
+  {
+    "id": "render_test_pair_000560",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000031.jpg",
+      "Render/test/images/render_test_indoor_000034.jpg"
+    ],
+    "baseline": "The black rectangular backpack on the left side of the top bunk bed has moved to the right side of the top bunk bed. The color of the blue mattress on the floor beneath the lower bed has changed to gray. The cushioned pillow on the right side of the top bunk bed has changed from solid dark gray to a large orange pillow. The solid gray pillow on the left side of the top bunk bed is now present.",
+    "old_ft": "The color of the mattress on the floor beneath the bed has changed from blue to gray. The black suitcase that was placed at the head of the upper bunk bed is now located on the bed frame above the double bed. The orange pillow on the top bunk has appeared.",
+    "random_sft": "The blue mattress on the floor has been replaced by a gray one. The black rectangular backpack in the upper left corner of the top bunk bed has moved to the right side of the upper bunk bed. The color of the cushion on the right side of the top bunk bed has changed from dark gray to orange.",
+    "hard_sft": "The blue mattress on the floor beneath the lower bed has turned gray. The black rectangular backpack on the upper bed frame has moved to the left side of the blanket at the head of the upper bed. The orange pillow on the top bunk matches the orange pillow on the floor below.",
+    "references": [
+      "A black metal ladder appeared on the right side of the bunk bed. Two orange rectangular cushions appeared at the head of the upper bunk bed. The blue mattress on the pull-out bed beneath the lower bunk bed turned gray. The picture frame with a leaf pattern hanging on the wall above the upper bunk bed rotated."
+    ]
+  },
+  {
+    "id": "render_test_pair_000118",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000020.jpg",
+      "Render/test/images/render_test_outdoor_000022.jpg"
+    ],
+    "baseline": "The black trash can next to the pedestrian crossing has been replaced by a round blue table. A person wearing a red shirt and black shorts appears at the traffic light in the middle of the road, with their body facing the road on the left side of the screen and their head turned toward the building on the left side of the screen.",
+    "old_ft": "The black trash can next to the rightmost pole near the center of the road is no longer visible. A new person appears at the traffic light in the middle of the road, wearing a yellow shirt and black shorts, heading towards the building on the left side of the picture.",
+    "random_sft": "The black trash can next to the leftmost street light at the bottom of the scene has been replaced by a round blue table. A person wearing a red shirt and black shorts is now located near the center of the road, facing the building on the right side of the scene.",
+    "hard_sft": "The black trash can next to the pedestrian crossing has been replaced by a round blue table. A person wearing a red shirt and black shorts is now standing on the road, facing the right side of the screen, with their body facing sideways and their left leg in front.",
+    "references": [
+      "The green chair near the left side of the rooftop terrace at the bottom right corner of the building has decreased in size. The traffic light on the right side of the crosswalk has rotated 90 degrees to the left."
+    ]
+  },
+  {
+    "id": "render_test_pair_000418",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000008.jpg",
+      "Render/test/images/render_test_indoor_000002.jpg"
+    ],
+    "baseline": "The laptop on the far right of the second row of tables has been replaced with a desktop computer. The black office chair in front of the leftmost desk in the first row has changed from facing the camera to facing the table. The black office chair in front of the leftmost desk in the second row has changed color from black to brown.",
+    "old_ft": "The laptop that was on the far right side of the second row of tables has been moved to the table in the center of the second row. The chair in front of the computer at the far left of the first row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the second row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the third row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the fourth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the fifth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the sixth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the seventh row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the eighth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the ninth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the tenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the eleventh row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twelfth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the thirteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the fourteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the fifteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the sixteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the seventeenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the eighteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the nineteenth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twentieth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-first row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-second row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-third row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-fourth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-fifth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-sixth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-seventh row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-eighth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the twenty-ninth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the thirtieth row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the thirty-first row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the thirty-second row has changed from facing the back of the scene to facing the table. The chair in front of the computer at the far left of the thirty-third row has changed from facing the back of the scene to facing the table. The chair in front of the computer at",
+    "random_sft": "The laptop on the far right of the second row of tables has disappeared. The black office chair in front of the first row of tables on the left has turned from facing the left side to facing the camera. The red office chair in front of the second row of tables on the left is present. The computer monitor on the far right of the first row of tables is present.",
+    "hard_sft": "The laptop that was open on the center of the first row of tables is no longer present. The chair in front of the computer at the far left of the second row has changed from black to brown.",
+    "references": [
+      "The computer monitor on the far left of the row of desks closest to the camera on the right side of the scene, near the aisle, has increased in size. The black mesh-backed office chair on the far left near the aisle in the row of black office chairs on the left side of the desk near the front of the scene and close to the camera has changed to a brown leather office chair."
+    ]
+  },
+  {
+    "id": "render_test_pair_000050",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000009.jpg",
+      "Render/test/images/render_test_outdoor_000011.jpg"
+    ],
+    "baseline": "The small potted plant with orange flowers, originally located on the left side of the scene near the red house and adjacent to the sidewalk, has been moved to the right side of the scene near the gray bucket. The color of the bucket on the right side of the scene, next to the red house and near the bicycle, has changed from gray to purple.",
+    "old_ft": "The color of the potted plant on the left side of the scene has changed from green to brown. A purple bucket has appeared in the lower-left corner of the scene, positioned on the paved area near the red house on the left side.",
+    "random_sft": "The small potted plant with orange flowers, originally located on the left side of the scene near the red house and adjacent to the sidewalk, has been replaced by a purple bucket.",
+    "hard_sft": "The small potted plant with orange flowers, originally located on the left side of the scene near the red house and adjacent to the sidewalk, has been moved to the right side of the scene near the gray bucket. The color of the bucket on the right side of the scene, next to the red house and near the bicycle, has changed from gray to purple.",
+    "references": [
+      "The manhole cover in the center of the road between the two rows of houses has decreased in size. The orange flowerpot in front of the fence on the left side of the road has changed color from orange to purple."
+    ]
+  },
+  {
+    "id": "render_test_pair_000269",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000041.jpg",
+      "Render/test/images/render_test_outdoor_000052.jpg"
+    ],
+    "baseline": "The scene has become more illuminated. The red cup in front of the blue and white beach chair on the right side of the table has been replaced by a green cup.The color of the mat on the ground has changed from red and white to solid green.",
+    "old_ft": "The setting is now brighter. The red and white picnic lunch box in the center of the scene has changed to a green lunch box.The blue-and-white beach chair on the right side of the scene has turned from facing the left side of the scene to facing the right side of the scene. A new brown knife has appeared, placed diagonally on the mat to the lower left of the picnic basket.",
+    "random_sft": "The scene has become more illuminated. The red cup in front of the blue and white beach chair on the right side of the table has been replaced by a green cup.The color of the mat on the ground has changed from red and white to solid green.",
+    "hard_sft": "The scene has become more illuminated. The red cup in front of the blue and white beach chair on the right side of the table has been replaced by a green cup.The color of the mat on the ground has changed from red and white to solid green.",
+    "references": [
+      "The scene is now more lit up. The red and white checked picnic blanket turned green."
+    ]
+  },
+  {
+    "id": "render_test_pair_000409",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000007.jpg",
+      "Render/test/images/render_test_indoor_000004.jpg"
+    ],
+    "baseline": "The black office chair with a gray cushion and vertical patterns in front of the computer desk on the left side of the second row has been replaced by a black office chair with a gray cushion and vertical patterns, facing away from the camera. The word \"Effciomt\" in light blue letters has appeared on the carpet in the foreground of the scene.",
+    "old_ft": "The white keyboard on the center of the second row of desks on the left side is no longer present. The word \"Effciomt\" in light blue letters has appeared on the carpet in the foreground of the scene, positioned in front of the two black office chairs and to the left of the first row of computer desks. The black office chair with a striped backrest in the middle of the right side of the scene has been replaced by a black office chair facing left.",
+    "random_sft": "The black office chair with a gray cushion in the middle of the second row on the right side of the scene has been replaced by a black office chair with a black backrest and gray armrests. The word \"Effciomt\" in light blue letters has appeared on the carpet in the foreground of the scene, positioned in front of the two tables at the left center.",
+    "hard_sft": "The black office chair with a gray cushion in the middle of the second row on the right side of the scene has been replaced by a black office chair with a black backrest and gray armrests. The word \"Effciomt\" in light blue letters has appeared on the carpet in the foreground of the scene, positioned in front of the central workstations and slightly to the left.",
+    "references": [
+      "The office chair on the far left of the row closest to the camera on the right side of the scene, near the aisle, has shifted from facing the left aisle to facing the front desk. The word \"Efficiomt\" has appeared on the floor in the foreground of the office space, positioned in front of the desks and chairs, with large, light blue letters on the patterned floor."
+    ]
+  },
+  {
+    "id": "render_test_pair_000518",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000023.jpg",
+      "Render/test/images/render_test_indoor_000024.jpg"
+    ],
+    "baseline": "A red fire extinguisher has appeared on the floor to the right of the kitchen counter. A transparent glass cup has appeared in front of the stainless steel dining table, positioned to the left of the cake and to the right of the white teapot. The two orange kettles on the black countertop at the back right of the scene have been replaced by a stainless steel kettle.",
+    "old_ft": "A red fire extinguisher has appeared on the floor beneath the black counter on the right side of the kitchen. A transparent glass cup has appeared to the left of the central wooden table. The two white plates on the wooden table have changed from one stacked on top of the other to two separate plates placed side by side.",
+    "random_sft": "A red fire extinguisher has appeared on the floor to the right of the kitchen counter. A transparent glass cup has appeared in front of the stainless steel dining table, positioned to the left of the cake and to the right of the white teapot. The two orange kettles on the black countertop at the back right of the scene have been replaced by a stainless steel kettle.",
+    "hard_sft": "A red fire extinguisher has appeared on the floor to the right of the kitchen counter. A transparent glass cup has appeared in front of the stainless steel dining table, positioned to the left of the cake and to the right of the white teapot. The two orange kettles on the black countertop at the back right of the scene have been replaced by a stainless steel kettle.",
+    "references": [
+      "The glass cup originally on the right side of the round wooden table, which had moved to the countertop of the white cabinet, has returned to the right side of the round wooden table.**  The yellow and brown striped plastic cup on the left side of the table has now been replaced by a glass cup filled with orange drink.**  The spout of the glass pitcher filled with yellow liquid at the center of the round wooden table has shifted from facing right to facing left.**  A red fire extinguisher has been placed on the floor to the right of the dining table, near the kitchen cabinet.**  "
+    ]
+  },
+  {
+    "id": "render_test_pair_000033",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000007.jpg",
+      "Render/test/images/render_test_outdoor_000013.jpg"
+    ],
+    "baseline": "The red pail on the right side of the road has been replaced by a gray bucket. The bicycle that was leaning against the fence on the right side of the road is now located in front of the blue house at the back of the scene.",
+    "old_ft": "The gray bucket on the right side of the road has been replaced by a red one.",
+    "random_sft": "The red pail on the right side of the road has been replaced by a gray bucket.",
+    "hard_sft": "The red pail on the right side of the road, next to the bicycle, has increased in size.",
+    "references": [
+      "A gray bucket appeared at the staircase entrance of the house on the left side of the road. A red trash can has replaced the silver trash can located on the right side of the street, next to the bicycle and near the sidewalk."
+    ]
+  },
+  {
+    "id": "render_test_pair_000082",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000014.jpg",
+      "Render/test/images/render_test_outdoor_000004.jpg"
+    ],
+    "baseline": "The word \"vila\" in large blue letters has appeared on the left side of the road, near the curb and close to the sidewalk, just in front of the parked bicycle.",
+    "old_ft": "The word \"vila\" in large blue letters has appeared on the left side of the road, near the curb and close to the sidewalk, just in front of the parked bicycle.",
+    "random_sft": "The word \"vila\" in large blue letters has appeared on the left side of the road, near the curb and close to the sidewalk, just in front of the row of colorful houses.",
+    "hard_sft": "The word \"vila\" in large blue letters has appeared on the left side of the road, near the curb and close to the sidewalk, just in front of the row of colorful houses.",
+    "references": [
+      "A blue sign appeared on the ground in front of the left side of the central road, which read \"Villa\"."
+    ]
+  },
+  {
+    "id": "render_test_pair_000676",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000050.jpg",
+      "Render/test/images/render_test_indoor_000049.jpg"
+    ],
+    "baseline": "A red \"Class raam\" sign has appeared on the blackboard in the classroom. The white rectangular projector screen hanging from the ceiling at the front right of the classroom is no longer visible.",
+    "old_ft": "A red \"Class raam\" sign has appeared on the blackboard in the classroom. The white rectangular object hanging above the right side of the blackboard is no longer present.",
+    "random_sft": "A red \"Class raam\" sign has appeared on the blackboard at the front of the classroom. The white rectangular projector screen hanging from the ceiling at the front right of the classroom is no longer visible.",
+    "hard_sft": "A red \"Class raam\" sign has appeared on the blackboard at the front of the classroom. The white rectangular projector screen hanging from the ceiling at the front right of the classroom is no longer visible.",
+    "references": [
+      "A rectangular object with red text displaying \"Class raam\" has appeared on the upper right portion of the blackboard at the front of the classroom, overlapping part of the chalk drawing and positioned above the teacher's desk."
+    ]
+  },
+  {
+    "id": "render_test_pair_000436",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000009.jpg",
+      "Render/test/images/render_test_indoor_000013.jpg"
+    ],
+    "baseline": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The gray trash can in the middle of the first row of tables is no longer present. The black office chair in front of the computer at the far left of the first row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the first row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the second row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the second row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the third row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the third row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the fourth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the fourth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the fifth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the fifth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the sixth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the sixth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the seventh row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the seventh row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the eighth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the eighth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the ninth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the ninth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the tenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the tenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the eleventh row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the eleventh row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the twelfth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the twelfth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the thirteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the thirteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the fourteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the fourteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the fifteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the fifteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the sixteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the sixteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the seventeenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the seventeenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the eighteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far right of the eighteenth row has been replaced by a gray office chair. The black office chair in front of the computer at the far left of the nineteenth row has been replaced by a gray office chair. The black office chair in",
+    "old_ft": "The white keyboard in front of the computer on the left side of the second row from the right has been replaced with a gray keyboard. The black office chair in the middle of the first row on the left side of the scene has been replaced with a gray office chair. A new black three-tiered rack has appeared in the center of the scene.",
+    "random_sft": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The black office chair in front of the computer desk on the right side of the first row has been replaced by a gray office chair. A black three-tiered rack has appeared in the center of the scene, positioned between two tables.",
+    "hard_sft": "The white keyboard on the far left of the second row of desks from the front has been replaced with a black keyboard. The black office chair in the middle of the first row of tables, facing the table, is no longer present. A black three-tiered rack has appeared in the center of the scene, positioned between two tables.",
+    "references": [
+      "A black storage rack has been added to the left side of the desk near the front of the scene, close to the aisle and near the camera. The second monitor in the row of desks on the left side has vanished."
+    ]
+  },
+  {
+    "id": "render_test_pair_000109",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000019.jpg",
+      "Render/test/images/render_test_outdoor_000021.jpg"
+    ],
+    "baseline": "The person in a black jacket and blue pants is now located near the center of the road, walking towards the camera. The round table with a green base on the roof of the building on the right side of the scene has been replaced by an oval table with a white top and a green base.",
+    "old_ft": "The chair located in the middle of the rooftop scene, positioned between two round tables, has increased in size. A person wearing a red shirt and blue pants appears on the left side of the road crossing, heading towards the building on the left side of the picture, with their body facing sideways to the left.",
+    "random_sft": "The person in a black jacket and blue pants is now located near the center of the road, walking towards the camera. The round table with a green base on the roof of the building on the right side of the scene has been replaced by an oval table with a white top and a green base.",
+    "hard_sft": "The person in a black jacket and blue pants is now located near the center of the road, walking towards the camera. The round table with a green base on the roof of the building on the right side of the scene has been replaced by an oval table with a white top and a green base.",
+    "references": [
+      "A streetlamp behind the pedestrian crossing on the left side of the street has been removed. The green round table on the roof of the building in the lower right corner of the scene has moved from the center of the terrace to the lower left corner of the terrace."
+    ]
+  },
+  {
+    "id": "render_test_pair_000171",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000027.jpg",
+      "Render/test/images/render_test_outdoor_000031.jpg"
+    ],
+    "baseline": "The word \"Caution\" in large blue letters has appeared on the wall above the yellow motorcycle. The streetlamp on the right side of the yellow bike is now facing downward.",
+    "old_ft": "The word \"Caution\" in large blue letters has appeared on the wall above the yellow motorcycle. The streetlight on the right side of the scene, next to the yellow motorcycle, has increased in size.",
+    "random_sft": "The word \"Caution\" in large blue letters has appeared on the wall above the yellow motorcycle.",
+    "hard_sft": "The word \"Caution\" in blue letters has appeared on the wall above the yellow motorcycle. The streetlight on the right side of the scene, next to the yellow-and-black bicycle, is now facing downward instead of upward.",
+    "references": [
+      "The area is now brighter. There is a newly appeared blue sign with the word \"Cautious\" on the upper right wall of the scene, positioned above the yellow bike and to the right of the stairwell."
+    ]
+  },
+  {
+    "id": "render_test_pair_000014",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000001.jpg",
+      "Render/test/images/render_test_outdoor_000005.jpg"
+    ],
+    "baseline": "The light in the scene has increased. A blue sign with the word \"vila\" appeared on the left side of the road in front of the house, near the flower bed and close to the sidewalk.",
+    "old_ft": "The shooting perspective has slightly zoomed out. A blue sign with the word \"vila\" has appeared on the left side of the road in front of the house.",
+    "random_sft": "The light in the scene has increased. A blue sign with the word \"vila\" appeared on the left side of the road, near the curb and close to the red house on the left.",
+    "hard_sft": "The light in the scene has increased. A blue sign with the word \"vila\" appeared on the left side of the road, near the curb and close to the red house on the left side of the screen.",
+    "references": [
+      "The surroundings have brightened. A newly appeared text \"vliia\" is written in light blue diagonal lines on the ground near the lower left side of the street, close to the curb, and positioned in front of the blue house and beside a fallen bicycle."
+    ]
+  },
+  {
+    "id": "render_test_pair_000644",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000046.jpg",
+      "Render/test/images/render_test_indoor_000048.jpg"
+    ],
+    "baseline": "A red \"Class room\" sign has appeared on the blackboard in the classroom. The row of chairs and desks at the front right of the scene, previously aligned with the first row, is now positioned against the wall.",
+    "old_ft": "A red \"Class room\" sign has appeared on the blackboard at the front of the classroom. The row of desks and chairs located in the right-side aisle near the front of the classroom, positioned between the first and second rows, has disappeared.",
+    "random_sft": "A red \"Class room\" sign has appeared on the blackboard at the front of the classroom. The first row of desks on the right side has been reduced in size.",
+    "hard_sft": "A red \"Class room\" sign has appeared on the blackboard in the classroom. The first row of desks on the right side has been reduced in size.",
+    "references": [
+      "A neon \"Class room\" sign has been newly placed on the right side of the blackboard at the front of the classroom. The desk in the third row of the frontmost aisle in the classroom has been moved to the front of the adjacent stool."
+    ]
+  },
+  {
+    "id": "render_test_pair_000708",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000057.jpg",
+      "Render/test/images/render_test_indoor_000062.jpg"
+    ],
+    "baseline": "The second yellow chair in the middle of the corridor, facing the window, is no longer present. The light level has dropped. A new gray stool with a cushion and black legs has appeared in the center of the scene, positioned between two beds and facing the windows at the far end of the room.",
+    "old_ft": "The leftmost bed in the first row on the right side of the room has been moved closer to the camera. A light blue chair with a curved backrest and black legs has appeared in the lower left corner of the scene, positioned near the beds and facing the front of the room.",
+    "random_sft": "The second yellow chair in the middle of the corridor, facing the window, is no longer present. The light level has dropped. A new gray stool with a cushion and black legs has appeared in the center of the scene, positioned between two beds and facing the windows at the end of the room.",
+    "hard_sft": "The second yellow chair in the middle of the corridor, facing the window, is no longer present. The light level has dropped. A new gray stool with a cushion and black legs has appeared in the center of the scene, positioned between two beds and facing the windows at the end of the room.",
+    "references": [
+      "A gray chair has been added to the front left of the scene. A rectangular table appeared on the bed on the right side of the first row."
+    ]
+  },
+  {
+    "id": "render_test_pair_000336",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000054.jpg",
+      "Render/test/images/render_test_outdoor_000050.jpg"
+    ],
+    "baseline": "The blue and white beach chair on the right side of the picnic blanket has turned from facing the left side of the scene to facing the right side.",
+    "old_ft": "The blue and white beach chair on the right side of the scene has shifted orientation from facing left to facing the right side of the scene.",
+    "random_sft": "The blue and white beach chair on the right side of the picnic blanket has turned from facing the left side of the scene to facing the right side.",
+    "hard_sft": "The blue and white beach chair on the right side of the picnic blanket has turned from facing the left side of the scene to facing the right side.",
+    "references": [
+      "The baguette on the left side of the picnic blanket, near the basket and other food items, has increased in size."
+    ]
+  },
+  {
+    "id": "render_test_pair_000404",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000001.jpg",
+      "Render/test/images/render_test_indoor_000011.jpg"
+    ],
+    "baseline": "The scene is now more lit up. The chair in front of the computer desk on the left side of the scene has turned from facing the table to facing the camera.",
+    "old_ft": "The scene is now more lit up. The chair in front of the computer desk on the right side of the first row has turned from facing the desk to facing the window on the left.",
+    "random_sft": "The scene is now more lit up. The chair in front of the computer desk on the left side of the scene has turned from facing the table to facing the camera.",
+    "hard_sft": "The scene is now more lit up. The chair in front of the computer desk on the left side of the scene has turned from facing the table to facing the right side of the scene.",
+    "references": [
+      "The scene has become more illuminated. Next to the desk on the left side of the scene, where monitors face the camera, the black office chair originally placed on the far left has been moved to the left side of the row of desks closest to the camera, near the aisle."
+    ]
+  },
+  {
+    "id": "render_test_pair_000725",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000059.jpg",
+      "Render/test/images/render_test_indoor_000060.jpg"
+    ],
+    "baseline": "The light level has dropped.",
+    "old_ft": "The scene has become darker.",
+    "random_sft": "The light in the scene has diminished.",
+    "hard_sft": "The light in the scene has diminished.",
+    "references": [
+      "The yellow chair at the far end of the central aisle, which was facing the camera, is now oriented away from the camera and toward the white round table. The size of the white IV drip above the second-row bed on the right side of the scene has increased."
+    ]
+  },
+  {
+    "id": "render_test_pair_000496",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000019.jpg",
+      "Render/test/images/render_test_indoor_000020.jpg"
+    ],
+    "baseline": "The white chair on the right side of the dining table has disappeared. The white chair on the left side of the dining table has disappeared. The transparent glass water bottle on the wooden table in the center of the room has disappeared. The two glasses of juice on the table have changed from full to half full. The white teapot on the black countertop at the back right of the kitchen has changed color from white to green. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white kettle on the right side of the stove has appeared. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the black countertop at the back right of the scene has changed color from purple to white. The white plate on the",
+    "old_ft": "The white chair on the right side of the dining table has disappeared. The white chair on the left side of the dining table has disappeared. The transparent glass water bottle on the left side of the wooden table has been replaced with a full glass of yellow juice. The purple tableware on the black countertop at the back right of the kitchen has changed to green. The white kettle on the right side of the stove has appeared. The white plate on the black counter at the back right of the scene has appeared. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The white handle on the right cabinet door beneath the black countertop has changed from black to white. The",
+    "random_sft": "The white chair on the right side of the round table has disappeared. The white chair on the left side of the round table has also disappeared. The transparent glass water bottle on the round table has been replaced by a full glass of yellow juice. The purple tableware on the black countertop at the back right of the kitchen has changed to green. The white kettle on the black countertop at the back right of the kitchen has appeared. The white plate on the black countertop at the back right of the kitchen has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared. The white handle on the right cabinet door at the back left of the scene has appeared.",
+    "hard_sft": "The white chair on the right side of the round table has disappeared. The white chair on the left side of the round table has also disappeared. The transparent glass water pitcher on the round wooden table has changed from red to yellow. The white plate in the center of the round table has moved to the left side of the table. The stainless steel dining bell on the black countertop at the back right of the scene has changed color from purple to green. The white teacup on the black countertop at the back right of the scene has changed color from white to transparent. The white kettle on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back right of the scene has changed color from white to transparent. The white plate on the black countertop at the back",
+    "references": [
+      "The slice of bread on the white cutting board on the right side of the kitchen counter is no longer present.**  The white chair with a cushion and backrest on the front-right side of the round wooden table is no longer visible.**  The transparent white glass pitcher at the center of the round wooden table has turned blue.**  The glass filled with orange drink on the right side of the round wooden table has increased to two glasses.**  The glass filled with orange drink on the left side of the round wooden table has appeared.**  The pot above the gas stove on the kitchen counter has changed color from purple to gray.**  "
+    ]
+  },
+  {
+    "id": "render_test_pair_000576",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000036.jpg",
+      "Render/test/images/render_test_indoor_000026.jpg"
+    ],
+    "baseline": "The surroundings have dimmed.",
+    "old_ft": "The scene is now darker.",
+    "random_sft": "The surroundings have dimmed.",
+    "hard_sft": "The area is now darker. The gray rectangular pillow on the lower bed has appeared.The white box on the first layer of the blue and orange rack on the left side of the bed has appeared.",
+    "references": [
+      "The light in the scene has diminished."
+    ]
+  },
+  {
+    "id": "render_test_pair_000200",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000034.jpg",
+      "Render/test/images/render_test_outdoor_000039.jpg"
+    ],
+    "baseline": "A rectangular trash can with a round top has appeared in the lower-left corner of the scene, positioned next to the stairs and near the wall.",
+    "old_ft": "A rectangular trash can has appeared in the lower-left corner of the scene.",
+    "random_sft": "A rectangular trash can with a round top has appeared in the lower-left corner of the scene, positioned next to the stairs and near the wall.",
+    "hard_sft": "A rectangular trash can with a round top has appeared in the lower-left corner of the scene, positioned next to the stairs and near the wall.",
+    "references": [
+      "The gray metal box located between the yellow bicycle and the wall on the right side of the scene has increased in size.. A gray barrel has appeared in front of the first floor stair railing."
+    ]
+  },
+  {
+    "id": "render_test_pair_000245",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000040.jpg",
+      "Render/test/images/render_test_outdoor_000036.jpg"
+    ],
+    "baseline": "The blue spray-painted graffiti on the wall at the back left of the scene has decreased in size.",
+    "old_ft": "The yellow backpack that was on the wall in the center of the scene has disappeared.",
+    "random_sft": "The blue spray-painted tag on the wall above the stool and bench in the distance of the scene has disappeared.",
+    "hard_sft": "The blue spray-painted graffiti on the wall at the back of the scene has decreased in size.",
+    "references": [
+      "The white metal box on the left wall of the blue door has moved to the wall in front of it near the stairs."
+    ]
+  },
+  {
+    "id": "render_test_pair_000363",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000059.jpg",
+      "Render/test/images/render_test_outdoor_000061.jpg"
+    ],
+    "baseline": "A person wearing a white vest, blue overalls, a gray hat, and white shoes has appeared in the middle of the greenhouse, facing the back of the scene with their hands on their hips. The word \"Shop\" in large blue letters has appeared on the ground near the front of the scene, positioned in front of the bench and to the left of the potted plant. The green watering can that was previously located near the front of the scene, next to the wooden table on the left side, has disappeared.",
+    "old_ft": "The camera has rotated counterclockwise. A person wearing a white vest, blue overalls, a gray hat, and white shoes appears in the middle of the greenhouse, facing the back of the screen, with their hands on their hips. The word \"Shop\" in large blue letters has appeared on the ground near the front of the scene, positioned in front of the bench and to the left of the potted plant.",
+    "random_sft": "A person wearing a white vest, blue overalls, a gray hat, and white shoes has appeared in the middle of the greenhouse, facing the back of the scene with their hands on their hips. The word \"Shop\" in large blue letters has appeared on the ground near the front of the scene, positioned in front of the bench and to the left of the potted plants. The green watering can that was previously located near the front of the scene, next to the wooden table on the left side, has disappeared.",
+    "hard_sft": "A person wearing a white vest, blue overalls, a gray hat, and white shoes has appeared in the middle of the greenhouse, facing the back of the scene with their hands on their hips. The word \"Shop\" in large blue letters has appeared on the ground near the front of the scene, positioned in front of the bench and to the left of the potted plants. The green watering can that was previously located near the front of the scene, next to the bench on the left side, has been moved to the right side of the door at the end of the greenhouse.",
+    "references": [
+      "A dark high-back chair has been replaced by a wooden chair with horizontal slats on the back, positioned behind the wooden table in the lower left corner. The small green boots near the middle of the scene, positioned to the right of a coiled green hose and in front of two large terracotta pots with plants, are no longer visible. A glowing blue \"Shop\" sign has appeared on the ground near the center of the scene, directly in front of the standing person and slightly to the left of a table and chair set. A man wearing blue suspenders, a white short-sleeved shirt, and a hat is now present in the middle of the picture, with his hands in his waist pockets, his back to the picture, and his legs apart."
+    ]
+  },
+  {
+    "id": "render_test_pair_000258",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000045.jpg",
+      "Render/test/images/render_test_outdoor_000046.jpg"
+    ],
+    "baseline": "The word \"plonio\" on the picnic blanket has been replaced with the word \"picnic\".",
+    "old_ft": "The word \"plonio\" on the picnic blanket has been replaced with the word \"picnic\".",
+    "random_sft": "The word \"plonio\" on the picnic blanket has been replaced with the word \"picnic\".",
+    "hard_sft": "The word \"plonio\" on the picnic blanket has been replaced with the word \"picnic\".",
+    "references": [
+      "The blue text that reads \"plonio\" on the lower left side of the checkered picnic blanket, near the wicker picnic basket, is replaced with the blue text \"picnic.\""
+    ]
+  },
+  {
+    "id": "render_test_pair_000523",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000025.jpg",
+      "Render/test/images/render_test_indoor_000017.jpg"
+    ],
+    "baseline": "The white chair on the left side of the wooden table has changed from light green to red. The white teapot on the black countertop at the back right of the scene is no longer visible. The white wine glass in the center of the dining table has disappeared. The white kettle on the black countertop at the back right of the scene has disappeared. The white goblet in the upper left compartment of the cabinet above the black countertop on the right side of the room has disappeared. The white handle on the far-right drawer beneath the stove has changed from black to gray. The white-handled knife on the black countertop at the back right of the scene has disappeared. The white coffee machine on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop",
+    "old_ft": "The white chair on the left side of the scene has changed from light green to red. The transparent glass water bottle in the center of the scene is no longer present. The white kettle on the right side of the stove is no longer visible. The white teacup in the back-right corner of the dining table has disappeared. The white wine glass in the far-right corner of the dining table has disappeared. The white goblet at the back-left corner of the dining table has disappeared. The white teacup in the back-right corner of the dining table has disappeared.",
+    "random_sft": "The white chair on the left side of the wooden table has changed from light green to red. The white teapot on the black countertop at the back right of the scene is no longer visible. The white and transparent glass water pitcher in the center of the wooden table has disappeared. The white and transparent glass goblet in front of the oven at the back right of the scene has disappeared. The white and transparent glass goblet above the black stove at the back right of the scene has disappeared. The white and transparent glass goblet above the dining table at the back left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared. The white and transparent glass goblet above the dining table at the front left of the scene has disappeared. The white and transparent glass goblet above the dining table at the front right of the scene has disappeared.",
+    "hard_sft": "The white chair with a light green cushion on the left side of the wooden table has disappeared. The red chair on the left side of the round table has changed from white to red. The white teapot on the black countertop at the back right of the scene has disappeared. The transparent glass water bottle on the left side of the wooden table has disappeared. The white coffee machine on the black countertop at the back right of the scene has disappeared. The white wine glass in the center of the dining table has disappeared. The white goblet behind the dining table has disappeared. The white plate on the far right side of the dining table has disappeared. The white handle on the far-right cabinet above the black countertop has disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the black countertop has also disappeared. The white handle on the far-left cabinet above the black countertop has also disappeared. The white handle on the far-right cabinet above the",
+    "references": [
+      "The slice of bread on the white cutting board on the right side of the kitchen counter is missing.The white round wall clock above the white cabinet at the kitchen entrance is missing.The glass pitcher filled with orange liquid that was positioned in the center of the round wooden table, between the glasses and plates, is no longer in the scene.The white chair with a cushion and backrest on the left side of the round wooden table has turned red."
+    ]
+  }
+]

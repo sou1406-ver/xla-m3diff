@@ -1,0 +1,9 @@
+{
+ "selected_before_any_full_benchmark_predictions": true,
+ "candidate": "invariance_ablation_v1/m3diff-mixed-objective-lora",
+ "decision": "Keep old mixed arm for full-benchmark characterization. Balanced-template arm fails fixed factual72 gate: old Real fact hits6 versus7 baseline, due a forward-bend/backbend error. Do not override this with better geometry count or probe scores.",
+ "confirmed_tradeoff_before_full_scores": "On80 fixed new image pairs, mixed physicalFP36to29/48 but joint object-or-lighting errors44to44/48. Natural facts19to20/24 and unsupported pairs9to9. Thus no overall geometry-error reduction demonstrated, even though narrower fixed gate passes.",
+ "deployment_default_before_full_scores": "Published checkpoint plus optional verified exact-sentence cleanup remains default. Experimental LoRA is portable but not declared rotation/zoom fix.",
+ "history": "Initial selection from72-pair masked pilot. Prompt-imbalance issue found by source audit before confirmation80 labels. One matched balanced-template follow-up completed and failed oldReal fact preservation. No full-test metric used to select among adapters.",
+ "remaining_work": "Finish40-question prompt-style probe for diagnosis; evaluate selected old mixed on1570 official variable-prompt questions within existing credit; preserve raw and identical-cleanup comparisons, package portable adapter/code, release every GPU."
+}

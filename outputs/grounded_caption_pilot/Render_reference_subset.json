@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "id": "render_test_pair_000137",
+      "image_id": "render_test_pair_000137",
+      "caption": "The chair on the left side of the third row of round tables on the rooftop of the building on the right side of the scene has changed from red to green. A man wearing a blue sweatshirt, black pants, and white shoes has appeared on the open-air roof on the right, next to the green flower bed in the upper left corner, stepping forward with his left leg, facing the table and chairs in the middle of the roof."
+    },
+    {
+      "id": "render_test_pair_000180",
+      "image_id": "render_test_pair_000180",
+      "caption": "A lantern has replaced the small light originally mounted on the wall above the yellow bike. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    },
+    {
+      "id": "render_test_pair_000182",
+      "image_id": "render_test_pair_000182",
+      "caption": "A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. His orientation is toward the right wall, with hands crossed in front of his chest, his right leg forward, and his gaze directed toward the right wall. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    },
+    {
+      "id": "render_test_pair_000219",
+      "image_id": "render_test_pair_000219",
+      "caption": "The handrail of the first floor staircase changed from yellow to gray. A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. He faces the front of the screen, with his hands crossed in front of his chest, his right leg steps forward, and he turns his head to look to the left front of the screen."
+    },
+    {
+      "id": "render_test_pair_000222",
+      "image_id": "render_test_pair_000222",
+      "caption": "The handrail of the first floor staircase has changed from yellow to gray. A blue text sign that reads \"Cautiuos\" has appeared on the upper right wall of the scene, near the yellow bike and just above a small light fixture."
+    },
+    {
+      "id": "render_test_pair_000309",
+      "image_id": "render_test_pair_000309",
+      "caption": "The white teapot that was shifted closer to the center of the picnic blanket is now positioned next to a blue teacup rather than a white teacup. The white teacup in the middle of the picnic blanket has been replaced with a blue teacup. A biscuit box is now present next to the blue teacup."
+    },
+    {
+      "id": "render_test_pair_000391",
+      "image_id": "render_test_pair_000391",
+      "caption": "The word \"Efficient,\" which appeared on the floor towards the front left of the scene, with large, blue, bold letters slanted diagonally across the striped carpet, is no longer present. A person wearing a black hat, an orange top, black leggings, and black shoes has appeared near the left side of the room, standing beside a desk with a row of computers, facing away from the camera while turning their head to look toward the right side of the scene."
+    },
+    {
+      "id": "render_test_pair_000549",
+      "image_id": "render_test_pair_000549",
+      "caption": "The vertical metallic ladder on the right side of the bunk bed changes color from blue to black. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing to the right, with arms wrapped tightly around their knees. A glowing blue \"Rest\" sign appears on the wall of the lower bunk."
+    },
+    {
+      "id": "render_test_pair_000575",
+      "image_id": "render_test_pair_000575",
+      "caption": "The gray mattress with black stains on the black rolling bed at the bottom of the bunk has been replaced by a flat gray mattress. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing the wall of the lower bunk, with arms wrapped tightly around their knees. The gray mattress has unfolded and become flat. A glowing blue word 'Rost' has appeared on the wall of the lower bunk. The dark brown wooden round stool with curved legs, which was on the floor to the right of the lower bunk, is no longer present."
+    },
+    {
+      "id": "render_test_pair_000614",
+      "image_id": "render_test_pair_000614",
+      "caption": "The chair in the second-to-last row on the far right of the classroom is no longer tilted. The size of the third stool from the right in the third-to-last row increased."
+    },
+    {
+      "id": "render_test_pair_000648",
+      "image_id": "render_test_pair_000648",
+      "caption": "The black speaker in the upper-right corner at the front of the classroom has changed from red to black. A person wearing light-colored clothes, a hat, and carrying a backpack has appeared in the aisle near the wall on the right side of the classroom. They are facing the blackboard and walking toward the podium."
+    },
+    {
+      "id": "render_test_pair_000717",
+      "image_id": "render_test_pair_000717",
+      "caption": "A new potted plant, identical to the original one with blue flowers, has been added to the bedside table between the first and second beds on the right side. The picture frame with red flowers above the bed in the second row on the right side moved to the middle hospital bed above the aisle."
+    }
+  ],
+  "images": [
+    {
+      "filename": "render_test_pair_000137",
+      "id": "render_test_pair_000137"
+    },
+    {
+      "filename": "render_test_pair_000180",
+      "id": "render_test_pair_000180"
+    },
+    {
+      "filename": "render_test_pair_000182",
+      "id": "render_test_pair_000182"
+    },
+    {
+      "filename": "render_test_pair_000219",
+      "id": "render_test_pair_000219"
+    },
+    {
+      "filename": "render_test_pair_000222",
+      "id": "render_test_pair_000222"
+    },
+    {
+      "filename": "render_test_pair_000309",
+      "id": "render_test_pair_000309"
+    },
+    {
+      "filename": "render_test_pair_000391",
+      "id": "render_test_pair_000391"
+    },
+    {
+      "filename": "render_test_pair_000549",
+      "id": "render_test_pair_000549"
+    },
+    {
+      "filename": "render_test_pair_000575",
+      "id": "render_test_pair_000575"
+    },
+    {
+      "filename": "render_test_pair_000614",
+      "id": "render_test_pair_000614"
+    },
+    {
+      "filename": "render_test_pair_000648",
+      "id": "render_test_pair_000648"
+    },
+    {
+      "filename": "render_test_pair_000717",
+      "id": "render_test_pair_000717"
+    }
+  ]
+}

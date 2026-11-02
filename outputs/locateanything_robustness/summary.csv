@@ -1,0 +1,14 @@
+name,target_present,prompt_style,n_boxes,seconds,negative_false_positive
+original_single,True,single,1,2.187610387802124,
+oblique_real,True,single,1,1.249361515045166,
+rotate_cw15,True,single,1,1.0660638809204102,
+rotate_ccw30,True,single,1,1.0005075931549072,
+zoom_on_target,True,single,1,1.5818212032318115,
+scale_down_60,True,single,1,0.9362645149230957,
+resolution_384,True,single,1,0.33612561225891113,
+floor_single,False,single,1,0.6543982028961182,True
+lower_scene_single,False,single,1,0.9539344310760498,True
+street_negative,False,single,1,1.138237476348877,True
+original_all,True,all,1,1.3854832649230957,
+floor_all,False,all,0,0.5338959693908691,False
+lower_scene_all,False,all,0,0.8648960590362549,False

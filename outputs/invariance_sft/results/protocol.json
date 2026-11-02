@@ -1,0 +1,52 @@
+{
+  "version": "invariance_sft_v1",
+  "training": {
+    "seed": 42,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "learning_rate": 5e-06,
+    "epochs": 1,
+    "batch": 1,
+    "gradient_accumulation": 8,
+    "records": 256,
+    "optimizer_steps": 32,
+    "vision": "frozen",
+    "projector": "frozen",
+    "MDP": "frozen"
+  },
+  "data": {
+    "negative_sources": 16,
+    "sources_per_domain": 8,
+    "negative_conditions": [
+      "identity",
+      "zoom_in_1p10",
+      "roll_8_safe",
+      "zoom_out_reverse_1p10"
+    ],
+    "negative_records": 64,
+    "positive_records": 192,
+    "positive_recipe": "128 existing replay + 44 visually reviewed train pairs + 20 fixed-seed repeats of those reviewed pairs",
+    "negative_selection_seed": 2026102722,
+    "order_seed": 2026102723
+  },
+  "evaluation": "108 pairs: previous 12-scene diagnostic (60) plus new 8-scene extension geometry/natural pairs (48). Exclude all synthetic appearance-change stress inputs from caption evaluation. Same original question and decoding for published baseline and candidate, sequentially on the same GPU container. Both passed through identical exact-sentence dedup before masked assessment.",
+  "generation": {
+    "quantization": "none",
+    "dtype": "bfloat16",
+    "temperature": 0,
+    "num_beams": 1,
+    "max_new_tokens": 1024,
+    "conv_mode": "qwen_2",
+    "flash_attention": false
+  },
+  "selection_gate": "Consider candidate promising only if physical false-positive count on new-scene nonidentity geometry controls decreases; new confirmed-natural fact hits do not decrease in either domain; old-natural fact hits do not decrease in either domain; new confirmed-natural unsupported-claim pair count does not increase. Uncertain clothesline natural pair reported separately. Otherwise retain published checkpoint. One candidate only, no recipe search after this outcome.",
+  "provenance": "Recipe fixed after earlier caption-SFT and CPU-gate diagnostics; this is adaptive development, not a fresh preregistered external test. Source images for evaluation have already been viewed. No test paths or exact decoded-pixel duplicates permitted in this continued-training batch. Checkpoint already learned from official OmniDiff train; not training from scratch.",
+  "limits": [
+    "Only one seed and small correlated scene set.",
+    "Synthetic 2D roll/crop/zoom does not establish 3D viewpoint robustness.",
+    "Training and geometry evaluation share augmentation family, so resampling artifacts are a possible shortcut.",
+    "Positive corrected captions reviewed by Codex, not independently human adjudicated.",
+    "This mix changes both label balance and continued-training exposure; cannot attribute a gain solely to hard negatives."
+  ],
+  "budget": "One GPU candidate, bounded 3600 seconds, scaledown on function completion. CPU preparation first. No persistent endpoints, automation or extra configurations."
+}

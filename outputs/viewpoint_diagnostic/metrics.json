@@ -1,0 +1,884 @@
+{
+  "dev/Real/identity": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 2
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 0,
+      "false_positive_rate": 0.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    }
+  },
+  "dev/Real/transformed": {
+    "baseline": {
+      "n": 9,
+      "false_positive_pairs": 7,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 9,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.5555555555555556,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "dev/Real/geometry": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 9,
+      "false_positive_rate": 0.75,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 2
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.4166666666666667,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "dev/Real/natural": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 6,
+      "unsupported_claim_count": 2,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 7
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 3,
+      "unsupported_claim_count": 5,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 7
+    }
+  },
+  "dev/Render/identity": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 1,
+      "false_positive_rate": 0.3333333333333333,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 2,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 0,
+      "false_positive_rate": 0.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    }
+  },
+  "dev/Render/transformed": {
+    "baseline": {
+      "n": 9,
+      "false_positive_pairs": 8,
+      "false_positive_rate": 0.8888888888888888,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 5,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 9,
+      "false_positive_pairs": 6,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 9,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    }
+  },
+  "dev/Render/geometry": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 9,
+      "false_positive_rate": 0.75,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 7,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 6,
+      "false_positive_rate": 0.5,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 12,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    }
+  },
+  "dev/Render/natural": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 1,
+      "unsupported_claim_count": 4,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 4,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    }
+  },
+  "dev/all/identity": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 0.5,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 2,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 5
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 0,
+      "false_positive_rate": 0.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    }
+  },
+  "dev/all/transformed": {
+    "baseline": {
+      "n": 18,
+      "false_positive_pairs": 15,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 8,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 18,
+      "false_positive_pairs": 11,
+      "false_positive_rate": 0.6111111111111112,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 12,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "dev/all/geometry": {
+    "baseline": {
+      "n": 24,
+      "false_positive_pairs": 18,
+      "false_positive_rate": 0.75,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 10,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 5
+    },
+    "camera_aware": {
+      "n": 24,
+      "false_positive_pairs": 11,
+      "false_positive_rate": 0.4583333333333333,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 15,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 3
+    }
+  },
+  "dev/all/natural": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 4,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 7,
+      "unsupported_claim_count": 6,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 12
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 3,
+      "unsupported_claim_count": 9,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 12
+    }
+  },
+  "validation/Real/identity": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 1,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 0,
+      "false_positive_rate": 0.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 1,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 1
+    }
+  },
+  "validation/Real/transformed": {
+    "baseline": {
+      "n": 9,
+      "false_positive_pairs": 7,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 2,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 9,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.5555555555555556,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 6,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    }
+  },
+  "validation/Real/geometry": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 9,
+      "false_positive_rate": 0.75,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.4166666666666667,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 7,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 1
+    }
+  },
+  "validation/Real/natural": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 1,
+      "unsupported_claim_count": 6,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 1,
+      "unsupported_claim_count": 5,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    }
+  },
+  "validation/Render/identity": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 1,
+      "false_positive_rate": 0.3333333333333333,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 2,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 3
+    }
+  },
+  "validation/Render/transformed": {
+    "baseline": {
+      "n": 9,
+      "false_positive_pairs": 7,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 4,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 9,
+      "false_positive_pairs": 7,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 8,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "validation/Render/geometry": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 10,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 4,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 3
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 8,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 10,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 3
+    }
+  },
+  "validation/Render/natural": {
+    "baseline": {
+      "n": 3,
+      "false_positive_pairs": 3,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 1,
+      "unsupported_claim_count": 6,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    },
+    "camera_aware": {
+      "n": 3,
+      "false_positive_pairs": 2,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_count": 2,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 5
+    }
+  },
+  "validation/all/identity": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 1,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 6
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 1,
+      "false_positive_rate": 0.16666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 4
+    }
+  },
+  "validation/all/transformed": {
+    "baseline": {
+      "n": 18,
+      "false_positive_pairs": 14,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 6,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 18,
+      "false_positive_pairs": 12,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 14,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "validation/all/geometry": {
+    "baseline": {
+      "n": 24,
+      "false_positive_pairs": 19,
+      "false_positive_rate": 0.7916666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 7,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 6
+    },
+    "camera_aware": {
+      "n": 24,
+      "false_positive_pairs": 13,
+      "false_positive_rate": 0.5416666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 17,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 4
+    }
+  },
+  "validation/all/natural": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 6,
+      "false_positive_rate": 1.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_count": 12,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 10
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 3,
+      "unsupported_claim_count": 7,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 10
+    }
+  },
+  "all/Real/identity": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 4,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 1,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 5
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 0,
+      "false_positive_rate": 0.0,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 1,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 1
+    }
+  },
+  "all/Real/transformed": {
+    "baseline": {
+      "n": 18,
+      "false_positive_pairs": 14,
+      "false_positive_rate": 0.7777777777777778,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 5,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 18,
+      "false_positive_pairs": 10,
+      "false_positive_rate": 0.5555555555555556,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 9,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "all/Real/geometry": {
+    "baseline": {
+      "n": 24,
+      "false_positive_pairs": 18,
+      "false_positive_rate": 0.75,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 6,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 5
+    },
+    "camera_aware": {
+      "n": 24,
+      "false_positive_pairs": 10,
+      "false_positive_rate": 0.4166666666666667,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 10,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 1
+    }
+  },
+  "all/Real/natural": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 7,
+      "unsupported_claim_count": 8,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 12
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 4,
+      "unsupported_claim_count": 10,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 12
+    }
+  },
+  "all/Render/identity": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 4,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 2,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 6
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 1,
+      "false_positive_rate": 0.16666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 5,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 6
+    }
+  },
+  "all/Render/transformed": {
+    "baseline": {
+      "n": 18,
+      "false_positive_pairs": 15,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 9,
+      "other_apparent_geometry_errors": 3,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 18,
+      "false_positive_pairs": 13,
+      "false_positive_rate": 0.7222222222222222,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 17,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 0
+    }
+  },
+  "all/Render/geometry": {
+    "baseline": {
+      "n": 24,
+      "false_positive_pairs": 19,
+      "false_positive_rate": 0.7916666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 11,
+      "other_apparent_geometry_errors": 3,
+      "identity_difference_pairs": 6
+    },
+    "camera_aware": {
+      "n": 24,
+      "false_positive_pairs": 14,
+      "false_positive_rate": 0.5833333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 22,
+      "other_apparent_geometry_errors": 1,
+      "identity_difference_pairs": 6
+    }
+  },
+  "all/Render/natural": {
+    "baseline": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_count": 10,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 10
+    },
+    "camera_aware": {
+      "n": 6,
+      "false_positive_pairs": 5,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_count": 6,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 10
+    }
+  },
+  "all/all/identity": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 8,
+      "false_positive_rate": 0.6666666666666666,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 3,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 11
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 1,
+      "false_positive_rate": 0.08333333333333333,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 6,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 7
+    }
+  },
+  "all/all/transformed": {
+    "baseline": {
+      "n": 36,
+      "false_positive_pairs": 29,
+      "false_positive_rate": 0.8055555555555556,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 14,
+      "other_apparent_geometry_errors": 3,
+      "identity_difference_pairs": 0
+    },
+    "camera_aware": {
+      "n": 36,
+      "false_positive_pairs": 23,
+      "false_positive_rate": 0.6388888888888888,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 26,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 0
+    }
+  },
+  "all/all/geometry": {
+    "baseline": {
+      "n": 48,
+      "false_positive_pairs": 37,
+      "false_positive_rate": 0.7708333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 17,
+      "other_apparent_geometry_errors": 3,
+      "identity_difference_pairs": 11
+    },
+    "camera_aware": {
+      "n": 48,
+      "false_positive_pairs": 24,
+      "false_positive_rate": 0.5,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_count": 0,
+      "illumination_claim_pairs": 32,
+      "other_apparent_geometry_errors": 2,
+      "identity_difference_pairs": 7
+    }
+  },
+  "all/all/natural": {
+    "baseline": {
+      "n": 12,
+      "false_positive_pairs": 10,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 9,
+      "unsupported_claim_count": 18,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 22
+    },
+    "camera_aware": {
+      "n": 12,
+      "false_positive_pairs": 10,
+      "false_positive_rate": 0.8333333333333334,
+      "geometry_acknowledged": 0,
+      "supported_fact_hits": 6,
+      "unsupported_claim_count": 16,
+      "illumination_claim_pairs": 0,
+      "other_apparent_geometry_errors": 0,
+      "identity_difference_pairs": 0,
+      "possible_facts": 22
+    }
+  }
+}

@@ -1,0 +1,3330 @@
+[
+  {
+    "id": "train_7c5c2e5e495e93ec387b",
+    "image": [
+      "Real/train/images/real_train_000010.jpg",
+      "Real/train/images/real_train_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3e7039399babb789059c",
+    "image": [
+      "Real/train/images/real_train_000480.jpg",
+      "Real/train/images/real_train_000481.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3dad746fc255118175e7",
+    "image": [
+      "Real/train/images/real_train_001221.jpg",
+      "Real/train/images/real_train_001222.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2d0ef9b72e27d61daa08",
+    "image": [
+      "Real/train/images/real_train_000402.jpg",
+      "Real/train/images/real_train_000398.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_dd0b392855e9a3f3b5a3",
+    "image": [
+      "Real/train/images/real_train_000539.jpg",
+      "Real/train/images/real_train_000542.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_facf52d0b063df43f36f",
+    "image": [
+      "Real/train/images/real_train_000393.jpg",
+      "Real/train/images/real_train_000396.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_11b1c56923e431cae068",
+    "image": [
+      "Real/train/images/real_train_000535.jpg",
+      "Real/train/images/real_train_000541.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8162294e82685f2881aa",
+    "image": [
+      "Real/train/images/real_train_000166.jpg",
+      "Real/train/images/real_train_000167.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ea3eaf440365d6aeb7af",
+    "image": [
+      "Real/train/images/real_train_000038.jpg",
+      "Real/train/images/real_train_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b1ce4af83786488e2ee4",
+    "image": [
+      "Real/train/images/real_train_000205.jpg",
+      "Real/train/images/real_train_000209.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_294daa0b463ef3b8228e",
+    "image": [
+      "Real/train/images/real_train_001247.jpg",
+      "Real/train/images/real_train_001243.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3d477599cde2c3352108",
+    "image": [
+      "Real/train/images/real_train_001452.jpg",
+      "Real/train/images/real_train_001454.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2c8910a1836e881896cb",
+    "image": [
+      "Real/train/images/real_train_001522.jpg",
+      "Real/train/images/real_train_001524.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_99391aa787b0fc3a4fa4",
+    "image": [
+      "Real/train/images/real_train_000866.jpg",
+      "Real/train/images/real_train_000863.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f352838f6d8762a2cd7b",
+    "image": [
+      "Real/train/images/real_train_000714.jpg",
+      "Real/train/images/real_train_000719.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_882c0b163e1bf2af8fed",
+    "image": [
+      "Real/train/images/real_train_001478.png",
+      "Real/train/images/real_train_001479.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_be0a291a4f12c4be8280",
+    "image": [
+      "Real/train/images/real_train_000224.jpg",
+      "Real/train/images/real_train_000225.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7f6f6cbf43a957ea2ab6",
+    "image": [
+      "Real/train/images/real_train_000322.jpg",
+      "Real/train/images/real_train_000323.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_50ba8b776408db8c22da",
+    "image": [
+      "Real/train/images/real_train_000243.jpg",
+      "Real/train/images/real_train_000247.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2939073858b0bbed7404",
+    "image": [
+      "Real/train/images/real_train_001117.jpg",
+      "Real/train/images/real_train_001121.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_668e2101e3ce8fa3de23",
+    "image": [
+      "Real/train/images/real_train_000240.jpg",
+      "Real/train/images/real_train_000237.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_89bca5874046a83c8f55",
+    "image": [
+      "Real/train/images/real_train_001418.jpg",
+      "Real/train/images/real_train_001421.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d208ede7bf94711cebec",
+    "image": [
+      "Real/train/images/real_train_001256.jpg",
+      "Real/train/images/real_train_001262.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_206cda15666a1bbfc0be",
+    "image": [
+      "Real/train/images/real_train_000820.jpg",
+      "Real/train/images/real_train_000822.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7fb815532dec611ffd39",
+    "image": [
+      "Real/train/images/real_train_001567.jpg",
+      "Real/train/images/real_train_001565.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7e961750557964a03361",
+    "image": [
+      "Real/train/images/real_train_001512.jpg",
+      "Real/train/images/real_train_001508.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a7798025e503125c60af",
+    "image": [
+      "Real/train/images/real_train_001355.jpg",
+      "Real/train/images/real_train_001359.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_89b8e64fcc59574ea433",
+    "image": [
+      "Real/train/images/real_train_000563.jpg",
+      "Real/train/images/real_train_000556.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a87a117cf74faf26da88",
+    "image": [
+      "Real/train/images/real_train_000681.jpg",
+      "Real/train/images/real_train_000682.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b6344b8a4daf5397e843",
+    "image": [
+      "Real/train/images/real_train_000632.jpg",
+      "Real/train/images/real_train_000633.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_530729cbeac8890cf767",
+    "image": [
+      "Real/train/images/real_train_001159.jpg",
+      "Real/train/images/real_train_001162.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1c3bc00e358dbeff94ae",
+    "image": [
+      "Real/train/images/real_train_001292.jpg",
+      "Real/train/images/real_train_001293.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e7ebe6d879af9b38af8d",
+    "image": [
+      "Real/train/images/real_train_000258.jpg",
+      "Real/train/images/real_train_000255.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e25a8c8fded0920c6abe",
+    "image": [
+      "Real/train/images/real_train_001126.jpg",
+      "Real/train/images/real_train_001131.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c6c18ee999af0934dbd0",
+    "image": [
+      "Real/train/images/real_train_000574.jpg",
+      "Real/train/images/real_train_000572.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c635fc4f5de58402c71e",
+    "image": [
+      "Real/train/images/real_train_001437.jpg",
+      "Real/train/images/real_train_001438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0d2bfe781477724d8335",
+    "image": [
+      "Real/train/images/real_train_001198.jpg",
+      "Real/train/images/real_train_001190.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_872cb3383731fa8cce72",
+    "image": [
+      "Real/train/images/real_train_000337.jpg",
+      "Real/train/images/real_train_000341.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3c2cc8297e6ef1c5a56a",
+    "image": [
+      "Real/train/images/real_train_000657.jpg",
+      "Real/train/images/real_train_000663.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_acbf7ed2808921079216",
+    "image": [
+      "Real/train/images/real_train_001248.jpg",
+      "Real/train/images/real_train_001250.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_44eb3b9a83f0cc4617eb",
+    "image": [
+      "Real/train/images/real_train_001066.jpg",
+      "Real/train/images/real_train_001061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_33738a8ca3f14420bec6",
+    "image": [
+      "Real/train/images/real_train_001304.jpg",
+      "Real/train/images/real_train_001305.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9abf9da22a3e43cf9cca",
+    "image": [
+      "Real/train/images/real_train_000022.jpg",
+      "Real/train/images/real_train_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ce01bb985562e67fbc12",
+    "image": [
+      "Real/train/images/real_train_001545.jpg",
+      "Real/train/images/real_train_001546.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_6d3ff21ec5af25896ab6",
+    "image": [
+      "Real/train/images/real_train_001101.jpg",
+      "Real/train/images/real_train_001107.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a24f16b32285bf5cf857",
+    "image": [
+      "Real/train/images/real_train_001618.jpg",
+      "Real/train/images/real_train_001612.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_de7d78f0a792f5a19eaf",
+    "image": [
+      "Real/train/images/real_train_000351.jpg",
+      "Real/train/images/real_train_000353.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e4b528f1146c2f4218c0",
+    "image": [
+      "Real/train/images/real_train_000292.jpg",
+      "Real/train/images/real_train_000294.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3f4f266974f66870c052",
+    "image": [
+      "Real/train/images/real_train_000731.jpg",
+      "Real/train/images/real_train_000733.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a44e0bbe8150cbea1332",
+    "image": [
+      "Real/train/images/real_train_000935.jpg",
+      "Real/train/images/real_train_000927.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0323bd137e2de0a49119",
+    "image": [
+      "Real/train/images/real_train_001481.png",
+      "Real/train/images/real_train_001485.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_15f4871cd349e3912c10",
+    "image": [
+      "Real/train/images/real_train_001294.jpg",
+      "Real/train/images/real_train_001296.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_52fc665c5a8c0d42c8b5",
+    "image": [
+      "Real/train/images/real_train_001183.jpg",
+      "Real/train/images/real_train_001184.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4f26a1b31a6cf3b3f6cb",
+    "image": [
+      "Real/train/images/real_train_000438.jpg",
+      "Real/train/images/real_train_000439.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fcc0e8911725f56d7253",
+    "image": [
+      "Real/train/images/real_train_000297.jpg",
+      "Real/train/images/real_train_000296.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_278f6fa3038f1b52f536",
+    "image": [
+      "Real/train/images/real_train_001079.jpg",
+      "Real/train/images/real_train_001080.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_52e0857b34c40e05b47d",
+    "image": [
+      "Real/train/images/real_train_001538.jpg",
+      "Real/train/images/real_train_001532.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a6b64f2f8ef0805eed50",
+    "image": [
+      "Real/train/images/real_train_000829.jpg",
+      "Real/train/images/real_train_000825.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bb230773a08228b0b1b5",
+    "image": [
+      "Real/train/images/real_train_000843.jpg",
+      "Real/train/images/real_train_000844.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4e03de617d39e74d32b4",
+    "image": [
+      "Real/train/images/real_train_000921.jpg",
+      "Real/train/images/real_train_000923.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_49cd7b70e64f29aaddc5",
+    "image": [
+      "Real/train/images/real_train_000890.jpg",
+      "Real/train/images/real_train_000892.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_91bbee7637e311643138",
+    "image": [
+      "Real/train/images/real_train_000400.jpg",
+      "Real/train/images/real_train_000401.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0f100c1e5b746379c264",
+    "image": [
+      "Real/train/images/real_train_000668.jpg",
+      "Real/train/images/real_train_000672.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_5de051547509e68fadb5",
+    "image": [
+      "Real/train/images/real_train_000810.jpg",
+      "Real/train/images/real_train_000813.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0f60a79999acf763647f",
+    "image": [
+      "Real/train/images/real_train_001591.jpg",
+      "Real/train/images/real_train_001587.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a730d0e684a62aa2a1ad",
+    "image": [
+      "Real/train/images/real_train_000656.jpg",
+      "Real/train/images/real_train_000662.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f2301b5a3a3597972e71",
+    "image": [
+      "Real/train/images/real_train_000661.jpg",
+      "Real/train/images/real_train_000664.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1086ee93525fb68deaba",
+    "image": [
+      "Real/train/images/real_train_001134.jpg",
+      "Real/train/images/real_train_001132.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2cf37c78f3076d4de2dc",
+    "image": [
+      "Real/train/images/real_train_001181.jpg",
+      "Real/train/images/real_train_001186.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e9eb1327150c3a53cbab",
+    "image": [
+      "Real/train/images/real_train_000011.jpg",
+      "Real/train/images/real_train_000016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b1252a65af05de564180",
+    "image": [
+      "Real/train/images/real_train_000784.jpg",
+      "Real/train/images/real_train_000786.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_28feb68a6cc088f4a0a2",
+    "image": [
+      "Real/train/images/real_train_000585.jpg",
+      "Real/train/images/real_train_000579.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c2c32371d931e9d45ce9",
+    "image": [
+      "Real/train/images/real_train_000141.jpg",
+      "Real/train/images/real_train_000149.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2e17577ef2d549fd404e",
+    "image": [
+      "Real/train/images/real_train_001514.jpg",
+      "Real/train/images/real_train_001518.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3fa32b768a15eb18ac81",
+    "image": [
+      "Real/train/images/real_train_001022.jpg",
+      "Real/train/images/real_train_001025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7b9a68f39e75c0122ce1",
+    "image": [
+      "Real/train/images/real_train_000045.jpg",
+      "Real/train/images/real_train_000048.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_28382efe2e6dde2317a4",
+    "image": [
+      "Real/train/images/real_train_000084.jpg",
+      "Real/train/images/real_train_000085.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2cde6e862c37193180ad",
+    "image": [
+      "Real/train/images/real_train_000543.jpg",
+      "Real/train/images/real_train_000534.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_cc4e76216a087437d170",
+    "image": [
+      "Real/train/images/real_train_000172.jpg",
+      "Real/train/images/real_train_000180.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_5440f11ddcef077aa5bc",
+    "image": [
+      "Real/train/images/real_train_000101.jpg",
+      "Real/train/images/real_train_000108.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8e9ae33eaa1f0ab3e956",
+    "image": [
+      "Real/train/images/real_train_001525.jpg",
+      "Real/train/images/real_train_001527.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a33a714ea6508a40f2a3",
+    "image": [
+      "Real/train/images/real_train_001554.jpg",
+      "Real/train/images/real_train_001552.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_050e53b71a64eec1f3be",
+    "image": [
+      "Real/train/images/real_train_001625.jpg",
+      "Real/train/images/real_train_001626.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d0fc528f16440eae2aab",
+    "image": [
+      "Real/train/images/real_train_001397.jpg",
+      "Real/train/images/real_train_001390.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7c5c8e5e5e28ab2077be",
+    "image": [
+      "Real/train/images/real_train_000267.jpg",
+      "Real/train/images/real_train_000272.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d8267b6973480f2addf7",
+    "image": [
+      "Real/train/images/real_train_001664.jpg",
+      "Real/train/images/real_train_001665.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_157e268a7c4585afd9bb",
+    "image": [
+      "Real/train/images/real_train_000362.jpg",
+      "Real/train/images/real_train_000363.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a04423d4dd76366226b5",
+    "image": [
+      "Real/train/images/real_train_000968.jpg",
+      "Real/train/images/real_train_000964.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_046dc9f1f827e6be0aff",
+    "image": [
+      "Real/train/images/real_train_000185.jpg",
+      "Real/train/images/real_train_000186.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_229308bccaaad0ad5224",
+    "image": [
+      "Real/train/images/real_train_001211.jpg",
+      "Real/train/images/real_train_001216.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0f902def5cf28f298e86",
+    "image": [
+      "Real/train/images/real_train_000036.jpg",
+      "Real/train/images/real_train_000039.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4103242ce69e97760d83",
+    "image": [
+      "Real/train/images/real_train_000875.jpg",
+      "Real/train/images/real_train_000877.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_5e9cb9ab149d38a3127b",
+    "image": [
+      "Real/train/images/real_train_000728.jpg",
+      "Real/train/images/real_train_000726.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_634ae9f40b519ec84174",
+    "image": [
+      "Real/train/images/real_train_001278.jpg",
+      "Real/train/images/real_train_001281.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_18bcf9855c25f8865145",
+    "image": [
+      "Real/train/images/real_train_001192.jpg",
+      "Real/train/images/real_train_001193.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8ba12163a7b5c488a6fd",
+    "image": [
+      "Real/train/images/real_train_000452.jpg",
+      "Real/train/images/real_train_000443.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4180a298fcbb82b0d93e",
+    "image": [
+      "Real/train/images/real_train_001298.jpg",
+      "Real/train/images/real_train_001301.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1483dd83fa600c70b618",
+    "image": [
+      "Real/train/images/real_train_000834.jpg",
+      "Real/train/images/real_train_000836.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_318ec870a30691ac0938",
+    "image": [
+      "Real/train/images/real_train_000092.jpg",
+      "Real/train/images/real_train_000096.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_009036a1864aefb6e2fc",
+    "image": [
+      "Real/train/images/real_train_001581.jpg",
+      "Real/train/images/real_train_001583.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9f44145f036a72375afd",
+    "image": [
+      "Real/train/images/real_train_000130.jpg",
+      "Real/train/images/real_train_000124.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1d5ff2a551f0f467a8e8",
+    "image": [
+      "Real/train/images/real_train_000222.jpg",
+      "Real/train/images/real_train_000228.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d085a9f0308a5932b7b5",
+    "image": [
+      "Real/train/images/real_train_000413.jpg",
+      "Real/train/images/real_train_000415.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ba2b4c11b4c58d04cdba",
+    "image": [
+      "Real/train/images/real_train_000767.jpg",
+      "Real/train/images/real_train_000768.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a1e4eba5a02585b30058",
+    "image": [
+      "Real/train/images/real_train_000444.jpg",
+      "Real/train/images/real_train_000450.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_67f38ba58d14ff52cbda",
+    "image": [
+      "Real/train/images/real_train_001044.jpg",
+      "Real/train/images/real_train_001045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1e40095069a2faef5f57",
+    "image": [
+      "Real/train/images/real_train_001170.jpg",
+      "Real/train/images/real_train_001173.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_38986cb70ded32f6092a",
+    "image": [
+      "Real/train/images/real_train_001209.jpg",
+      "Real/train/images/real_train_001213.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ec7f7aea4f7685ed57d8",
+    "image": [
+      "Real/train/images/real_train_000766.jpg",
+      "Real/train/images/real_train_000771.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c979e748d21a76769871",
+    "image": [
+      "Real/train/images/real_train_000184.jpg",
+      "Real/train/images/real_train_000188.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8bd16c8f7d3936467aac",
+    "image": [
+      "Real/train/images/real_train_000339.jpg",
+      "Real/train/images/real_train_000343.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b240b552737a271f38dc",
+    "image": [
+      "Real/train/images/real_train_001364.jpg",
+      "Real/train/images/real_train_001369.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d343d3d83ebe1894e4d8",
+    "image": [
+      "Real/train/images/real_train_000856.jpg",
+      "Real/train/images/real_train_000850.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a5e98e6d92c12d5abedb",
+    "image": [
+      "Real/train/images/real_train_000989.jpg",
+      "Real/train/images/real_train_000996.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bfde9d418ba3d331e6e9",
+    "image": [
+      "Real/train/images/real_train_001153.jpg",
+      "Real/train/images/real_train_001156.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_61826a22bae928351531",
+    "image": [
+      "Real/train/images/real_train_000758.jpg",
+      "Real/train/images/real_train_000760.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3df175a578fbeedeb43b",
+    "image": [
+      "Real/train/images/real_train_000080.jpg",
+      "Real/train/images/real_train_000083.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_eb65aa39f7480bde7111",
+    "image": [
+      "Real/train/images/real_train_000598.jpg",
+      "Real/train/images/real_train_000599.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fbbbe7f1bc80bb9eb375",
+    "image": [
+      "Real/train/images/real_train_000461.jpg",
+      "Real/train/images/real_train_000453.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_39eed86073b1501537fc",
+    "image": [
+      "Real/train/images/real_train_000278.jpg",
+      "Real/train/images/real_train_000282.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_af437be99bd11e1e50e6",
+    "image": [
+      "Real/train/images/real_train_001071.jpg",
+      "Real/train/images/real_train_001072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bd635695b588676dc1a7",
+    "image": [
+      "Real/train/images/real_train_000748.jpg",
+      "Real/train/images/real_train_000749.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7c5d2845467fef11afa9",
+    "image": [
+      "Real/train/images/real_train_001604.jpg",
+      "Real/train/images/real_train_001608.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_78a8dc3c50296d1aac96",
+    "image": [
+      "Real/train/images/real_train_000583.jpg",
+      "Real/train/images/real_train_000584.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c0b15a27c6e7b777216d",
+    "image": [
+      "Real/train/images/real_train_000494.jpg",
+      "Real/train/images/real_train_000499.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1e865162d90ba7990595",
+    "image": [
+      "Real/train/images/real_train_000328.jpg",
+      "Real/train/images/real_train_000334.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9bcff5e7def5f1ed6169",
+    "image": [
+      "Real/train/images/real_train_000705.jpg",
+      "Real/train/images/real_train_000710.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_343cd111c16ac59f5de3",
+    "image": [
+      "Real/train/images/real_train_000781.jpg",
+      "Real/train/images/real_train_000777.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_11cef13801fa664c4bd3",
+    "image": [
+      "Render/train/images/render_train_indoor_000233.jpg",
+      "Render/train/images/render_train_indoor_000234.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f71281d1ef16b71a39a3",
+    "image": [
+      "Render/train/images/render_train_outdoor_000215.jpg",
+      "Render/train/images/render_train_outdoor_000210.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fd18c54b6258487c35a0",
+    "image": [
+      "Render/train/images/render_train_indoor_000269.jpg",
+      "Render/train/images/render_train_indoor_000270.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a1080f3f52d85b4bb094",
+    "image": [
+      "Render/train/images/render_train_outdoor_000166.jpg",
+      "Render/train/images/render_train_outdoor_000161.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b33fc5cb252395780bae",
+    "image": [
+      "Render/train/images/render_train_outdoor_000383.jpg",
+      "Render/train/images/render_train_outdoor_000380.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_be4a0d796f1171cc3c9c",
+    "image": [
+      "Render/train/images/render_train_indoor_000396.jpg",
+      "Render/train/images/render_train_indoor_000384.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_05303e7cae29a0713585",
+    "image": [
+      "Render/train/images/render_train_indoor_000034.jpg",
+      "Render/train/images/render_train_indoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_683bc33ff167af2fa78c",
+    "image": [
+      "Render/train/images/render_train_indoor_000055.jpg",
+      "Render/train/images/render_train_indoor_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_eb683436a744dc3cc053",
+    "image": [
+      "Render/train/images/render_train_indoor_000283.jpg",
+      "Render/train/images/render_train_indoor_000294.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c471a89a78e8e629e155",
+    "image": [
+      "Render/train/images/render_train_outdoor_000413.jpg",
+      "Render/train/images/render_train_outdoor_000416.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_47663623307f4dc0b2c1",
+    "image": [
+      "Render/train/images/render_train_indoor_000145.jpg",
+      "Render/train/images/render_train_indoor_000149.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_44b17c7da334548a9219",
+    "image": [
+      "Render/train/images/render_train_indoor_000306.jpg",
+      "Render/train/images/render_train_indoor_000300.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7c37515b37afdffbb751",
+    "image": [
+      "Render/train/images/render_train_outdoor_000031.jpg",
+      "Render/train/images/render_train_outdoor_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_40e483ee1791e990dead",
+    "image": [
+      "Render/train/images/render_train_indoor_000176.jpg",
+      "Render/train/images/render_train_indoor_000171.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_11e3cab083e27a33acab",
+    "image": [
+      "Render/train/images/render_train_outdoor_000486.jpg",
+      "Render/train/images/render_train_outdoor_000490.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_68a427c754269968bcdc",
+    "image": [
+      "Render/train/images/render_train_indoor_000464.jpg",
+      "Render/train/images/render_train_indoor_000457.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7ec9af7809c1763d642d",
+    "image": [
+      "Render/train/images/render_train_indoor_000040.jpg",
+      "Render/train/images/render_train_indoor_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d29d9072a94a39a1abc5",
+    "image": [
+      "Render/train/images/render_train_indoor_000418.jpg",
+      "Render/train/images/render_train_indoor_000413.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0c77be67e2c78cb37d8e",
+    "image": [
+      "Render/train/images/render_train_indoor_000138.jpg",
+      "Render/train/images/render_train_indoor_000135.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8f1176af7887557eadf7",
+    "image": [
+      "Render/train/images/render_train_outdoor_000171.jpg",
+      "Render/train/images/render_train_outdoor_000178.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8a5edb370fc3464adb1b",
+    "image": [
+      "Render/train/images/render_train_indoor_000315.jpg",
+      "Render/train/images/render_train_indoor_000318.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_53f4eb332988716801a7",
+    "image": [
+      "Render/train/images/render_train_outdoor_000412.jpg",
+      "Render/train/images/render_train_outdoor_000415.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0d95522a9a23227673b1",
+    "image": [
+      "Render/train/images/render_train_indoor_000268.jpg",
+      "Render/train/images/render_train_indoor_000261.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ffaaf298e8c2ab1398da",
+    "image": [
+      "Render/train/images/render_train_indoor_000084.jpg",
+      "Render/train/images/render_train_indoor_000076.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_980e16d81232a0177a45",
+    "image": [
+      "Render/train/images/render_train_outdoor_000170.jpg",
+      "Render/train/images/render_train_outdoor_000164.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b52316f4fdc1927372d1",
+    "image": [
+      "Render/train/images/render_train_indoor_000293.jpg",
+      "Render/train/images/render_train_indoor_000284.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_856fe7645b04d0e9d47b",
+    "image": [
+      "Render/train/images/render_train_outdoor_000232.jpg",
+      "Render/train/images/render_train_outdoor_000228.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a03089f07f1f48d5e10b",
+    "image": [
+      "Render/train/images/render_train_outdoor_000142.jpg",
+      "Render/train/images/render_train_outdoor_000139.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8b05793c3acc9bfdd17f",
+    "image": [
+      "Render/train/images/render_train_outdoor_000301.jpg",
+      "Render/train/images/render_train_outdoor_000291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_51b523f58086ad1aae2e",
+    "image": [
+      "Render/train/images/render_train_outdoor_000229.jpg",
+      "Render/train/images/render_train_outdoor_000235.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4447b49a395ac37cb66d",
+    "image": [
+      "Render/train/images/render_train_outdoor_000252.jpg",
+      "Render/train/images/render_train_outdoor_000256.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_81839e05f124e3005508",
+    "image": [
+      "Render/train/images/render_train_indoor_000303.jpg",
+      "Render/train/images/render_train_indoor_000305.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c54047a35803b7f440cd",
+    "image": [
+      "Render/train/images/render_train_outdoor_000408.jpg",
+      "Render/train/images/render_train_outdoor_000410.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_14190d82d17431402904",
+    "image": [
+      "Render/train/images/render_train_outdoor_000365.jpg",
+      "Render/train/images/render_train_outdoor_000360.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_43ba32dbbda3a25eb4a7",
+    "image": [
+      "Render/train/images/render_train_outdoor_000003.jpg",
+      "Render/train/images/render_train_outdoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ed03fafc3817d460241e",
+    "image": [
+      "Render/train/images/render_train_indoor_000068.jpg",
+      "Render/train/images/render_train_indoor_000063.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_67010f2f3fd2acc52662",
+    "image": [
+      "Render/train/images/render_train_indoor_000132.jpg",
+      "Render/train/images/render_train_indoor_000121.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f008b6252ec88635baba",
+    "image": [
+      "Render/train/images/render_train_outdoor_000218.jpg",
+      "Render/train/images/render_train_outdoor_000221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_791155e8bf0719e47d25",
+    "image": [
+      "Render/train/images/render_train_outdoor_000060.jpg",
+      "Render/train/images/render_train_outdoor_000067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0819994aee39041e19fe",
+    "image": [
+      "Render/train/images/render_train_indoor_000010.jpg",
+      "Render/train/images/render_train_indoor_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bfa857c317296744843d",
+    "image": [
+      "Render/train/images/render_train_outdoor_000338.jpg",
+      "Render/train/images/render_train_outdoor_000333.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_38c605e661c6f8c93c59",
+    "image": [
+      "Render/train/images/render_train_outdoor_000385.jpg",
+      "Render/train/images/render_train_outdoor_000387.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b5325f70e6939eace4dc",
+    "image": [
+      "Render/train/images/render_train_outdoor_000457.jpg",
+      "Render/train/images/render_train_outdoor_000452.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_49c1e58c1169ee24e562",
+    "image": [
+      "Render/train/images/render_train_indoor_000331.jpg",
+      "Render/train/images/render_train_indoor_000324.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_67e6e4f08f2b7d13937b",
+    "image": [
+      "Render/train/images/render_train_indoor_000136.jpg",
+      "Render/train/images/render_train_indoor_000137.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_78104d2f3fbd6e2582fe",
+    "image": [
+      "Render/train/images/render_train_indoor_000020.jpg",
+      "Render/train/images/render_train_indoor_000024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9af878896422e934c8df",
+    "image": [
+      "Render/train/images/render_train_outdoor_000102.jpg",
+      "Render/train/images/render_train_outdoor_000094.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9b4f6f4ab78df4aaa180",
+    "image": [
+      "Render/train/images/render_train_outdoor_000202.jpg",
+      "Render/train/images/render_train_outdoor_000207.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_174e2d3eef35c9605440",
+    "image": [
+      "Render/train/images/render_train_indoor_000167.jpg",
+      "Render/train/images/render_train_indoor_000161.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_4bc3969b7de263ff1a37",
+    "image": [
+      "Render/train/images/render_train_outdoor_000145.jpg",
+      "Render/train/images/render_train_outdoor_000146.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b2095af718e0436f752b",
+    "image": [
+      "Render/train/images/render_train_outdoor_000115.jpg",
+      "Render/train/images/render_train_outdoor_000114.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c48e69123ea86577896a",
+    "image": [
+      "Render/train/images/render_train_outdoor_000272.jpg",
+      "Render/train/images/render_train_outdoor_000268.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d0453d9ae545adafa92a",
+    "image": [
+      "Render/train/images/render_train_indoor_000134.jpg",
+      "Render/train/images/render_train_indoor_000141.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_0f46472c546762c61d51",
+    "image": [
+      "Render/train/images/render_train_outdoor_000247.jpg",
+      "Render/train/images/render_train_outdoor_000242.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_88e03a0dc9f2af46c72f",
+    "image": [
+      "Render/train/images/render_train_outdoor_000450.jpg",
+      "Render/train/images/render_train_outdoor_000449.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a6cab2e7c2601fc8eb2e",
+    "image": [
+      "Render/train/images/render_train_indoor_000289.jpg",
+      "Render/train/images/render_train_indoor_000291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bda6e298f1e2af95c5fb",
+    "image": [
+      "Render/train/images/render_train_outdoor_000349.jpg",
+      "Render/train/images/render_train_outdoor_000347.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_967eebc971887e9552ae",
+    "image": [
+      "Render/train/images/render_train_indoor_000212.jpg",
+      "Render/train/images/render_train_indoor_000208.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_78727405811a1bc8cdf9",
+    "image": [
+      "Render/train/images/render_train_outdoor_000432.jpg",
+      "Render/train/images/render_train_outdoor_000431.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_23023396e551023ff246",
+    "image": [
+      "Render/train/images/render_train_outdoor_000350.jpg",
+      "Render/train/images/render_train_outdoor_000345.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_529573a8444352af02b6",
+    "image": [
+      "Render/train/images/render_train_indoor_000390.jpg",
+      "Render/train/images/render_train_indoor_000386.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1b142b6f036e648dbd72",
+    "image": [
+      "Render/train/images/render_train_indoor_000038.jpg",
+      "Render/train/images/render_train_indoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ea1bd8505ce95fc29fbc",
+    "image": [
+      "Render/train/images/render_train_indoor_000003.jpg",
+      "Render/train/images/render_train_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d5fb8d234374014b513f",
+    "image": [
+      "Render/train/images/render_train_outdoor_000317.jpg",
+      "Render/train/images/render_train_outdoor_000307.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_47e2201edd18fd3f4e63",
+    "image": [
+      "Render/train/images/render_train_outdoor_000261.jpg",
+      "Render/train/images/render_train_outdoor_000255.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c37b08f9fbfb28601eaa",
+    "image": [
+      "Render/train/images/render_train_indoor_000172.jpg",
+      "Render/train/images/render_train_indoor_000173.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_edd004308664e329dd7d",
+    "image": [
+      "Render/train/images/render_train_indoor_000441.jpg",
+      "Render/train/images/render_train_indoor_000438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ae31714170f937674890",
+    "image": [
+      "Render/train/images/render_train_outdoor_000198.jpg",
+      "Render/train/images/render_train_outdoor_000206.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ef0d654539d4f0ecf827",
+    "image": [
+      "Render/train/images/render_train_indoor_000370.jpg",
+      "Render/train/images/render_train_indoor_000371.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_91f0458e77c022e7e6a5",
+    "image": [
+      "Render/train/images/render_train_indoor_000025.jpg",
+      "Render/train/images/render_train_indoor_000013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3583fa31b58a2069cab6",
+    "image": [
+      "Render/train/images/render_train_indoor_000279.jpg",
+      "Render/train/images/render_train_indoor_000274.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d77f24afbf68a7a3b353",
+    "image": [
+      "Render/train/images/render_train_outdoor_000404.jpg",
+      "Render/train/images/render_train_outdoor_000400.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_249773b73a2f1757b2ae",
+    "image": [
+      "Render/train/images/render_train_outdoor_000226.jpg",
+      "Render/train/images/render_train_outdoor_000227.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_46a7b2ba21c805017464",
+    "image": [
+      "Render/train/images/render_train_indoor_000411.jpg",
+      "Render/train/images/render_train_indoor_000420.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_818aad090096b5ec98a6",
+    "image": [
+      "Render/train/images/render_train_outdoor_000070.jpg",
+      "Render/train/images/render_train_outdoor_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2e8886459d996b4923d1",
+    "image": [
+      "Render/train/images/render_train_outdoor_000216.jpg",
+      "Render/train/images/render_train_outdoor_000212.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_89617bcefa2bd8e527c5",
+    "image": [
+      "Render/train/images/render_train_outdoor_000052.jpg",
+      "Render/train/images/render_train_outdoor_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_71844521b27f3ea23e01",
+    "image": [
+      "Render/train/images/render_train_outdoor_000370.jpg",
+      "Render/train/images/render_train_outdoor_000359.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_beee64e9dae6b80f994c",
+    "image": [
+      "Render/train/images/render_train_outdoor_000251.jpg",
+      "Render/train/images/render_train_outdoor_000262.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f0cd5daf498fb787d98d",
+    "image": [
+      "Render/train/images/render_train_indoor_000075.jpg",
+      "Render/train/images/render_train_indoor_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a795161c6a76a4f03308",
+    "image": [
+      "Render/train/images/render_train_outdoor_000008.jpg",
+      "Render/train/images/render_train_outdoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c62be59de9e0b2e349bd",
+    "image": [
+      "Render/train/images/render_train_indoor_000216.jpg",
+      "Render/train/images/render_train_indoor_000221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_588e44b53d87a9981aad",
+    "image": [
+      "Render/train/images/render_train_outdoor_000118.jpg",
+      "Render/train/images/render_train_outdoor_000119.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_980b2bf0002e8bbc01cc",
+    "image": [
+      "Render/train/images/render_train_outdoor_000499.jpg",
+      "Render/train/images/render_train_outdoor_000495.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_228879cd92821c2709ae",
+    "image": [
+      "Render/train/images/render_train_outdoor_000193.jpg",
+      "Render/train/images/render_train_outdoor_000196.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fd5df9217899135ca868",
+    "image": [
+      "Render/train/images/render_train_indoor_000088.jpg",
+      "Render/train/images/render_train_indoor_000093.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f697b568144126455512",
+    "image": [
+      "Render/train/images/render_train_outdoor_000250.jpg",
+      "Render/train/images/render_train_outdoor_000238.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_1a33ee8f1c52b1a042aa",
+    "image": [
+      "Render/train/images/render_train_indoor_000333.jpg",
+      "Render/train/images/render_train_indoor_000326.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ebde2dc3c366874912b1",
+    "image": [
+      "Render/train/images/render_train_outdoor_000473.jpg",
+      "Render/train/images/render_train_outdoor_000465.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_56bb3130fd875bc5b0eb",
+    "image": [
+      "Render/train/images/render_train_outdoor_000155.jpg",
+      "Render/train/images/render_train_outdoor_000147.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ff6b33a7289ab2231cf1",
+    "image": [
+      "Render/train/images/render_train_indoor_000332.jpg",
+      "Render/train/images/render_train_indoor_000323.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fba3dee7c8d26a408744",
+    "image": [
+      "Render/train/images/render_train_indoor_000436.jpg",
+      "Render/train/images/render_train_indoor_000431.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_a87f0062794c281a3b3c",
+    "image": [
+      "Render/train/images/render_train_indoor_000059.jpg",
+      "Render/train/images/render_train_indoor_000053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_c48e6d073df24ba08abe",
+    "image": [
+      "Render/train/images/render_train_indoor_000363.jpg",
+      "Render/train/images/render_train_indoor_000350.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_2ee1f9d33e27e49af7fa",
+    "image": [
+      "Render/train/images/render_train_outdoor_000394.jpg",
+      "Render/train/images/render_train_outdoor_000386.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_22bf22ae941e51a76740",
+    "image": [
+      "Render/train/images/render_train_outdoor_000149.jpg",
+      "Render/train/images/render_train_outdoor_000153.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_fc128024ba5b82f3b7df",
+    "image": [
+      "Render/train/images/render_train_outdoor_000223.jpg",
+      "Render/train/images/render_train_outdoor_000225.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_d0100fe269c891807b69",
+    "image": [
+      "Render/train/images/render_train_outdoor_000439.jpg",
+      "Render/train/images/render_train_outdoor_000427.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_147a65c32bc5a80a4af7",
+    "image": [
+      "Render/train/images/render_train_outdoor_000487.jpg",
+      "Render/train/images/render_train_outdoor_000489.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e8cb554167ddfb6e1ed6",
+    "image": [
+      "Render/train/images/render_train_outdoor_000329.jpg",
+      "Render/train/images/render_train_outdoor_000330.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f38ee697466fc71bc3d6",
+    "image": [
+      "Render/train/images/render_train_indoor_000169.jpg",
+      "Render/train/images/render_train_indoor_000174.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_ce85cfc94a82e4a4eddc",
+    "image": [
+      "Render/train/images/render_train_outdoor_000085.jpg",
+      "Render/train/images/render_train_outdoor_000081.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9c9105d4ea2dc7715aa1",
+    "image": [
+      "Render/train/images/render_train_indoor_000422.jpg",
+      "Render/train/images/render_train_indoor_000419.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_6f395a65fd59040d9204",
+    "image": [
+      "Render/train/images/render_train_outdoor_000335.jpg",
+      "Render/train/images/render_train_outdoor_000340.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_379205b873f64de7f26c",
+    "image": [
+      "Render/train/images/render_train_indoor_000351.jpg",
+      "Render/train/images/render_train_indoor_000353.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_16452f6f159bfbc738c9",
+    "image": [
+      "Render/train/images/render_train_outdoor_000163.jpg",
+      "Render/train/images/render_train_outdoor_000158.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_e0060c58fac338d63ca0",
+    "image": [
+      "Render/train/images/render_train_outdoor_000269.jpg",
+      "Render/train/images/render_train_outdoor_000266.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_47215355c4036fa12c16",
+    "image": [
+      "Render/train/images/render_train_outdoor_000079.jpg",
+      "Render/train/images/render_train_outdoor_000082.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b450b90c71f86eac3e1f",
+    "image": [
+      "Render/train/images/render_train_outdoor_000285.jpg",
+      "Render/train/images/render_train_outdoor_000281.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_24042969f7f5af8d846d",
+    "image": [
+      "Render/train/images/render_train_outdoor_000095.jpg",
+      "Render/train/images/render_train_outdoor_000099.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9f642e3c1ce6a86e3c15",
+    "image": [
+      "Render/train/images/render_train_outdoor_000425.jpg",
+      "Render/train/images/render_train_outdoor_000421.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_11d5ccfbd2ff16ecdcb6",
+    "image": [
+      "Render/train/images/render_train_indoor_000008.jpg",
+      "Render/train/images/render_train_indoor_000002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f67887c31069d3c48636",
+    "image": [
+      "Render/train/images/render_train_indoor_000347.jpg",
+      "Render/train/images/render_train_indoor_000348.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_bf74e714fa0a2b2b574f",
+    "image": [
+      "Render/train/images/render_train_indoor_000162.jpg",
+      "Render/train/images/render_train_indoor_000166.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_f442ee5e9d65434e2650",
+    "image": [
+      "Render/train/images/render_train_outdoor_000321.jpg",
+      "Render/train/images/render_train_outdoor_000320.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_dc2cc79f2f1e87b6f397",
+    "image": [
+      "Render/train/images/render_train_indoor_000445.jpg",
+      "Render/train/images/render_train_indoor_000437.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_3ade4181bf899d6652de",
+    "image": [
+      "Render/train/images/render_train_indoor_000222.jpg",
+      "Render/train/images/render_train_indoor_000220.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8c1f003d27aa2e7b0063",
+    "image": [
+      "Render/train/images/render_train_indoor_000403.jpg",
+      "Render/train/images/render_train_indoor_000405.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_8704b15ccd33f7b17dd0",
+    "image": [
+      "Render/train/images/render_train_indoor_000407.jpg",
+      "Render/train/images/render_train_indoor_000408.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_b0a8352131850df6af59",
+    "image": [
+      "Render/train/images/render_train_indoor_000321.jpg",
+      "Render/train/images/render_train_indoor_000320.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_096969362bd49c79f4fd",
+    "image": [
+      "Render/train/images/render_train_indoor_000280.jpg",
+      "Render/train/images/render_train_indoor_000281.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_00991f51a6a25e1d6a23",
+    "image": [
+      "Render/train/images/render_train_indoor_000206.jpg",
+      "Render/train/images/render_train_indoor_000209.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7d6b0d8cf1b968764a87",
+    "image": [
+      "Render/train/images/render_train_outdoor_000483.jpg",
+      "Render/train/images/render_train_outdoor_000480.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_63456f17a52b26f5cc4a",
+    "image": [
+      "Render/train/images/render_train_outdoor_000036.jpg",
+      "Render/train/images/render_train_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_7c37780fc7c5fd1cea31",
+    "image": [
+      "Render/train/images/render_train_outdoor_000098.jpg",
+      "Render/train/images/render_train_outdoor_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_467f32c3e3a05abe9b02",
+    "image": [
+      "Render/train/images/render_train_indoor_000406.jpg",
+      "Render/train/images/render_train_indoor_000402.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_546bc14a17bab52290f9",
+    "image": [
+      "Render/train/images/render_train_indoor_000455.jpg",
+      "Render/train/images/render_train_indoor_000450.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "train_9b84b4d0f60e49a67efa",
+    "image": [
+      "Render/train/images/render_train_indoor_000409.jpg",
+      "Render/train/images/render_train_indoor_000401.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  }
+]

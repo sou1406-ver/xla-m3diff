@@ -1,0 +1,682 @@
+[
+  {
+    "id": "case_00_prompt_00",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 0,
+    "prompt": "Can you highlight the differences in these two pictures?  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_3": "The white T-shirt on the left disappears."
+  },
+  {
+    "id": "case_00_prompt_01",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 1,
+    "prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "candidate_1": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white T-shirt on the left disappears."
+  },
+  {
+    "id": "case_00_prompt_02",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 2,
+    "prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_3": "The white T-shirt on the left disappears."
+  },
+  {
+    "id": "case_00_prompt_03",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 3,
+    "prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left side of the clothesline disappears."
+  },
+  {
+    "id": "case_00_prompt_04",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 4,
+    "prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left side of the clothesline disappears."
+  },
+  {
+    "id": "case_00_prompt_05",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 5,
+    "prompt": "Point out the variations between the two images.  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left side of the clothesline disappears."
+  },
+  {
+    "id": "case_00_prompt_06",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 6,
+    "prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_3": "The white T-shirt on the left disappears."
+  },
+  {
+    "id": "case_00_prompt_07",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 7,
+    "prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "candidate_1": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white T-shirt on the left disappears."
+  },
+  {
+    "id": "case_00_prompt_08",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 8,
+    "prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left side of the clothesline disappears."
+  },
+  {
+    "id": "case_00_prompt_09",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "source_case_id": "new__clothesline__zoom_in_1p10",
+    "prompt_index": 9,
+    "prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "candidate_1": "The white T-shirt on the left disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left side of the clothesline disappears."
+  },
+  {
+    "id": "case_01_prompt_00",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 0,
+    "prompt": "Can you highlight the differences in these two pictures?  <image><image>Difference:",
+    "candidate_1": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black keyboard moves to the right. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the screen.",
+    "candidate_3": "A book with a yellow cover has disappeared from the middle of the desk. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at the upper right corner of the table has rotated from being placed diagonally to standing upright."
+  },
+  {
+    "id": "case_01_prompt_01",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 1,
+    "prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "candidate_1": "A book that was placed vertically on the desk has disappeared. The black keyboard on the desktop has moved to the right. The gray laptop on the shelf at a 45° angle has moved to the right side of the table, changing its orientation from facing the camera to facing the left side of the screen.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_3": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image."
+  },
+  {
+    "id": "case_01_prompt_02",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 2,
+    "prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "candidate_1": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_3": "A book with a yellow cover has disappeared from the middle of the desk. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at a 45° angle has moved to the right and is now placed upright."
+  },
+  {
+    "id": "case_01_prompt_03",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 3,
+    "prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "candidate_1": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation to face the camera directly.",
+    "candidate_2": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image.",
+    "candidate_3": "A book with a yellow cover on the blue storage rack has disappeared. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at the top right of the desk has changed its orientation from being placed at an angle to standing upright."
+  },
+  {
+    "id": "case_01_prompt_04",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 4,
+    "prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "candidate_1": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image.",
+    "candidate_2": "A book that was placed vertically on the desk has disappeared. The black keyboard on the desktop has been moved to the middle of the mouse. The yellow notebook on the blue storage rack has disappeared. The yellow pen lying on the desk has disappeared.",
+    "candidate_3": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image."
+  },
+  {
+    "id": "case_01_prompt_05",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 5,
+    "prompt": "Point out the variations between the two images.  <image><image>Difference:",
+    "candidate_1": "A book with a yellow cover has disappeared from the middle of the desk. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at the upper right corner of the table has rotated from being placed diagonally to standing upright.",
+    "candidate_2": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image.",
+    "candidate_3": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The blue-gray laptop on the shelf at a 45° angle changes its orientation to be placed vertically."
+  },
+  {
+    "id": "case_01_prompt_06",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 6,
+    "prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "candidate_1": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the screen.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The blue-gray laptop on the shelf is moved to the right side of the desk.",
+    "candidate_3": "A book with a yellow cover on the blue storage rack has disappeared. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at the top right of the desk has changed its orientation from being placed diagonally to standing upright."
+  },
+  {
+    "id": "case_01_prompt_07",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 7,
+    "prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "candidate_1": "A book with a yellow cover on the blue storage rack has disappeared. The black mouse on the right side of the mouse pad has disappeared. The black keyboard on the desktop has moved to the left, and the middle two keys have been pressed down. The gray laptop on the shelf at a 45-degree angle has changed its orientation from facing the camera to facing the right side of the screen.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the image.",
+    "candidate_3": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears."
+  },
+  {
+    "id": "case_01_prompt_08",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 8,
+    "prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "candidate_1": "A book with a yellow cover on the blue storage rack has disappeared. The black mouse on the right side of the mouse pad has disappeared. The gray laptop on the shelf at the top right of the desk has changed its orientation from being placed at an angle to standing upright.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad is moved to the left side of the keyboard. The blue-gray laptop on the shelf at a 45° angle changes its orientation from facing the camera to facing the right side of the screen.",
+    "candidate_3": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears."
+  },
+  {
+    "id": "case_01_prompt_09",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "source_case_id": "new__computer_desk__roll_8_safe",
+    "prompt_index": 9,
+    "prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "candidate_1": "A book with a yellow cover on the blue storage rack has disappeared. The black mouse on the right side of the mouse pad has moved to the left, away from the edge of the table. The gray laptop on the shelf has rotated 90 degrees counterclockwise, with its screen now facing upward.",
+    "candidate_2": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_3": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black mouse on the right side of the mouse pad disappears."
+  },
+  {
+    "id": "case_02_prompt_00",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 0,
+    "prompt": "Can you highlight the differences in these two pictures?  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has appeared. The brown pillow on the right side of the top bunk has appeared. The picture frame with a green plant pattern on the left side of the cabinet against the wall has appeared.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_01",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 1,
+    "prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "candidate_1": "The scene has become more visible.",
+    "candidate_2": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The blue picture frame with a green plant pattern on the left side of the cabinet has disappeared. The brown rectangular pillow in the middle of the upper bed has appeared.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_02",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 2,
+    "prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has moved to the right side of the top bunk. The brown pillow on the right side of the top bunk has disappeared. The picture frame with a green plant pattern on the wall of the room's left side has rotated counterclockwise by 90 degrees.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_03",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 3,
+    "prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has appeared. The brown pillow on the right side of the top bunk has appeared. The gray rectangular pillow in front of the black mat at the foot of the lower bed has appeared.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_04",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 4,
+    "prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has moved to the right side of the middle of the upper single bed. The brown pillow on the right side of the top bunk has disappeared. The picture frame with a green plant pattern on the left side of the cabinet against the wall is no longer present.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_05",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 5,
+    "prompt": "Point out the variations between the two images.  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has moved to the right side of the top bunk. The brown pillow on the right side of the top bunk has disappeared. The picture frame with a green plant pattern on the wall of the room's left side has rotated counterclockwise by 90 degrees.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_06",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 6,
+    "prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The blue picture frame with a green plant pattern on the left side of the cabinet has disappeared. The brown rectangular pillow on the right side of the top bunk bed has disappeared.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_07",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 7,
+    "prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "candidate_1": "The scene has become more visible.",
+    "candidate_2": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has moved to the right side of the middle of the headboard. The brown pillow on the right side of the top bunk has disappeared. The picture frame with a green plant pattern on the left side of the cabinet against the wall is no longer present.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_08",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 8,
+    "prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "candidate_1": "The black pillow on the left side of the top bunk, which was leaning against the wall, is now placed at the head of the lower bed. The orange pillow in the corner of the top bunk has moved to the right side of the black pillow. The gray storage box with white letters on the far left side of the blue bed frame has disappeared.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "case_02_prompt_09",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "source_case_id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "prompt_index": 9,
+    "prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "candidate_1": "The scene has become more visible.",
+    "candidate_2": "The scene has become more visible.",
+    "candidate_3": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The blue picture frame with a green plant pattern on the left side of the cabinet has disappeared. The brown rectangular pillow in the middle of the upper bed has disappeared."
+  },
+  {
+    "id": "case_03_prompt_00",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 0,
+    "prompt": "Can you highlight the differences in these two pictures?  <image><image>Difference:",
+    "candidate_1": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in blue text on the wall above the yellow bicycle changes its orientation from horizontal to vertical."
+  },
+  {
+    "id": "case_03_prompt_01",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 1,
+    "prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left side."
+  },
+  {
+    "id": "case_03_prompt_02",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 2,
+    "prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "candidate_1": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the yellow bicycle to the left side of the wall above the stairs.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "case_03_prompt_03",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 3,
+    "prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "candidate_1": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left side.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "case_03_prompt_04",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 4,
+    "prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the yellow bicycle to the left side of the wall above the stairs."
+  },
+  {
+    "id": "case_03_prompt_05",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 5,
+    "prompt": "Point out the variations between the two images.  <image><image>Difference:",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the yellow bicycle to the left side of the wall above the stairs."
+  },
+  {
+    "id": "case_03_prompt_06",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 6,
+    "prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left side."
+  },
+  {
+    "id": "case_03_prompt_07",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 7,
+    "prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "candidate_1": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left side.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "case_03_prompt_08",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 8,
+    "prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The word \"Caution\" in large blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left side.",
+    "candidate_3": "The word \"Caution\" in blue text on the wall above the yellow bicycle changes its orientation from horizontal to vertical."
+  },
+  {
+    "id": "case_03_prompt_09",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "source_case_id": "new__bicycle_alley__identity",
+    "prompt_index": 9,
+    "prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "candidate_1": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the yellow bicycle to the left side of the wall above the stairs.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The word \"Caution\" in blue text on the wall above the yellow bicycle changes its location."
+  }
+]

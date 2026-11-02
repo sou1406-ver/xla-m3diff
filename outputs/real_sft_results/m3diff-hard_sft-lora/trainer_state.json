@@ -1,0 +1,86 @@
+{
+  "best_metric": null,
+  "best_model_checkpoint": null,
+  "epoch": 1.0,
+  "eval_steps": 500,
+  "global_step": 32,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.125,
+      "grad_norm": 1.3862011432647705,
+      "learning_rate": 9.770696282000245e-06,
+      "loss": 0.6771,
+      "step": 4
+    },
+    {
+      "epoch": 0.25,
+      "grad_norm": 1.433149814605713,
+      "learning_rate": 8.793790613463956e-06,
+      "loss": 0.5823,
+      "step": 8
+    },
+    {
+      "epoch": 0.375,
+      "grad_norm": 1.2506330013275146,
+      "learning_rate": 7.201970757788172e-06,
+      "loss": 0.6549,
+      "step": 12
+    },
+    {
+      "epoch": 0.5,
+      "grad_norm": 1.3854191303253174,
+      "learning_rate": 5.253245844193564e-06,
+      "loss": 0.5644,
+      "step": 16
+    },
+    {
+      "epoch": 0.625,
+      "grad_norm": 1.241307258605957,
+      "learning_rate": 3.2634737357758994e-06,
+      "loss": 0.5978,
+      "step": 20
+    },
+    {
+      "epoch": 0.75,
+      "grad_norm": 1.356438398361206,
+      "learning_rate": 1.555165404621567e-06,
+      "loss": 0.6316,
+      "step": 24
+    },
+    {
+      "epoch": 0.875,
+      "grad_norm": 1.7354793548583984,
+      "learning_rate": 4.05210941898847e-07,
+      "loss": 0.6603,
+      "step": 28
+    },
+    {
+      "epoch": 1.0,
+      "grad_norm": 1.3126378059387207,
+      "learning_rate": 0.0,
+      "loss": 0.6448,
+      "step": 32
+    },
+    {
+      "epoch": 1.0,
+      "step": 32,
+      "total_flos": 1334982152981742.0,
+      "train_loss": 0.6266380697488785,
+      "train_runtime": 183.5038,
+      "train_samples_per_second": 1.395,
+      "train_steps_per_second": 0.174
+    }
+  ],
+  "logging_steps": 4,
+  "max_steps": 32,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 1,
+  "save_steps": 500,
+  "total_flos": 1334982152981742.0,
+  "train_batch_size": 1,
+  "trial_name": null,
+  "trial_params": null
+}

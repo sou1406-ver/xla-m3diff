@@ -1,0 +1,36 @@
+{
+  "control": {
+    "negative": {
+      "What's the difference between 2 images?  <image><image>Difference:": 128
+    },
+    "replay_positive": {
+      "Can you highlight the differences in these two pictures?  <image><image>Difference:": 50,
+      "Describe the contrast between these two images.  <image><image>Difference:": 32,
+      "What has changed from the first image to the second?  <image><image>Difference:": 34,
+      "What modifications can be observed between these two pictures?  <image><image>Difference:": 46,
+      "Identify the transformations in the second image compared to the first.  <image><image>Difference:": 36,
+      "Explain the disparities between the first and second image.  <image><image>Difference:": 36,
+      "What's the difference between 2 images?  <image><image>Difference:": 38,
+      "Identify the alterations between these two images.  <image><image>Difference:": 38,
+      "What distinguishes these two images?  <image><image>Difference:": 36,
+      "Point out the variations between the two images.  <image><image>Difference:": 38
+    }
+  },
+  "revised": {
+    "negative": {
+      "What's the difference between 2 images?  <image><image>Difference:": 128
+    },
+    "replay_positive": {
+      "Can you highlight the differences in these two pictures?  <image><image>Difference:": 50,
+      "Describe the contrast between these two images.  <image><image>Difference:": 32,
+      "What has changed from the first image to the second?  <image><image>Difference:": 34,
+      "What modifications can be observed between these two pictures?  <image><image>Difference:": 46,
+      "Identify the transformations in the second image compared to the first.  <image><image>Difference:": 36,
+      "Explain the disparities between the first and second image.  <image><image>Difference:": 36,
+      "What's the difference between 2 images?  <image><image>Difference:": 38,
+      "Identify the alterations between these two images.  <image><image>Difference:": 38,
+      "What distinguishes these two images?  <image><image>Difference:": 36,
+      "Point out the variations between the two images.  <image><image>Difference:": 38
+    }
+  }
+}

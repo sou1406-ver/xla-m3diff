@@ -1,0 +1,1010 @@
+{
+  "old/Real/identity": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 5,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 5,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Real/transformed": {
+    "baseline": {
+      "n": 18,
+      "physical_fp_pairs": 14,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 5,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 18,
+      "physical_fp_pairs": 14,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 5,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Real/geometry": {
+    "baseline": {
+      "n": 24,
+      "physical_fp_pairs": 18,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 6,
+      "identity_difference_pairs": 5,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 24,
+      "physical_fp_pairs": 18,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 6,
+      "identity_difference_pairs": 5,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Real/natural": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 7,
+      "unsupported_claim_pairs": 5,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 12
+    },
+    "invariance": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 7,
+      "unsupported_claim_pairs": 5,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 12
+    }
+  },
+  "old/Real/uncertain_natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Render/identity": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 2,
+      "identity_difference_pairs": 6,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 2,
+      "identity_difference_pairs": 6,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Render/transformed": {
+    "baseline": {
+      "n": 18,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 9,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 18,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 9,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Render/geometry": {
+    "baseline": {
+      "n": 24,
+      "physical_fp_pairs": 19,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 11,
+      "identity_difference_pairs": 6,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 24,
+      "physical_fp_pairs": 19,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 11,
+      "identity_difference_pairs": 6,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/Render/natural": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_pairs": 5,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 10
+    },
+    "invariance": {
+      "n": 6,
+      "physical_fp_pairs": 6,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_pairs": 6,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 10
+    }
+  },
+  "old/Render/uncertain_natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/all/identity": {
+    "baseline": {
+      "n": 12,
+      "physical_fp_pairs": 8,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 11,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 12,
+      "physical_fp_pairs": 8,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 11,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/all/transformed": {
+    "baseline": {
+      "n": 36,
+      "physical_fp_pairs": 29,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 14,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 36,
+      "physical_fp_pairs": 29,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 14,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/all/geometry": {
+    "baseline": {
+      "n": 48,
+      "physical_fp_pairs": 37,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 17,
+      "identity_difference_pairs": 11,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 48,
+      "physical_fp_pairs": 37,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 17,
+      "identity_difference_pairs": 11,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "old/all/natural": {
+    "baseline": {
+      "n": 12,
+      "physical_fp_pairs": 10,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 9,
+      "unsupported_claim_pairs": 10,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 22
+    },
+    "invariance": {
+      "n": 12,
+      "physical_fp_pairs": 11,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 9,
+      "unsupported_claim_pairs": 11,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 22
+    }
+  },
+  "old/all/uncertain_natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Real/identity": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Real/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 16,
+      "physical_fp_pairs": 13,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 4,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Real/geometry": {
+    "baseline": {
+      "n": 20,
+      "physical_fp_pairs": 19,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 20,
+      "physical_fp_pairs": 17,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 4,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Real/natural": {
+    "baseline": {
+      "n": 3,
+      "physical_fp_pairs": 2,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 1,
+      "unsupported_claim_pairs": 2,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 4
+    },
+    "invariance": {
+      "n": 3,
+      "physical_fp_pairs": 2,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 2,
+      "unsupported_claim_pairs": 2,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 4
+    }
+  },
+  "new/Real/uncertain_natural": {
+    "baseline": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Render/identity": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Render/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 16,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 4,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 5,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Render/geometry": {
+    "baseline": {
+      "n": 20,
+      "physical_fp_pairs": 19,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 5,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 20,
+      "physical_fp_pairs": 18,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 6,
+      "identity_difference_pairs": 4,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/Render/natural": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 4,
+      "unsupported_claim_pairs": 4,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 8
+    },
+    "invariance": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 3,
+      "unsupported_claim_pairs": 4,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 8
+    }
+  },
+  "new/Render/uncertain_natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/all/identity": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 8,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 8,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/all/transformed": {
+    "baseline": {
+      "n": 32,
+      "physical_fp_pairs": 31,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 7,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 32,
+      "physical_fp_pairs": 28,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 9,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/all/geometry": {
+    "baseline": {
+      "n": 40,
+      "physical_fp_pairs": 38,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 8,
+      "identity_difference_pairs": 8,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 40,
+      "physical_fp_pairs": 35,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 10,
+      "identity_difference_pairs": 8,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "new/all/natural": {
+    "baseline": {
+      "n": 7,
+      "physical_fp_pairs": 6,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 5,
+      "unsupported_claim_pairs": 6,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 12
+    },
+    "invariance": {
+      "n": 7,
+      "physical_fp_pairs": 6,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 5,
+      "unsupported_claim_pairs": 6,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 12
+    }
+  },
+  "new/all/uncertain_natural": {
+    "baseline": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Real/identity": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 8,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 9,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 10,
+      "physical_fp_pairs": 8,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 9,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Real/transformed": {
+    "baseline": {
+      "n": 34,
+      "physical_fp_pairs": 29,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 8,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 34,
+      "physical_fp_pairs": 27,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 9,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Real/geometry": {
+    "baseline": {
+      "n": 44,
+      "physical_fp_pairs": 37,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 9,
+      "identity_difference_pairs": 9,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 44,
+      "physical_fp_pairs": 35,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 10,
+      "identity_difference_pairs": 9,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Real/natural": {
+    "baseline": {
+      "n": 9,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 8,
+      "unsupported_claim_pairs": 7,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 16
+    },
+    "invariance": {
+      "n": 9,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 9,
+      "unsupported_claim_pairs": 7,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 16
+    }
+  },
+  "all/Real/uncertain_natural": {
+    "baseline": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Render/identity": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 10,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 3,
+      "identity_difference_pairs": 10,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Render/transformed": {
+    "baseline": {
+      "n": 34,
+      "physical_fp_pairs": 31,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 13,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 34,
+      "physical_fp_pairs": 30,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 14,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Render/geometry": {
+    "baseline": {
+      "n": 44,
+      "physical_fp_pairs": 38,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 16,
+      "identity_difference_pairs": 10,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 44,
+      "physical_fp_pairs": 37,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 17,
+      "identity_difference_pairs": 10,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/Render/natural": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 9,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 6,
+      "unsupported_claim_pairs": 9,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 18
+    },
+    "invariance": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 5,
+      "unsupported_claim_pairs": 10,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 18
+    }
+  },
+  "all/Render/uncertain_natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/all/identity": {
+    "baseline": {
+      "n": 20,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 4,
+      "identity_difference_pairs": 19,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 20,
+      "physical_fp_pairs": 15,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 4,
+      "identity_difference_pairs": 19,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/all/transformed": {
+    "baseline": {
+      "n": 68,
+      "physical_fp_pairs": 60,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 21,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 68,
+      "physical_fp_pairs": 57,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 23,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/all/geometry": {
+    "baseline": {
+      "n": 88,
+      "physical_fp_pairs": 75,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 25,
+      "identity_difference_pairs": 19,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 88,
+      "physical_fp_pairs": 72,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 27,
+      "identity_difference_pairs": 19,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  },
+  "all/all/natural": {
+    "baseline": {
+      "n": 19,
+      "physical_fp_pairs": 16,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 14,
+      "unsupported_claim_pairs": 16,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 34
+    },
+    "invariance": {
+      "n": 19,
+      "physical_fp_pairs": 17,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 1,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 14,
+      "unsupported_claim_pairs": 17,
+      "explicit_suppression_pairs": 0,
+      "possible_facts": 34
+    }
+  },
+  "all/all/uncertain_natural": {
+    "baseline": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    },
+    "invariance": {
+      "n": 1,
+      "physical_fp_pairs": 0,
+      "camera_acknowledged": 0,
+      "illumination_inference_pairs": 0,
+      "identity_difference_pairs": 0,
+      "supported_fact_hits": 0,
+      "unsupported_claim_pairs": 0,
+      "explicit_suppression_pairs": 0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+from pathlib import Path
+HERE=Path(__file__).parent;s=(HERE.parent/'invariance_ablation/run_modal.py').read_text()
+s=s.replace('m3diff-invariance-ablation-v1','m3diff-prompt-balanced-sft-v1').replace("RUN='invariance_ablation_v1'","RUN='invariance_prompt_balanced_v1'").replace('timeout=1800','timeout=1200')
+s=s.replace("[('positive_control',0),('mixed_objective',1)]","[('balanced',1)]")
+s=s.replace("['baseline','positive_control','mixed_objective']","['baseline','balanced']")
+s=s.replace("models=[out/('m3diff-'+a.replace('_','-')+'-lora') for a in ['positive_control','mixed_objective']]", "models=[root/'invariance_ablation_v1/m3diff-mixed-objective-lora',out/'m3diff-balanced-lora']")
+s=s.replace("assert orders[0]==orders[1] and len(orders[0])==2", "assert len(orders[0])==len(orders[1])==2")
+s=s.replace("'both_epoch_orders_match':True", "'both_epoch_orders_match':orders[0]==orders[1]")
+s=s.replace("'generations':216", "'generations':144").replace('random.Random(2026102801)','random.Random(2026102805)')
+(HERE/'run_modal.py').write_text(s);compile(s,'run_modal.py','exec');print('Balanced runner prepared')

@@ -1,0 +1,22 @@
+{
+  "official_evaluation": {
+    "full_test_complete": true,
+    "n_total": 1570,
+    "same_ids_and_cleanup_for_both_arms": true,
+    "time": 1793138432.109151
+  },
+  "artifacts": [
+    {
+      "file": "m3diff_portable.zip",
+      "bytes": 149370359,
+      "sha256": "0dfcf90d2a8567925a10c316662be53d62eeb0c82ac11cda8ebbf80f6e8f654e",
+      "ZIP_CRC_all_members_pass": true
+    },
+    {
+      "file": "m3diff_full_benchmark_results.zip",
+      "bytes": 729401,
+      "sha256": "8bf571f0c59e768b2566a7f6fb618d1dcb71eb2c9a528697a7712202105d5016",
+      "ZIP_CRC_all_members_pass": true
+    }
+  ]
+}

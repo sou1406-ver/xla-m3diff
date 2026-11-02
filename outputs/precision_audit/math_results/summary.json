@@ -1,0 +1,16 @@
+{
+  "n_adapter_pairs": 196,
+  "all_adapter_dtypes": [
+    "torch.float32"
+  ],
+  "all_B_nonzero": true,
+  "sample_layers": [
+    0,
+    14,
+    27
+  ],
+  "n_sampled_matrices": 21,
+  "weighted_changed_base_fraction": 0.05539237991894481,
+  "mean_relative_l2_rounding_error": 0.9512986091935817,
+  "interpretation": "Numerical audit only. Rounding can alter small learned deltas; this does not establish an effect on caption quality. Compare merged versus unmerged inference on the same checkpoint before further training."
+}

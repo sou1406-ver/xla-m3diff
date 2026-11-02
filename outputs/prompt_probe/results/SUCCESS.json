@@ -1,0 +1,7 @@
+{
+  "n_eval": 40,
+  "generations": 120,
+  "gpu": "NVIDIA A10, 23028 MiB",
+  "completed_at": 1793131669.752867,
+  "GPU_released_on_return": true
+}

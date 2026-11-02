@@ -1,0 +1,13 @@
+{
+  "records": 256,
+  "negative_records": 64,
+  "positive_records": 192,
+  "negative_original_sources": 16,
+  "heldout_original_images": 40,
+  "train_original_images": 360,
+  "exact_decoded_hash_collisions": [],
+  "all_original_train_paths_official_train": true,
+  "train_sha256": "07a20d0ff629b677835a93ee9989572675826841cbdc41c86262d917d9da5a88",
+  "eval_questions_sha256": "a881f752a6706b56242e89352e01770ee0d61397430164947771fcc6cc68fe36",
+  "limits": "Exact decoded duplicates excluded, not a guarantee of scene independence. Published checkpoint has already seen official train."
+}

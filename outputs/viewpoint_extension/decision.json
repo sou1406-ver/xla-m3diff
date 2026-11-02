@@ -1,0 +1,33 @@
+{
+  "frozen_v1_primary_stress_false_suppressions": 20,
+  "primary_stress_n": 56,
+  "confirmed_natural_false_suppressions": 0,
+  "confirmed_natural_n": 7,
+  "uncertain_natural_n": 1,
+  "v1_automatic_approximate_caption_replacement_allowed": false,
+  "current_policy": "Only exact decoded-pixel identity may replace caption. Approximate alignment is advisory and preserves M3Diff caption.",
+  "safe_policy_changed_case_replacements": 0,
+  "not_a_new_M3Diff_caption_metric": "No model inference performed in this extension. Synthetic appearance edits are not natural semantic object changes.",
+  "known_failed_ids": [
+    "clothesline__square32_delta16",
+    "computer_desk__square32_delta16",
+    "snowy_street__square32_delta16",
+    "basin_shelf__square32_delta16",
+    "basin_shelf__thin2x32_invert",
+    "city_intersection__square32_delta16",
+    "bunk_bedroom__square32_delta16",
+    "bicycle_alley__square32_delta16",
+    "render_kitchen__square32_delta16",
+    "snowy_street__zoom_in_1p10_plus_square32_delta16",
+    "snowy_street__roll_8_safe_plus_square32_delta16",
+    "basin_shelf__zoom_in_1p10_plus_square32_delta16",
+    "basin_shelf__roll_8_safe_plus_square32_delta16",
+    "city_intersection__zoom_in_1p10_plus_square32_delta16",
+    "city_intersection__roll_8_safe_plus_square32_delta16",
+    "bunk_bedroom__zoom_in_1p10_plus_square32_delta16",
+    "bunk_bedroom__roll_8_safe_plus_square32_delta16",
+    "bicycle_alley__zoom_in_1p10_plus_square32_delta16",
+    "render_kitchen__zoom_in_1p10_plus_square32_delta16",
+    "render_kitchen__roll_8_safe_plus_square32_delta16"
+  ]
+}

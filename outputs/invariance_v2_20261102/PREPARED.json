@@ -1,0 +1,5 @@
+{
+  "train_each": 512,
+  "eval_pairs": 96,
+  "review_before_gpu": true
+}

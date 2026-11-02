@@ -1,0 +1,44 @@
+{
+  "time_utc": "2026-10-27T10:19:24.589707+00:00",
+  "candidate_gate": {
+    "corrected_labels": {
+      "delta_x100": {
+        "Real": {
+          "CIDEr": 3.869318882590622,
+          "Bleu_4": 1.7682786776115997
+        },
+        "Render": {
+          "CIDEr": -3.712852996155064,
+          "Bleu_4": -1.5088642808560593
+        }
+      },
+      "checks": {
+        "CIDEr_improves_both_domains": false,
+        "BLEU4_drop_at_most_1_each": false,
+        "blind_wins_exceed_losses": false
+      },
+      "qualifies": false
+    },
+    "corrected_lora_only": {
+      "delta_x100": {
+        "Real": {
+          "CIDEr": 3.3009007344696917,
+          "Bleu_4": 1.5778026503933298
+        },
+        "Render": {
+          "CIDEr": -2.7706424302967934,
+          "Bleu_4": -0.2960273391852647
+        }
+      },
+      "checks": {
+        "CIDEr_improves_both_domains": false,
+        "BLEU4_drop_at_most_1_each": true,
+        "blind_wins_exceed_losses": true
+      },
+      "qualifies": false
+    }
+  },
+  "decision": "Keep published checkpoint plus exact-sentence cleanup. No full-test SFT run or further tuning in this experiment.",
+  "reason": "Both corrected-label arms lose raw CIDEr on Render; neither meets the fixed gate.",
+  "scope": "No demonstrated rotation/zoom understanding gain; output cleanup verified on saved full-test predictions."
+}

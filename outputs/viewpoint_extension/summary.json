@@ -1,0 +1,98 @@
+{
+  "nochange/identity": {
+    "n": 8,
+    "v1_accepts_no_change": 8,
+    "safe_policy_replacements": 8,
+    "safe_advisory_flags": 0
+  },
+  "nochange/zoom_in_1p10": {
+    "n": 8,
+    "v1_accepts_no_change": 6,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "nochange/roll_8_safe": {
+    "n": 8,
+    "v1_accepts_no_change": 6,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "nochange/roll_minus8_zoom": {
+    "n": 8,
+    "v1_accepts_no_change": 4,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "nochange/zoom_out_reverse_1p10": {
+    "n": 8,
+    "v1_accepts_no_change": 0,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "primary_stress/square32_delta16": {
+    "n": 8,
+    "v1_accepts_no_change": 8,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "primary_stress/square8_invert": {
+    "n": 8,
+    "v1_accepts_no_change": 0,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "primary_stress/thin2x32_invert": {
+    "n": 8,
+    "v1_accepts_no_change": 1,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "primary_stress/brightness_plus8": {
+    "n": 8,
+    "v1_accepts_no_change": 0,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "sensitivity_stress/square16_delta4": {
+    "n": 8,
+    "v1_accepts_no_change": 8,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "sensitivity_stress/brightness_plus1": {
+    "n": 8,
+    "v1_accepts_no_change": 8,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "sensitivity_stress/one_pixel_invert": {
+    "n": 8,
+    "v1_accepts_no_change": 3,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "natural_pending_review/natural": {
+    "n": 8,
+    "v1_accepts_no_change": 0,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 5
+  },
+  "composed_primary_stress/zoom_in_1p10": {
+    "n": 8,
+    "v1_accepts_no_change": 6,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "composed_primary_stress/roll_8_safe": {
+    "n": 8,
+    "v1_accepts_no_change": 5,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  },
+  "composed_primary_stress/zoom_out_1p10": {
+    "n": 8,
+    "v1_accepts_no_change": 0,
+    "safe_policy_replacements": 0,
+    "safe_advisory_flags": 8
+  }
+}

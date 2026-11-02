@@ -1,0 +1,26 @@
+[
+  {
+    "app_id": "ap-6l1JFqsOyo94ZMwNskPccj",
+    "description": "m3diff-registration-cli-check",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 20:56:05+07:00",
+    "stopped_at": "2026-10-27 20:57:26+07:00"
+  },
+  {
+    "app_id": "ap-mcPMt1SMBVRuZeIs8axAeF",
+    "description": "m3diff-registration-cpu-v1",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 20:52:11+07:00",
+    "stopped_at": "2026-10-27 20:53:25+07:00"
+  },
+  {
+    "app_id": "ap-kxxTFQcicAxYM80xdU3kox",
+    "description": "m3diff-registration-cpu-v1",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 20:48:36+07:00",
+    "stopped_at": "2026-10-27 20:49:26+07:00"
+  }
+]

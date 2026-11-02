@@ -1,0 +1,96 @@
+{"id": "v2_Real_00__identity", "image_id": "v2_Real_00__identity", "caption": "The scene is symmetrical along the central vertical axis."}
+{"id": "v2_Real_00__zoom_in", "image_id": "v2_Real_00__zoom_in", "caption": "The pink hair dryer has moved from the front to the back of the table."}
+{"id": "v2_Real_00__zoom_out", "image_id": "v2_Real_00__zoom_out", "caption": "The ambient lighting has brightened."}
+{"id": "v2_Real_00__roll", "image_id": "v2_Real_00__roll", "caption": "The camera orientation changes from facing the right side of the image to facing the left side."}
+{"id": "v2_Real_00__brightness", "image_id": "v2_Real_00__brightness", "caption": "The scene remains the same."}
+{"id": "v2_Real_00__natural", "image_id": "v2_Real_00__natural", "caption": "The purple bottle of disinfectant on the left side of the pink hair dryer has been replaced with a white spray bottle. The air conditioner remote control has appeared in front of the stacked boxes of masks. The white box with a red 'H' mark on the right side of the image has moved to the top of the stacked boxes of masks."}
+{"id": "v2_Real_01__identity", "image_id": "v2_Real_01__identity", "caption": "There is no visible difference between the two images."}
+{"id": "v2_Real_01__zoom_in", "image_id": "v2_Real_01__zoom_in", "caption": "The polar bear on the right side of the frame, which was previously looking down at the polar bear in front of it, is now looking to the left."}
+{"id": "v2_Real_01__zoom_out", "image_id": "v2_Real_01__zoom_out", "caption": "The polar bear on the right side of the frame, which was previously standing with its head lowered and looking at the camera, is now lying down with its head resting on the snow."}
+{"id": "v2_Real_01__roll", "image_id": "v2_Real_01__roll", "caption": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered and eyes closed, is now facing right with its head slightly lowered and eyes closed."}
+{"id": "v2_Real_01__brightness", "image_id": "v2_Real_01__brightness", "caption": "There is no visible difference between the two images."}
+{"id": "v2_Real_01__natural", "image_id": "v2_Real_01__natural", "caption": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered and eyes closed, is now looking to the left with its head slightly raised."}
+{"id": "v2_Real_02__identity", "image_id": "v2_Real_02__identity", "caption": "The scene remains the same."}
+{"id": "v2_Real_02__zoom_in", "image_id": "v2_Real_02__zoom_in", "caption": "The brightness of the scene has dimmed."}
+{"id": "v2_Real_02__zoom_out", "image_id": "v2_Real_02__zoom_out", "caption": "The brightness of the scene has increased. The squirrel on the left side of the image has moved to the right, closer to the tree stump, and is now eating a peanut."}
+{"id": "v2_Real_02__roll", "image_id": "v2_Real_02__roll", "caption": "The brightness of the scene has dimmed."}
+{"id": "v2_Real_02__brightness", "image_id": "v2_Real_02__brightness", "caption": "The brightness of the scene has increased."}
+{"id": "v2_Real_02__natural", "image_id": "v2_Real_02__natural", "caption": "The squirrel on the left side of the image has disappeared. A black bird has appeared in the middle of the scene, standing on the ground with its back to the camera and facing the tree stump on the left. The peanut that was in the squirrel's mouth has disappeared."}
+{"id": "v2_Real_03__identity", "image_id": "v2_Real_03__identity", "caption": "The scene remains unchanged."}
+{"id": "v2_Real_03__zoom_in", "image_id": "v2_Real_03__zoom_in", "caption": "The scene is now more visible."}
+{"id": "v2_Real_03__zoom_out", "image_id": "v2_Real_03__zoom_out", "caption": "The perspective of the image shifts to the right, revealing more of the road and a manhole cover in the foreground."}
+{"id": "v2_Real_03__roll", "image_id": "v2_Real_03__roll", "caption": "The scene is now more symmetrical."}
+{"id": "v2_Real_03__brightness", "image_id": "v2_Real_03__brightness", "caption": "The scene remains unchanged."}
+{"id": "v2_Real_03__natural", "image_id": "v2_Real_03__natural", "caption": "The yellow bike in the foreground moves forward, revealing a white rear light."}
+{"id": "v2_Real_04__identity", "image_id": "v2_Real_04__identity", "caption": "The red car in the distance on the right side of the frame is no longer visible."}
+{"id": "v2_Real_04__zoom_in", "image_id": "v2_Real_04__zoom_in", "caption": "The scene remains the same."}
+{"id": "v2_Real_04__zoom_out", "image_id": "v2_Real_04__zoom_out", "caption": "The scene remains the same."}
+{"id": "v2_Real_04__roll", "image_id": "v2_Real_04__roll", "caption": "The scene is now brighter. A white car appears in the distance on the right side of the frame."}
+{"id": "v2_Real_04__brightness", "image_id": "v2_Real_04__brightness", "caption": "The scene remains the same."}
+{"id": "v2_Real_04__natural", "image_id": "v2_Real_04__natural", "caption": "The scene has brightened. A yellow snowplow appears on the right side of the screen, with its shovel touching the ground. The red car in the distance is now visible. The black car at the back left of the frame disappears."}
+{"id": "v2_Real_05__identity", "image_id": "v2_Real_05__identity", "caption": "The three people in the center of the frame shift their bodies to the right."}
+{"id": "v2_Real_05__zoom_in", "image_id": "v2_Real_05__zoom_in", "caption": "The three people in the center of the frame shift from having their arms crossed over their chests with their hands together to having their arms crossed over their chests with their hands apart."}
+{"id": "v2_Real_05__zoom_out", "image_id": "v2_Real_05__zoom_out", "caption": "The three models change their posture from facing the camera with their left legs forward and right legs backward, to standing straight with their feet apart."}
+{"id": "v2_Real_05__roll", "image_id": "v2_Real_05__roll", "caption": "The three people change from standing with their legs apart and arms crossed in front of their chests to standing with their legs together and arms crossed."}
+{"id": "v2_Real_05__brightness", "image_id": "v2_Real_05__brightness", "caption": "The three people in the center of the frame shift their weight from standing on both feet to standing on their left legs."}
+{"id": "v2_Real_05__natural", "image_id": "v2_Real_05__natural", "caption": "The three people change from having their arms crossed in front of their chests to extending their right arms backward and their left arms forward."}
+{"id": "v2_Real_06__identity", "image_id": "v2_Real_06__identity", "caption": "The scene remains the same."}
+{"id": "v2_Real_06__zoom_in", "image_id": "v2_Real_06__zoom_in", "caption": "The camera frame in the middle of the screen disappears."}
+{"id": "v2_Real_06__zoom_out", "image_id": "v2_Real_06__zoom_out", "caption": "The camera perspective shifts to the right, revealing more of the desk and its items."}
+{"id": "v2_Real_06__roll", "image_id": "v2_Real_06__roll", "caption": "The camera frame in the middle of the desk disappears."}
+{"id": "v2_Real_06__brightness", "image_id": "v2_Real_06__brightness", "caption": "The scene remains the same."}
+{"id": "v2_Real_06__natural", "image_id": "v2_Real_06__natural", "caption": "The camera lens on the left side of the keyboard is visible. The stacked books in the middle of the desk are no longer present, and a new camera with a lens has appeared to the right of the keyboard. The mouse has moved from the front left of the keyboard to the front right of the keyboard."}
+{"id": "v2_Real_07__identity", "image_id": "v2_Real_07__identity", "caption": "The polar bear on the right side of the frame opens its mouth."}
+{"id": "v2_Real_07__zoom_in", "image_id": "v2_Real_07__zoom_in", "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now closing its mouth."}
+{"id": "v2_Real_07__zoom_out", "image_id": "v2_Real_07__zoom_out", "caption": "The polar bear on the right side of the frame, which was previously facing left with its mouth open and tongue visible, is now facing right."}
+{"id": "v2_Real_07__roll", "image_id": "v2_Real_07__roll", "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now smiling with its mouth closed."}
+{"id": "v2_Real_07__brightness", "image_id": "v2_Real_07__brightness", "caption": "The polar bear on the right side of the frame, which was previously yawning with its mouth open, is now no longer yawning."}
+{"id": "v2_Real_07__natural", "image_id": "v2_Real_07__natural", "caption": "The polar bear on the right side of the image, which was previously standing with its mouth open and head tilted to the left, is now lying down with its head resting on the snow. The polar bear in the middle of the image, which was previously lying on the snow with its head facing downward, is now lying on the snow with its head resting on the back of the polar bear on the left."}
+{"id": "v2_Render_00__identity", "image_id": "v2_Render_00__identity", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_00__zoom_in", "image_id": "v2_Render_00__zoom_in", "caption": "The lighting has changed. The beds in the center of the scene have been lowered."}
+{"id": "v2_Render_00__zoom_out", "image_id": "v2_Render_00__zoom_out", "caption": "The scene is now more lit up. The leftmost bed in the foreground has a gray blanket, and its side table is visible."}
+{"id": "v2_Render_00__roll", "image_id": "v2_Render_00__roll", "caption": "The scene is now more lit up. The left and right beds are rotated counterclockwise, with the headboard facing the center of the room instead of the wall."}
+{"id": "v2_Render_00__brightness", "image_id": "v2_Render_00__brightness", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_00__natural", "image_id": "v2_Render_00__natural", "caption": "The scene has become darker."}
+{"id": "v2_Render_01__identity", "image_id": "v2_Render_01__identity", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_01__zoom_in", "image_id": "v2_Render_01__zoom_in", "caption": "The scene has become more illuminated. The white plate on the right side of the table has been moved to the left, and a new glass of orange juice has appeared in its original position.The red kettle on the black countertop at the back right of the kitchen has disappeared.The transparent glass water bottle on the left side of the table has been replaced by a new one with a yellow label."}
+{"id": "v2_Render_01__zoom_out", "image_id": "v2_Render_01__zoom_out", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_01__roll", "image_id": "v2_Render_01__roll", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_01__brightness", "image_id": "v2_Render_01__brightness", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_01__natural", "image_id": "v2_Render_01__natural", "caption": "A woman wearing a white top and blue pants appears in front of the stove on the right side of the kitchen, facing the wooden table. The word \"kitchen\" in light blue letters has appeared on the floor in front of the wooden table."}
+{"id": "v2_Render_02__identity", "image_id": "v2_Render_02__identity", "caption": "The scene remains the same."}
+{"id": "v2_Render_02__zoom_in", "image_id": "v2_Render_02__zoom_in", "caption": "The scene has become darker."}
+{"id": "v2_Render_02__zoom_out", "image_id": "v2_Render_02__zoom_out", "caption": "The scene has become more illuminated. The blue and white striped lounge chair on the right side of the image rotates to the left, changing its orientation from facing the camera to facing the left side of the image."}
+{"id": "v2_Render_02__roll", "image_id": "v2_Render_02__roll", "caption": "The scene has become more visible. The blue-and-white striped beach chair on the right side of the mat rotates to the left, changing its orientation from facing the camera to facing the left side of the image."}
+{"id": "v2_Render_02__brightness", "image_id": "v2_Render_02__brightness", "caption": "The scene remains the same."}
+{"id": "v2_Render_02__natural", "image_id": "v2_Render_02__natural", "caption": "The blue-and-white striped beach chair moves from the right side of the picnic mat to the left side. The green picnic blanket is replaced by a red and white checkered picnic blanket with the word \"picnic\" printed on it. The two brown cups, one in front of the white cup and the other behind it, are replaced by a single red cup."}
+{"id": "v2_Render_03__identity", "image_id": "v2_Render_03__identity", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_03__zoom_in", "image_id": "v2_Render_03__zoom_in", "caption": "The scene is now more lit up. The black trash can near the middle of the right sidewalk has been moved to the left side of the pedestrian crossing."}
+{"id": "v2_Render_03__zoom_out", "image_id": "v2_Render_03__zoom_out", "caption": "The scene is now more lit up. The black trash can at the rear right of the pedestrian crossing changes to brown."}
+{"id": "v2_Render_03__roll", "image_id": "v2_Render_03__roll", "caption": "The scene is now more lit up. A black car appears on the road near the small building."}
+{"id": "v2_Render_03__brightness", "image_id": "v2_Render_03__brightness", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_03__natural", "image_id": "v2_Render_03__natural", "caption": "The person in a black vest and blue pants is no longer visible. The man in a white shirt and black shorts, who was previously on the left side of the road, has moved to the right side of the road."}
+{"id": "v2_Render_04__identity", "image_id": "v2_Render_04__identity", "caption": "The scene is now more symmetrical."}
+{"id": "v2_Render_04__zoom_in", "image_id": "v2_Render_04__zoom_in", "caption": "The scene is now more lit up. The chair at the far right of the first row on the left side of the classroom has been moved to the middle position of the second row."}
+{"id": "v2_Render_04__zoom_out", "image_id": "v2_Render_04__zoom_out", "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being tilted to upright."}
+{"id": "v2_Render_04__roll", "image_id": "v2_Render_04__roll", "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being entirely black to having a white chalk drawing of a person on it."}
+{"id": "v2_Render_04__brightness", "image_id": "v2_Render_04__brightness", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_04__natural", "image_id": "v2_Render_04__natural", "caption": "The scene is now more lit up. A yellow schoolbag has appeared on the desk at the front left of the classroom."}
+{"id": "v2_Render_05__identity", "image_id": "v2_Render_05__identity", "caption": "The scene is now more symmetrical."}
+{"id": "v2_Render_05__zoom_in", "image_id": "v2_Render_05__zoom_in", "caption": "The scene is now more lit up. The chair at the front left of the blackboard, next to another identical chair, has disappeared."}
+{"id": "v2_Render_05__zoom_out", "image_id": "v2_Render_05__zoom_out", "caption": "The scene is now more lit up. The blackboard at the front of the classroom has decreased in size."}
+{"id": "v2_Render_05__roll", "image_id": "v2_Render_05__roll", "caption": "The scene is now more lit up. The blackboard at the front of the classroom changes from being brighter to darker."}
+{"id": "v2_Render_05__brightness", "image_id": "v2_Render_05__brightness", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_05__natural", "image_id": "v2_Render_05__natural", "caption": "The scene is now more lit up. The black table in the front left of the classroom is replaced by a black table with a wooden top."}
+{"id": "v2_Render_06__identity", "image_id": "v2_Render_06__identity", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_06__zoom_in", "image_id": "v2_Render_06__zoom_in", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_06__zoom_out", "image_id": "v2_Render_06__zoom_out", "caption": "The light in the scene has increased."}
+{"id": "v2_Render_06__roll", "image_id": "v2_Render_06__roll", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_06__brightness", "image_id": "v2_Render_06__brightness", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_06__natural", "image_id": "v2_Render_06__natural", "caption": "The chair on the right side of the round table has disappeared. The chair on the left side of the round table has also disappeared. The transparent glass water jug on the round table has disappeared. The yellow coffee cup in the center of the table has changed to a white one. The red kettle on the black countertop at the back right of the kitchen has changed to green. The two stacked plates on the left side of the table have been replaced by a single plate with a sandwich on top."}
+{"id": "v2_Render_07__identity", "image_id": "v2_Render_07__identity", "caption": "The scene is now more lit up."}
+{"id": "v2_Render_07__zoom_in", "image_id": "v2_Render_07__zoom_in", "caption": "The scene has become more illuminated. The blue spray-painted tag on the wall to the right of the yellow electric vehicle changes from vertical to horizontal."}
+{"id": "v2_Render_07__zoom_out", "image_id": "v2_Render_07__zoom_out", "caption": "The scene has become more illuminated. The blue spray-painted tag on the wall to the right of the yellow electric vehicle changes from \"WSS\" to \"WSS\"."}
+{"id": "v2_Render_07__roll", "image_id": "v2_Render_07__roll", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_07__brightness", "image_id": "v2_Render_07__brightness", "caption": "The scene has become more illuminated."}
+{"id": "v2_Render_07__natural", "image_id": "v2_Render_07__natural", "caption": "The scene has become more illuminated. A cylindrical trash can appears in the lower left corner of the stairs."}

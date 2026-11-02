@@ -1,0 +1,7 @@
+{
+  "source_sha256": "7fa0fd7f2f77092c9fcf4ec3f22836f30141c4c196e9967016a338576f16f20e",
+  "n_total": 1570,
+  "operation": "Exact repeated-sentence removal on cached published-checkpoint baseline captions; no GPU, no model changes, no semantic rewriting.",
+  "rule_locked_before_full_test_scores": true,
+  "limitations": "Does not fix incorrect visual claims or establish viewpoint/zoom robustness."
+}

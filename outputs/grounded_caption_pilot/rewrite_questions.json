@@ -1,0 +1,626 @@
+[
+  {
+    "id": "control__real_test_pair_000324",
+    "image": [
+      "Real/test/images/real_test_000075.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000324",
+    "image": [
+      "Real/test/images/real_test_000075.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.\nIndependent, fallible object-locator observations: [{\"category\": \"bed\", \"A\": {\"boxes_0_to_1000\": [[23, 306, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[19, 302, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000161",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000161",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.\nIndependent, fallible object-locator observations: [{\"category\": \"chair\", \"A\": {\"boxes_0_to_1000\": [[0, 0, 332, 455]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[0, 0, 248, 264], [0, 90, 108, 333]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"table\", \"A\": {\"boxes_0_to_1000\": [[114, 184, 870, 703]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[117, 211, 851, 693]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000554",
+    "image": [
+      "Real/test/images/real_test_000127.jpg",
+      "Real/test/images/real_test_000128.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has turned to the right and is now facing away from the camera.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000554",
+    "image": [
+      "Real/test/images/real_test_000127.jpg",
+      "Real/test/images/real_test_000128.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has turned to the right and is now facing away from the camera.\nIndependent, fallible object-locator observations: [{\"category\": \"dog\", \"A\": {\"boxes_0_to_1000\": [[554, 191, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000425",
+    "image": [
+      "Real/test/images/real_test_000104.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000425",
+    "image": [
+      "Real/test/images/real_test_000104.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [[120, 554, 386, 890], [384, 527, 691, 871], [585, 547, 932, 854]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[81, 483, 442, 935], [344, 482, 622, 952], [573, 462, 864, 954]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000577",
+    "image": [
+      "Real/test/images/real_test_000143.jpg",
+      "Real/test/images/real_test_000136.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000577",
+    "image": [
+      "Real/test/images/real_test_000143.jpg",
+      "Real/test/images/real_test_000136.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.\nIndependent, fallible object-locator observations: [{\"category\": \"toy car\", \"A\": {\"boxes_0_to_1000\": [[361, 362, 472, 467]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[147, 283, 247, 379]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"chair\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000440",
+    "image": [
+      "Real/test/images/real_test_000099.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000440",
+    "image": [
+      "Real/test/images/real_test_000099.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [[198, 572, 487, 946], [337, 559, 614, 944], [444, 554, 765, 947]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[81, 483, 442, 935], [344, 482, 622, 952], [573, 462, 864, 954]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000534",
+    "image": [
+      "Real/test/images/real_test_000120.jpg",
+      "Real/test/images/real_test_000122.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has brightened. A new pink bottle appears in the center of the scene.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000534",
+    "image": [
+      "Real/test/images/real_test_000120.jpg",
+      "Real/test/images/real_test_000122.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The ambient lighting has brightened. A new pink bottle appears in the center of the scene.\nIndependent, fallible object-locator observations: [{\"category\": \"bottle\", \"A\": {\"boxes_0_to_1000\": [[589, 642, 745, 846], [603, 478, 704, 661], [688, 366, 874, 751], [711, 558, 833, 750], [817, 616, 972, 780]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[604, 479, 706, 653], [688, 366, 875, 646], [711, 559, 834, 749]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000567",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000132.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000567",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000132.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.\nIndependent, fallible object-locator observations: [{\"category\": \"dog\", \"A\": {\"boxes_0_to_1000\": [[37, 199, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[669, 95, 999, 695]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"plant\", \"A\": {\"boxes_0_to_1000\": [[0, 0, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[0, 0, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000742",
+    "image": [
+      "Real/test/images/real_test_000174.jpg",
+      "Real/test/images/real_test_000179.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000742",
+    "image": [
+      "Real/test/images/real_test_000174.jpg",
+      "Real/test/images/real_test_000179.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.\nIndependent, fallible object-locator observations: [{\"category\": \"car\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}, {\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[74, 413, 1000, 718]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000304",
+    "image": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000304",
+    "image": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [[48, 333, 237, 790], [394, 350, 580, 840], [685, 344, 872, 789]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[50, 335, 237, 790], [395, 351, 581, 839], [688, 341, 872, 789]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000566",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000131.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has lowered its head and is sniffing the ground.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000566",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000131.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The dog has lowered its head and is sniffing the ground.\nIndependent, fallible object-locator observations: [{\"category\": \"dog\", \"A\": {\"boxes_0_to_1000\": [[37, 199, 999, 999]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[322, 197, 854, 812]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__real_test_pair_000005",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A new train toy has appeared in front of the toy car on the left side of the scene.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__real_test_pair_000005",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A new train toy has appeared in front of the toy car on the left side of the scene.\nIndependent, fallible object-locator observations: [{\"category\": \"toy car\", \"A\": {\"boxes_0_to_1000\": [[512, 245, 733, 521]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[171, 269, 311, 679]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000180",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000180",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.\nIndependent, fallible object-locator observations: [{\"category\": \"bicycle\", \"A\": {\"boxes_0_to_1000\": [[676, 461, 922, 729]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[628, 479, 966, 709]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"box\", \"A\": {\"boxes_0_to_1000\": [[594, 571, 674, 699]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[594, 571, 674, 691]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000575",
+    "image": [
+      "Render/test/images/render_test_indoor_000035.jpg",
+      "Render/test/images/render_test_indoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000575",
+    "image": [
+      "Render/test/images/render_test_indoor_000035.jpg",
+      "Render/test/images/render_test_indoor_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.\nIndependent, fallible object-locator observations: [{\"category\": \"chair\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}, {\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[400, 543, 543, 754]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000614",
+    "image": [
+      "Render/test/images/render_test_indoor_000043.jpg",
+      "Render/test/images/render_test_indoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000614",
+    "image": [
+      "Render/test/images/render_test_indoor_000043.jpg",
+      "Render/test/images/render_test_indoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.\nIndependent, fallible object-locator observations: [{\"category\": \"table\", \"A\": {\"boxes_0_to_1000\": [[0, 783, 358, 999], [5, 688, 280, 785], [62, 654, 136, 686], [197, 643, 274, 681], [215, 615, 266, 641], [312, 586, 379, 613], [325, 604, 384, 639], [342, 637, 393, 680], [392, 678, 487, 805], [441, 594, 484, 618], [444, 772, 693, 999], [479, 625, 554, 663], [509, 570, 565, 596], [562, 587, 612, 620], [646, 671, 724, 777], [701, 574, 746, 634], [702, 771, 989, 999], [731, 656, 931, 780], [766, 532, 781, 546], [768, 603, 908, 661], [781, 571, 893, 609], [854, 542, 877, 569]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[0, 781, 358, 999], [5, 688, 281, 785], [62, 654, 138, 686], [196, 641, 275, 681], [215, 615, 266, 646], [312, 586, 386, 607], [322, 604, 384, 638], [342, 637, 392, 682], [381, 679, 489, 798], [438, 771, 693, 999], [486, 625, 554, 665], [509, 570, 612, 576], [510, 589, 613, 664], [592, 669, 726, 891], [622, 545, 661, 599], [701, 575, 745, 651], [703, 772, 993, 999], [731, 666, 932, 782], [766, 533, 908, 650]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000648",
+    "image": [
+      "Render/test/images/render_test_indoor_000047.jpg",
+      "Render/test/images/render_test_indoor_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000648",
+    "image": [
+      "Render/test/images/render_test_indoor_000047.jpg",
+      "Render/test/images/render_test_indoor_000040.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [[625, 388, 721, 493]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[880, 431, 967, 649]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000717",
+    "image": [
+      "Render/test/images/render_test_indoor_000058.jpg",
+      "Render/test/images/render_test_indoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000717",
+    "image": [
+      "Render/test/images/render_test_indoor_000058.jpg",
+      "Render/test/images/render_test_indoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.\nIndependent, fallible object-locator observations: [{\"category\": \"table\", \"A\": {\"boxes_0_to_1000\": [[0, 599, 394, 847], [52, 565, 169, 635], [216, 566, 396, 600], [354, 549, 419, 575], [594, 551, 801, 604], [688, 601, 909, 807], [854, 612, 966, 646]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[58, 614, 167, 642], [131, 604, 339, 849], [215, 568, 396, 636], [354, 551, 419, 576], [471, 544, 512, 602], [592, 554, 661, 578], [622, 569, 732, 603], [688, 601, 910, 850], [744, 579, 827, 645], [855, 615, 966, 646]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"flower\", \"A\": {\"boxes_0_to_1000\": [[86, 562, 141, 604], [216, 543, 250, 568], [764, 542, 799, 569], [883, 561, 938, 601]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[87, 562, 141, 604], [217, 543, 250, 568], [768, 542, 799, 569], [884, 563, 959, 605]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000137",
+    "image": [
+      "Render/test/images/render_test_outdoor_000023.jpg",
+      "Render/test/images/render_test_outdoor_000018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000137",
+    "image": [
+      "Render/test/images/render_test_outdoor_000023.jpg",
+      "Render/test/images/render_test_outdoor_000018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.\nIndependent, fallible object-locator observations: [{\"category\": \"car\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}, {\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [[632, 365, 646, 418]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[706, 481, 745, 568]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000219",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000219",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[372, 465, 451, 648]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000222",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000222",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.\nIndependent, fallible object-locator observations: [{\"category\": \"car\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000309",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000309",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.\nIndependent, fallible object-locator observations: [{\"category\": \"chair\", \"A\": {\"boxes_0_to_1000\": [[674, 438, 960, 665]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[676, 438, 959, 664]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"ball\", \"A\": {\"boxes_0_to_1000\": [[109, 502, 118, 509], [119, 522, 129, 544], [125, 501, 133, 508], [138, 524, 149, 545], [155, 501, 165, 511], [162, 532, 173, 546], [302, 534, 310, 542], [318, 519, 327, 527], [362, 518, 372, 529], [448, 528, 458, 536], [449, 547, 459, 556], [498, 544, 507, 554], [541, 517, 551, 525], [619, 543, 632, 561], [644, 543, 654, 555], [701, 571, 715, 579], [754, 630, 768, 645], [814, 583, 825, 593], [850, 602, 859, 613], [856, 615, 870, 625], [972, 599, 984, 609]], \"explicit_no_detection\": false, \"valid_format\": false}, \"B\": {\"boxes_0_to_1000\": [[109, 502, 118, 510], [119, 537, 129, 542], [125, 503, 133, 508], [138, 523, 149, 532], [138, 536, 148, 544], [154, 501, 163, 511], [162, 534, 173, 545], [302, 535, 310, 543], [319, 519, 327, 527], [362, 520, 372, 529], [448, 528, 458, 538], [449, 550, 459, 558], [498, 546, 507, 554], [541, 518, 551, 525], [619, 557, 632, 562], [644, 544, 653, 555], [701, 573, 715, 579], [754, 631, 768, 643], [815, 585, 823, 593], [850, 603, 858, 612], [856, 616, 871, 625], [972, 600, 984, 609]], \"explicit_no_detection\": false, \"valid_format\": false}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000182",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000182",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.\nIndependent, fallible object-locator observations: [{\"category\": \"car\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}}, {\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[388, 468, 438, 649]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000549",
+    "image": [
+      "Render/test/images/render_test_indoor_000030.jpg",
+      "Render/test/images/render_test_indoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000549",
+    "image": [
+      "Render/test/images/render_test_indoor_000030.jpg",
+      "Render/test/images/render_test_indoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.\nIndependent, fallible object-locator observations: [{\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[395, 542, 559, 758]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"bed\", \"A\": {\"boxes_0_to_1000\": [[230, 307, 944, 859]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[133, 305, 945, 859]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "control__render_test_pair_000391",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.\nFinal difference caption:"
+      }
+    ]
+  },
+  {
+    "id": "grounded__render_test_pair_000391",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:\nReview the two images and the draft below. The draft may be wrong. Write only the final difference caption, describing changes visibly supported by the images. Consider camera viewpoint and visibility. Do not invent object changes. \nPrevious draft (unverified): The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.\nIndependent, fallible object-locator observations: [{\"category\": \"table\", \"A\": {\"boxes_0_to_1000\": [[0, 521, 374, 700], [372, 519, 949, 782]], \"explicit_no_detection\": false, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[0, 522, 165, 700], [275, 521, 478, 676], [372, 524, 806, 783], [846, 538, 999, 716]], \"explicit_no_detection\": false, \"valid_format\": true}}, {\"category\": \"person\", \"A\": {\"boxes_0_to_1000\": [], \"explicit_no_detection\": true, \"valid_format\": true}, \"B\": {\"boxes_0_to_1000\": [[164, 362, 274, 751]], \"explicit_no_detection\": false, \"valid_format\": true}}]\nThese observations are not ground truth. No detection does not prove absence. Same-category boxes do not prove object identity. Do not infer object movement or resizing from box coordinates alone, because camera movement and cropping also change them.\nFinal difference caption:"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "index": 1,
+    "candidate": 1,
+    "id": "old__furniture__natural",
+    "scene": "furniture",
+    "cohort": "old",
+    "split": "Real",
+    "condition": "natural",
+    "caption": "The blue cushion on the chair on the left side of the scene changes to green. A white toy goose appears on the white table in the center of the scene. The number of green stools increases from one to two, with an additional stool placed in front of the white table on the right side of the scene."
+  },
+  {
+    "index": 4,
+    "candidate": 1,
+    "id": "old__yoga__identity",
+    "scene": "yoga",
+    "cohort": "old",
+    "split": "Real",
+    "condition": "identity",
+    "caption": "The scene remains unchanged."
+  },
+  {
+    "index": 5,
+    "candidate": 2,
+    "id": "old__yoga__natural",
+    "scene": "yoga",
+    "cohort": "old",
+    "split": "Real",
+    "condition": "natural",
+    "caption": "The posture of the person in white clothing changes from a side plank position with the left leg extended backward, right leg bent forward, arms raised and supported on both sides of the structure, to a head-to-ground backbend with legs spread apart."
+  },
+  {
+    "index": 20,
+    "candidate": 1,
+    "id": "old__greenhouse__identity",
+    "scene": "greenhouse",
+    "cohort": "old",
+    "split": "Render",
+    "condition": "identity",
+    "caption": "The scene is now more lit up."
+  },
+  {
+    "index": 21,
+    "candidate": 1,
+    "id": "old__greenhouse__natural",
+    "scene": "greenhouse",
+    "cohort": "old",
+    "split": "Render",
+    "condition": "natural",
+    "caption": "The wooden table and chair on the left side of the scene are no longer visible. The bench on the right side of the corridor has changed color from brown to purple."
+  },
+  {
+    "index": 31,
+    "candidate": 2,
+    "id": "new__computer_desk__zoom_in_1p10",
+    "scene": "computer_desk",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "caption": "The camera lens on the left side of the table rotates to the right, revealing the lens mount. The monitor is tilted backward."
+  },
+  {
+    "index": 32,
+    "candidate": 1,
+    "id": "new__computer_desk__roll_8_safe",
+    "scene": "computer_desk",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "caption": "The camera lens on the left side of the keyboard rotates to the right, and the camera body moves to the right. The black keyboard moves to the right. The yellow pen in the pen holder on the left side of the desk disappears."
+  },
+  {
+    "index": 34,
+    "candidate": 2,
+    "id": "new__computer_desk__zoom_out_reverse_1p10",
+    "scene": "computer_desk",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "caption": "The camera lens on the left side of the keyboard rotates to the right, revealing a stack of additional camera lenses. The camera body moves to the right, revealing the lens mount."
+  },
+  {
+    "index": 35,
+    "candidate": 2,
+    "id": "new__computer_desk__natural",
+    "scene": "computer_desk",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "natural",
+    "caption": "The camera lens on the left side of the keyboard has been replaced with a stack of additional camera lenses. The camera lens on the right side of the keyboard has been replaced with a black mouse. The monitor, which was previously off, is now on. The red and blue flags hanging on the wall above the table are no longer visible. The camera lens holder on the right side of the desk has moved to the left side of the keyboard. The camera lens on the left side of the keyboard has been moved to the right side of the keyboard. The camera lens on the right side of the keyboard has been moved to the left side of the keyboard."
+  },
+  {
+    "index": 40,
+    "candidate": 2,
+    "id": "new__snowy_street__zoom_out_reverse_1p10",
+    "scene": "snowy_street",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "caption": "The red car on the right side of the frame is no longer visible."
+  },
+  {
+    "index": 41,
+    "candidate": 2,
+    "id": "new__snowy_street__natural",
+    "scene": "snowy_street",
+    "cohort": "new",
+    "split": "Real",
+    "condition": "natural",
+    "caption": "The scene has darkened, and the ambient lighting has shifted from daytime to nighttime. The white pickup truck in the distance on the right side of the frame is no longer visible."
+  },
+  {
+    "index": 51,
+    "candidate": 1,
+    "id": "new__city_intersection__roll_minus8_zoom",
+    "scene": "city_intersection",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "caption": "The scene is now more lit up. The person in a black jacket and black shorts on the right side of the road, next to the traffic light, has turned their body toward the left side of the screen."
+  },
+  {
+    "index": 52,
+    "candidate": 1,
+    "id": "new__city_intersection__zoom_out_reverse_1p10",
+    "scene": "city_intersection",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "caption": "The scene is now more lit up. The person in a black jacket and black shorts standing on the right side of the road, next to the traffic light, has turned toward the camera."
+  },
+  {
+    "index": 62,
+    "candidate": 1,
+    "id": "new__bicycle_alley__roll_8_safe",
+    "scene": "bicycle_alley",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "caption": "The scene has become more illuminated. The word \"Caution\" on the wall in the upper right corner of the scene moves to the left and up."
+  },
+  {
+    "index": 68,
+    "candidate": 1,
+    "id": "new__render_kitchen__roll_8_safe",
+    "scene": "render_kitchen",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "caption": "The chair on the left side of the round table has changed from white to beige. The transparent glass cup in front of the blue water pitcher on the round table has disappeared. The microwave above the right stove is now visible."
+  },
+  {
+    "index": 69,
+    "candidate": 2,
+    "id": "new__render_kitchen__roll_minus8_zoom",
+    "scene": "render_kitchen",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "caption": "The scene has become more illuminated. The white chair on the left side of the table rotates counterclockwise, changing its orientation from facing the camera to facing the cabinet on the left. The blue kettle on the round table moves to the right. The two glasses of orange juice in front of the blue water pitcher on the round table change from transparent to opaque."
+  },
+  {
+    "index": 71,
+    "candidate": 1,
+    "id": "new__render_kitchen__natural",
+    "scene": "render_kitchen",
+    "cohort": "new",
+    "split": "Render",
+    "condition": "natural",
+    "caption": "A woman wearing a white top and blue pants appears in front of the stove on the right side of the kitchen, facing the stove. A blue sign with the word \"kitchen\" appears in the lower left corner of the scene. The blue water pitcher on the round table has been replaced by a transparent glass carafe. The chair behind the round wooden table is now visible."
+  }
+]

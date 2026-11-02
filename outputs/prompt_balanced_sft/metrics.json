@@ -1,0 +1,560 @@
+{
+  "old/Real/identity": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 5,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 5
+    },
+    "balanced": {
+      "n": 6,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 2,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 2
+    }
+  },
+  "old/Real/transformed": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "balanced": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    }
+  },
+  "old/Real/natural": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 7,
+      "unsupported_pairs": 5,
+      "any_recorded_geometry_error": 5,
+      "possible_facts": 12
+    },
+    "balanced": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 6,
+      "unsupported_pairs": 4,
+      "any_recorded_geometry_error": 4,
+      "possible_facts": 12
+    }
+  },
+  "old/Render/identity": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 6,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 6
+    },
+    "balanced": {
+      "n": 6,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 4
+    }
+  },
+  "old/Render/transformed": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "balanced": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    }
+  },
+  "old/Render/natural": {
+    "baseline": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 2,
+      "unsupported_pairs": 5,
+      "any_recorded_geometry_error": 5,
+      "possible_facts": 10
+    },
+    "balanced": {
+      "n": 6,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "fact_hits": 3,
+      "unsupported_pairs": 5,
+      "any_recorded_geometry_error": 5,
+      "possible_facts": 10
+    }
+  },
+  "old/all/identity": {
+    "baseline": {
+      "n": 12,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 11,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 11
+    },
+    "balanced": {
+      "n": 12,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 6,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 6
+    }
+  },
+  "old/all/transformed": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "balanced": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 0
+    }
+  },
+  "old/all/natural": {
+    "baseline": {
+      "n": 12,
+      "physical_fp_pairs": 10,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 10,
+      "any_recorded_geometry_error": 10,
+      "possible_facts": 22
+    },
+    "balanced": {
+      "n": 12,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 9,
+      "any_recorded_geometry_error": 9,
+      "possible_facts": 22
+    }
+  },
+  "new/Real/identity": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 4
+    },
+    "balanced": {
+      "n": 4,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 2,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 2
+    }
+  },
+  "new/Real/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 16
+    },
+    "balanced": {
+      "n": 16,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 14
+    }
+  },
+  "new/Real/natural": {
+    "baseline": {
+      "n": 3,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "fact_hits": 1,
+      "unsupported_pairs": 2,
+      "any_recorded_geometry_error": 2,
+      "possible_facts": 4
+    },
+    "balanced": {
+      "n": 3,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "fact_hits": 1,
+      "unsupported_pairs": 1,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 4
+    }
+  },
+  "new/Render/identity": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 4
+    },
+    "balanced": {
+      "n": 4,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 4
+    }
+  },
+  "new/Render/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 16,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 16
+    },
+    "balanced": {
+      "n": 16,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 13,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 15
+    }
+  },
+  "new/Render/natural": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 4,
+      "unsupported_pairs": 4,
+      "any_recorded_geometry_error": 4,
+      "possible_facts": 8
+    },
+    "balanced": {
+      "n": 4,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "fact_hits": 4,
+      "unsupported_pairs": 2,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 8
+    }
+  },
+  "new/all/identity": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 8
+    },
+    "balanced": {
+      "n": 8,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 6,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 6
+    }
+  },
+  "new/all/transformed": {
+    "baseline": {
+      "n": 32,
+      "physical_fp_pairs": 31,
+      "illumination_inferences": 7,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 32
+    },
+    "balanced": {
+      "n": 32,
+      "physical_fp_pairs": 20,
+      "illumination_inferences": 15,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 29
+    }
+  },
+  "new/all/natural": {
+    "baseline": {
+      "n": 7,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 6,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 12
+    },
+    "balanced": {
+      "n": 7,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 3,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 12
+    }
+  },
+  "all/Real/identity": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 9,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 9
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 4
+    }
+  },
+  "all/Real/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 16
+    },
+    "balanced": {
+      "n": 16,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 14
+    }
+  },
+  "all/Real/natural": {
+    "baseline": {
+      "n": 9,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "fact_hits": 8,
+      "unsupported_pairs": 7,
+      "any_recorded_geometry_error": 7,
+      "possible_facts": 16
+    },
+    "balanced": {
+      "n": 9,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "fact_hits": 7,
+      "unsupported_pairs": 5,
+      "any_recorded_geometry_error": 7,
+      "possible_facts": 16
+    }
+  },
+  "all/Render/identity": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 10,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 10
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 7,
+      "identity_difference_pairs": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 8
+    }
+  },
+  "all/Render/transformed": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 16,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 16
+    },
+    "balanced": {
+      "n": 16,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 13,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 15
+    }
+  },
+  "all/Render/natural": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "fact_hits": 6,
+      "unsupported_pairs": 9,
+      "any_recorded_geometry_error": 9,
+      "possible_facts": 18
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 0,
+      "fact_hits": 7,
+      "unsupported_pairs": 7,
+      "any_recorded_geometry_error": 8,
+      "possible_facts": 18
+    }
+  },
+  "all/all/identity": {
+    "baseline": {
+      "n": 20,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 19,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 19
+    },
+    "balanced": {
+      "n": 20,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 7,
+      "identity_difference_pairs": 12,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 12
+    }
+  },
+  "all/all/transformed": {
+    "baseline": {
+      "n": 32,
+      "physical_fp_pairs": 31,
+      "illumination_inferences": 7,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 32
+    },
+    "balanced": {
+      "n": 32,
+      "physical_fp_pairs": 20,
+      "illumination_inferences": 15,
+      "identity_difference_pairs": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "any_recorded_geometry_error": 29
+    }
+  },
+  "all/all/natural": {
+    "baseline": {
+      "n": 19,
+      "physical_fp_pairs": 16,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "fact_hits": 14,
+      "unsupported_pairs": 16,
+      "any_recorded_geometry_error": 16,
+      "possible_facts": 34
+    },
+    "balanced": {
+      "n": 19,
+      "physical_fp_pairs": 12,
+      "illumination_inferences": 6,
+      "identity_difference_pairs": 0,
+      "fact_hits": 14,
+      "unsupported_pairs": 12,
+      "any_recorded_geometry_error": 15,
+      "possible_facts": 34
+    }
+  }
+}

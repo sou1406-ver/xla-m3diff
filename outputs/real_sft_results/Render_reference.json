@@ -1,0 +1,294 @@
+{
+  "annotations": [
+    {
+      "id": "render_test_pair_000014",
+      "image_id": "render_test_pair_000014",
+      "caption": "The surroundings have brightened. A newly appeared text \"vliia\" is written in light blue diagonal lines on the ground near the lower left side of the street, close to the curb, and positioned in front of the blue house and beside a fallen bicycle."
+    },
+    {
+      "id": "render_test_pair_000033",
+      "image_id": "render_test_pair_000033",
+      "caption": "A gray bucket appeared at the staircase entrance of the house on the left side of the road. A red trash can has replaced the silver trash can located on the right side of the street, next to the bicycle and near the sidewalk."
+    },
+    {
+      "id": "render_test_pair_000050",
+      "image_id": "render_test_pair_000050",
+      "caption": "The manhole cover in the center of the road between the two rows of houses has decreased in size. The orange flowerpot in front of the fence on the left side of the road has changed color from orange to purple."
+    },
+    {
+      "id": "render_test_pair_000082",
+      "image_id": "render_test_pair_000082",
+      "caption": "A blue sign appeared on the ground in front of the left side of the central road, which read \"Villa\"."
+    },
+    {
+      "id": "render_test_pair_000092",
+      "image_id": "render_test_pair_000092",
+      "caption": "A man wearing a blue sweatshirt, black pants, and white shoes appears on the open roof on the right, next to the green flower bed in the upper left corner, with his left leg forward, facing the building on the left side of the picture. The streetlight pole with a wide, flat, circular lamp was previously replaced by a standard streetlight pole with a yellow lampshade."
+    },
+    {
+      "id": "render_test_pair_000109",
+      "image_id": "render_test_pair_000109",
+      "caption": "A streetlamp behind the pedestrian crossing on the left side of the street has been removed. The green round table on the roof of the building in the lower right corner of the scene has moved from the center of the terrace to the lower left corner of the terrace."
+    },
+    {
+      "id": "render_test_pair_000118",
+      "image_id": "render_test_pair_000118",
+      "caption": "The green chair near the left side of the rooftop terrace at the bottom right corner of the building has decreased in size. The traffic light on the right side of the crosswalk has rotated 90 degrees to the left."
+    },
+    {
+      "id": "render_test_pair_000157",
+      "image_id": "render_test_pair_000157",
+      "caption": "A new tree has appeared on the sidewalk in front of the building on the left side of the scene, positioned between the building and the street."
+    },
+    {
+      "id": "render_test_pair_000171",
+      "image_id": "render_test_pair_000171",
+      "caption": "The area is now brighter. There is a newly appeared blue sign with the word \"Cautious\" on the upper right wall of the scene, positioned above the yellow bike and to the right of the stairwell."
+    },
+    {
+      "id": "render_test_pair_000200",
+      "image_id": "render_test_pair_000200",
+      "caption": "The gray metal box located between the yellow bicycle and the wall on the right side of the scene has increased in size.. A gray barrel has appeared in front of the first floor stair railing."
+    },
+    {
+      "id": "render_test_pair_000208",
+      "image_id": "render_test_pair_000208",
+      "caption": "The brightness of the scene has increased. A black sandbag has appeared on the ground to the left of the blue door under the stairs. A new light has been added to the wall above the yellow bicycle, to the right of the original street light."
+    },
+    {
+      "id": "render_test_pair_000245",
+      "image_id": "render_test_pair_000245",
+      "caption": "The white metal box on the left wall of the blue door has moved to the wall in front of it near the stairs."
+    },
+    {
+      "id": "render_test_pair_000258",
+      "image_id": "render_test_pair_000258",
+      "caption": "The blue text that reads \"plonio\" on the lower left side of the checkered picnic blanket, near the wicker picnic basket, is replaced with the blue text \"picnic.\""
+    },
+    {
+      "id": "render_test_pair_000269",
+      "image_id": "render_test_pair_000269",
+      "caption": "The scene is now more lit up. The red and white checked picnic blanket turned green."
+    },
+    {
+      "id": "render_test_pair_000336",
+      "image_id": "render_test_pair_000336",
+      "caption": "The baguette on the left side of the picnic blanket, near the basket and other food items, has increased in size."
+    },
+    {
+      "id": "render_test_pair_000346",
+      "image_id": "render_test_pair_000346",
+      "caption": "The setting is now brighter. The silver watering can beneath the stand on the left side of the center of the scene has changed from silver to red."
+    },
+    {
+      "id": "render_test_pair_000363",
+      "image_id": "render_test_pair_000363",
+      "caption": "A dark high-back chair has been replaced by a wooden chair with horizontal slats on the back, positioned behind the wooden table in the lower left corner. The small green boots near the middle of the scene, positioned to the right of a coiled green hose and in front of two large terracotta pots with plants, are no longer visible. A glowing blue \"Shop\" sign has appeared on the ground near the center of the scene, directly in front of the standing person and slightly to the left of a table and chair set. A man wearing blue suspenders, a white short-sleeved shirt, and a hat is now present in the middle of the picture, with his hands in his waist pockets, his back to the picture, and his legs apart."
+    },
+    {
+      "id": "render_test_pair_000404",
+      "image_id": "render_test_pair_000404",
+      "caption": "The scene has become more illuminated. Next to the desk on the left side of the scene, where monitors face the camera, the black office chair originally placed on the far left has been moved to the left side of the row of desks closest to the camera, near the aisle."
+    },
+    {
+      "id": "render_test_pair_000409",
+      "image_id": "render_test_pair_000409",
+      "caption": "The office chair on the far left of the row closest to the camera on the right side of the scene, near the aisle, has shifted from facing the left aisle to facing the front desk. The word \"Efficiomt\" has appeared on the floor in the foreground of the office space, positioned in front of the desks and chairs, with large, light blue letters on the patterned floor."
+    },
+    {
+      "id": "render_test_pair_000418",
+      "image_id": "render_test_pair_000418",
+      "caption": "The computer monitor on the far left of the row of desks closest to the camera on the right side of the scene, near the aisle, has increased in size. The black mesh-backed office chair on the far left near the aisle in the row of black office chairs on the left side of the desk near the front of the scene and close to the camera has changed to a brown leather office chair."
+    },
+    {
+      "id": "render_test_pair_000436",
+      "image_id": "render_test_pair_000436",
+      "caption": "A black storage rack has been added to the left side of the desk near the front of the scene, close to the aisle and near the camera. The second monitor in the row of desks on the left side has vanished."
+    },
+    {
+      "id": "render_test_pair_000496",
+      "image_id": "render_test_pair_000496",
+      "caption": "The slice of bread on the white cutting board on the right side of the kitchen counter is no longer present.**  The white chair with a cushion and backrest on the front-right side of the round wooden table is no longer visible.**  The transparent white glass pitcher at the center of the round wooden table has turned blue.**  The glass filled with orange drink on the right side of the round wooden table has increased to two glasses.**  The glass filled with orange drink on the left side of the round wooden table has appeared.**  The pot above the gas stove on the kitchen counter has changed color from purple to gray.**  "
+    },
+    {
+      "id": "render_test_pair_000518",
+      "image_id": "render_test_pair_000518",
+      "caption": "The glass cup originally on the right side of the round wooden table, which had moved to the countertop of the white cabinet, has returned to the right side of the round wooden table.**  The yellow and brown striped plastic cup on the left side of the table has now been replaced by a glass cup filled with orange drink.**  The spout of the glass pitcher filled with yellow liquid at the center of the round wooden table has shifted from facing right to facing left.**  A red fire extinguisher has been placed on the floor to the right of the dining table, near the kitchen cabinet.**  "
+    },
+    {
+      "id": "render_test_pair_000523",
+      "image_id": "render_test_pair_000523",
+      "caption": "The slice of bread on the white cutting board on the right side of the kitchen counter is missing.The white round wall clock above the white cabinet at the kitchen entrance is missing.The glass pitcher filled with orange liquid that was positioned in the center of the round wooden table, between the glasses and plates, is no longer in the scene.The white chair with a cushion and backrest on the left side of the round wooden table has turned red."
+    },
+    {
+      "id": "render_test_pair_000560",
+      "image_id": "render_test_pair_000560",
+      "caption": "A black metal ladder appeared on the right side of the bunk bed. Two orange rectangular cushions appeared at the head of the upper bunk bed. The blue mattress on the pull-out bed beneath the lower bunk bed turned gray. The picture frame with a leaf pattern hanging on the wall above the upper bunk bed rotated."
+    },
+    {
+      "id": "render_test_pair_000576",
+      "image_id": "render_test_pair_000576",
+      "caption": "The light in the scene has diminished."
+    },
+    {
+      "id": "render_test_pair_000586",
+      "image_id": "render_test_pair_000586",
+      "caption": "The stack of yellow notebooks on the third desk from the right in the second-to-last row is no longer present. The third rectangular desk from the right in the last row has been replaced with a semicircular desk."
+    },
+    {
+      "id": "render_test_pair_000644",
+      "image_id": "render_test_pair_000644",
+      "caption": "A neon \"Class room\" sign has been newly placed on the right side of the blackboard at the front of the classroom. The desk in the third row of the frontmost aisle in the classroom has been moved to the front of the adjacent stool."
+    },
+    {
+      "id": "render_test_pair_000676",
+      "image_id": "render_test_pair_000676",
+      "caption": "A rectangular object with red text displaying \"Class raam\" has appeared on the upper right portion of the blackboard at the front of the classroom, overlapping part of the chalk drawing and positioned above the teacher's desk."
+    },
+    {
+      "id": "render_test_pair_000708",
+      "image_id": "render_test_pair_000708",
+      "caption": "A gray chair has been added to the front left of the scene. A rectangular table appeared on the bed on the right side of the first row."
+    },
+    {
+      "id": "render_test_pair_000725",
+      "image_id": "render_test_pair_000725",
+      "caption": "The yellow chair at the far end of the central aisle, which was facing the camera, is now oriented away from the camera and toward the white round table. The size of the white IV drip above the second-row bed on the right side of the scene has increased."
+    },
+    {
+      "id": "render_test_pair_000752",
+      "image_id": "render_test_pair_000752",
+      "caption": "A blue sign with the word \"Hashod\" has appeared on the wall above the second-row bed on the right side of the scene. "
+    }
+  ],
+  "images": [
+    {
+      "filename": "render_test_pair_000014",
+      "id": "render_test_pair_000014"
+    },
+    {
+      "filename": "render_test_pair_000033",
+      "id": "render_test_pair_000033"
+    },
+    {
+      "filename": "render_test_pair_000050",
+      "id": "render_test_pair_000050"
+    },
+    {
+      "filename": "render_test_pair_000082",
+      "id": "render_test_pair_000082"
+    },
+    {
+      "filename": "render_test_pair_000092",
+      "id": "render_test_pair_000092"
+    },
+    {
+      "filename": "render_test_pair_000109",
+      "id": "render_test_pair_000109"
+    },
+    {
+      "filename": "render_test_pair_000118",
+      "id": "render_test_pair_000118"
+    },
+    {
+      "filename": "render_test_pair_000157",
+      "id": "render_test_pair_000157"
+    },
+    {
+      "filename": "render_test_pair_000171",
+      "id": "render_test_pair_000171"
+    },
+    {
+      "filename": "render_test_pair_000200",
+      "id": "render_test_pair_000200"
+    },
+    {
+      "filename": "render_test_pair_000208",
+      "id": "render_test_pair_000208"
+    },
+    {
+      "filename": "render_test_pair_000245",
+      "id": "render_test_pair_000245"
+    },
+    {
+      "filename": "render_test_pair_000258",
+      "id": "render_test_pair_000258"
+    },
+    {
+      "filename": "render_test_pair_000269",
+      "id": "render_test_pair_000269"
+    },
+    {
+      "filename": "render_test_pair_000336",
+      "id": "render_test_pair_000336"
+    },
+    {
+      "filename": "render_test_pair_000346",
+      "id": "render_test_pair_000346"
+    },
+    {
+      "filename": "render_test_pair_000363",
+      "id": "render_test_pair_000363"
+    },
+    {
+      "filename": "render_test_pair_000404",
+      "id": "render_test_pair_000404"
+    },
+    {
+      "filename": "render_test_pair_000409",
+      "id": "render_test_pair_000409"
+    },
+    {
+      "filename": "render_test_pair_000418",
+      "id": "render_test_pair_000418"
+    },
+    {
+      "filename": "render_test_pair_000436",
+      "id": "render_test_pair_000436"
+    },
+    {
+      "filename": "render_test_pair_000496",
+      "id": "render_test_pair_000496"
+    },
+    {
+      "filename": "render_test_pair_000518",
+      "id": "render_test_pair_000518"
+    },
+    {
+      "filename": "render_test_pair_000523",
+      "id": "render_test_pair_000523"
+    },
+    {
+      "filename": "render_test_pair_000560",
+      "id": "render_test_pair_000560"
+    },
+    {
+      "filename": "render_test_pair_000576",
+      "id": "render_test_pair_000576"
+    },
+    {
+      "filename": "render_test_pair_000586",
+      "id": "render_test_pair_000586"
+    },
+    {
+      "filename": "render_test_pair_000644",
+      "id": "render_test_pair_000644"
+    },
+    {
+      "filename": "render_test_pair_000676",
+      "id": "render_test_pair_000676"
+    },
+    {
+      "filename": "render_test_pair_000708",
+      "id": "render_test_pair_000708"
+    },
+    {
+      "filename": "render_test_pair_000725",
+      "id": "render_test_pair_000725"
+    },
+    {
+      "filename": "render_test_pair_000752",
+      "id": "render_test_pair_000752"
+    }
+  ]
+}

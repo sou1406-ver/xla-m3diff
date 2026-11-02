@@ -1,0 +1,102 @@
+{
+  "start": "2026-10-27 18:00:00+00:00",
+  "end": "2026-10-27 20:00:00+00:00",
+  "resolution": "h",
+  "items": [
+    {
+      "object_id": "ap-2TbFvEEtx8kv3lbylbblo6",
+      "description": "m3diff-invariance-ablation-v1",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 18:00:00+00:00",
+      "cost": "0.16363371",
+      "cost_by_resource": {
+        "Network Egress": "0.00081180",
+        "Memory": "0.02787718",
+        "CPU": "0.02061159",
+        "A100-40GB": "0.11433314"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-2TbFvEEtx8kv3lbylbblo6",
+      "description": "m3diff-invariance-ablation-v1",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 19:00:00+00:00",
+      "cost": "0.93638599",
+      "cost_by_resource": {
+        "Network Egress": "4.2E-7",
+        "Memory": "0.16032284",
+        "CPU": "0.11848860",
+        "A100-40GB": "0.65757414"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-FARvjX7G4RffrEtln864KF",
+      "description": "m3diff-fresh-confirmation-v1",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 19:00:00+00:00",
+      "cost": "0.40605989",
+      "cost_by_resource": {
+        "Network Egress": "0.00056042",
+        "Memory": "0.06718086",
+        "CPU": "0.04965085",
+        "A10G": "0.28866776"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-WNcluzp1qLoMSrUJQ0nOh5",
+      "description": "m3diff-prompt-balanced-sft-v1",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 19:00:00+00:00",
+      "cost": "0.62350159",
+      "cost_by_resource": {
+        "Network Egress": "0.00011108",
+        "Memory": "0.10673353",
+        "CPU": "0.07888275",
+        "A100-40GB": "0.43777423"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-imWuKPjY5aT4bhksymVkSz",
+      "description": "m3diff-lora-precision-cpu",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 18:00:00+00:00",
+      "cost": "0.00506845",
+      "cost_by_resource": {
+        "Network Egress": "0.00008702",
+        "Memory": "0.00071944",
+        "CPU": "0.00426199"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-kC0X7Oq4wGDyIpuHCYkr7m",
+      "description": "m3diff-unmerged-lora-comparison",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 18:00:00+00:00",
+      "cost": "0.52124566",
+      "cost_by_resource": {
+        "Network Egress": "0.00010652",
+        "Memory": "0.08922661",
+        "CPU": "0.06594404",
+        "A100-40GB": "0.36596850"
+      },
+      "tags": {}
+    },
+    {
+      "object_id": "ap-kb2t0VWUMawwGjTgZZfnuD",
+      "description": "m3diff-fresh-confirmation-prepare",
+      "environment_name": "main",
+      "interval_start": "2026-10-27 19:00:00+00:00",
+      "cost": "0.00759600",
+      "cost_by_resource": {
+        "Memory": "0.00192000",
+        "CPU": "0.00567600"
+      },
+      "tags": {}
+    }
+  ]
+}

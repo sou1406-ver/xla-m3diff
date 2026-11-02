@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "real_test_pair_000324",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000075.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "control": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "grounded": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "references": [
+      "The lighting has brightened. The cylindrical pillow on the brown bedsheet has been replaced with a tiger-shaped plush toy."
+    ],
+    "evidence": [
+      {
+        "category": "bed",
+        "A": {
+          "image": "Real/test/images/real_test_000075.jpg",
+          "label": "bed",
+          "boxes": [
+            [
+              23,
+              306,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bed</ref><box><23><306><999><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000077.jpg",
+          "label": "bed",
+          "boxes": [
+            [
+              19,
+              302,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bed</ref><box><19><302><999><999></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000161",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "baseline": "The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.",
+    "control": "The stool on the left side of the scene has disappeared, and the color of the stool on the right side has changed from brown to green.",
+    "grounded": "The stool on the left side of the scene has been replaced with a green plastic stool. The blue cushion on the black metal chair in the upper left corner of the scene is no longer present, and the gray low stool that was previously placed on the wooden table in the center of the scene has moved to the right side of the white table.",
+    "references": [
+      "The lighting has brightened. A chair with a blue cushion in the back left of the image has disappeared."
+    ],
+    "evidence": [
+      {
+        "category": "chair",
+        "A": {
+          "image": "Real/test/images/real_test_000037.jpg",
+          "label": "chair",
+          "boxes": [
+            [
+              0,
+              0,
+              332,
+              455
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box><0><0><332><455></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000038.jpg",
+          "label": "chair",
+          "boxes": [
+            [
+              0,
+              0,
+              248,
+              264
+            ],
+            [
+              0,
+              90,
+              108,
+              333
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box><0><0><248><264></box><box><0><90><108><333></box><|im_end|>"
+        }
+      },
+      {
+        "category": "table",
+        "A": {
+          "image": "Real/test/images/real_test_000037.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              114,
+              184,
+              870,
+              703
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><114><184><870><703></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000038.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              117,
+              211,
+              851,
+              693
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><117><211><851><693></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000554",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000127.jpg",
+      "Real/test/images/real_test_000128.jpg"
+    ],
+    "baseline": "The dog has turned to the right and is now facing away from the camera.",
+    "control": "The dog has turned to the right and is now facing away from the camera, with its head lowered towards the grass.",
+    "grounded": "The dog has turned to the right and is now facing away from the camera.",
+    "references": [
+      "The dog, which was previously on the right side of the image facing left with its head looking back to the left rear, has now turned its head to the right. Additionally, the dog has moved further to the right, and only part of its body is now visible."
+    ],
+    "evidence": [
+      {
+        "category": "dog",
+        "A": {
+          "image": "Real/test/images/real_test_000127.jpg",
+          "label": "dog",
+          "boxes": [
+            [
+              554,
+              191,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box><554><191><999><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000128.jpg",
+          "label": "dog",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box>None</box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000425",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000104.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "baseline": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "control": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "grounded": "The three people in the image change from leaning to the left with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "references": [
+      "The pose of three people changes from standing in a row, facing the left side of the frame, with bent legs, bodies leaning back, and arms naturally spread to facing the camera, standing on the right leg, with arms crossed together."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Real/test/images/real_test_000104.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              120,
+              554,
+              386,
+              890
+            ],
+            [
+              384,
+              527,
+              691,
+              871
+            ],
+            [
+              585,
+              547,
+              932,
+              854
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><120><554><386><890></box><box><384><527><691><871></box><box><585><547><932><854></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000101.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              81,
+              483,
+              442,
+              935
+            ],
+            [
+              344,
+              482,
+              622,
+              952
+            ],
+            [
+              573,
+              462,
+              864,
+              954
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><81><483><442><935></box><box><344><482><622><952></box><box><573><462><864><954></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000577",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000143.jpg",
+      "Real/test/images/real_test_000136.jpg"
+    ],
+    "baseline": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "control": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "grounded": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "references": [
+      "The small white toy car in front of the sofa has moved to the left edge of the sofa. The yellow toy excavator on the right side of the sofa has been replaced with a toy car with red wheels."
+    ],
+    "evidence": [
+      {
+        "category": "toy car",
+        "A": {
+          "image": "Real/test/images/real_test_000143.jpg",
+          "label": "toy car",
+          "boxes": [
+            [
+              361,
+              362,
+              472,
+              467
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy car</ref><box><361><362><472><467></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000136.jpg",
+          "label": "toy car",
+          "boxes": [
+            [
+              147,
+              283,
+              247,
+              379
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy car</ref><box><147><283><247><379></box><|im_end|>"
+        }
+      },
+      {
+        "category": "chair",
+        "A": {
+          "image": "Real/test/images/real_test_000143.jpg",
+          "label": "chair",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000136.jpg",
+          "label": "chair",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000440",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000099.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "baseline": "The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.",
+    "control": "The three people have changed from leaning forward with their heads resting on each other's shoulders to standing upright with one leg raised, hands on hips. The person in the middle now has their left hand on the shoulder of the person on the right.",
+    "grounded": "The three individuals have changed from leaning forward with their heads resting on each other's shoulders to standing upright with one leg raised, hands on hips.",
+    "references": [
+      "The three people transition from leaning against each other at an angle to facing the camera, standing on their right legs, with their arms crossed in front."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Real/test/images/real_test_000099.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              198,
+              572,
+              487,
+              946
+            ],
+            [
+              337,
+              559,
+              614,
+              944
+            ],
+            [
+              444,
+              554,
+              765,
+              947
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><198><572><487><946></box><box><337><559><614><944></box><box><444><554><765><947></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000101.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              81,
+              483,
+              442,
+              935
+            ],
+            [
+              344,
+              482,
+              622,
+              952
+            ],
+            [
+              573,
+              462,
+              864,
+              954
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><81><483><442><935></box><box><344><482><622><952></box><box><573><462><864><954></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000534",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000120.jpg",
+      "Real/test/images/real_test_000122.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. A new pink bottle appears in the center of the scene.",
+    "control": "A new pink bottle appears in the center of the scene.",
+    "grounded": "The pink bottle in the center of the scene has appeared.",
+    "references": [
+      "A container with a pink lid and a pink base has been added to the right rear of the blue-capped milk powder can. The kettle on the left side of the image has been rotated, with the handle changing from facing right to facing forward."
+    ],
+    "evidence": [
+      {
+        "category": "bottle",
+        "A": {
+          "image": "Real/test/images/real_test_000120.jpg",
+          "label": "bottle",
+          "boxes": [
+            [
+              589,
+              642,
+              745,
+              846
+            ],
+            [
+              603,
+              478,
+              704,
+              661
+            ],
+            [
+              688,
+              366,
+              874,
+              751
+            ],
+            [
+              711,
+              558,
+              833,
+              750
+            ],
+            [
+              817,
+              616,
+              972,
+              780
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bottle</ref><box><589><642><745><846></box><box><603><478><704><661></box><box><688><366><874><751></box><box><711><558><833><750></box><box><817><616><972><780></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000122.jpg",
+          "label": "bottle",
+          "boxes": [
+            [
+              604,
+              479,
+              706,
+              653
+            ],
+            [
+              688,
+              366,
+              875,
+              646
+            ],
+            [
+              711,
+              559,
+              834,
+              749
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bottle</ref><box><604><479><706><653></box><box><688><366><875><646></box><box><711><559><834><749></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000567",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000132.jpg"
+    ],
+    "baseline": "The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.",
+    "control": "The dog has turned to the right and is looking at something in the distance. The background wall has changed from yellow to gray.",
+    "grounded": "The dog has turned its head to the right, and a new blue toy has appeared in the lower left corner of the image.",
+    "references": [
+      "The silver-gray-furred dog is now sitting on the ground facing forward with its head turned to the left and is positioned on the right side of the image, rather than facing the front right."
+    ],
+    "evidence": [
+      {
+        "category": "dog",
+        "A": {
+          "image": "Real/test/images/real_test_000129.jpg",
+          "label": "dog",
+          "boxes": [
+            [
+              37,
+              199,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box><37><199><999><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000132.jpg",
+          "label": "dog",
+          "boxes": [
+            [
+              669,
+              95,
+              999,
+              695
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box><669><95><999><695></box><|im_end|>"
+        }
+      },
+      {
+        "category": "plant",
+        "A": {
+          "image": "Real/test/images/real_test_000129.jpg",
+          "label": "plant",
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>plant</ref><box><0><0><999><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000132.jpg",
+          "label": "plant",
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>plant</ref><box><0><0><999><999></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000742",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000174.jpg",
+      "Real/test/images/real_test_000179.jpg"
+    ],
+    "baseline": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "control": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "grounded": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "references": [
+      "The white bicycle, which was originally on the left side of the blue bicycle, is now positioned between the blue bicycle and the black and red XDS bicycle.An additional yellow shared bicycle has been added to the left of the black electric vehicle, bringing the total number of yellow shared bicycles to two.The front end of the shared bicycle on the far left is oriented in the opposite direction to the black electric vehicle, with a pink clothes hanger newly added in the black basket.The front end of the other shared bicycle is oriented in the same direction as the black electric vehicle, with a person wearing a white T-shirt standing next to it."
+    ],
+    "evidence": [
+      {
+        "category": "car",
+        "A": {
+          "image": "Real/test/images/real_test_000174.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000179.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        }
+      },
+      {
+        "category": "person",
+        "A": {
+          "image": "Real/test/images/real_test_000174.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000179.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              74,
+              413,
+              1000,
+              718
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><74><413><1000><718></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000304",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "baseline": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "control": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "grounded": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "references": [
+      "Three people's postures have changed from standing with legs apart, upper bodies turned to the left side of the frame, with arms positioned in front of their shoulders, to standing with legs apart, upper bodies turned to the right side of the frame, with arms still positioned in front of their shoulders."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Real/test/images/real_test_000072.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              48,
+              333,
+              237,
+              790
+            ],
+            [
+              394,
+              350,
+              580,
+              840
+            ],
+            [
+              685,
+              344,
+              872,
+              789
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><48><333><237><790></box><box><394><350><580><840></box><box><685><344><872><789></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000073.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              50,
+              335,
+              237,
+              790
+            ],
+            [
+              395,
+              351,
+              581,
+              839
+            ],
+            [
+              688,
+              341,
+              872,
+              789
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><50><335><237><790></box><box><395><351><581><839></box><box><688><341><872><789></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000566",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000131.jpg"
+    ],
+    "baseline": "The dog has lowered its head and is sniffing the ground.",
+    "control": "The dog has lowered its head and is sniffing the ground.",
+    "grounded": "The dog has lowered its head and is sniffing the ground.",
+    "references": [
+      "The silver-gray-furred dog in the image has shifted its position from facing the front right to sitting on the ground with its body facing forward and its head turned to the left, now positioned at the center of the image."
+    ],
+    "evidence": [
+      {
+        "category": "dog",
+        "A": {
+          "image": "Real/test/images/real_test_000129.jpg",
+          "label": "dog",
+          "boxes": [
+            [
+              37,
+              199,
+              999,
+              999
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box><37><199><999><999></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000131.jpg",
+          "label": "dog",
+          "boxes": [
+            [
+              322,
+              197,
+              854,
+              812
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>dog</ref><box><322><197><854><812></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000005",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "baseline": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "control": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "grounded": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "references": [
+      "A children's push toy car with a yellow lid and teal wheels has been added to the front left."
+    ],
+    "evidence": [
+      {
+        "category": "toy car",
+        "A": {
+          "image": "Real/test/images/real_test_000009.jpg",
+          "label": "toy car",
+          "boxes": [
+            [
+              512,
+              245,
+              733,
+              521
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy car</ref><box><512><245><733><521></box><|im_end|>"
+        },
+        "B": {
+          "image": "Real/test/images/real_test_000005.jpg",
+          "label": "toy car",
+          "boxes": [
+            [
+              171,
+              269,
+              311,
+              679
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>toy car</ref><box><171><269><311><679></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000180",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "baseline": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "control": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left, and the fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "grounded": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left.",
+    "references": [
+      "A lantern has replaced the small light originally mounted on the wall above the yellow bike. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    ],
+    "evidence": [
+      {
+        "category": "bicycle",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000033.jpg",
+          "label": "bicycle",
+          "boxes": [
+            [
+              676,
+              461,
+              922,
+              729
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bicycle</ref><box><676><461><922><729></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000028.jpg",
+          "label": "bicycle",
+          "boxes": [
+            [
+              628,
+              479,
+              966,
+              709
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bicycle</ref><box><628><479><966><709></box><|im_end|>"
+        }
+      },
+      {
+        "category": "box",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000033.jpg",
+          "label": "box",
+          "boxes": [
+            [
+              594,
+              571,
+              674,
+              699
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>box</ref><box><594><571><674><699></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000028.jpg",
+          "label": "box",
+          "boxes": [
+            [
+              594,
+              571,
+              674,
+              691
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>box</ref><box><594><571><674><691></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000575",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000035.jpg",
+      "Render/test/images/render_test_indoor_000028.jpg"
+    ],
+    "baseline": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "control": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "grounded": "The blue and white rectangular cushions on the lower bed have appeared. The black blanket at the foot of the lower bed has appeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has appeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "references": [
+      "The gray mattress with black stains on the black rolling bed at the bottom of the bunk has been replaced by a flat gray mattress. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing the wall of the lower bunk, with arms wrapped tightly around their knees. The gray mattress has unfolded and become flat. A glowing blue word 'Rost' has appeared on the wall of the lower bunk. The dark brown wooden round stool with curved legs, which was on the floor to the right of the lower bunk, is no longer present."
+    ],
+    "evidence": [
+      {
+        "category": "chair",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "chair",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "chair",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box>None</box><|im_end|>"
+        }
+      },
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000035.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000028.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              400,
+              543,
+              543,
+              754
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><400><543><543><754></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000614",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000043.jpg",
+      "Render/test/images/render_test_indoor_000045.jpg"
+    ],
+    "baseline": "The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.",
+    "control": "The first row of school desks on the right side has shifted forward.",
+    "grounded": "The first row of school desks on the right side has shifted forward.",
+    "references": [
+      "The chair in the second-to-last row on the far right of the classroom is no longer tilted. The size of the third stool from the right in the third-to-last row increased."
+    ],
+    "evidence": [
+      {
+        "category": "table",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000043.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              0,
+              783,
+              358,
+              999
+            ],
+            [
+              5,
+              688,
+              280,
+              785
+            ],
+            [
+              62,
+              654,
+              136,
+              686
+            ],
+            [
+              197,
+              643,
+              274,
+              681
+            ],
+            [
+              215,
+              615,
+              266,
+              641
+            ],
+            [
+              312,
+              586,
+              379,
+              613
+            ],
+            [
+              325,
+              604,
+              384,
+              639
+            ],
+            [
+              342,
+              637,
+              393,
+              680
+            ],
+            [
+              392,
+              678,
+              487,
+              805
+            ],
+            [
+              441,
+              594,
+              484,
+              618
+            ],
+            [
+              444,
+              772,
+              693,
+              999
+            ],
+            [
+              479,
+              625,
+              554,
+              663
+            ],
+            [
+              509,
+              570,
+              565,
+              596
+            ],
+            [
+              562,
+              587,
+              612,
+              620
+            ],
+            [
+              646,
+              671,
+              724,
+              777
+            ],
+            [
+              701,
+              574,
+              746,
+              634
+            ],
+            [
+              702,
+              771,
+              989,
+              999
+            ],
+            [
+              731,
+              656,
+              931,
+              780
+            ],
+            [
+              766,
+              532,
+              781,
+              546
+            ],
+            [
+              768,
+              603,
+              908,
+              661
+            ],
+            [
+              781,
+              571,
+              893,
+              609
+            ],
+            [
+              854,
+              542,
+              877,
+              569
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><0><783><358><999></box><box><5><688><280><785></box><box><62><654><136><686></box><box><197><643><274><681></box><box><215><615><266><641></box><box><312><586><379><613></box><box><325><604><384><639></box><box><342><637><393><680></box><box><392><678><487><805></box><box><441><594><484><618></box><box><444><772><693><999></box><box><479><625><554><663></box><box><509><570><565><596></box><box><562><587><612><620></box><box><646><671><724><777></box><box><701><574><746><634></box><box><702><771><989><999></box><box><731><656><931><780></box><box><766><532><781><546></box><box><768><603><908><661></box><box><781><571><893><609></box><box><854><542><877><569></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000045.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              0,
+              781,
+              358,
+              999
+            ],
+            [
+              5,
+              688,
+              281,
+              785
+            ],
+            [
+              62,
+              654,
+              138,
+              686
+            ],
+            [
+              196,
+              641,
+              275,
+              681
+            ],
+            [
+              215,
+              615,
+              266,
+              646
+            ],
+            [
+              312,
+              586,
+              386,
+              607
+            ],
+            [
+              322,
+              604,
+              384,
+              638
+            ],
+            [
+              342,
+              637,
+              392,
+              682
+            ],
+            [
+              381,
+              679,
+              489,
+              798
+            ],
+            [
+              438,
+              771,
+              693,
+              999
+            ],
+            [
+              486,
+              625,
+              554,
+              665
+            ],
+            [
+              509,
+              570,
+              612,
+              576
+            ],
+            [
+              510,
+              589,
+              613,
+              664
+            ],
+            [
+              592,
+              669,
+              726,
+              891
+            ],
+            [
+              622,
+              545,
+              661,
+              599
+            ],
+            [
+              701,
+              575,
+              745,
+              651
+            ],
+            [
+              703,
+              772,
+              993,
+              999
+            ],
+            [
+              731,
+              666,
+              932,
+              782
+            ],
+            [
+              766,
+              533,
+              908,
+              650
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><0><781><358><999></box><box><5><688><281><785></box><box><62><654><138><686></box><box><196><641><275><681></box><box><215><615><266><646></box><box><312><586><386><607></box><box><322><604><384><638></box><box><342><637><392><682></box><box><381><679><489><798></box><box><438><771><693><999></box><box><486><625><554><665></box><box><509><570><612><576></box><box><510><589><613><664></box><box><592><669><726><891></box><box><622><545><661><599></box><box><701><575><745><651></box><box><703><772><993><999></box><box><731><666><932><782></box><box><766><533><908><650></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000648",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000047.jpg",
+      "Render/test/images/render_test_indoor_000040.jpg"
+    ],
+    "baseline": "A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.",
+    "control": "The red fire extinguisher hanging on the right wall of the classroom is no longer present, and a black speaker has appeared above the teacher's podium.",
+    "grounded": "The red fire extinguisher on the right wall of the classroom is no longer present, and a person wearing a hat, dark jacket, shorts, and yellow shoes has appeared at the door on the right side of the classroom.",
+    "references": [
+      "The black speaker in the upper-right corner at the front of the classroom has changed from red to black. A person wearing light-colored clothes, a hat, and carrying a backpack has appeared in the aisle near the wall on the right side of the classroom. They are facing the blackboard and walking toward the podium."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000047.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              625,
+              388,
+              721,
+              493
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><625><388><721><493></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000040.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              880,
+              431,
+              967,
+              649
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><880><431><967><649></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000717",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000058.jpg",
+      "Render/test/images/render_test_indoor_000061.jpg"
+    ],
+    "baseline": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "control": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "grounded": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "references": [
+      "A new potted plant, identical to the original one with blue flowers, has been added to the bedside table between the first and second beds on the right side. The picture frame with red flowers above the bed in the second row on the right side moved to the middle hospital bed above the aisle."
+    ],
+    "evidence": [
+      {
+        "category": "table",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000058.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              0,
+              599,
+              394,
+              847
+            ],
+            [
+              52,
+              565,
+              169,
+              635
+            ],
+            [
+              216,
+              566,
+              396,
+              600
+            ],
+            [
+              354,
+              549,
+              419,
+              575
+            ],
+            [
+              594,
+              551,
+              801,
+              604
+            ],
+            [
+              688,
+              601,
+              909,
+              807
+            ],
+            [
+              854,
+              612,
+              966,
+              646
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><0><599><394><847></box><box><52><565><169><635></box><box><216><566><396><600></box><box><354><549><419><575></box><box><594><551><801><604></box><box><688><601><909><807></box><box><854><612><966><646></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000061.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              58,
+              614,
+              167,
+              642
+            ],
+            [
+              131,
+              604,
+              339,
+              849
+            ],
+            [
+              215,
+              568,
+              396,
+              636
+            ],
+            [
+              354,
+              551,
+              419,
+              576
+            ],
+            [
+              471,
+              544,
+              512,
+              602
+            ],
+            [
+              592,
+              554,
+              661,
+              578
+            ],
+            [
+              622,
+              569,
+              732,
+              603
+            ],
+            [
+              688,
+              601,
+              910,
+              850
+            ],
+            [
+              744,
+              579,
+              827,
+              645
+            ],
+            [
+              855,
+              615,
+              966,
+              646
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><58><614><167><642></box><box><131><604><339><849></box><box><215><568><396><636></box><box><354><551><419><576></box><box><471><544><512><602></box><box><592><554><661><578></box><box><622><569><732><603></box><box><688><601><910><850></box><box><744><579><827><645></box><box><855><615><966><646></box><|im_end|>"
+        }
+      },
+      {
+        "category": "flower",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000058.jpg",
+          "label": "flower",
+          "boxes": [
+            [
+              86,
+              562,
+              141,
+              604
+            ],
+            [
+              216,
+              543,
+              250,
+              568
+            ],
+            [
+              764,
+              542,
+              799,
+              569
+            ],
+            [
+              883,
+              561,
+              938,
+              601
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>flower</ref><box><86><562><141><604></box><box><216><543><250><568></box><box><764><542><799><569></box><box><883><561><938><601></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000061.jpg",
+          "label": "flower",
+          "boxes": [
+            [
+              87,
+              562,
+              141,
+              604
+            ],
+            [
+              217,
+              543,
+              250,
+              568
+            ],
+            [
+              768,
+              542,
+              799,
+              569
+            ],
+            [
+              884,
+              563,
+              959,
+              605
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>flower</ref><box><87><562><141><604></box><box><217><543><250><568></box><box><768><542><799><569></box><box><884><563><959><605></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000137",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000023.jpg",
+      "Render/test/images/render_test_outdoor_000018.jpg"
+    ],
+    "baseline": "A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "control": "A person wearing a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "grounded": "The red car on the rooftop of the green building on the right side of the scene has been replaced by a green sofa.",
+    "references": [
+      "The chair on the left side of the third row of round tables on the rooftop of the building on the right side of the scene has changed from red to green. A man wearing a blue sweatshirt, black pants, and white shoes has appeared on the open-air roof on the right, next to the green flower bed in the upper left corner, stepping forward with his left leg, facing the table and chairs in the middle of the roof."
+    ],
+    "evidence": [
+      {
+        "category": "car",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000023.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000018.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        }
+      },
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000023.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              632,
+              365,
+              646,
+              418
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><632><365><646><418></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000018.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              706,
+              481,
+              745,
+              568
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><706><481><745><568></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000219",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "baseline": "A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.",
+    "control": "A man wearing a black jacket, black pants, and white shoes has appeared on the left side of the stairs, facing the stairs while holding a camera in his right hand.",
+    "grounded": "A person wearing a black jacket, black pants, and white shoes has appeared on the left side of the stairs, holding a camera in their right hand and facing the stairs.",
+    "references": [
+      "The handrail of the first floor staircase changed from yellow to gray. A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. He faces the front of the screen, with his hands crossed in front of his chest, his right leg steps forward, and he turns his head to look to the left front of the screen."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000037.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000029.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              372,
+              465,
+              451,
+              648
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><372><465><451><648></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000222",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "baseline": "A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "control": "The word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "grounded": "A new blue sign with the word \"Cautious\" has appeared on the wall above the electric vehicle.",
+    "references": [
+      "The handrail of the first floor staircase has changed from yellow to gray. A blue text sign that reads \"Cautiuos\" has appeared on the upper right wall of the scene, near the yellow bike and just above a small light fixture."
+    ],
+    "evidence": [
+      {
+        "category": "car",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000037.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000032.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000309",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "baseline": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "control": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "grounded": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is now visible.",
+    "references": [
+      "The white teapot that was shifted closer to the center of the picnic blanket is now positioned next to a blue teacup rather than a white teacup. The white teacup in the middle of the picnic blanket has been replaced with a blue teacup. A biscuit box is now present next to the blue teacup."
+    ],
+    "evidence": [
+      {
+        "category": "chair",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000051.jpg",
+          "label": "chair",
+          "boxes": [
+            [
+              674,
+              438,
+              960,
+              665
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box><674><438><960><665></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000042.jpg",
+          "label": "chair",
+          "boxes": [
+            [
+              676,
+              438,
+              959,
+              664
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>chair</ref><box><676><438><959><664></box><|im_end|>"
+        }
+      },
+      {
+        "category": "ball",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000051.jpg",
+          "label": "ball",
+          "boxes": [
+            [
+              109,
+              502,
+              118,
+              509
+            ],
+            [
+              119,
+              522,
+              129,
+              544
+            ],
+            [
+              125,
+              501,
+              133,
+              508
+            ],
+            [
+              138,
+              524,
+              149,
+              545
+            ],
+            [
+              155,
+              501,
+              165,
+              511
+            ],
+            [
+              162,
+              532,
+              173,
+              546
+            ],
+            [
+              302,
+              534,
+              310,
+              542
+            ],
+            [
+              318,
+              519,
+              327,
+              527
+            ],
+            [
+              362,
+              518,
+              372,
+              529
+            ],
+            [
+              448,
+              528,
+              458,
+              536
+            ],
+            [
+              449,
+              547,
+              459,
+              556
+            ],
+            [
+              498,
+              544,
+              507,
+              554
+            ],
+            [
+              541,
+              517,
+              551,
+              525
+            ],
+            [
+              619,
+              543,
+              632,
+              561
+            ],
+            [
+              644,
+              543,
+              654,
+              555
+            ],
+            [
+              701,
+              571,
+              715,
+              579
+            ],
+            [
+              754,
+              630,
+              768,
+              645
+            ],
+            [
+              814,
+              583,
+              825,
+              593
+            ],
+            [
+              850,
+              602,
+              859,
+              613
+            ],
+            [
+              856,
+              615,
+              870,
+              625
+            ],
+            [
+              972,
+              599,
+              984,
+              609
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": false,
+          "raw": "<ref>ball</ref><box><109><502><118><509></box><box><119><522><129><544></box><box><125><501><133><508></box><box><138><524><149><545></box><box><154><500><152><512></box><box><155><501><165><511></box><box><162><532><173><546></box><box><302><534><310><542></box><box><318><519><327><527></box><box><362><518><372><529></box><box><448><528><458><536></box><box><449><547><459><556></box><box><498><544><507><554></box><box><541><517><551><525></box><box><619><543><632><561></box><box><644><543><654><555></box><box><701><571><715><579></box><box><754><630><768><645></box><box><814><583><825><593></box><box><833><601><837><594></box><box><850><602><859><613></box><box><856><615><870><625></box><box><972><599><984><609></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000042.jpg",
+          "label": "ball",
+          "boxes": [
+            [
+              109,
+              502,
+              118,
+              510
+            ],
+            [
+              119,
+              537,
+              129,
+              542
+            ],
+            [
+              125,
+              503,
+              133,
+              508
+            ],
+            [
+              138,
+              523,
+              149,
+              532
+            ],
+            [
+              138,
+              536,
+              148,
+              544
+            ],
+            [
+              154,
+              501,
+              163,
+              511
+            ],
+            [
+              162,
+              534,
+              173,
+              545
+            ],
+            [
+              302,
+              535,
+              310,
+              543
+            ],
+            [
+              319,
+              519,
+              327,
+              527
+            ],
+            [
+              362,
+              520,
+              372,
+              529
+            ],
+            [
+              448,
+              528,
+              458,
+              538
+            ],
+            [
+              449,
+              550,
+              459,
+              558
+            ],
+            [
+              498,
+              546,
+              507,
+              554
+            ],
+            [
+              541,
+              518,
+              551,
+              525
+            ],
+            [
+              619,
+              557,
+              632,
+              562
+            ],
+            [
+              644,
+              544,
+              653,
+              555
+            ],
+            [
+              701,
+              573,
+              715,
+              579
+            ],
+            [
+              754,
+              631,
+              768,
+              643
+            ],
+            [
+              815,
+              585,
+              823,
+              593
+            ],
+            [
+              850,
+              603,
+              858,
+              612
+            ],
+            [
+              856,
+              616,
+              871,
+              625
+            ],
+            [
+              972,
+              600,
+              984,
+              609
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": false,
+          "raw": "<ref>ball</ref><box><109><502><118><510></box><box><119><537><129><542></box><box><125><503><133><508></box><box><138><523><149><532></box><box><138><536><148><544></box><box><154><501><163><511></box><box><162><534><173><545></box><box><302><535><310><543></box><box><319><519><327><527></box><box><362><520><372><529></box><box><448><528><458><538></box><box><449><550><459><558></box><box><498><546><507><554></box><box><541><518><551><525></box><box><619><557><632><562></box><box><644><544><653><555></box><box><701><573><715><579></box><box><754><631><768><643></box><box><815><585><823><593></box><box><834><604><837><592></box><box><850><603><858><612></box><box><856><616><871><625></box><box><972><600><984><609></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000182",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "baseline": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "control": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left.",
+    "grounded": "The yellow non-motorized vehicle has turned its front wheel to the right. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "references": [
+      "A man in a gray shirt and black pants appears at the bottom of the stairs in front of a blue door. His orientation is toward the right wall, with hands crossed in front of his chest, his right leg forward, and his gaze directed toward the right wall. The yellow bicycle that was previously facing forward to the left has turned to face the left side and is now placed against the wall."
+    ],
+    "evidence": [
+      {
+        "category": "car",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000033.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000030.jpg",
+          "label": "car",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>car</ref><box>None</box><|im_end|>"
+        }
+      },
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_outdoor_000033.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_outdoor_000030.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              388,
+              468,
+              438,
+              649
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><388><468><438><649></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000549",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000030.jpg",
+      "Render/test/images/render_test_indoor_000027.jpg"
+    ],
+    "baseline": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "control": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "grounded": "A person wearing a white long-sleeve shirt, blue pants, and black shoes has appeared on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "references": [
+      "The vertical metallic ladder on the right side of the bunk bed changes color from blue to black. A child wearing a light beige top and blue pants appears on the black rolling bed, sitting cross-legged, facing to the right, with arms wrapped tightly around their knees. A glowing blue \"Rest\" sign appears on the wall of the lower bunk."
+    ],
+    "evidence": [
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000030.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000027.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              395,
+              542,
+              559,
+              758
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><395><542><559><758></box><|im_end|>"
+        }
+      },
+      {
+        "category": "bed",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000030.jpg",
+          "label": "bed",
+          "boxes": [
+            [
+              230,
+              307,
+              944,
+              859
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bed</ref><box><230><307><944><859></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000027.jpg",
+          "label": "bed",
+          "boxes": [
+            [
+              133,
+              305,
+              945,
+              859
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>bed</ref><box><133><305><945><859></box><|im_end|>"
+        }
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000391",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "baseline": "The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "control": "The word \"Efficient\" on the floor near the center of the room is no longer visible. A woman wearing an orange coat, black leggings, black boots, and a black hat has appeared in the center of the scene, facing away from the camera towards the desks with computers.",
+    "grounded": "The word \"Efficient\" is no longer visible on the floor, and a woman wearing an orange coat, black leggings, black boots, and a black hat has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "references": [
+      "The word \"Efficient,\" which appeared on the floor towards the front left of the scene, with large, blue, bold letters slanted diagonally across the striped carpet, is no longer present. A person wearing a black hat, an orange top, black leggings, and black shoes has appeared near the left side of the room, standing beside a desk with a row of computers, facing away from the camera while turning their head to look toward the right side of the scene."
+    ],
+    "evidence": [
+      {
+        "category": "table",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000003.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              0,
+              521,
+              374,
+              700
+            ],
+            [
+              372,
+              519,
+              949,
+              782
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><0><521><374><700></box><box><372><519><949><782></box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000006.jpg",
+          "label": "table",
+          "boxes": [
+            [
+              0,
+              522,
+              165,
+              700
+            ],
+            [
+              275,
+              521,
+              478,
+              676
+            ],
+            [
+              372,
+              524,
+              806,
+              783
+            ],
+            [
+              846,
+              538,
+              999,
+              716
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>table</ref><box><0><522><165><700></box><box><275><521><478><676></box><box><372><524><806><783></box><box><846><538><999><716></box><|im_end|>"
+        }
+      },
+      {
+        "category": "person",
+        "A": {
+          "image": "Render/test/images/render_test_indoor_000003.jpg",
+          "label": "person",
+          "boxes": [],
+          "explicit_none": true,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box>None</box><|im_end|>"
+        },
+        "B": {
+          "image": "Render/test/images/render_test_indoor_000006.jpg",
+          "label": "person",
+          "boxes": [
+            [
+              164,
+              362,
+              274,
+              751
+            ]
+          ],
+          "explicit_none": false,
+          "format_ok": true,
+          "raw": "<ref>person</ref><box><164><362><274><751></box><|im_end|>"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,364 @@
+{
+  "reviewer": "Codex assistant, not independent human ground truth",
+  "reused": 6,
+  "rule": "Probe ID namespaces source case; reuse requires sourcecase mapping, identical images+humanprompt and entirecaption. New strings manually scored before current key.",
+  "cases": [
+    {
+      "id": "case_00_prompt_00",
+      "index": 0,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_01",
+      "index": 1,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_02",
+      "index": 2,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_03",
+      "index": 3,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_04",
+      "index": 4,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_05",
+      "index": 5,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_06",
+      "index": 6,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_07",
+      "index": 7,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_08",
+      "index": 8,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_00_prompt_09",
+      "index": 9,
+      "candidate_1": {
+        "caption": "The white T-shirt on the left disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "note": "White shirt not physically removed under crop",
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      },
+      "candidate_2": {
+        "caption": "The white T-shirt on the left disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "note": "White shirt not physically removed under crop",
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      },
+      "candidate_3": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      }
+    },
+    {
+      "id": "case_01_prompt_00",
+      "index": 10,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_01",
+      "index": 11,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_02",
+      "index": 12,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_03",
+      "index": 13,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_04",
+      "index": 14,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_05",
+      "index": 15,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_06",
+      "index": 16,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_07",
+      "index": 17,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_08",
+      "index": 18,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_01_prompt_09",
+      "index": 19,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_00",
+      "index": 20,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_01",
+      "index": 21,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_02",
+      "index": 22,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_03",
+      "index": 23,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_04",
+      "index": 24,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_05",
+      "index": 25,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_06",
+      "index": 26,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_07",
+      "index": 27,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_08",
+      "index": 28,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_02_prompt_09",
+      "index": 29,
+      "candidate_1": {
+        "caption": "The scene has become more visible.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "note": "Visibility/illumination inference separately from physical object FP",
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      },
+      "candidate_2": {
+        "caption": "The scene has become more visible.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "note": "Visibility/illumination inference separately from physical object FP",
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      },
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_00",
+      "index": 30,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_01",
+      "index": 31,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_02",
+      "index": 32,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_03",
+      "index": 33,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_04",
+      "index": 34,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_05",
+      "index": 35,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_06",
+      "index": 36,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_07",
+      "index": 37,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_08",
+      "index": 38,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": null
+    },
+    {
+      "id": "case_03_prompt_09",
+      "index": 39,
+      "candidate_1": null,
+      "candidate_2": null,
+      "candidate_3": {
+        "caption": "The word \"Caution\" in blue text on the wall above the yellow bicycle changes its location.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "note": "Wall text moves on identical pixels",
+        "suppression": 0,
+        "annotation_source": "exact_source_case_images_human_prompt_caption",
+        "wrong_geometry": 0
+      }
+    }
+  ]
+}

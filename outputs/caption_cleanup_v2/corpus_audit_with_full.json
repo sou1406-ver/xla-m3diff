@@ -1,0 +1,137 @@
+{
+  "n_captions_checked": 3860,
+  "all_lexical_subsequence": true,
+  "all_distinct_complete_claims_retained": true,
+  "joined_loop_fixed": true,
+  "quoted_case_decimal_abbreviation_location_ordinal_checks_pass": true,
+  "by_file": [
+    {
+      "file": "mixed_full_benchmark\\baseline_original\\OmniDiff_Real\\OmniDiff_Real.jsonl",
+      "n": 803,
+      "changed_v1": 3,
+      "changed_v2": 3,
+      "exact_sentences_removed_v2": 74
+    },
+    {
+      "file": "mixed_full_benchmark\\baseline_original\\OmniDiff_Render\\OmniDiff_Render.jsonl",
+      "n": 767,
+      "changed_v1": 12,
+      "changed_v2": 12,
+      "exact_sentences_removed_v2": 506
+    },
+    {
+      "file": "invariance_ablation\\results\\baseline.jsonl",
+      "n": 72,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "invariance_ablation\\results\\positive_control.jsonl",
+      "n": 72,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "invariance_ablation\\results\\mixed_objective.jsonl",
+      "n": 72,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "prompt_balanced_sft\\results\\baseline.jsonl",
+      "n": 72,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "prompt_balanced_sft\\results\\balanced.jsonl",
+      "n": 72,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "invariance_confirmation\\results\\baseline.jsonl",
+      "n": 80,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "invariance_confirmation\\results\\positive_control.jsonl",
+      "n": 80,
+      "changed_v1": 0,
+      "changed_v2": 1,
+      "exact_sentences_removed_v2": 46
+    },
+    {
+      "file": "invariance_confirmation\\results\\mixed_objective.jsonl",
+      "n": 80,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "prompt_probe\\results\\baseline.jsonl",
+      "n": 40,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "prompt_probe\\results\\old_mixed.jsonl",
+      "n": 40,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "prompt_probe\\results\\balanced.jsonl",
+      "n": 40,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "mixed_full_benchmark\\results\\batch_00.jsonl",
+      "n": 320,
+      "changed_v1": 0,
+      "changed_v2": 0,
+      "exact_sentences_removed_v2": 0
+    },
+    {
+      "file": "mixed_full_benchmark\\results\\batch_01.jsonl",
+      "n": 320,
+      "changed_v1": 3,
+      "changed_v2": 3,
+      "exact_sentences_removed_v2": 5
+    },
+    {
+      "file": "mixed_full_benchmark\\results\\batch_02.jsonl",
+      "n": 320,
+      "changed_v1": 1,
+      "changed_v2": 1,
+      "exact_sentences_removed_v2": 1
+    },
+    {
+      "file": "mixed_full_benchmark\\results\\batch_03.jsonl",
+      "n": 320,
+      "changed_v1": 1,
+      "changed_v2": 1,
+      "exact_sentences_removed_v2": 48
+    },
+    {
+      "file": "mixed_full_benchmark\\results\\batch_04.jsonl",
+      "n": 290,
+      "changed_v1": 16,
+      "changed_v2": 16,
+      "exact_sentences_removed_v2": 651
+    }
+  ],
+  "n_v1_v2_differences": 1,
+  "limits": "Text cleanup, not image verification or model rotation understanding. Corpus properties do not prove perfect sentence parsing on arbitrary external text."
+}

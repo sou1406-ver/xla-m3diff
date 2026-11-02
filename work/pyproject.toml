@@ -1,0 +1,92 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "m3diff"
+version = "0.1.0"
+description = "Official implementation of M3Diff for fine-grained image difference captioning"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Yuan Liu" },
+]
+keywords = [
+  "image difference captioning",
+  "multimodal large language model",
+  "computer vision",
+  "LLaVA",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+  "einops==0.6.1",
+  "einops-exts==0.0.4",
+  "huggingface-hub>=0.34,<1.0",
+  "packaging>=23.0",
+  "pillow>=10.0",
+  "shortuuid>=1.0.13",
+  "tokenizers==0.19.1",
+  "torch==2.2.2",
+  "torchvision==0.17.2",
+  "tqdm>=4.66",
+  "transformers==4.40.0",
+]
+
+[project.optional-dependencies]
+train = [
+  "accelerate==0.29.1",
+  "bitsandbytes==0.41.0",
+  "datasets==2.16.1",
+  "decord==0.6.0",
+  "deepspeed==0.14.4",
+  "hf-transfer>=0.1.9",
+  "numpy==1.26.1",
+  "opencv-python>=4.8",
+  "peft==0.4.0",
+  "scikit-learn==1.2.2",
+  "scipy>=1.10",
+  "sentencepiece==0.1.99",
+  "timm>=1.0",
+  "tyro>=0.8",
+  "wandb>=0.16",
+]
+eval = [
+  "pycocoevalcap>=1.2",
+  "pycocotools>=2.0.7",
+]
+dev = [
+  "build>=1.2",
+  "ruff>=0.6",
+]
+
+[project.urls]
+Paper = "https://openaccess.thecvf.com/content/ICCV2025/html/Liu_OmniDiff_A_Comprehensive_Benchmark_for_Fine-grained_Image_Difference_Captioning_ICCV_2025_paper.html"
+Repository = "https://github.com/Yuan-Liu-01/M3Diff"
+Checkpoint = "https://huggingface.co/IVC-liuyuan/M3Diff"
+"Training annotations" = "https://huggingface.co/datasets/IVC-liuyuan/training_m3diff"
+
+[tool.setuptools]
+include-package-data = false
+
+[tool.setuptools.packages.find]
+include = ["llava*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]

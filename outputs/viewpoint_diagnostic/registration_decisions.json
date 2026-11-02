@@ -1,0 +1,2071 @@
+[
+  {
+    "id": "furniture__identity",
+    "scene": "furniture",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "furniture__zoom_1p10",
+    "scene": "furniture",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 497,
+      "inliers": 438,
+      "inlier_ratio": 0.8812877263581489,
+      "grid_cells": 16,
+      "scale": 1.099999752302892,
+      "angle": -0.0011852787814849559,
+      "matrix": [
+        [
+          1.099999752067518,
+          2.275571389429535e-05,
+          -51.17233386917467
+        ],
+        [
+          -2.275571389429535e-05,
+          1.099999752067518,
+          -51.16658584942089
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.670416235923767,
+      "p99_max_channel_error": 13.0,
+      "fraction_max_channel_above_30": 0.0003337860107421875,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "furniture__roll_8_safe",
+    "scene": "furniture",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 410,
+      "inliers": 359,
+      "inlier_ratio": 0.875609756097561,
+      "grid_cells": 16,
+      "scale": 1.1317690132612337,
+      "angle": -8.001834157309707,
+      "matrix": [
+        [
+          1.1207496721684138,
+          0.1575476807595074,
+          -142.41254477588438
+        ],
+        [
+          -0.1575476807595074,
+          1.1207496721684138,
+          18.833162047981215
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.7826080322265625,
+      "p99_max_channel_error": 14.0,
+      "fraction_max_channel_above_30": 0.0003566741943359375,
+      "largest_opened_residual_pixels": 9,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "furniture__roll_minus8_zoom",
+    "scene": "furniture",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 363,
+      "inliers": 332,
+      "inlier_ratio": 0.9146005509641874,
+      "grid_cells": 15,
+      "scale": 1.2448846757926466,
+      "angle": 8.002164863993126,
+      "matrix": [
+        [
+          1.2327629965758635,
+          -0.17330103951407902,
+          -30.40929337203641
+        ],
+        [
+          0.17330103951407902,
+          1.2327629965758635,
+          -207.82073868197799
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 2.2992570400238037,
+      "p99_max_channel_error": 18.0,
+      "fraction_max_channel_above_30": 0.001598358154296875,
+      "largest_opened_residual_pixels": 9,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "furniture__natural",
+    "scene": "furniture",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 248,
+      "inliers": 174,
+      "inlier_ratio": 0.7016129032258065,
+      "grid_cells": 12,
+      "scale": 0.999651652372964,
+      "angle": -0.004335549339312947,
+      "matrix": [
+        [
+          0.9996516495110164,
+          7.564325145210864e-05,
+          -0.8428101788014511
+        ],
+        [
+          -7.564325145210864e-05,
+          0.9996516495110164,
+          -0.28786097028518765
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.9902582168579102,
+      "mean_absolute_rgb_error": 15.838455200195312,
+      "p99_max_channel_error": 139.0,
+      "fraction_max_channel_above_30": 0.20233425562015522,
+      "largest_opened_residual_pixels": 84943,
+      "valid_pixels": 1038361
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "exercise__identity",
+    "scene": "exercise",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "exercise__zoom_1p10",
+    "scene": "exercise",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 3119,
+      "inliers": 3092,
+      "inlier_ratio": 0.9913433792882335,
+      "grid_cells": 16,
+      "scale": 1.100000204510165,
+      "angle": 0.00026826366699069686,
+      "matrix": [
+        [
+          1.1000002044981079,
+          -5.150293635222423e-06,
+          -51.17306563745204
+        ],
+        [
+          5.150293635222423e-06,
+          1.1000002044981079,
+          -51.17946779955275
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.644306480884552,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "exercise__roll_8_safe",
+    "scene": "exercise",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 2878,
+      "inliers": 2846,
+      "inlier_ratio": 0.9888811674774148,
+      "grid_cells": 16,
+      "scale": 1.1317040628822015,
+      "angle": -8.000153620326703,
+      "matrix": [
+        [
+          1.1206899744399794,
+          0.15750576857309187,
+          -142.36400273539886
+        ],
+        [
+          -0.15750576857309187,
+          1.1206899744399794,
+          18.83870544578644
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6803684234619141,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "exercise__roll_minus8_zoom",
+    "scene": "exercise",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 2489,
+      "inliers": 2454,
+      "inlier_ratio": 0.9859381277621535,
+      "grid_cells": 16,
+      "scale": 1.2448667727711027,
+      "angle": 8.000201859015819,
+      "matrix": [
+        [
+          1.2327512045201572,
+          -0.1732563121610342,
+          -30.44555929553057
+        ],
+        [
+          0.1732563121610342,
+          1.2327512045201572,
+          -207.77320117036962
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6818440556526184,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "exercise__natural",
+    "scene": "exercise",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 305,
+      "inliers": 142,
+      "inlier_ratio": 0.46557377049180326,
+      "grid_cells": 11,
+      "scale": 1.0000331316241504,
+      "angle": -0.026597958927553737,
+      "matrix": [
+        [
+          1.0000330238695694,
+          0.0004642373213494398,
+          9.84555603019875
+        ],
+        [
+          -0.0004642373213494398,
+          1.0000330238695694,
+          0.06196281980573278
+        ]
+      ],
+      "registration_ok": false,
+      "reason": "geometric_support_insufficient"
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "mouse__identity",
+    "scene": "mouse",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "mouse__zoom_1p10",
+    "scene": "mouse",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 1791,
+      "inliers": 1765,
+      "inlier_ratio": 0.9854829704075935,
+      "grid_cells": 16,
+      "scale": 1.0999793087454413,
+      "angle": 7.274089884897999e-05,
+      "matrix": [
+        [
+          1.0999793087445549,
+          -1.3964987353934532e-06,
+          -51.16836564781029
+        ],
+        [
+          1.3964987353934532e-06,
+          1.0999793087445549,
+          -51.16485275240876
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6012261509895325,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "mouse__roll_8_safe",
+    "scene": "mouse",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1691,
+      "inliers": 1662,
+      "inlier_ratio": 0.9828503843879361,
+      "grid_cells": 16,
+      "scale": 1.1317026293624926,
+      "angle": -8.000298125641589,
+      "matrix": [
+        [
+          1.1206881576243795,
+          0.15750839554275656,
+          -142.37032531526276
+        ],
+        [
+          -0.15750839554275656,
+          1.1206881576243795,
+          18.846658600334415
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6240968704223633,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "mouse__roll_minus8_zoom",
+    "scene": "mouse",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1520,
+      "inliers": 1495,
+      "inlier_ratio": 0.9835526315789473,
+      "grid_cells": 16,
+      "scale": 1.2448713429113063,
+      "angle": 7.999970507465757,
+      "matrix": [
+        [
+          1.2327564297567037,
+          -0.17325197053801317,
+          -30.449808235166213
+        ],
+        [
+          0.17325197053801317,
+          1.2327564297567037,
+          -207.77090495572844
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6452195048332214,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "mouse__natural",
+    "scene": "mouse",
+    "split": "Real",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "registration_ok": false,
+      "reason": "few_matches",
+      "matches": 19
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "hospital__identity",
+    "scene": "hospital",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "hospital__zoom_1p10",
+    "scene": "hospital",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 1480,
+      "inliers": 1446,
+      "inlier_ratio": 0.977027027027027,
+      "grid_cells": 16,
+      "scale": 1.0999859395249951,
+      "angle": 0.0009199935258654361,
+      "matrix": [
+        [
+          1.0999859393831934,
+          -1.7662381967095046e-05,
+          -38.36261924761246
+        ],
+        [
+          1.7662381967095046e-05,
+          1.0999859393831934,
+          -38.37415551224679
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.5349788069725037,
+      "p99_max_channel_error": 3.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "hospital__roll_8_safe",
+    "scene": "hospital",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1461,
+      "inliers": 1427,
+      "inlier_ratio": 0.9767282683093771,
+      "grid_cells": 16,
+      "scale": 1.1317186211983312,
+      "angle": -7.997181182049023,
+      "matrix": [
+        [
+          1.1207125608828579,
+          0.15744965368789604,
+          -106.75527851170284
+        ],
+        [
+          -0.15744965368789604,
+          1.1207125608828579,
+          14.10036105045528
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.5917799472808838,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "hospital__roll_minus8_zoom",
+    "scene": "hospital",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1420,
+      "inliers": 1385,
+      "inlier_ratio": 0.9753521126760564,
+      "grid_cells": 16,
+      "scale": 1.2448575782105327,
+      "angle": 8.000775371372951,
+      "matrix": [
+        [
+          1.2327403651559217,
+          -0.17326737183739227,
+          -22.826490366877966
+        ],
+        [
+          0.17326737183739227,
+          1.2327403651559217,
+          -155.79953192275946
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.6582489013671875,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "hospital__natural",
+    "scene": "hospital",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 1659,
+      "inliers": 1632,
+      "inlier_ratio": 0.9837251356238698,
+      "grid_cells": 16,
+      "scale": 1.0000049323413673,
+      "angle": 0.0006652268938707946,
+      "matrix": [
+        [
+          1.0000049322739664,
+          -1.1610456837053496e-05,
+          0.0034681691754363817
+        ],
+        [
+          1.1610456837053496e-05,
+          1.0000049322739664,
+          -0.006228462434440217
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8713344931602478,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.003441704644097222,
+      "largest_opened_residual_pixels": 1245,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "street__identity",
+    "scene": "street",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "street__zoom_1p10",
+    "scene": "street",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 2774,
+      "inliers": 2738,
+      "inlier_ratio": 0.9870223503965393,
+      "grid_cells": 16,
+      "scale": 1.0999856818663956,
+      "angle": 0.00014795242602600825,
+      "matrix": [
+        [
+          1.0999856818627283,
+          -2.840445694410452e-06,
+          -38.36934983645981
+        ],
+        [
+          2.840445694410452e-06,
+          1.0999856818627283,
+          -38.37456216809779
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7677323818206787,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "street__roll_8_safe",
+    "scene": "street",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 2524,
+      "inliers": 2476,
+      "inlier_ratio": 0.9809825673534073,
+      "grid_cells": 16,
+      "scale": 1.1316935088440834,
+      "angle": -8.000417786834168,
+      "matrix": [
+        [
+          1.1206787969196232,
+          0.1575094666825441,
+          -106.75193359745242
+        ],
+        [
+          -0.1575094666825441,
+          1.1206787969196232,
+          14.132852209632366
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8630602955818176,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "street__roll_minus8_zoom",
+    "scene": "street",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 2072,
+      "inliers": 2042,
+      "inlier_ratio": 0.9855212355212355,
+      "grid_cells": 16,
+      "scale": 1.2448638773190261,
+      "angle": 8.000220599862033,
+      "matrix": [
+        [
+          1.2327482805775913,
+          -0.17325631240088063,
+          -22.831789628499912
+        ],
+        [
+          0.17325631240088063,
+          1.2327482805775913,
+          -155.80343521987308
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9675247669219971,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "street__natural",
+    "scene": "street",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 4117,
+      "inliers": 4097,
+      "inlier_ratio": 0.9951420937575904,
+      "grid_cells": 16,
+      "scale": 0.999996435936901,
+      "angle": -7.58931724166182e-05,
+      "matrix": [
+        [
+          0.9999964359360237,
+          1.32458101754619e-06,
+          -1.025406433973937e-05
+        ],
+        [
+          -1.32458101754619e-06,
+          0.9999964359360237,
+          -8.108540531622068e-05
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.725394368171692,
+      "p99_max_channel_error": 45.0,
+      "fraction_max_channel_above_30": 0.0135498046875,
+      "largest_opened_residual_pixels": 2071,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "greenhouse__identity",
+    "scene": "greenhouse",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "greenhouse__zoom_1p10",
+    "scene": "greenhouse",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 1447,
+      "inliers": 1418,
+      "inlier_ratio": 0.9799585348997927,
+      "grid_cells": 16,
+      "scale": 1.1000101568122993,
+      "angle": 0.0020758112858908205,
+      "matrix": [
+        [
+          1.100010156090366,
+          -3.985308371770383e-05,
+          -25.563757845102963
+        ],
+        [
+          3.985308371770383e-05,
+          1.100010156090366,
+          -25.591075714785596
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8720601201057434,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "greenhouse__roll_8_safe",
+    "scene": "greenhouse",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1416,
+      "inliers": 1382,
+      "inlier_ratio": 0.9759887005649718,
+      "grid_cells": 16,
+      "scale": 1.131693173406741,
+      "angle": -7.999961424762366,
+      "matrix": [
+        [
+          1.1206797192773217,
+          0.15750049376406253,
+          -71.14311850702948
+        ],
+        [
+          -0.15750049376406253,
+          1.1206797192773217,
+          9.416482941123522
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9836947321891785,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "greenhouse__roll_minus8_zoom",
+    "scene": "greenhouse",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1237,
+      "inliers": 1216,
+      "inlier_ratio": 0.9830234438156831,
+      "grid_cells": 16,
+      "scale": 1.2448493426646503,
+      "angle": 8.000306506244357,
+      "matrix": [
+        [
+          1.2327336276111918,
+          -0.17325613781094099,
+          -15.205448896529287
+        ],
+        [
+          0.17325613781094099,
+          1.2327336276111918,
+          -103.82649146367615
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.2498130798339844,
+      "p99_max_channel_error": 10.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "greenhouse__natural",
+    "scene": "greenhouse",
+    "split": "Render",
+    "partition": "dev",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 1773,
+      "inliers": 1753,
+      "inlier_ratio": 0.9887196841511562,
+      "grid_cells": 16,
+      "scale": 0.9999673723347063,
+      "angle": 0.0002570117339049398,
+      "matrix": [
+        [
+          0.9999673723246459,
+          -4.485554614935748e-06,
+          0.010870169766632307
+        ],
+        [
+          4.485554614935748e-06,
+          0.9999673723246459,
+          0.0019380604151574181
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 2.1595802307128906,
+      "p99_max_channel_error": 40.0,
+      "fraction_max_channel_above_30": 0.011730194091796875,
+      "largest_opened_residual_pixels": 968,
+      "valid_pixels": 262144
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__identity",
+    "scene": "yoga",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "yoga__zoom_1p10",
+    "scene": "yoga",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 2915,
+      "inliers": 2872,
+      "inlier_ratio": 0.9852487135506004,
+      "grid_cells": 16,
+      "scale": 1.1000079584297011,
+      "angle": -0.0007127250665546231,
+      "matrix": [
+        [
+          1.1000079583445943,
+          1.3683437977891433e-05,
+          -41.03525353662051
+        ],
+        [
+          -1.3683437977891433e-05,
+          1.1000079583445943,
+          -51.17527853574797
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.3428527116775513,
+      "p99_max_channel_error": 11.0,
+      "fraction_max_channel_above_30": 9.515834348355663e-06,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__roll_8_safe",
+    "scene": "yoga",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 2526,
+      "inliers": 2489,
+      "inlier_ratio": 0.9853523357086302,
+      "grid_cells": 16,
+      "scale": 1.1661795492953901,
+      "angle": -8.000775274219006,
+      "matrix": [
+        [
+          1.154828173874252,
+          0.1623164502478406,
+          -146.58505116267284
+        ],
+        [
+          -0.1623164502478406,
+          1.154828173874252,
+          -12.642669692123553
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.633099913597107,
+      "p99_max_channel_error": 13.0,
+      "fraction_max_channel_above_30": 3.9252816686967114e-05,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__roll_minus8_zoom",
+    "scene": "yoga",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 2047,
+      "inliers": 2000,
+      "inlier_ratio": 0.9770395701025891,
+      "grid_cells": 13,
+      "scale": 1.2828125593386042,
+      "angle": 8.000172442283704,
+      "matrix": [
+        [
+          1.270327778359709,
+          -0.1785368251217277,
+          -19.53384811809414
+        ],
+        [
+          0.1785368251217277,
+          1.270327778359709,
+          -211.58582956069964
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 2.0763213634490967,
+      "p99_max_channel_error": 16.0,
+      "fraction_max_channel_above_30": 0.00012965324299634592,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 840704
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "yoga__natural",
+    "scene": "yoga",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "registration_ok": false,
+      "reason": "different_aspect_or_size"
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__identity",
+    "scene": "kitchen",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "scene": "kitchen",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 1132,
+      "inliers": 1092,
+      "inlier_ratio": 0.9646643109540636,
+      "grid_cells": 12,
+      "scale": 1.0999984593840557,
+      "angle": -0.0010265264705347876,
+      "matrix": [
+        [
+          1.09999845920751,
+          1.9707865843538868e-05,
+          -51.18632066942744
+        ],
+        [
+          -1.9707865843538868e-05,
+          1.09999845920751,
+          -51.15849640402032
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7070134282112122,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "kitchen__roll_8_safe",
+    "scene": "kitchen",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1116,
+      "inliers": 1071,
+      "inlier_ratio": 0.9596774193548387,
+      "grid_cells": 12,
+      "scale": 1.1317019308158884,
+      "angle": -7.999363353761834,
+      "matrix": [
+        [
+          1.1206900354511367,
+          0.15749001445469438,
+          -142.35675350485164
+        ],
+        [
+          -0.15749001445469438,
+          1.1206900354511367,
+          18.834133911692078
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7451438903808594,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 9.5367431640625e-07,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__roll_minus8_zoom",
+    "scene": "kitchen",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1010,
+      "inliers": 955,
+      "inlier_ratio": 0.9455445544554455,
+      "grid_cells": 13,
+      "scale": 1.2448529292732056,
+      "angle": 7.998118369389406,
+      "matrix": [
+        [
+          1.2327437951178155,
+          -0.17320955839273336,
+          -30.475381513349458
+        ],
+        [
+          0.17320955839273336,
+          1.2327437951178155,
+          -207.7334616142653
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8764216303825378,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 6.67572021484375e-06,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "kitchen__natural",
+    "scene": "kitchen",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 422,
+      "inliers": 297,
+      "inlier_ratio": 0.7037914691943128,
+      "grid_cells": 12,
+      "scale": 0.999523128115685,
+      "angle": 0.010561205196890038,
+      "matrix": [
+        [
+          0.9995231111354167,
+          -0.0001842399018740902,
+          0.43396809983366913
+        ],
+        [
+          0.0001842399018740902,
+          0.9995231111354167,
+          0.08713103797370625
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 8.739131927490234,
+      "p99_max_channel_error": 130.0,
+      "fraction_max_channel_above_30": 0.040078163146972656,
+      "largest_opened_residual_pixels": 28747,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "silhouette__identity",
+    "scene": "silhouette",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "silhouette__zoom_1p10",
+    "scene": "silhouette",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 2427,
+      "inliers": 2363,
+      "inlier_ratio": 0.9736299958796869,
+      "grid_cells": 16,
+      "scale": 1.099977424905938,
+      "angle": 0.00021120117829531704,
+      "matrix": [
+        [
+          1.0999774248984648,
+          -4.054688324552978e-06,
+          -51.16431800584383
+        ],
+        [
+          4.054688324552978e-06,
+          1.0999774248984648,
+          -51.15995347160514
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8736801147460938,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "silhouette__roll_8_safe",
+    "scene": "silhouette",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 2293,
+      "inliers": 2224,
+      "inlier_ratio": 0.9699084169210641,
+      "grid_cells": 16,
+      "scale": 1.1316717398674725,
+      "angle": -7.999583497411586,
+      "matrix": [
+        [
+          1.120659533167043,
+          0.15749011885352585,
+          -142.33511185925292
+        ],
+        [
+          -0.15749011885352585,
+          1.120659533167043,
+          18.85346821446671
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8527310490608215,
+      "p99_max_channel_error": 8.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "silhouette__roll_minus8_zoom",
+    "scene": "silhouette",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1833,
+      "inliers": 1765,
+      "inlier_ratio": 0.9629023458810693,
+      "grid_cells": 16,
+      "scale": 1.2448642701980372,
+      "angle": 8.00268748070098,
+      "matrix": [
+        [
+          1.2327412089040142,
+          -0.17330944315172633,
+          -30.411133888049275
+        ],
+        [
+          0.17330944315172633,
+          1.2327412089040142,
+          -207.79227967009518
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9527241587638855,
+      "p99_max_channel_error": 10.0,
+      "fraction_max_channel_above_30": 9.5367431640625e-07,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "silhouette__natural",
+    "scene": "silhouette",
+    "split": "Real",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 25,
+      "inliers": 4,
+      "inlier_ratio": 0.16,
+      "grid_cells": 2,
+      "scale": 0.0899350953294543,
+      "angle": -45.27814259653423,
+      "matrix": [
+        [
+          0.06328425170276583,
+          0.06390168118554483,
+          211.77392720146122
+        ],
+        [
+          -0.06390168118554483,
+          0.06328425170276583,
+          381.6003830839981
+        ]
+      ],
+      "registration_ok": false,
+      "reason": "geometric_support_insufficient"
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "picnic__identity",
+    "scene": "picnic",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "picnic__zoom_1p10",
+    "scene": "picnic",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 2825,
+      "inliers": 2804,
+      "inlier_ratio": 0.9925663716814159,
+      "grid_cells": 16,
+      "scale": 1.099998717147431,
+      "angle": -0.00012028386509643317,
+      "matrix": [
+        [
+          1.099998717145007,
+          2.309281738095616e-06,
+          -38.37001188330181
+        ],
+        [
+          -2.309281738095616e-06,
+          1.099998717145007,
+          -38.36937931871318
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7070470452308655,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "picnic__roll_8_safe",
+    "scene": "picnic",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 2624,
+      "inliers": 2596,
+      "inlier_ratio": 0.989329268292683,
+      "grid_cells": 16,
+      "scale": 1.1317083351312522,
+      "angle": -8.00060770002375,
+      "matrix": [
+        [
+          1.1206929568078177,
+          0.15751524487141502,
+          -106.76052113955306
+        ],
+        [
+          -0.15751524487141502,
+          1.1206929568078177,
+          14.133270801646587
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9042929410934448,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "picnic__roll_minus8_zoom",
+    "scene": "picnic",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 2219,
+      "inliers": 2204,
+      "inlier_ratio": 0.9932401982875169,
+      "grid_cells": 16,
+      "scale": 1.2448709422995698,
+      "angle": 7.999628337047135,
+      "matrix": [
+        [
+          1.232757067682187,
+          -0.17324455276121808,
+          -22.835693293766344
+        ],
+        [
+          0.17324455276121808,
+          1.232757067682187,
+          -155.79990980811368
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.9667691588401794,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "picnic__natural",
+    "scene": "picnic",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 3884,
+      "inliers": 3849,
+      "inlier_ratio": 0.9909886714727085,
+      "grid_cells": 16,
+      "scale": 1.0000017989600938,
+      "angle": 6.943873815761703e-05,
+      "matrix": [
+        [
+          1.0000017989593595,
+          -1.2119367895023402e-06,
+          0.0008405845114044103
+        ],
+        [
+          1.2119367895023402e-06,
+          1.0000017989593595,
+          -0.003199610702754291
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 2.2688586711883545,
+      "p99_max_channel_error": 70.0,
+      "fraction_max_channel_above_30": 0.0171356201171875,
+      "largest_opened_residual_pixels": 2825,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "office__identity",
+    "scene": "office",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "office__zoom_1p10",
+    "scene": "office",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 2025,
+      "inliers": 1966,
+      "inlier_ratio": 0.9708641975308642,
+      "grid_cells": 16,
+      "scale": 1.0999819562295619,
+      "angle": 0.00018495716433535248,
+      "matrix": [
+        [
+          1.0999819562238307,
+          -3.5508643947756513e-06,
+          -38.36330380788233
+        ],
+        [
+          3.5508643947756513e-06,
+          1.0999819562238307,
+          -38.363552733718095
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7070651650428772,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "office__roll_8_safe",
+    "scene": "office",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1930,
+      "inliers": 1875,
+      "inlier_ratio": 0.9715025906735751,
+      "grid_cells": 16,
+      "scale": 1.1317163720630283,
+      "angle": -7.9999019068387405,
+      "matrix": [
+        [
+          1.1207028557797543,
+          0.1575025582097202,
+          -106.76676507640786
+        ],
+        [
+          -0.1575025582097202,
+          1.1207028557797543,
+          14.110040150342334
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7908115983009338,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "office__roll_minus8_zoom",
+    "scene": "office",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1546,
+      "inliers": 1494,
+      "inlier_ratio": 0.9663648124191462,
+      "grid_cells": 16,
+      "scale": 1.2448601248914717,
+      "angle": 8.000199887841012,
+      "matrix": [
+        [
+          1.2327446273010827,
+          -0.17325534452109995,
+          -22.83251341984407
+        ],
+        [
+          0.17325534452109995,
+          1.2327446273010827,
+          -155.79839343242153
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 1.0130258798599243,
+      "p99_max_channel_error": 7.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "office__natural",
+    "scene": "office",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 1511,
+      "inliers": 1416,
+      "inlier_ratio": 0.9371277299801456,
+      "grid_cells": 16,
+      "scale": 0.9999998601527992,
+      "angle": -0.00043857616429648493,
+      "matrix": [
+        [
+          0.9999998601235027,
+          7.654597017192395e-06,
+          -0.010560328420762996
+        ],
+        [
+          -7.654597017192395e-06,
+          0.9999998601235027,
+          -0.017557172142435278
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 6.242428302764893,
+      "p99_max_channel_error": 59.0,
+      "fraction_max_channel_above_30": 0.054158528645833336,
+      "largest_opened_residual_pixels": 1721,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  },
+  {
+    "id": "classroom__identity",
+    "scene": "classroom",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "identity",
+    "features": {
+      "exact_identity": true,
+      "registration_ok": true,
+      "overlap": 1.0
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "identical_decoded_pixels",
+      "caption": "The two images show the same scene with no visible changes."
+    }
+  },
+  {
+    "id": "classroom__zoom_1p10",
+    "scene": "classroom",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "features": {
+      "exact_identity": false,
+      "matches": 1278,
+      "inliers": 1219,
+      "inlier_ratio": 0.9538341158059468,
+      "grid_cells": 16,
+      "scale": 1.1000351724044912,
+      "angle": 0.0023908629039862033,
+      "matrix": [
+        [
+          1.1000351714467667,
+          -4.5902740278072114e-05,
+          -38.36048980762705
+        ],
+        [
+          4.5902740278072114e-05,
+          1.1000351714467667,
+          -38.40744510683462
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.5908231139183044,
+      "p99_max_channel_error": 4.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "classroom__roll_8_safe",
+    "scene": "classroom",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "features": {
+      "exact_identity": false,
+      "matches": 1179,
+      "inliers": 1113,
+      "inlier_ratio": 0.9440203562340967,
+      "grid_cells": 16,
+      "scale": 1.1317117540345942,
+      "angle": -7.997947243752833,
+      "matrix": [
+        [
+          1.1207036552665297,
+          0.15746368245502643,
+          -106.73666798072529
+        ],
+        [
+          -0.15746368245502643,
+          1.1207036552665297,
+          14.102839512362715
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.634931206703186,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "classroom__roll_minus8_zoom",
+    "scene": "classroom",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "features": {
+      "exact_identity": false,
+      "matches": 1161,
+      "inliers": 1113,
+      "inlier_ratio": 0.958656330749354,
+      "grid_cells": 16,
+      "scale": 1.2448788485849518,
+      "angle": 8.000876036657273,
+      "matrix": [
+        [
+          1.232761124060863,
+          -0.17327249827480737,
+          -22.826550440401366
+        ],
+        [
+          0.17327249827480737,
+          1.232761124060863,
+          -155.81786051781862
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.733660101890564,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": true,
+      "reason": "registered_dense_match",
+      "caption": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    }
+  },
+  {
+    "id": "classroom__natural",
+    "scene": "classroom",
+    "split": "Render",
+    "partition": "validation",
+    "condition": "natural",
+    "features": {
+      "exact_identity": false,
+      "matches": 1242,
+      "inliers": 1158,
+      "inlier_ratio": 0.9323671497584541,
+      "grid_cells": 16,
+      "scale": 1.0000307707886484,
+      "angle": 0.0035507010680146086,
+      "matrix": [
+        [
+          1.0000307688683607,
+          -6.197333126086856e-05,
+          0.035409230843083526
+        ],
+        [
+          6.197333126086856e-05,
+          1.0000307688683607,
+          -0.039634914121498936
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 27.126808166503906,
+      "p99_max_channel_error": 48.0,
+      "fraction_max_channel_above_30": 0.6564398871527778,
+      "largest_opened_residual_pixels": 328568,
+      "valid_pixels": 589824
+    },
+    "decision": {
+      "accept_no_scene_change": false,
+      "reason": "fallback_to_model",
+      "caption": null
+    }
+  }
+]

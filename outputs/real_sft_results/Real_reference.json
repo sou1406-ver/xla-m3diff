@@ -1,0 +1,294 @@
+{
+  "annotations": [
+    {
+      "id": "real_test_pair_000015",
+      "image_id": "real_test_pair_000015",
+      "caption": "The visible part of the toy storage box on the left side has increased. The number of storage boxes visible in the upper right corner has increased to two. A children's push toy car with a yellow lid and teal wheels has been placed directly in front of the teal children's seat. An orange cone-shaped mesh toy has appeared to the right of the push toy car. The white canvas bag and yellow slippers in the upper right corner of the original image are no longer visible."
+    },
+    {
+      "id": "real_test_pair_000018",
+      "image_id": "real_test_pair_000018",
+      "caption": "The ambient lighting has brightened. The third children's walker with blue wheels from the left has been replaced with a children's push toy car that has a yellow lid."
+    },
+    {
+      "id": "real_test_pair_000045",
+      "image_id": "real_test_pair_000045",
+      "caption": "The mother bear on the right side of the scene changes from looking towards the right front to turning her head to the left and lying on top of the cub. The cub in the lower left corner extends its head out from the mother bear's embrace and lies there with its eyes closed."
+    },
+    {
+      "id": "real_test_pair_000057",
+      "image_id": "real_test_pair_000057",
+      "caption": "The ambient lighting has dimmed.The mother bear sitting on the right side of the screen changes from turning her head to the left to having her mouth open. The cub in the lower left corner, which was sticking its head out from the mother bear's embrace while lying down with its eyes closed, remains unchanged. The cub on the right is no longer lying with its eyes closed; instead, it has tucked its head into the mother bear's embrace."
+    },
+    {
+      "id": "real_test_pair_000073",
+      "image_id": "real_test_pair_000073",
+      "caption": "The lighting has brightened. The second card in the first row, which had a horse pattern, has been replaced with a card featuring a ping pong paddle and ball. The third card in the first row, which had a black background with a hot air balloon, has been replaced with a card containing a black rocking horse on a white background.The first card in the second row, which featured a sock on a black background, has been replaced with a card showing a black backpack on a white background.The second card in the second row, which had a black background with various sized dots, has been replaced with a card containing a pair of footprints on a white background.The second card in the third row, which had a tooth pattern on a black background, has been replaced with a card featuring a toothbrush and toothpaste on a white background."
+    },
+    {
+      "id": "real_test_pair_000082",
+      "image_id": "real_test_pair_000082",
+      "caption": "The second card in the first row, which had a horse pattern, has been replaced with a card featuring a ping pong paddle and ball.The third card in the first row, which had a black background with a hot air balloon, has been replaced with a card containing a pair of footprints on a white background. The first card in the second row, which featured a sock on a black background, has been replaced with a card showing a black backpack on a white background.The second card in the second row, which had a black background with various sized dots, has been replaced with a card containing a black rocking horse on a white background.The second card in the third row, which had a tooth pattern on a black background, has been replaced with a card featuring a toothbrush and toothpaste on a white background."
+    },
+    {
+      "id": "real_test_pair_000094",
+      "image_id": "real_test_pair_000094",
+      "caption": "The first card in the first row, which originally had a white sunflower on a black background, has been changed to a card with a black maple leaf on a white background. The second card in the first row, which originally had a ping pong paddle and ball, has been changed to a card with a soccer ball on a white background. The third card in the first row, which originally had a black rocking horse on a white background, has been replaced with a card featuring a pair of footprints on a white background. The second card in the second row, which originally had a pair of footprints on a white background, has been replaced with a card featuring a black rocking horse on a white background. The second card in the third row, which originally had a tooth pattern on a black background, has been replaced with a card displaying a toothbrush and toothpaste on a white background."
+    },
+    {
+      "id": "real_test_pair_000109",
+      "image_id": "real_test_pair_000109",
+      "caption": "The air conditioner remote has been moved to rest on top of the stacked mask boxes, and a white water cup has appeared in its original position. The pink fan has rotated slightly counterclockwise."
+    },
+    {
+      "id": "real_test_pair_000147",
+      "image_id": "real_test_pair_000147",
+      "caption": "The alcohol bottle has rotated clockwise in place, and the label on the bottle is now facing away from the camera. A new purple bracelet has appeared, wrapped around the alcohol bottle."
+    },
+    {
+      "id": "real_test_pair_000202",
+      "image_id": "real_test_pair_000202",
+      "caption": "The white shorts on the far left have been replaced with an orange T-shirt. The yellow vest, which was originally to the right of the white T-shirt, is now to the right of the black and white checkered shorts. The fifth pair of black pants from left to right has disappeared. The red and gray striped shorts have moved to the left."
+    },
+    {
+      "id": "real_test_pair_000223",
+      "image_id": "real_test_pair_000223",
+      "caption": "A white pair of shorts has appeared to the left of the yellow T-shirt. The black and white checkered shorts, which were on the right side of the black pants, have moved to the right side of the yellow vest."
+    },
+    {
+      "id": "real_test_pair_000236",
+      "image_id": "real_test_pair_000236",
+      "caption": "The two mice on the right side of the table have moved slightly to the right, and the distance between them has decreased. A camera with its lens facing right has been added to the left side of the table."
+    },
+    {
+      "id": "real_test_pair_000242",
+      "image_id": "real_test_pair_000242",
+      "caption": "The ambient lighting has brightened. The two mice on the right side of the table have disappeared. A camera with its lens facing right has been added to the left side of the table."
+    },
+    {
+      "id": "real_test_pair_000263",
+      "image_id": "real_test_pair_000263",
+      "caption": "A blue and brown notebook has been added to the white riser at the bottom left of the monitor. The shape of the blue sticky note on the white riser at the bottom right of the monitor has changed from a square to a rectangle."
+    },
+    {
+      "id": "real_test_pair_000290",
+      "image_id": "real_test_pair_000290",
+      "caption": "The posture of the three individuals has changed from having their right hand stretched upward, the other hand on their waist, with their bodies tilted to the right and their legs positioned one in front of the other, to each person lifting their left leg high while simultaneously extending both arms to the sides."
+    },
+    {
+      "id": "real_test_pair_000307",
+      "image_id": "real_test_pair_000307",
+      "caption": "Three people stand with their legs together, arms naturally hanging down, gazing forward, then change to standing with legs apart and arms crossed in front of the chest."
+    },
+    {
+      "id": "real_test_pair_000370",
+      "image_id": "real_test_pair_000370",
+      "caption": "The ambient lighting has brightened.A squirrel has appeared on the left tree stump, lying flat on its stomach, facing to the right, with two peanuts appearing in front of the left tree stump."
+    },
+    {
+      "id": "real_test_pair_000378",
+      "image_id": "real_test_pair_000378",
+      "caption": "The squirrel on the left tree stump has disappeared, and a black bird has appeared on the front edge of the left tree stump, facing away from the image and looking into the distance. A new black bird has appeared on the grass in the far left of the image, with its head raised and looking toward the front right of the image. The two peanuts that had fallen in front of the left tree stump have disappeared."
+    },
+    {
+      "id": "real_test_pair_000393",
+      "image_id": "real_test_pair_000393",
+      "caption": "The black bird that was behind the left tree stump, facing sideways and looking to the right side of the image, is now on the grass in the lower right corner, positioned sideways with its head facing the front left of the image."
+    },
+    {
+      "id": "real_test_pair_000408",
+      "image_id": "real_test_pair_000408",
+      "caption": "The ambient lighting has brightened.The pose of three people changes from being arranged in an overlapping sequence, decreasing in height from back to front with arms extended horizontally to raising their right arms, placing the left hand on the waist, and slightly tilting their bodies."
+    },
+    {
+      "id": "real_test_pair_000432",
+      "image_id": "real_test_pair_000432",
+      "caption": "The formation of three shifts from a layered arrangement with heights decreasing from back to front and arms stretched outward to gathering together, with the individuals on the sides raising one arm each, while the person in the middle places their hands on their chest, cradling their face."
+    },
+    {
+      "id": "real_test_pair_000467",
+      "image_id": "real_test_pair_000467",
+      "caption": "The pose shifts from leaning backward with the right hand extended upward and the body forming a curved posture to facing the right side of the frame, stepping forward with arms extended, one to the left and one to the right."
+    },
+    {
+      "id": "real_test_pair_000475",
+      "image_id": "real_test_pair_000475",
+      "caption": "The pose shifts from facing the left side of the frame, stepping forward with arms spread open behind, to adopting a more dynamic jumping posture with the right leg lifted high, body leaning forward, and both arms straight and spread out."
+    },
+    {
+      "id": "real_test_pair_000487",
+      "image_id": "real_test_pair_000487",
+      "caption": "The pose changes from facing left with the left leg in front, right leg behind, left hand at the waist, and the right hand clenched and extended in a punching gesture to facing right in a forward-leaning posture, with both hands extended forward and palms open."
+    },
+    {
+      "id": "real_test_pair_000546",
+      "image_id": "real_test_pair_000546",
+      "caption": "The lighting has brightened."
+    },
+    {
+      "id": "real_test_pair_000605",
+      "image_id": "real_test_pair_000605",
+      "caption": "The yellow ball in front of the concrete truck with a white cab has disappeared. The toy car with red wheels at the lower left corner of the gray stool has been replaced with a smaller blue and white police car. The red bus at the upper left and the concrete truck with a white cab, which previously had their fronts facing the front of the scene, are now turned to face the back of the scene. In front of the yellow excavator, a circular blue token with the number “50” has appeared."
+    },
+    {
+      "id": "real_test_pair_000621",
+      "image_id": "real_test_pair_000621",
+      "caption": "there is no change."
+    },
+    {
+      "id": "real_test_pair_000659",
+      "image_id": "real_test_pair_000659",
+      "caption": "The ambient light becomes brighter. The red soap on the first row of yellow boxes swaps positions with the white soap on the blue boxes."
+    },
+    {
+      "id": "real_test_pair_000689",
+      "image_id": "real_test_pair_000689",
+      "caption": "The ambient lighting has brightened. The mouse's posture has changed from standing on its hind legs with its front legs resting outside the mouse hole to having its body inside the hole, with only its head still visible. The number of food particles on the ground has increased."
+    },
+    {
+      "id": "real_test_pair_000708",
+      "image_id": "real_test_pair_000708",
+      "caption": "The number of grains on the floor has increased. The mouse, which previously had only its head visible outside the hole, is now standing on its hind legs with its front legs resting outside the mouse hole."
+    },
+    {
+      "id": "real_test_pair_000749",
+      "image_id": "real_test_pair_000749",
+      "caption": "A pink hanger has been added in the black basket of the leftmost shared bicycle."
+    },
+    {
+      "id": "real_test_pair_000775",
+      "image_id": "real_test_pair_000775",
+      "caption": "The ambient lighting has dimmed.The ground has accumulated more snow, increasing the snow cover. The blue car that was previously in the middle of the road is no longer visible. The color of the car in front of the house on the far right has changed from red to white."
+    }
+  ],
+  "images": [
+    {
+      "filename": "real_test_pair_000015",
+      "id": "real_test_pair_000015"
+    },
+    {
+      "filename": "real_test_pair_000018",
+      "id": "real_test_pair_000018"
+    },
+    {
+      "filename": "real_test_pair_000045",
+      "id": "real_test_pair_000045"
+    },
+    {
+      "filename": "real_test_pair_000057",
+      "id": "real_test_pair_000057"
+    },
+    {
+      "filename": "real_test_pair_000073",
+      "id": "real_test_pair_000073"
+    },
+    {
+      "filename": "real_test_pair_000082",
+      "id": "real_test_pair_000082"
+    },
+    {
+      "filename": "real_test_pair_000094",
+      "id": "real_test_pair_000094"
+    },
+    {
+      "filename": "real_test_pair_000109",
+      "id": "real_test_pair_000109"
+    },
+    {
+      "filename": "real_test_pair_000147",
+      "id": "real_test_pair_000147"
+    },
+    {
+      "filename": "real_test_pair_000202",
+      "id": "real_test_pair_000202"
+    },
+    {
+      "filename": "real_test_pair_000223",
+      "id": "real_test_pair_000223"
+    },
+    {
+      "filename": "real_test_pair_000236",
+      "id": "real_test_pair_000236"
+    },
+    {
+      "filename": "real_test_pair_000242",
+      "id": "real_test_pair_000242"
+    },
+    {
+      "filename": "real_test_pair_000263",
+      "id": "real_test_pair_000263"
+    },
+    {
+      "filename": "real_test_pair_000290",
+      "id": "real_test_pair_000290"
+    },
+    {
+      "filename": "real_test_pair_000307",
+      "id": "real_test_pair_000307"
+    },
+    {
+      "filename": "real_test_pair_000370",
+      "id": "real_test_pair_000370"
+    },
+    {
+      "filename": "real_test_pair_000378",
+      "id": "real_test_pair_000378"
+    },
+    {
+      "filename": "real_test_pair_000393",
+      "id": "real_test_pair_000393"
+    },
+    {
+      "filename": "real_test_pair_000408",
+      "id": "real_test_pair_000408"
+    },
+    {
+      "filename": "real_test_pair_000432",
+      "id": "real_test_pair_000432"
+    },
+    {
+      "filename": "real_test_pair_000467",
+      "id": "real_test_pair_000467"
+    },
+    {
+      "filename": "real_test_pair_000475",
+      "id": "real_test_pair_000475"
+    },
+    {
+      "filename": "real_test_pair_000487",
+      "id": "real_test_pair_000487"
+    },
+    {
+      "filename": "real_test_pair_000546",
+      "id": "real_test_pair_000546"
+    },
+    {
+      "filename": "real_test_pair_000605",
+      "id": "real_test_pair_000605"
+    },
+    {
+      "filename": "real_test_pair_000621",
+      "id": "real_test_pair_000621"
+    },
+    {
+      "filename": "real_test_pair_000659",
+      "id": "real_test_pair_000659"
+    },
+    {
+      "filename": "real_test_pair_000689",
+      "id": "real_test_pair_000689"
+    },
+    {
+      "filename": "real_test_pair_000708",
+      "id": "real_test_pair_000708"
+    },
+    {
+      "filename": "real_test_pair_000749",
+      "id": "real_test_pair_000749"
+    },
+    {
+      "filename": "real_test_pair_000775",
+      "id": "real_test_pair_000775"
+    }
+  ]
+}

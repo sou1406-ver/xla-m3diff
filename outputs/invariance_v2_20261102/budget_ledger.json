@@ -1,0 +1,64 @@
+{
+  "period_start": "2026-11-01",
+  "authorization": "User renewed $30 credit; bounded invariance experiment, no purchases.",
+  "initial_consumption": "0E-8",
+  "jobs": [
+    {
+      "label": "preparation",
+      "reservation": "0.09",
+      "rate": "0.28",
+      "seconds": 900,
+      "profile": "cpu"
+    },
+    {
+      "label": "initial_check",
+      "reservation": "0.94",
+      "rate": "1.70",
+      "seconds": 1800,
+      "profile": "a10"
+    },
+    {
+      "label": "matched_training",
+      "reservation": "2.99",
+      "rate": "3.73",
+      "seconds": 2700,
+      "profile": "a100",
+      "note": "Physical GPU was A10080; conservatively reserve higher current listed rate, regardless of automatic upgrade billing."
+    },
+    {
+      "label": "new_evaluation",
+      "reservation": "0.94",
+      "rate": "1.70",
+      "seconds": 1800,
+      "profile": "a10"
+    },
+    {
+      "label": "pipeline_controller",
+      "reservation": "0.44",
+      "rate": "0.28",
+      "seconds": 5400,
+      "profile": "cpu"
+    },
+    {
+      "label": "positive_stress_preparation",
+      "reservation": "0.04",
+      "rate": "0.28",
+      "seconds": 300,
+      "profile": "cpu"
+    },
+    {
+      "label": "positive_stress_preparation_fixed",
+      "reservation": "0.04",
+      "rate": "0.28",
+      "seconds": 300,
+      "profile": "cpu"
+    },
+    {
+      "label": "positive_stress_evaluation",
+      "reservation": "0.66",
+      "rate": "1.70",
+      "seconds": 1200,
+      "profile": "a10"
+    }
+  ]
+}

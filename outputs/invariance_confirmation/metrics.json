@@ -1,0 +1,704 @@
+{
+  "all_pairs/Real/identity": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 8,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 8
+    },
+    "positive_control": {
+      "n": 8,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 4,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 4
+    },
+    "mixed_objective": {
+      "n": 8,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 1,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 1
+    }
+  },
+  "all_pairs/Real/transformed": {
+    "baseline": {
+      "n": 24,
+      "physical_fp_pairs": 17,
+      "illumination_inferences": 6,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 21
+    },
+    "positive_control": {
+      "n": 24,
+      "physical_fp_pairs": 15,
+      "illumination_inferences": 8,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 21
+    },
+    "mixed_objective": {
+      "n": 24,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 10,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 3,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 20
+    }
+  },
+  "all_pairs/Real/natural": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 10,
+      "unsupported_pairs": 5,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 14
+    },
+    "positive_control": {
+      "n": 8,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 11,
+      "unsupported_pairs": 5,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 14
+    },
+    "mixed_objective": {
+      "n": 8,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 10,
+      "unsupported_pairs": 6,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 14
+    }
+  },
+  "all_pairs/Render/identity": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 6,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 8,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 8
+    },
+    "positive_control": {
+      "n": 8,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 8,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 8
+    },
+    "mixed_objective": {
+      "n": 8,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 5,
+      "identity_difference_pairs": 5,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 5
+    }
+  },
+  "all_pairs/Render/transformed": {
+    "baseline": {
+      "n": 24,
+      "physical_fp_pairs": 19,
+      "illumination_inferences": 11,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 23
+    },
+    "positive_control": {
+      "n": 24,
+      "physical_fp_pairs": 21,
+      "illumination_inferences": 22,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 24
+    },
+    "mixed_objective": {
+      "n": 24,
+      "physical_fp_pairs": 18,
+      "illumination_inferences": 24,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 24
+    }
+  },
+  "all_pairs/Render/natural": {
+    "baseline": {
+      "n": 8,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 2,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 4,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 10
+    },
+    "positive_control": {
+      "n": 8,
+      "physical_fp_pairs": 2,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 9,
+      "unsupported_pairs": 2,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 5,
+      "possible_facts": 10
+    },
+    "mixed_objective": {
+      "n": 8,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 10,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6,
+      "possible_facts": 10
+    }
+  },
+  "all_pairs/all/identity": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 13,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 16,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 16
+    },
+    "positive_control": {
+      "n": 16,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 6,
+      "identity_difference_pairs": 12,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    },
+    "mixed_objective": {
+      "n": 16,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 5,
+      "identity_difference_pairs": 6,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 6
+    }
+  },
+  "all_pairs/all/transformed": {
+    "baseline": {
+      "n": 48,
+      "physical_fp_pairs": 36,
+      "illumination_inferences": 17,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 44
+    },
+    "positive_control": {
+      "n": 48,
+      "physical_fp_pairs": 36,
+      "illumination_inferences": 30,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 45
+    },
+    "mixed_objective": {
+      "n": 48,
+      "physical_fp_pairs": 29,
+      "illumination_inferences": 34,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 3,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 44
+    }
+  },
+  "all_pairs/all/natural": {
+    "baseline": {
+      "n": 16,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 4,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 19,
+      "unsupported_pairs": 9,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12,
+      "possible_facts": 24
+    },
+    "positive_control": {
+      "n": 16,
+      "physical_fp_pairs": 7,
+      "illumination_inferences": 5,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 20,
+      "unsupported_pairs": 7,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 11,
+      "possible_facts": 24
+    },
+    "mixed_objective": {
+      "n": 16,
+      "physical_fp_pairs": 9,
+      "illumination_inferences": 5,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 20,
+      "unsupported_pairs": 9,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12,
+      "possible_facts": 24
+    }
+  },
+  "unfamiliar_backgrounds/Real/identity": {
+    "baseline": {
+      "n": 5,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 5,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 5
+    },
+    "positive_control": {
+      "n": 5,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 2,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 2
+    },
+    "mixed_objective": {
+      "n": 5,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 1,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 1
+    }
+  },
+  "unfamiliar_backgrounds/Real/transformed": {
+    "baseline": {
+      "n": 15,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    },
+    "positive_control": {
+      "n": 15,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 6,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    },
+    "mixed_objective": {
+      "n": 15,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 8,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    }
+  },
+  "unfamiliar_backgrounds/Real/natural": {
+    "baseline": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    },
+    "positive_control": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    },
+    "mixed_objective": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 6,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    }
+  },
+  "unfamiliar_backgrounds/Render/identity": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "positive_control": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "mixed_objective": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    }
+  },
+  "unfamiliar_backgrounds/Render/transformed": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "positive_control": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    },
+    "mixed_objective": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0
+    }
+  },
+  "unfamiliar_backgrounds/Render/natural": {
+    "baseline": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0,
+      "possible_facts": 0
+    },
+    "positive_control": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0,
+      "possible_facts": 0
+    },
+    "mixed_objective": {
+      "n": 0,
+      "physical_fp_pairs": 0,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 0,
+      "possible_facts": 0
+    }
+  },
+  "unfamiliar_backgrounds/all/identity": {
+    "baseline": {
+      "n": 5,
+      "physical_fp_pairs": 4,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 5,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 5
+    },
+    "positive_control": {
+      "n": 5,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 2,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 2
+    },
+    "mixed_objective": {
+      "n": 5,
+      "physical_fp_pairs": 1,
+      "illumination_inferences": 0,
+      "identity_difference_pairs": 1,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 1
+    }
+  },
+  "unfamiliar_backgrounds/all/transformed": {
+    "baseline": {
+      "n": 15,
+      "physical_fp_pairs": 11,
+      "illumination_inferences": 3,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    },
+    "positive_control": {
+      "n": 15,
+      "physical_fp_pairs": 8,
+      "illumination_inferences": 6,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    },
+    "mixed_objective": {
+      "n": 15,
+      "physical_fp_pairs": 5,
+      "illumination_inferences": 8,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 12
+    }
+  },
+  "unfamiliar_backgrounds/all/natural": {
+    "baseline": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    },
+    "positive_control": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 5,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    },
+    "mixed_objective": {
+      "n": 5,
+      "physical_fp_pairs": 3,
+      "illumination_inferences": 1,
+      "identity_difference_pairs": 0,
+      "camera_acknowledged": 0,
+      "wrong_geometry_explanations": 0,
+      "fact_hits": 6,
+      "unsupported_pairs": 3,
+      "suppressed_natural_pairs": 0,
+      "any_recorded_geometry_error": 3,
+      "possible_facts": 7
+    }
+  }
+}

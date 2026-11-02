@@ -1,0 +1,4128 @@
+{
+  "reviewer": "Codex assistant; not independently human adjudicated",
+  "rule": "Exact case/question manifest and entire displayed caption only. New strings must be manually assessed. No current precision-mode key opened.",
+  "reused_candidate_annotations": 172,
+  "cases": [
+    {
+      "id": "old__furniture__identity",
+      "index": 0,
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__furniture__zoom_1p10",
+      "index": 1,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__furniture__roll_8_safe",
+      "index": 2,
+      "candidate_1": {
+        "caption": "The ambient lighting has become brighter.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has become brighter.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__furniture__roll_minus8_zoom",
+      "index": 3,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened. The stool on the right side of the scene has rotated clockwise by a certain angle, changing its orientation from facing forward to facing left.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__furniture__natural",
+      "index": 4,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The blue cushion on the chair in the upper left corner of the scene has been replaced with a green cushion. A white toy goose plush has appeared on the white table on the right side of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved to the right side of the white table.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1,
+          3,
+          4
+        ],
+        "unsupported": [
+          "Existing stool physically moves across tables"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__exercise__identity",
+      "index": 5,
+      "candidate_1": {
+        "caption": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__exercise__zoom_1p10",
+      "index": 6,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The three people in the center of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__exercise__roll_8_safe",
+      "index": 7,
+      "candidate_1": {
+        "caption": "The three people in the middle of the formation change from facing forward to turning their heads to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            7,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle of the formation change from facing forward to turning their heads to the left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            7,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__exercise__roll_minus8_zoom",
+      "index": 8,
+      "candidate_1": {
+        "caption": "The woman in the center of the scene, who was previously facing forward, is now facing right. The man on the right side of the scene, who was previously facing forward, is now facing left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            8,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The woman in the center of the scene, who was previously facing forward, is now facing right. The man on the right side of the scene, who was previously facing forward, is now facing left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            8,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__exercise__natural",
+      "index": 9,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The three people in the center of the scene, who were previously facing forward with their bodies slightly bent and both hands resting on their chests, have now turned to the left side of the frame. Their bodies are leaning to the right, with their left hand extended straight up and their right hand bent behind their backs.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Previous hands at chest",
+          "New bent arm behind back"
+        ],
+        "uncertain": [
+          "Anatomical versus image-side lean wording not used to force an extra error"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__yoga__identity",
+      "index": 10,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The right hand, previously bent and resting on the edge of the archway, is now straightened.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            10,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__yoga__zoom_1p10",
+      "index": 11,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The right leg, which was bent and supported on the ground, is now straightened. The left hand, previously resting on the edge of the arch, is now extended upward.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__yoga__roll_8_safe",
+      "index": 12,
+      "candidate_1": {
+        "caption": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the right side. The gaze shifts from being directed forward to looking toward the left side of the frame. The hand that was originally placed on the edge of the archway with the palm supporting and fingers naturally bent, is now extended straight away from the body. The leg that was raised backward, standing on the ground, is now bent at a 90-degree angle, with the foot touching the ground.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            12,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__yoga__roll_minus8_zoom",
+      "index": 13,
+      "candidate_1": {
+        "caption": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the front-right side. The gaze shifts from looking toward the left hand to looking straight ahead. The left hand, previously resting on the edge of the arch, is now extended upward. The right hand, previously resting on the edge of the arch, is now extended upward. The waist’s orientation changes from tilting to the right side of the frame to tilting to the left side. The leg position changes from the left leg supporting and the right leg raised backward to the right leg supporting and the left leg raised backward.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            13,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__yoga__natural",
+      "index": 14,
+      "candidate_1": {
+        "caption": "The posture of the person in white clothes changes from facing the left side with the left leg extended backward, right leg bent forward, waist tilted to the right, and both arms raised and extended horizontally to the sides, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Lying on ground instead of standing forward bend",
+          "Incorrect initial both arms horizontal"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            14,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The posture of the person in white clothes changes from facing the left side with the left leg extended backward, right leg bent forward, waist tilted to the right, and both arms raised and extended horizontally to the sides, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Lying on ground instead of standing forward bend",
+          "Incorrect initial both arms horizontal"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            14,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__mouse__identity",
+      "index": 15,
+      "candidate_1": {
+        "caption": "The mouse has turned its head to the left and is biting a peanut.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            15,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The mouse has turned its head to the left and is biting a sunflower seed.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            15,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__mouse__zoom_1p10",
+      "index": 16,
+      "candidate_1": {
+        "caption": "The mouse has turned its head to the left and is biting a peanut on the ground.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            16,
+            1
+          ],
+          [
+            16,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The mouse has turned its head to the left and is biting a peanut on the ground.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            16,
+            1
+          ],
+          [
+            16,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__mouse__roll_8_safe",
+      "index": 17,
+      "candidate_1": {
+        "caption": "The mouse has moved from the left side of the wooden box to the right side, closer to the feed tray.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            17,
+            1
+          ],
+          [
+            17,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__mouse__roll_minus8_zoom",
+      "index": 18,
+      "candidate_1": {
+        "caption": "The mouse has turned its head to the left and is biting a grain.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            18,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The mouse has turned its head to the left and is biting a grain.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            18,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__mouse__natural",
+      "index": 19,
+      "candidate_1": {
+        "caption": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scattered on the wooden board has decreased.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Food-count comparison unreliable across framing"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            19,
+            1
+          ],
+          [
+            19,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__kitchen__identity",
+      "index": 20,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            20,
+            1
+          ],
+          [
+            20,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            20,
+            1
+          ],
+          [
+            20,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__kitchen__zoom_1p10",
+      "index": 21,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            21,
+            1
+          ],
+          [
+            21,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            21,
+            1
+          ],
+          [
+            21,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__kitchen__roll_8_safe",
+      "index": 22,
+      "candidate_1": {
+        "caption": "The yellow lid on the right side of the table has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            22,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The yellow lid on the right side of the scene has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            22,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__kitchen__roll_minus8_zoom",
+      "index": 23,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            23,
+            1
+          ],
+          [
+            23,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            23,
+            1
+          ],
+          [
+            23,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__kitchen__natural",
+      "index": 24,
+      "candidate_1": {
+        "caption": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the right side of the table has rotated clockwise by a certain angle, changing its orientation from facing the front left to facing the right side of the table.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Existing green/red bottle replaced",
+          "Unsupported jar orientation change"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            24,
+            1
+          ],
+          [
+            24,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the right side of the table has rotated clockwise by a certain angle, changing its orientation from facing the front left to facing the right side of the table.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Existing green/red bottle replaced",
+          "Unsupported jar orientation change"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            24,
+            1
+          ],
+          [
+            24,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__silhouette__identity",
+      "index": 25,
+      "candidate_1": {
+        "caption": "The person's right hand changes from being raised to the left side of the head to being raised above the head.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            25,
+            1
+          ],
+          [
+            25,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The person's right hand changes from being raised to the left side of the head to being raised above the head.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            25,
+            1
+          ],
+          [
+            25,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__silhouette__zoom_1p10",
+      "index": 26,
+      "candidate_1": {
+        "caption": "The person's posture changes from having the right leg bent and supporting the body, with the left leg raised and bent at a 90-degree angle, to standing upright with the right leg supporting the body, while the left leg is raised and bent at a 90-degree angle.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            26,
+            1
+          ],
+          [
+            26,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The person's posture changes from having the right leg bent and supporting the body, with the left leg raised and bent at a 90-degree angle, to standing upright with the right leg supporting the body, while the left leg is raised and bent at a 90-degree angle.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            26,
+            1
+          ],
+          [
+            26,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__silhouette__roll_8_safe",
+      "index": 27,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The person's posture changes from having the right leg bent and supporting the body, with the left leg raised and bent at a 90-degree angle, to standing on the left leg with the right leg raised.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            27,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__silhouette__roll_minus8_zoom",
+      "index": 28,
+      "candidate_1": {
+        "caption": "The person's left leg, previously bent and supporting the body, is now straightened.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            28,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The person's left leg, previously bent and supporting the body, is now straightened. The right hand, which was previously raised high with fingers spread, is now extended to the side.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            28,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__silhouette__natural",
+      "index": 29,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The posture of the figure changes from standing with the right leg bent and supporting the body, while the left leg is raised and bent, with both arms extended to the sides, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Wrong initial limb configuration",
+          "Both final arms forward instead of one rear arm"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            29,
+            1
+          ],
+          [
+            29,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__hospital__identity",
+      "index": 30,
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            30,
+            1
+          ],
+          [
+            30,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            30,
+            1
+          ],
+          [
+            30,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__hospital__zoom_1p10",
+      "index": 31,
+      "candidate_1": {
+        "caption": "The area has grown darker. The gray medical bed on the right side of the hallway, which was previously facing the left side of the scene, is now facing the right side of the scene.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            31,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__hospital__roll_8_safe",
+      "index": 32,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The area is now brighter. The gray medical bed in the middle of the left side of the scene has been rotated counterclockwise, changing its orientation from facing the front to facing the back.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            32,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__hospital__roll_minus8_zoom",
+      "index": 33,
+      "candidate_1": {
+        "caption": "The light in the scene has diminished. The gray matress in the middle of the room has been lowered.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Lowered mattress may refer to global image-coordinate shift; no explicit height/bed-relation statement, conservatively excluded"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            33,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has diminished. The gray matress in the middle of the room has been lowered.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Lowered mattress may refer to global image-coordinate shift; no explicit height/bed-relation statement, conservatively excluded"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            33,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__hospital__natural",
+      "index": 34,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Visible flowers disappeared",
+          "Red bed panel mislabeled as wrong bedside table"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            34,
+            1
+          ],
+          [
+            34,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__street__identity",
+      "index": 35,
+      "candidate_1": {
+        "caption": "The scene has become more illuminated.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            35,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            35,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__street__zoom_1p10",
+      "index": 36,
+      "candidate_1": {
+        "caption": "The bicycle that was leaning against the right side of the sidewalk is now positioned on the left side of the road. The gray concrete post located at the entrance to the alleyway, between the red house on the right and the yellow house on the left, has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Exact concrete-post identification uncertain"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            36,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__street__roll_8_safe",
+      "index": 37,
+      "candidate_1": {
+        "caption": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers on the brick platform at the entrance of the red house on the left side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border pot visibility could be crop"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            37,
+            1
+          ],
+          [
+            37,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers on the brick platform at the entrance of the red house on the left side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border pot visibility could be crop"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            37,
+            1
+          ],
+          [
+            37,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__street__roll_minus8_zoom",
+      "index": 38,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The bicycle that was leaning against the right side of the sidewalk is now lying on the road in the middle of the picture. The potted plant with orange flowers, originally located near the left side of the scene, has been moved to the right side of the scene. The gray metal fence on the left side of the scene has been replaced by a black metal fence. The red and white striped awning above the front door of the blue house in the center of the scene has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            38,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__street__natural",
+      "index": 39,
+      "candidate_1": {
+        "caption": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray pillar and bucket.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          2
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Initial middle-of-road phrasing is approximate"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            39,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The rusty red bicycle that was originally parked on the right side of the road, near the gray concrete edge and next to a small potted plant, has moved to the left side of the road.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Bike moves left instead of toward right curb"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            39,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__picnic__identity",
+      "index": 40,
+      "candidate_1": {
+        "caption": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left side of the scene.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            40,
+            1
+          ],
+          [
+            40,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left side of the scene.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            40,
+            1
+          ],
+          [
+            40,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__picnic__zoom_1p10",
+      "index": 41,
+      "candidate_1": {
+        "caption": "The blue and white striped wooden lounge chair, which was originally facing the camera, is now facing the waterfall. The white cup with a handle on the right side of the picnic blanket has been replaced by a transparent glass. The two orange-colored tableware in the white tableware package have been replaced by a set of yellow tableware.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            41,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The white cup with a handle in front of the picnic basket on the left side of the picnic blanket has been replaced by a transparent glass.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            41,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__picnic__roll_8_safe",
+      "index": 42,
+      "candidate_1": {
+        "caption": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The brown picnic basket, originally placed on the picnic blanket near the upper left corner of the scene, has been moved to the lower right corner of the picnic blanket. The white teacup in the center of the picnic blanket has been moved to the upper right corner of the picnic blanket.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            42,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__picnic__roll_minus8_zoom",
+      "index": 43,
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. The blue and white striped wooden lounge chair, originally facing the camera, is now facing the waterfall on the right side of the scene.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            43,
+            1
+          ],
+          [
+            43,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The blue and white striped wooden lounge chair, originally facing the camera, is now facing the waterfall on the right side of the scene.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            43,
+            1
+          ],
+          [
+            43,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__picnic__natural",
+      "index": 44,
+      "candidate_1": {
+        "caption": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, changing its orientation from facing the camera to facing the trees behind the picture. A new round pastry has appeared on the picnic blanket in front of the white cup and red cup.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Unchanged chair added and rotated"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            44,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, facing the waterfall. A new plate of cookies has appeared on the picnic blanket in front of the blue-and-white lounge chair.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged chair added",
+          "New pastry mislabeled as plate of cookies"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            44,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__office__identity",
+      "index": 45,
+      "candidate_1": {
+        "caption": "The white rectangular cabinet on the left wall of the scene has decreased in size.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            45,
+            1
+          ],
+          [
+            45,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__office__zoom_1p10",
+      "index": 46,
+      "candidate_1": {
+        "caption": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the back left of the scene has turned from facing the table to facing the camera.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            46,
+            1
+          ],
+          [
+            46,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the back left of the scene has turned from facing the table to facing the camera.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            46,
+            1
+          ],
+          [
+            46,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__office__roll_8_safe",
+      "index": 47,
+      "candidate_1": {
+        "caption": "The white keyboard in front of the center computer on the far right table is no longer present. The black office chair with wheels, originally positioned in front of the leftmost desk at the back center of the scene, has disappeared. The gray rectangular monitor that was previously on the left side of the second row of tables from the left, next to other monitors, is now missing. The black office chair with wheels, originally facing the center of the scene, is now facing the table.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            47,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__office__roll_minus8_zoom",
+      "index": 48,
+      "candidate_1": {
+        "caption": "The white keyboard on the center of the second row of desks from the left is no longer present. The black office chair in front of the computer monitor at the far right of the first row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the first row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the second row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the third row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the fourth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the fifth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the sixth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the seventh row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the eighth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the ninth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the tenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the eleventh row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twelfth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the fourteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the fifteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the sixteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the seventeenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the eighteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the nineteenth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twentieth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-first row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-second row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-third row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-fourth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-fifth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-sixth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-seventh row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-eighth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the twenty-ninth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirtieth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-first row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-second row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-third row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-fourth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-fifth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-sixth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-seventh row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-eighth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the thirty-ninth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the fortieth row of tables has disappeared. The black office chair in front of the computer monitor at the far left of the forty",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            48,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__office__natural",
+      "index": 49,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the far right of the first row has shifted from facing the desk to facing the camera.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Keyboard replacement",
+          "Unchanged chair rotation"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            49,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__greenhouse__identity",
+      "index": 50,
+      "candidate_1": {
+        "caption": "The wooden table located in the lower left corner of the greenhouse has been rotated, changing its orientation from facing the front-right to facing the back-left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            50,
+            1
+          ],
+          [
+            50,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The wooden table located in the lower left corner of the greenhouse has been rotated, changing its orientation from facing the front-right to facing the back-left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            50,
+            1
+          ],
+          [
+            50,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__greenhouse__zoom_1p10",
+      "index": 51,
+      "candidate_1": {
+        "caption": "The light in the scene has increased. The wooden table on the left side of the scene, next to the chair, has been rotated from facing forward to facing right.A brown potted plant that was previously located on the ground near the entrance at the far right side of the greenhouse is now positioned on the ground near the entrance at the far right side of the greenhouse.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            51,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__greenhouse__roll_8_safe",
+      "index": 52,
+      "candidate_1": {
+        "caption": "The wooden table and chair on the left side of the scene have moved to the right, now positioned next to the bench. The green hose on the ground in the middle of the greenhouse has changed from a complete circle to a shorter length.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            52,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__greenhouse__roll_minus8_zoom",
+      "index": 53,
+      "candidate_1": {
+        "caption": "The light in the scene has increased. The wooden table on the left side of the scene, next to the bench, has been rotated from facing forward to facing backward.A brown potted plant that was previously located near the front-right side of the scene, next to a large terracotta pot, has moved to the right side of the scene, closer to the wall.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            53,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "old__greenhouse__natural",
+      "index": 54,
+      "candidate_1": {
+        "caption": "The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench. The green plants in the wooden box at the back left of the scene have disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged table set moved",
+          "Persistent plants disappeared"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            54,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench. The green plants in the wooden box at the back left of the scene have disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged table set moved",
+          "Persistent plants disappeared"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            54,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__classroom__identity",
+      "index": 55,
+      "candidate_1": {
+        "caption": "The black speaker located above the blackboard, to the left of the school's emblem, has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            55,
+            1
+          ],
+          [
+            55,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The black speaker located above the blackboard, to the left of the school's emblem, has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            55,
+            1
+          ],
+          [
+            55,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__classroom__zoom_1p10",
+      "index": 56,
+      "candidate_1": {
+        "caption": "The area is now darker. The middle chair in the first row on the right side has been moved to the middle of the left side.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            56,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The area is now darker. The chair at the far left of the first row on the right side has been moved to the middle position between two desks.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            56,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__classroom__roll_8_safe",
+      "index": 57,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located behind the white podium in the center of the classroom has decreased in size.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong apparent board shrinkage, no explicit physical resizing"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            57,
+            1
+          ],
+          [
+            57,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__classroom__roll_minus8_zoom",
+      "index": 58,
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong apparent board shrinkage, no explicit physical resizing"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            58,
+            1
+          ],
+          [
+            58,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong apparent board shrinkage, no explicit physical resizing"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            58,
+            1
+          ],
+          [
+            58,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "old__classroom__natural",
+      "index": 59,
+      "candidate_1": {
+        "caption": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Unchanged chair moved"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            59,
+            1
+          ],
+          [
+            59,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Unchanged chair moved"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            59,
+            1
+          ],
+          [
+            59,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__identity",
+      "index": 60,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The black and white striped shorts on the left side of the clothes rack disappear.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            60,
+            1
+          ],
+          [
+            60,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__zoom_in_1p10",
+      "index": 61,
+      "candidate_1": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            61,
+            1
+          ],
+          [
+            61,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            61,
+            1
+          ],
+          [
+            61,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__roll_8_safe",
+      "index": 62,
+      "candidate_1": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            62,
+            1
+          ],
+          [
+            62,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            62,
+            1
+          ],
+          [
+            62,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__roll_minus8_zoom",
+      "index": 63,
+      "candidate_1": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border extent changes, but the white garment is not physically removed"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            63,
+            1
+          ],
+          [
+            63,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border extent changes, but the white garment is not physically removed"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            63,
+            1
+          ],
+          [
+            63,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__zoom_out_reverse_1p10",
+      "index": 64,
+      "candidate_1": {
+        "caption": "The black and white striped pants on the left side of the clothesline have disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            64,
+            1
+          ],
+          [
+            64,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The black and white striped pants on the left side of the clothesline have disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            64,
+            1
+          ],
+          [
+            64,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__clothesline__natural",
+      "index": 65,
+      "candidate_1": {
+        "caption": "The orange clothes with a pattern on a white background that was hanging on the left hook has disappeared. A new long-sleeve white T-shirt with the word \"AN\" printed on it has appeared on the left hook.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Garment visibility/occlusion and framing mixed; excluded from primary natural scoring"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            65,
+            1
+          ],
+          [
+            65,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The orange clothes with a pattern on a white background that was hanging on the left hook has disappeared. A new long-sleeve white T-shirt with the word \"AN\" printed on it has appeared on the left hook.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Garment visibility/occlusion and framing mixed; excluded from primary natural scoring"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            65,
+            1
+          ],
+          [
+            65,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__identity",
+      "index": 66,
+      "candidate_1": {
+        "caption": "A yellow sticky note that was on the blue storage box under the monitor has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            66,
+            1
+          ],
+          [
+            66,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "A yellow sticky note that was on the blue storage box under the monitor has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            66,
+            1
+          ],
+          [
+            66,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__zoom_in_1p10",
+      "index": 67,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The black camera lens on the left side of the table has been moved to the right side of the keyboard. The monitor, which was previously tilted back, is now upright. The blue notebook that was placed under the monitor is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            67,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__roll_8_safe",
+      "index": 68,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "A book with a yellow cover on the blue storage rack in the middle of the desk has disappeared. The black mouse on the right side of the mouse pad has moved to the left, away from the edge of the table. The black keyboard on the desktop has been pressed down. The gray laptop on the shelf above the table has changed its orientation from facing the camera to facing the right side of the scene.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            68,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__roll_minus8_zoom",
+      "index": 69,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The yellow pen and green clip on the left side of the monitor are no longer visible. The black mouse, originally located to the right of the keyboard, has moved to the right side of the mouse pad.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Pen/clip can be cropped; mouse right-of-keyboard to right-of-pad could be an apparent-coordinate description, conservatively not forced physical"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            69,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__zoom_out_reverse_1p10",
+      "index": 70,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The gray keyboard on the desk has been moved to the left side of the black camera. The monitor, which was previously tilted back, is now upright.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            70,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__computer_desk__natural",
+      "index": 71,
+      "candidate_1": {
+        "caption": "The black mouse on the right side of the keyboard has swapped places with the camera lens on the left side. The red and blue flags in the middle of the top layer of the desk have disappeared. The yellow and green pens in the pen holder on the left side of the desk have been replaced by a black pen. The blue sticky notes on the left side of the monitor are no longer visible. The camera lens on the stand to the left of the keyboard has moved to the left side of the black keyboard. A new black camera lens has appeared on the original position of the camera lens on the stand. The monitor, which was previously tilted back, is now upright.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Black mouse swapped with previously nonexistent camera lens",
+          "Pens physically replaced despite persistent colors",
+          "Invented previous lens relocation"
+        ],
+        "uncertain": [
+          "Flag visibility can change through framing",
+          "Only new-lens appearance is credited toward the newly visible camera fact; full-body identification incomplete"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            71,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The black mouse on the right side of the keyboard has swapped places with the camera lens on the left side. The red and blue flags in the middle of the top layer of the desk have disappeared. The yellow and green pens in the pen holder on the left side of the desk have been replaced by a black pen. The blue sticky notes on the left side of the monitor are no longer visible. The camera lens on the stand to the left of the keyboard has moved to the left side of the black keyboard. A new black camera lens has appeared on the original position of the camera lens on the stand. The monitor, which was previously tilted back, is now upright.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Black mouse swapped with previously nonexistent camera lens",
+          "Pens physically replaced despite persistent colors",
+          "Invented previous lens relocation"
+        ],
+        "uncertain": [
+          "Flag visibility can change through framing",
+          "Only new-lens appearance is credited toward the newly visible camera fact; full-body identification incomplete"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            71,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__identity",
+      "index": 72,
+      "candidate_1": {
+        "caption": "The red car in the distance on the right side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            72,
+            1
+          ],
+          [
+            72,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The red car in the distance on the right side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            72,
+            1
+          ],
+          [
+            72,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__zoom_in_1p10",
+      "index": 73,
+      "candidate_1": {
+        "caption": "The white pickup truck in the distance has moved from the left side of the frame to the right side. The red car on the right side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            73,
+            1
+          ],
+          [
+            73,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white pickup truck in the distance has moved from the left side of the frame to the right side. The red car on the right side of the screen is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            73,
+            1
+          ],
+          [
+            73,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__roll_8_safe",
+      "index": 74,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The black SUV in the left rear of the frame has moved to the right side of the frame. The white pickup truck in the distance has moved from the driveway to the road on the left side of the frame. The red car in the right rear of the frame has disappeared. The black sedan in the left front of the frame has disappeared. The snow on the ground near the house on the right side of the frame has melted.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            74,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__roll_minus8_zoom",
+      "index": 75,
+      "candidate_1": {
+        "caption": "The white pickup truck in the distance has moved from the left side of the frame to the right side.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            75,
+            1
+          ],
+          [
+            75,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white pickup truck in the distance has moved from the left side of the frame to the right side.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            75,
+            1
+          ],
+          [
+            75,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__zoom_out_reverse_1p10",
+      "index": 76,
+      "candidate_1": {
+        "caption": "The red car on the right side of the screen has moved forward. The black SUV in the left rear of the frame is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            76,
+            1
+          ],
+          [
+            76,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The red car on the right side of the screen has moved forward. The black SUV in the left rear of the frame is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            76,
+            1
+          ],
+          [
+            76,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__snowy_street__natural",
+      "index": 77,
+      "candidate_1": {
+        "caption": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The red car that was previously at the back right of the screen is now gone. The black SUV that was previously at the back right of the screen is now parked in a different location. The white car that was previously at the back left of the screen is now gone. The blue light on the house on the right side of the screen has changed from purple to blue.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Car identities/counts/visibility unreliable under night exposure; no forced physical FP from those claims",
+          "Specific small house-light color transition not established"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            77,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The red car that was previously at the back right of the screen is now gone. The black SUV that was previously at the back right of the screen is now parked in a different location. The white car that was previously at the back left of the screen is now gone. The blue light on the house on the right side of the screen has changed from purple to blue.",
+        "fp": 0,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Car identities/counts/visibility unreliable under night exposure; no forced physical FP from those claims",
+          "Specific small house-light color transition not established"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            77,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__identity",
+      "index": 78,
+      "candidate_1": {
+        "caption": "The white barbell in the middle of the second level disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            78,
+            1
+          ],
+          [
+            78,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white barbell in the middle of the second level disappears.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            78,
+            1
+          ],
+          [
+            78,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__zoom_in_1p10",
+      "index": 79,
+      "candidate_1": {
+        "caption": "The toothbrush in the green toothbrush holder on the second level has changed its orientation from facing upward to facing downward.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            79,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The brightness of the scene has dimmed.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            79,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__roll_8_safe",
+      "index": 80,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The brightness of the scene has increased. The pink basin on the top of the shelf has swapped places with the blue basin below it.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            80,
+            1
+          ],
+          [
+            80,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__roll_minus8_zoom",
+      "index": 81,
+      "candidate_1": {
+        "caption": "The brightness of the scene has increased. The white bar of soap in the storage rack has moved to the right side of the second-level tray.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            81,
+            1
+          ],
+          [
+            81,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The brightness of the scene has increased. The white bar of soap in the storage rack has moved to the right side of the second-level tray.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            81,
+            1
+          ],
+          [
+            81,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__zoom_out_reverse_1p10",
+      "index": 82,
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            82,
+            1
+          ],
+          [
+            82,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            82,
+            1
+          ],
+          [
+            82,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__basin_shelf__natural",
+      "index": 83,
+      "candidate_1": {
+        "caption": "The lighting in the environment has become brighter. The white bottle on the right side of the second level disappeared. The pink basin on the third level moved to the position of the large basin on the second level. The box of disinfectant on the third level disappeared.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Pink basin changes shelf level though both pink basins persist"
+        ],
+        "uncertain": [
+          "White bottle/carton visibility affected by steep view change"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            83,
+            1
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "new__city_intersection__identity",
+      "index": 84,
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            84,
+            1
+          ],
+          [
+            84,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            84,
+            1
+          ],
+          [
+            84,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__city_intersection__zoom_in_1p10",
+      "index": 85,
+      "candidate_1": {
+        "caption": "The light in the scene has increased. The person who was on the left side of the road, next to the street sign and near the building on the left side of the scene, is no longer visible.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            85,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "new__city_intersection__roll_8_safe",
+      "index": 86,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. A person wearing a black vest and red shorts appears at the traffic light in the middle left of the road, facing the right side of the screen.The green trash can on the left side of the round table on the rooftop of the house on the right is now visible.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Bin now-visible phrase may concern visibility"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            86,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__city_intersection__roll_minus8_zoom",
+      "index": 87,
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. A person who was previously in the middle of the road, near the center of the scene and walking towards the camera, is no longer visible.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            87,
+            1
+          ],
+          [
+            87,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. A person who was previously in the middle of the road, near the center of the scene and walking towards the camera, is no longer visible.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            87,
+            1
+          ],
+          [
+            87,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__city_intersection__zoom_out_reverse_1p10",
+      "index": 88,
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. A person wearing a black vest and red shorts appears on the right side of the road, standing next to a street lamp, facing the blue table on the left side of the building.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            88,
+            1
+          ],
+          [
+            88,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. A person wearing a black vest and red shorts appears on the right side of the road, standing next to a street lamp, facing the blue table on the left side of the building.",
+        "fp": 1,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            88,
+            1
+          ],
+          [
+            88,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__city_intersection__natural",
+      "index": 89,
+      "candidate_1": {
+        "caption": "The streetlight at the corner near the left side of the scene, next to the pedestrian crossing, has decreased in size. A person with a black umbrella is now located on the left side of the road crossing, standing near the street light post and close to the sidewalk.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Streetlamp shrinks instead of the newly visible lamp event",
+          "Person with umbrella appears in empty intersection"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            89,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The streetlight at the corner near the left side of the scene, next to the pedestrian crossing, has decreased in size. A person with a black umbrella is now located on the left side of the road crossing, standing near the street light post and close to the sidewalk.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Streetlamp shrinks instead of the newly visible lamp event",
+          "Person with umbrella appears in empty intersection"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            89,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bunk_bedroom__identity",
+      "index": 90,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The black rectangular picture frame with a white border, which was placed vertically on the left side of the lower bed near the wall, is no longer visible.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            90,
+            1
+          ],
+          [
+            90,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bunk_bedroom__zoom_in_1p10",
+      "index": 91,
+      "candidate_1": {
+        "caption": "The black rectangular picture frame with a white border, which was previously missing, has now appeared on the wall above the top bunk bed. The orange pillow on the left side of the top bunk bed has increased in size.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Pillow apparent enlargement under zoom is allowed"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            91,
+            1
+          ],
+          [
+            91,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The black rectangular picture frame with a white border, which was previously missing, has now appeared on the wall above the top bunk bed. The orange pillow on the left side of the top bunk bed has increased in size.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Pillow apparent enlargement under zoom is allowed"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            91,
+            1
+          ],
+          [
+            91,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bunk_bedroom__roll_8_safe",
+      "index": 92,
+      "candidate_1": {
+        "caption": "The black frame of the bed has rotated 90 degrees clockwise. The gray rectangular cushion on the lower bed has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            92,
+            1
+          ],
+          [
+            92,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "new__bunk_bedroom__roll_minus8_zoom",
+      "index": 93,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The blue and orange rectangular boxes on the left side of the floor have disappeared. The gray rectangular pillow in front of the black frame above the single bed has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Edge boxes may be cropped; not an additional confirmed physical error"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            93,
+            1
+          ],
+          [
+            93,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+      "index": 94,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow in the bottom right corner of the top bunk has disappeared. The gray storage box with white letters on the far left side of the blue cabinet below the bed has disappeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            94,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bunk_bedroom__natural",
+      "index": 95,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The area is now darker. The gray rectangular pillow on the lower bed has appeared.The white box on the first layer of the blue and orange rack on the left side of the bed has appeared.The gray blanket at the foot of the lower bed has appeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Persistent pillow appears",
+          "Persistent rack box appears",
+          "Persistent blanket appears"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            95,
+            1
+          ],
+          [
+            95,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__identity",
+      "index": 96,
+      "candidate_1": {
+        "caption": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the yellow bicycle to the left side of the wall above the stairs.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            96,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the electric vehicle to the left side of the wall behind the stairs.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            96,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__zoom_in_1p10",
+      "index": 97,
+      "candidate_1": {
+        "caption": "The light in the scene has increased.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            97,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased.",
+        "fp": 0,
+        "illum": 1,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            97,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__roll_8_safe",
+      "index": 98,
+      "candidate_1": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has moved from the right side of the scene to the left side. The blue box hanging on the wall at the back right of the scene has decreased in size.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Blue-box apparent scale excluded from physical resizing"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            98,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has moved from the right side of the scene to the left side.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            98,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__roll_minus8_zoom",
+      "index": 99,
+      "candidate_1": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has changed from blue to white. The yellow bicycle in front of the wall on the right side of the scene has turned its front wheel to the left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            99,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has changed from blue to white. The yellow bicycle in the lower right corner of the scene has turned its front wheel to the left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            99,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__zoom_out_reverse_1p10",
+      "index": 100,
+      "candidate_1": {
+        "caption": "The word \"Caution\" on the wall above the electric vehicle has moved from the right side of the scene to the left side. The yellow and black unicycle in front of the right side of the elevator has turned its front wheel to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            100,
+            1
+          ],
+          [
+            100,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The word \"Caution\" on the wall above the electric vehicle has moved from the right side of the scene to the left side. The yellow and black unicycle in front of the right side of the elevator has turned its front wheel to the right.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            100,
+            1
+          ],
+          [
+            100,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__bicycle_alley__natural",
+      "index": 101,
+      "candidate_1": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has been replaced with \"Cautious\".",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Wall word changes Caution to Cautious though Cautious present before and after"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            101,
+            1
+          ],
+          [
+            101,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The word \"Caution\" on the wall above the yellow bicycle has been replaced with \"Cautious\".",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [
+          "Wall word changes Caution to Cautious though Cautious present before and after"
+        ],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            101,
+            1
+          ],
+          [
+            101,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__render_kitchen__identity",
+      "index": 102,
+      "candidate_1": {
+        "caption": "The white chair behind the round table has turned from facing the camera to facing the cabinet on the left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            102,
+            1
+          ],
+          [
+            102,
+            2
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white chair behind the round table has turned from facing the camera to facing the cabinet on the left.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            102,
+            1
+          ],
+          [
+            102,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__render_kitchen__zoom_in_1p10",
+      "index": 103,
+      "candidate_1": {
+        "caption": "The chair on the left side of the round table has turned from facing the camera to facing the cabinet on the left. The transparent glass cup in front of the blue water壶 on the round table has changed from being present to absent.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            103,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The chair on the left side of the round table has turned from facing the camera to facing the cabinet on the left. The transparent glass cup in front of the blue water壶 on the round table has changed from being present to absent.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            103,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__render_kitchen__roll_8_safe",
+      "index": 104,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "The chair on the left side of the round table has changed from white to light green. The transparent glass cup in front of the blue water壶 on the round table has disappeared. The microwave above the right stove in the kitchen has appeared. The yellow kettle on the black countertop at the back right of the scene has appeared. The transparent glass cup on the black countertop at the back right of the scene has changed from half full to full.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            104,
+            1
+          ],
+          [
+            104,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__render_kitchen__roll_minus8_zoom",
+      "index": 105,
+      "candidate_1": {
+        "caption": "The white chair on the left side of the scene has turned from facing the camera to facing the round table. The transparent glass cup in front of the blue water壶 on the round table has changed from yellow to white. The stainless steel hood above the stove on the right side of the kitchen has disappeared. The stainless steel oven at the counter on the right side of the stove has changed from two stacked ovens to a single oven. The white plate on the right side of the round table has increased in size. The black coffee maker on the black countertop at the back right of the scene has changed color from black to green.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Plate apparent enlargement can follow crop/zoom"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            105,
+            1
+          ]
+        ]
+      },
+      "candidate_2": {
+        "caption": "The white chair on the left side of the scene has turned from facing the camera to facing the round table. The transparent glass cup in front of the blue water壶 on the round table has changed from yellow to white. The stainless steel hood above the stove on the right side of the kitchen has disappeared. The two wine glasses on the black countertop at the back right of the scene have disappeared. The dining stool on the left side of the round table has disappeared. The stainless steel oven at the back right of the scene has changed from a horizontal to a vertical position. The white plate on the right side of the round table has increased in size.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Plate apparent enlargement can follow crop/zoom"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            105,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "id": "new__render_kitchen__zoom_out_reverse_1p10",
+      "index": 106,
+      "candidate_1": {
+        "caption": "The white chair on the left side of the room has turned from facing the camera to facing the round table. The two transparent glasses in front of the blue water壶 on the round table have changed from being filled with yellow juice to being empty.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            106,
+            1
+          ],
+          [
+            106,
+            2
+          ]
+        ]
+      },
+      "candidate_2": null
+    },
+    {
+      "id": "new__render_kitchen__natural",
+      "index": 107,
+      "candidate_1": null,
+      "candidate_2": {
+        "caption": "A person wearing a white top and blue pants has appeared in front of the black stove on the right side of the kitchen, facing it with her back to the camera. A bright blue sign with the word \"kitchen\" has appeared on the wooden floor at the front of the scene, positioned in front of the round table. The transparent glass water bottle has appeared to the left of the blue and white teapot on the round table. The white chair behind the round table has appeared. The transparent glass goblet on the black countertop on the right side of the room has appeared. The stainless steel oven at the rear right of the kitchen has appeared. The transparent glass goblet on the black countertop on the left side of the room has appeared.",
+        "fp": 1,
+        "illum": 0,
+        "ack": 0,
+        "identity_diff": 0,
+        "facts": [
+          1,
+          4
+        ],
+        "unsupported": [
+          "Persistent chair added instead of moving",
+          "Persistent oven newly appears",
+          "Pitcher replacement described as additional bottle next to existing blue pot"
+        ],
+        "uncertain": [
+          "Thin counter-glass visibility not independently resolved"
+        ],
+        "suppression": 0,
+        "annotation_source": "exact_prior_caption",
+        "prior_sources": [
+          [
+            107,
+            1
+          ]
+        ]
+      }
+    }
+  ]
+}

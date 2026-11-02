@@ -1,0 +1,4354 @@
+[
+  {
+    "id": "train_e8c833f0ac873e536182",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000264.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000267.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The glowing blue sign above the door at the back of the room with the word \"hostel\" has disappeared. The person wearing a beige long-sleeved top and dark blue pants, who was standing by the right side of the bed, is no longer present. The blue trash bin at the bottom of the stairs between the two beds on the left has changed in color from blue to red. "
+      }
+    ]
+  },
+  {
+    "id": "negative_03_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/03_source.png",
+      "invariance_sft_v1/negative_images/03_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_11cef13801fa664c4bd3",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000233.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000234.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The rightmost glowing globe moves from the ceiling fixture onto the right dining chair. The small white bear-shaped ornament on the table changes orientation, and the white bottle at the right end of the table disappears. A white bowl on the lower illuminated wall shelf becomes larger."
+      }
+    ]
+  },
+  {
+    "id": "train_dad92e3139c013c4d4d7",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000162.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000164.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene has become brighter. The black bag in the center of the image has been moved to the hook on the right side."
+      }
+    ]
+  },
+  {
+    "id": "train_7baa095779f3b40a7763",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000658.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000660.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A Nongfu Spring mineral water bottle has appeared on a circular box on the left.\nA ruler to the left of the stapler has disappeared."
+      }
+    ]
+  },
+  {
+    "id": "train_0613679472275ac2f1a3",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000433.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000436.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A potted plant with long green leaves has moved from a position closer to the front of the scene, on the right side, near the white chair, to the far right corner of the scene, next to the brown sofa. The brown couch located at the back of the scene between two white chairs has decreased in size."
+      }
+    ]
+  },
+  {
+    "id": "train_91bbee7637e311643138",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000400.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000401.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera angle and framing change, but the desk and drawer objects remain in place. The black mouse is still visible at the right edge, the pens retain their arrangement, and the white square box remains to the left of the stapler."
+      }
+    ]
+  },
+  {
+    "id": "train_7ae9f672f0c174017805",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001420.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001425.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person's facial expression changes from a closed-mouth smile to a closed mouth with a serious expression. The outfit changes from a semi-transparent white shirt with a black inner layer and dark gray high-waisted wide-leg pants to a white long-sleeved pleated dress and black knee-high boots. The posture changes from both hands behind the back to the left hand naturally hanging down, with the right hand resting on the chest and the right arm hanging a black handbag. A notebook appears on the sofa on the left side of the scene."
+      }
+    ]
+  },
+  {
+    "id": "negative_05_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/05_source.png",
+      "invariance_sft_v1/negative_images/05_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_318ec870a30691ac0938",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000092.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000096.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A black wristwatch appears across a green sachet in the center of the drawer. The blue raincoat package turns upside down, the seal card changes to a dolphin card, and the small blue ball at the lower left disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_aee6928dce67d08a176d",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001654.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001655.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The bird in the image has raised its head and is looking at the camera."
+      }
+    ]
+  },
+  {
+    "id": "train_174e2d3eef35c9605440",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000167.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000161.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper of the two framed pictures on the left wall disappears. The dark teal blanket draped over the right end of the orange sofa is removed. On the lower wall shelf, the right vase of the pair of turquoise vases changes to purple."
+      }
+    ]
+  },
+  {
+    "id": "negative_10_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/10_source.png",
+      "invariance_sft_v1/negative_images/10_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "negative_12_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/12_source.png",
+      "invariance_sft_v1/negative_images/12_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_446fe14e3b8cf9ef9cef",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000667.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000671.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The data cable on the left side of the frame has disappeared. A blue pack of tissues on the left side is no longer visible. The blue pen and red pen in the center of the desk have swapped positions. The screen of the notebook on the left shelf is now slightly folded. The white phone stand to the left of the blue notebook and the black mouse to the right of the red notebook have swapped positions."
+      }
+    ]
+  },
+  {
+    "id": "negative_15_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/15_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/15_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_228879cd92821c2709ae",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000193.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000196.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A blue A-frame barrier appears in the lane between the gas pumps. The pink trash bin immediately to the left of the front-right concrete pillar disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_7d6b0d8cf1b968764a87",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000483.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000480.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "White 'Cannunity' lettering appears on the ground. A person in a red-and-black top and gray trousers appears near the barrels on the left, facing away from the camera and holding a white bucket."
+      }
+    ]
+  },
+  {
+    "id": "train_8ebab6cf35c857bc7fb2",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000374.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000376.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black phone holder on the left side of the bagged sunflower seeds was moved to the right side of the mouse. The two spoons in the transparent glass cup at the top right corner of the screen disappeared. The roll of white toilet paper located on the box on the right side of the table has appeared. The computer screen on the upper layer is now open."
+      }
+    ]
+  },
+  {
+    "id": "train_06588fa15980c035f679",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001609.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001603.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The position of the person's hand in the lower left corner changes. It is holding a white plate and placing it on a mat."
+      }
+    ]
+  },
+  {
+    "id": "train_89617bcefa2bd8e527c5",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000052.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a patterned top and blue trousers appears seated at the front left of the stage. Of the three red stools, the left one is replaced by a light upholstered chair and the right one disappears, leaving the middle red stool. The front-left microphone changes direction, while the guitars remain on the stage."
+      }
+    ]
+  },
+  {
+    "id": "negative_09_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/09_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/09_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_f0cd5daf498fb787d98d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000075.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a white top and beige trousers appears beside the coffee table with a beige jacket draped over one shoulder, facing toward the windows. A glowing blue 'Life' sign appears on the rug in front of the table. The dumbbell on the rug and the light blue-and-yellow book on the table are no longer visible."
+      }
+    ]
+  },
+  {
+    "id": "train_483d1a2807aa0c78bf10",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000202.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000200.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A dark cup that was on the left side of the center of the counter has been moved to the right side of the center of the counter.The bottle on the right side of the counter has been replaced by a white and blue striped tea cup."
+      }
+    ]
+  },
+  {
+    "id": "train_47663623307f4dc0b2c1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000145.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000149.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The room becomes brighter. The leftmost of the three white oval floor cushions disappears, leaving two. The green plant and its pot to the left of the table turn red, and a dark book is removed from the nearby left shelving."
+      }
+    ]
+  },
+  {
+    "id": "negative_01_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/01_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/01_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_0a4833d348c2a57c22fc",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000117.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000110.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The doll decoration wearing a blue jacket and white skirt has disappeared from the bedside table. The red pillow located on the left side of the bed, near the headboard and adjacent to the wall, has decreased in size. The wooden chair in front of the desk to the right of the bed has shifted from facing the hallway leading to the room entrance to facing the desk. A person wearing a gray top, pink leggings, and a yellow hat has appeared on the right side of the scene, standing next to the wardrobe and holding a rolled-up cylindrical item in her arms, heading toward the desk. The word \"badchcmber\" written in glowing blue letters has appeared on the wall above the headboard."
+      }
+    ]
+  },
+  {
+    "id": "train_04d1a7387d445446a8e0",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001556.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001559.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The background color of the picture has changed from blue to light purple, revealing the flowers' original red color and the leaves' original green color."
+      }
+    ]
+  },
+  {
+    "id": "negative_06_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/06_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/06_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_56a825d6f068455a6bed",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001144.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001148.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lighting on the table has dimmed. The mother monkey has turned her head to the right, looking toward the front right, while the baby monkey in her arms has turned its head to the left, looking toward the front left."
+      }
+    ]
+  },
+  {
+    "id": "train_f4b72f0562c83a630b22",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001486.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001491.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ambient lighting has brightened. The character's expression shows confusion or dissatisfaction, with furrowed brows, lips slightly turned down, eyes staring straight ahead, and a neutral body posture, changing to a surprised expression with mouth slightly open, eyes wide open, eyebrows slightly raised, and body leaning slightly forward."
+      }
+    ]
+  },
+  {
+    "id": "train_9426829ae51488617065",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000179.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000178.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The light gray cylindrical stool, originally placed in front of the blue sofa and the round coffee table, has been moved back from the left side to a position near the window on the right side of the room. The light gray pillow that was on the right side of the blue sofa is no longer present. The white curtains in front of the left window on the right-side wall have disappeared. The orange blanket on the black metal chair to the left of the blue sofa has disappeared. The gray cushion on the left side of the blue sofa is also gone. The white frame decoration on the white ladder near the window on the right side of the blue sofa has changed to green."
+      }
+    ]
+  },
+  {
+    "id": "train_e8cb554167ddfb6e1ed6",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000329.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000330.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a black-and-white striped top and blue trousers appears seated near the left side of the garage entrance, with one knee raised while looking down at their hands. The lamp on the right entrance pillar changes from a slender handled light to a larger covered lantern."
+      }
+    ]
+  },
+  {
+    "id": "train_87cac0efef2dfead1ba8",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000447.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000451.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The wet wipes in the far left corner of the table are moved to the right side of the phone holder. The red bag hanging on the side of the cabinet by the window disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_d8267b6973480f2addf7",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001664.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001665.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two green birds now bend their heads down toward the fruit to feed, with their tails raised. A third green bird remains on the branch at the right side of the fruit."
+      }
+    ]
+  },
+  {
+    "id": "train_ac68a2ab44b16650fd47",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000397.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000399.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A partially visible blue wet wipe disappears. A vertically placed stapler is added in front of the black leather bag on the left."
+      }
+    ]
+  },
+  {
+    "id": "negative_11_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/11_source.png",
+      "invariance_sft_v1/negative_images/11_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "negative_09_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/09_source.png",
+      "invariance_sft_v1/negative_images/09_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_deea05a61cacc599161d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000159.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000158.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The illumination has lessened. A person wearing a black down jacket, black pants, a red hat, and carrying a gray-and-orange backpack has appeared on the left side of the living room, facing the left side of the room.A bright blue sign with the word \"Porlor\" has appeared above the shelf on the wall behind the orange sofa."
+      }
+    ]
+  },
+  {
+    "id": "train_42c6437c732927160d95",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000336.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000337.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The size of the suspended canopy above the cars in the parking lot is decreased. The small lantern located at the front right corner of the house, near the boundary wall and close to the gate, is removed."
+      }
+    ]
+  },
+  {
+    "id": "train_beee64e9dae6b80f994c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000251.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000262.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene becomes brighter. One chair near the center-right of the deck changes from brown to a white backrest and a green pedestal base. Both life rings remain on the railing."
+      }
+    ]
+  },
+  {
+    "id": "train_1b142b6f036e648dbd72",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000038.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000031.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The red-and-white kettle and the stool at the left of the island disappear. The white cups on the middle open shelf disappear, and the containers on the bottom shelf change from blue-gray to green. One of the two pendant lamps above the island is removed."
+      }
+    ]
+  },
+  {
+    "id": "negative_11_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/11_source.png",
+      "invariance_sft_v1/negative_images/11_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_994bc72c47ee195ef6c4",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000429.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000425.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A blue sign with the word \"loft\" has appeared in front of the coffee table in the center of the living room. The gray chair around the dining table in the kitchen at the back has appeared in the middle position."
+      }
+    ]
+  },
+  {
+    "id": "negative_07_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/07_source.png",
+      "invariance_sft_v1/negative_images/07_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_281286626a8902439b4a",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001585.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001589.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene has become brighter. The right hand moves to the right from the plate, picks up the fork on the right side of the plate, and fades out to the right of the frame, with only part of the structure visible."
+      }
+    ]
+  },
+  {
+    "id": "train_5d8b98a46b4b3c1ae826",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000390.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000391.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The left cushion on the bench in the middle of the scene has rotated. The black champagne flute that was located on the left side of the wooden bench has appeared in view."
+      }
+    ]
+  },
+  {
+    "id": "train_280d9ea59d5321dd40a1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000232.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000239.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The environment has become brighter. The chair on the left side behind the dining table has disappeared.The chair on the right side behind the dining table has disappeared.The chair on the left side in front of the dining table has disappeared.The first white bulb above the dining table, counting from the left, has disappeared.The transparent glass container in the center of the upper shelf above the window behind the wooden table has disappeared.The tall faucet located on the left side of the kitchen, near the stovetop and countertops, has changed to brown."
+      }
+    ]
+  },
+  {
+    "id": "negative_06_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/06_source.png",
+      "invariance_sft_v1/negative_images/06_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_63456f17a52b26f5cc4a",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000036.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person standing in the road disappears. The white 'Toxi' lettering on the orange taxi door is removed, and the blue-and-white striped awning over the corner window changes to plain beige."
+      }
+    ]
+  },
+  {
+    "id": "train_f82446a11f3fa9903fd7",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000691.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000692.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The posture of the two models changes from facing the left side of the frame with both hands extended forward to facing the right side of the frame with both hands extended forward."
+      }
+    ]
+  },
+  {
+    "id": "negative_10_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/10_source.png",
+      "invariance_sft_v1/negative_images/10_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_78a8dc3c50296d1aac96",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000583.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000584.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera viewpoint shifts to the right, showing the back of the person's head more directly. The monitor remains on and the objects on the desk remain present."
+      }
+    ]
+  },
+  {
+    "id": "train_facf52d0b063df43f36f",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000393.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000396.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The notebook beneath the phone stand changes from red to blue, and the stand shifts forward. The blue tissue packet is no longer on top of the notebook and is visible in the drawer. The white square box moves from the drawer's right side to its front-left corner, and a small clear bottle appears in its former location. The dark tumbler and black bag remain present."
+      }
+    ]
+  },
+  {
+    "id": "negative_14_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/14_source.png",
+      "invariance_sft_v1/negative_images/14_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_95de465a53cb078c3860",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000897.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000902.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene has become brighter. Following the top-to-bottom, left-to-right order,the second white storage box in the first row has changed to blue.The first blue storage box in the second row has changed to white.The second white storage box in the second row has changed to blue.The third blue storage box in the second row has changed to white.The first white storage box in the third row has changed to blue.The second blue storage box in the third row has changed to white.The first white storage box in the fourth row has changed to blue, and two cards have been added inside.The second blue storage box in the fourth row has changed to white."
+      }
+    ]
+  },
+  {
+    "id": "train_228879cd92821c2709ae",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000193.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000196.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A blue A-frame barrier appears in the lane between the gas pumps. The pink trash bin immediately to the left of the front-right concrete pillar disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_a6cab2e7c2601fc8eb2e",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000289.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black exercise ball on the mat becomes much larger. The jump rope moves off the mat onto the wooden floor near the treadmill."
+      }
+    ]
+  },
+  {
+    "id": "train_78a8dc3c50296d1aac96",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000583.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000584.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera viewpoint shifts to the right, showing the back of the person's head more directly. The monitor remains on and the objects on the desk remain present."
+      }
+    ]
+  },
+  {
+    "id": "train_99391aa787b0fc3a4fa4",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000866.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000863.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A fourth grape flower appears at the top of the plate, with green grapes surrounding one purple grape. Curved cucumber strips are added to connect the four flowers into a ring, and four leaf-shaped cucumber slices appear near the lower left and lower right of the ring."
+      }
+    ]
+  },
+  {
+    "id": "train_fc128024ba5b82f3b7df",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000223.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000225.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene becomes darker, and a blue 'barn' sign appears on the wall to the left of the garage door. The yellow bollard to the right of the door changes to a dark striped bollard of similar height."
+      }
+    ]
+  },
+  {
+    "id": "train_e359aea177babec23acf",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000745.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000743.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person holds another person's hands tightly as a woman is jumping in mid-air. The jumper's body is slightly bent, her legs lifted backward, and her hair flies in the air. They then transition to standing face to face, holding hands, their bodies leaning backward, forming a posture of mutual dependence."
+      }
+    ]
+  },
+  {
+    "id": "negative_14_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/14_source.png",
+      "invariance_sft_v1/negative_images/14_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_c62be59de9e0b2e349bd",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000216.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The plant at the back left becomes larger. The faucet on the island turns toward the left, the tall white chair behind the gray sofa disappears, and the small blue kettle on the left kitchen counter becomes purple."
+      }
+    ]
+  },
+  {
+    "id": "negative_15_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/15_source.png",
+      "invariance_sft_v1/negative_images/15_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_7c9bd7b7029d265cfcc7",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000252.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000255.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black monitor next to the window has been moved to the left side of the window compared to its previous position. The white projector has appeared on the headboard shelf on the left side of the scene. The smallest gray grid-patterned cushion in front of the left side of the double bed has been replaced by a red and yellow handbag. An orange multi-layer cake has appeared next to the black monitor on the right side of the room."
+      }
+    ]
+  },
+  {
+    "id": "negative_05_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/05_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/05_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_93f9546c66b4729c5d09",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000739.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000744.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two people are standing on top of a sand dune, with their backs to the camera and holding hands, instead of extending their left legs forward and embracing each other's shoulders while facing forward. They are standing hand in hand, rather than embracing. The orientation changes from facing forward to facing away from the camera."
+      }
+    ]
+  },
+  {
+    "id": "train_e80b7316f5a9d2e1a548",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000030.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000027.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A bold blue sign with the word \"Balcony\" has appeared on the floor in the front of the scene, positioned directly in front of the chair.A woman wearing a white vest, blue trousers and black shoes appeared at the table on the balcony, facing the camera with her hands on her waist."
+      }
+    ]
+  },
+  {
+    "id": "negative_02_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/02_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/02_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_e0e8ded332d8173a6889",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001238.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001231.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper figure is inverted, with the body facing the ground, the head slightly tilted forward and downward, and both hands grasping the knees of the lower figure for support. The waist remains straight to complement the inverted posture, with the left leg stepping on the lower figure's foot and the right leg extended. The lower figure lies flat on the ground, facing upward, with the head naturally positioned and looking directly at the upper figure. Both hands reach upward, holding the upper figure's left foot, with the waist pressed firmly against the ground for stability and the legs bent. Transformed into: The upper figure is overall in a downward arching position, with the body in a bridge pose, the head tilted back, gaze directed to the left side of the scene, and head close to the ground. Both hands are supported on the ground, elbows bent, aiding in maintaining the bridge pose. The waist is in an extremely bent state, forming a downward arch, with the legs stretched forward and the soles of the feet placed on the shoulder and neck area of the lower figure, creating a light pressing posture. The lower figure faces forward, presenting a prone support position, with the body relatively upright, the head in a neutral position, gaze facing forward naturally, and both hands flat on the ground to support the weight of the upper body, with arms straight. The waist bends slightly downward, forming a prone support posture, with legs flat on the ground, remaining relaxed."
+      }
+    ]
+  },
+  {
+    "id": "train_ac9ad2c577c66fce7678",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000610.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000614.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The blue basin originally on the left washing machine has now been placed behind the drink bottle on the right washing machine. The countdown on the right washing machine has decreased from 40 minutes to 39 minutes. The countdown on the left washing machine has decreased from 48 minutes to 47 minutes. The red detergent bottle on the shelf above the washing machines has moved to the top of the right washing machine, and a white detergent bottle has newly appeared in its original position."
+      }
+    ]
+  },
+  {
+    "id": "train_fa03769a45a04284b66e",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000369.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000374.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The area is now brighter. The vertical abstract painting with a blue and white color scheme, which was hung on the left wall above the wooden side cabinet and to the left of the black sofa, is no longer in view."
+      }
+    ]
+  },
+  {
+    "id": "train_e4b528f1146c2f4218c0",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000292.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000294.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person changes from picking up ice from a tray to writing in an open notebook while holding two pens. The ice tray and metal cup are removed. A phone appears in front of the fan. The small illustrated notebook moves onto the stack of books on the right, and a purple notebook is added to the stack."
+      }
+    ]
+  },
+  {
+    "id": "train_05303e7cae29a0713585",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000034.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Of the two bronze pendant lamps over the island, the front one disappears and the remaining one turns purple. At the back-right corner of the island, the purple cup becomes white and a black cup appears. The white cup on the middle shelf remains."
+      }
+    ]
+  },
+  {
+    "id": "train_beee64e9dae6b80f994c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000251.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000262.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene becomes brighter. One chair near the center-right of the deck changes from brown to a white backrest and a green pedestal base. Both life rings remain on the railing."
+      }
+    ]
+  },
+  {
+    "id": "train_ec626d2aa7a8800242d5",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000373.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000364.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The table lamp with a white lampshade and black body has been moved from the coffee table in the center of the scene to the windowsill in the back right. A new gray cushion has been added to the black sofa on the left side of the living room."
+      }
+    ]
+  },
+  {
+    "id": "train_f7b647146b167c551e3c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000263.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000254.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A man in a white T-shirt and light yellow pants stands under the streetlamp to the left of the chair, facing the back-right of the screen with his back to the camera, right leg forward, left hand holding a dark yellow jacket on his shoulder, right hand in his pocket, and head turned toward the back-left. A white kettle on the round table on the left side of the first row of seats is no longer visible."
+      }
+    ]
+  },
+  {
+    "id": "train_52e0857b34c40e05b47d",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001538.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001532.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera view changes from the diver's side to a frontal view, revealing the swimming pool below and behind him. The diver remains standing on the elevated diving platform."
+      }
+    ]
+  },
+  {
+    "id": "negative_00_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/00_source.png",
+      "invariance_sft_v1/negative_images/00_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_a93ab9ce6c7c583a26c7",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000132.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000133.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person wearing a gray sweatshirt, dark gray jacket, and overalls, who appeared in front of the stool on the left side of the screen, is no longer visible. A blue sign with the word \"Alert\" appears on the first row of pillars on the left side of the scene."
+      }
+    ]
+  },
+  {
+    "id": "train_749a979a071e12cdee06",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000909.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000911.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new black stool appears in the middle of the left corridor, facing the right wall. The black stool originally facing the corridor on the front right wall of the scene is now turned to face the wall."
+      }
+    ]
+  },
+  {
+    "id": "train_cbfe3a565b5fb548fa8a",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000223.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000229.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The surroundings have dimmed. The armrests of the two armchairs on the left side of the scene have changed from beige to white.A large blue \"poriour\" text has appeared on the floor in front of the central seating area, located directly in front of two hourglass-shaped black stools.A person wearing a pink and white floral bathrobe and slippers has appeared on the right side of the living room, near the armrest of the sofa, facing the two black hourglass-shaped stools on the left side, and adjusting the towel on their head with both hands."
+      }
+    ]
+  },
+  {
+    "id": "train_24c140ac93a57b3ae6cd",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001577.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001575.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "In the green plate at the lower right corner, a bowl of strawberries has been added. At the lower right corner of the image, a red drink has been added. In the white plate with gold edges at the top of the image, a pink pastry has been added. In the black-edged white plate in the middle of the image, three macarons of different colors have been added. On the cream in the cyan bowl to the right of the image, a red strawberry has been added. A yellow pastry has been added to the purple plate at the lower left corner, and the position of the plate has slightly moved to the lower right. The plate with a blue edge and white bottom, which held a piece of black cake in the upper left corner, has moved to the right side of the image, and a green plate with multiple pieces of black pastry has newly appeared at its original position. In the red plate at the upper right corner, a half-white round pastry and a rectangular pastry have been added. The white plate with brown cookies at the upper right corner has moved to the left. A piece of white origami has been added to the upper right corner. A colorful strip has appeared around the upper right area."
+      }
+    ]
+  },
+  {
+    "id": "train_56aec79ce2feda17efda",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000384.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000395.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The light in the scene has increased. The large white vase on the left side of the scene, placed on a wooden bench, contains a green plant, and is near two white cushions that have turned red."
+      }
+    ]
+  },
+  {
+    "id": "train_831a401502452288abd2",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000980.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000986.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The green cup is no longer present. The white fan on the left side of the table has fallen down from its upright position. A transparent glass cup has appeared in the back left corner of the image. The transparent glass cup in the center has rotated clockwise by a certain angle in place. The pink kettle behind the white fan has rotated clockwise so that the spout is facing toward the front of the image."
+      }
+    ]
+  },
+  {
+    "id": "train_11c377858e349cb9681a",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000716.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000717.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The hands change from being crossed and placed on the tabletop with the left hand pointing forward, to being open and extended forward with fingers naturally bent. The head tilts slightly upward."
+      }
+    ]
+  },
+  {
+    "id": "train_4103242ce69e97760d83",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000875.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000877.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The plate is shown more brightly against a yellow background. Green citrus wedges are added around the outer dragon-fruit slices, a ring of kiwi slices fills the middle, and a hollowed citrus half containing red fruit balls is placed in the center."
+      }
+    ]
+  },
+  {
+    "id": "negative_05_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/05_source.png",
+      "invariance_sft_v1/negative_images/05_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_01_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/01_source.png",
+      "invariance_sft_v1/negative_images/01_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_08_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/08_source.png",
+      "invariance_sft_v1/negative_images/08_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_43ba48a9585842ed9c82",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000265.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000275.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The light in the scene has diminished. The garbage bag closest to the blue garbage bin in a pile of black garbage bags on the left side of the road has changed from black to yellow."
+      }
+    ]
+  },
+  {
+    "id": "train_9d27831e0d3a28489d2c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000479.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000481.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The word \"Community\" that appeared on the ground near the center of the scene in front of the person standing in the alleyway is no longer visible. The woman wearing grey overalls, a red and black vest, and white gloves, who appeared in front of the building on the left side of the picture, is no longer present. The rectangular mat to the right of the door at the end of the alley is missing. The iron gate to the right of the door at the end of the alley has disappeared. The gray box hanging on the wall to the right of the door of the house on the left side of the alley has changed color from gray to blue."
+      }
+    ]
+  },
+  {
+    "id": "negative_07_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/07_source.png",
+      "invariance_sft_v1/negative_images/07_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_ac1e27e4579ff7780f39",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001477.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001482.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person shows a pleasant smile, with their mouth wide open, eyes slightly squinted, and head tilted slightly to the right. The whole expression and posture are very relaxed, changed to an expression filled with pain or dissatisfaction, eyebrows furrowed, mouth curved downward, eyes revealing emotions of sadness or frustration. The head is slightly tilted back, and the entire posture displays emotional repression or discomfort."
+      }
+    ]
+  },
+  {
+    "id": "negative_02_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/02_source.png",
+      "invariance_sft_v1/negative_images/02_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_11_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/11_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/11_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_a6cab2e7c2601fc8eb2e",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000289.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black exercise ball on the mat becomes much larger. The jump rope moves off the mat onto the wooden floor near the treadmill."
+      }
+    ]
+  },
+  {
+    "id": "train_03acfd0cefda0dbfae99",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001596.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001598.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new small wine glass and a decanter appear above the large plate. On the right side of the scene, a new white water cup appears to the right of the chopsticks. Above the stacked small plates on the large plate, a new blue towel folded into a cone shape is added."
+      }
+    ]
+  },
+  {
+    "id": "train_44b17c7da334548a9219",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000306.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000300.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The green potted plant moves from the back-left to the back-right of the room. A new gray armchair appears in the center with its back to the camera, while the original side armchairs remain. The patterned ball and the extra gray cushion by the sofa are no longer visible."
+      }
+    ]
+  },
+  {
+    "id": "negative_15_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/15_source.png",
+      "invariance_sft_v1/negative_images/15_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_03_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/03_source.png",
+      "invariance_sft_v1/negative_images/03_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_5831cf177e3120b11622",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000916.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000915.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A white folded umbrella between the black stools slightly to the right of the center of the screen disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_65924f1ba3820de903a5",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000886.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000879.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The number of heart-shaped sushi arranged in a circle is reduced to four in the lower left corner."
+      }
+    ]
+  },
+  {
+    "id": "train_4a1460432320849a8942",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000110.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000106.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The size of the potted plants in the brown metal container on the right side of the first floor staircase has increased.  A white text identifier that reads \"besin\" appears on the ground near the edge of the pool in the foreground."
+      }
+    ]
+  },
+  {
+    "id": "train_ef0d654539d4f0ecf827",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000370.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000371.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The two stacked books on the front-right round stool are removed, while the books on the central coffee table remain. One cushion on the right sofa changes its tilt."
+      }
+    ]
+  },
+  {
+    "id": "train_1dcc6aea95c56a9cdae9",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000097.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000092.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black chair at the end of the dining table has increased in size. The second flower pot on the right side of the pavilion has changed color from gray to dark blue."
+      }
+    ]
+  },
+  {
+    "id": "negative_07_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/07_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/07_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_88ac6b805d51705262fb",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000929.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000934.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The digital time changes from 2:52 to 0:00.  \nThe background light changes from colorful light to purple light."
+      }
+    ]
+  },
+  {
+    "id": "train_7622927561d806e204e6",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000803.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000804.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person on the left changes from having their right leg crossed over their left leg to having both legs placed together on the chair, the person on the left's head tilts back. The person on the right moves from sitting upright with their right arm draped over the back of the bench to lying upside down on the chair, with their hair touching the ground."
+      }
+    ]
+  },
+  {
+    "id": "train_c2b4f12af1a52db43eaa",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001439.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001442.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The text \"Look5\" appears in white at the top of the screen. In the second image, the person is wearing a black vest. The brown leather shoulder bag previously worn across the left shoulder is no longer present. The left hand, which was previously hanging naturally, is now resting on the right arm. The right arm, which was previously hanging naturally, is now bent at the waist and holding yellow and black shopping bags. The hair, which was previously tied up, is now loose. The white flat canvas shoes have been replaced by light yellow flat leather shoes. The left leg, which was previously in front, is now behind, with the right leg in front."
+      }
+    ]
+  },
+  {
+    "id": "negative_13_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/13_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/13_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_e4b528f1146c2f4218c0",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000292.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000294.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person changes from picking up ice from a tray to writing in an open notebook while holding two pens. The ice tray and metal cup are removed. A phone appears in front of the fan. The small illustrated notebook moves onto the stack of books on the right, and a purple notebook is added to the stack."
+      }
+    ]
+  },
+  {
+    "id": "train_68f50d452af7fa79aacd",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001405.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001407.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ambient lighting has dimmed. The bird's head has tilted upward, its wings have moved downward, and its tail has lifted."
+      }
+    ]
+  },
+  {
+    "id": "negative_09_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/09_source.png",
+      "invariance_sft_v1/negative_images/09_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_3aff48b9d43a30ad60d7",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000792.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000793.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The overall lighting of the scene becomes brighter. Three women jumping in the air, facing the camera, presenting a star-shaped posture, with arms extended to the sides and legs spread apart have changed to three people with their backs to the camera, raising both arms, with the person in the middle holding their hat with their left hand."
+      }
+    ]
+  },
+  {
+    "id": "negative_04_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/04_source.png",
+      "invariance_sft_v1/negative_images/04_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_f0011dbb73df21e8deaa",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000372.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000366.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The size of the wooden low stool with a black cushion in the lower left corner of the scene has increased. A blue sign with the text \"lonngo\" has been added above the window in the back left of the scene."
+      }
+    ]
+  },
+  {
+    "id": "train_9c040fa2d821a882bba7",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000831.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000837.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The characters' postures change from two figures facing the right side of the frame with bent legs and outstretched arms—one hand pointing upward and the other downward—to two figures facing each other, each standing on one foot and gently touching with their raised leg."
+      }
+    ]
+  },
+  {
+    "id": "train_d2984368af9c58f4033c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000417.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000415.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person with black hair, wearing a red shirt, green shorts, white socks, and green shoes, appears near the center of the scene, facing away from the camera towards the white table on the left side of the room. There are three layers of white drawers on the left side of the computer desk, and the bottom white drawer is present. The toy train is on the white table on the left side of the room."
+      }
+    ]
+  },
+  {
+    "id": "train_9ecd40e882559de9d5ee",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000165.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000160.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman wearing a black top, blue pants, and black shoes appears on the black stool in front of the sofa, leaning against the back of the stool, she is facing the left side of the screen, picking up the phone with her right hand, and her head is turned to look to the left front of the screen. The ottoman in front of the seating area has shifted from being diagonally angled to being positioned in front of the right section of the seating area."
+      }
+    ]
+  },
+  {
+    "id": "train_da023094ea9f0d9043c2",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000377.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000375.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A cardboard box located near the front entrance of the building on the left side of the door is no longer visible. A man wearing a yellow vest, a blue T-shirt, a brown hat, and shorts appears on higher ground to the right of the house, he sits on a stool, facing the yellow table in the front right of the house, and turns his head to look at the pool in front of the picture."
+      }
+    ]
+  },
+  {
+    "id": "train_2743a53831bdd5a3f1c9",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000190.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000188.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new blue \"Gas Station\" icon has been added to the top of the abandoned gas station. The trash can on the second row on the right side of the gas station near the pillar has its orientation shifted from facing left to facing the front of the scene."
+      }
+    ]
+  },
+  {
+    "id": "train_41273a2f75cfbfcfea5e",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000433.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000434.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A newly placed gray cushion is located on the central sofa in the lower part of the living room, positioned between two other cushions. A black armchair with a cushion that was positioned on the right side of the seating area next to the sofa and a small plant has moved to the upper floor near the railing."
+      }
+    ]
+  },
+  {
+    "id": "negative_14_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/14_source.png",
+      "invariance_sft_v1/negative_images/14_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_088ef3fdd1dffe2af57e",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000636.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000629.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The body leans forward, lying on the table. The orientation of the white doll pendant hanging on the right side of the backpack changes, from facing right to facing forward."
+      }
+    ]
+  },
+  {
+    "id": "negative_06_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/06_source.png",
+      "invariance_sft_v1/negative_images/06_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_3bdca8aa82d8fd5d5ffa",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000462.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000453.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A man wearing a red hat, a grey sweatshirt, green pants, and red shoes has appeared on the ground in the middle of the wooden board in front of the house, he is sitting on a stool, facing the front of the house, and has turned his head to look at the wooden board on the left side of the house, he is holding a black schoolbag in his arms. The long strip of wood in the center of the scene has moved to below the windows on the right side of the house."
+      }
+    ]
+  },
+  {
+    "id": "negative_09_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/09_source.png",
+      "invariance_sft_v1/negative_images/09_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_2574ecf4ef62884869b5",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000414.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000420.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The teddy bear has disappeared on the right side of the table. The black stationery pouch has now appeared above the notebook on the left side of the second layer. A yellow pack of tissues has been rotated 90 degrees counterclockwise. A card with a McDonald's card sleeve has been placed to the left of the mouse on the table. The label on the white bottle on the second shelf of the desk has been replaced with a yellow one."
+      }
+    ]
+  },
+  {
+    "id": "train_05303e7cae29a0713585",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000034.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000036.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Of the two bronze pendant lamps over the island, the front one disappears and the remaining one turns purple. At the back-right corner of the island, the purple cup becomes white and a black cup appears. The white cup on the middle shelf remains."
+      }
+    ]
+  },
+  {
+    "id": "train_3ed9bf96a426da0cd360",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000341.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000344.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The surroundings have brightened. The stacked square wooden crates on the left side of the top two shelves of the front center rack in the scene have disappeared."
+      }
+    ]
+  },
+  {
+    "id": "negative_00_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/00_source.png",
+      "invariance_sft_v1/negative_images/00_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_63456f17a52b26f5cc4a",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000036.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person standing in the road disappears. The white 'Toxi' lettering on the orange taxi door is removed, and the blue-and-white striped awning over the corner window changes to plain beige."
+      }
+    ]
+  },
+  {
+    "id": "train_5c0b3e5e154f3459c75b",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000155.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000151.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A black-covered book on the first shelf to the left of the gray table in the center of the room has disappeared.A row of slender gray light fixtures hangs above the gray table in the center of the room, with the second light fixture from the left now missing.The dark green cylindrical container holding yellow rulers to the right of the gray table in the center of the room has changed to white."
+      }
+    ]
+  },
+  {
+    "id": "train_13eaf5c8802325cf2fa5",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000072.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The pink-and-white toy ball above the yellow storage bin in the center of the scene has been replaced with a black-and-white soccer ball."
+      }
+    ]
+  },
+  {
+    "id": "train_91bbee7637e311643138",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000400.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000401.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera angle and framing change, but the desk and drawer objects remain in place. The black mouse is still visible at the right edge, the pens retain their arrangement, and the white square box remains to the left of the stapler."
+      }
+    ]
+  },
+  {
+    "id": "train_318ec870a30691ac0938",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000092.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000096.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A black wristwatch appears across a green sachet in the center of the drawer. The blue raincoat package turns upside down, the seal card changes to a dolphin card, and the small blue ball at the lower left disappears."
+      }
+    ]
+  },
+  {
+    "id": "negative_05_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/05_source.png",
+      "invariance_sft_v1/negative_images/05_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_c1bb520d1e8f9eae7748",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000426.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ambiance has brightened. A brown cubic box has appeared on the floor in front of the round white coffee table, positioned between two white armchairs in the scene."
+      }
+    ]
+  },
+  {
+    "id": "negative_00_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/00_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/00_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_32373658fddeab558839",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000342.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000345.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The brightness of the scene has dimmed. The toothbrush head in the blue toothbrush cup has changed direction from facing the camera to facing away from the camera. A new white pump-style toiletry bottle has appeared in front of the large yellow shampoo bottle on the left. A shaver with its head facing away from the camera has appeared on the black stand to the left of the blue toothbrush cup."
+      }
+    ]
+  },
+  {
+    "id": "negative_12_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/12_source.png",
+      "invariance_sft_v1/negative_images/12_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_76bdf0838a02224b1492",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000925.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000924.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The laptop screen has been opened vertically. The headset has been replaced with a white napkin that has the word 'coffee' written on it. A black mouse has appeared on the right side of the table. The legs under the table have been obscured."
+      }
+    ]
+  },
+  {
+    "id": "train_13768b91bf08417322dd",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000349.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000339.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A blue glowing English sign reading \"depot\" appeared on the right side road in the center of the warehouse."
+      }
+    ]
+  },
+  {
+    "id": "train_3032f0a19e8fba79e4dc",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000711.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000708.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ambient lighting has become brighter. The character in the image changes from a forward-leaning running posture with bent arms swinging forward to a position that is slightly more upright, with the left arm swinging forward and the right arm close to the body."
+      }
+    ]
+  },
+  {
+    "id": "train_89bca5874046a83c8f55",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001418.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001421.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The framing widens to show the woman's full outfit. Her purple cardigan, white T-shirt, and wide trousers are replaced by a sheer white blouse over a dark inner top and a long dark skirt. She now holds a small gray handbag in one hand while the other arm is behind her back, and her black shoes become visible."
+      }
+    ]
+  },
+  {
+    "id": "negative_12_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/12_source.png",
+      "invariance_sft_v1/negative_images/12_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_08_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/08_source.png",
+      "invariance_sft_v1/negative_images/08_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_ef0d654539d4f0ecf827",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000370.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000371.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The two stacked books on the front-right round stool are removed, while the books on the central coffee table remain. One cushion on the right sofa changes its tilt."
+      }
+    ]
+  },
+  {
+    "id": "train_1d5ff2a551f0f467a8e8",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000222.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000228.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene becomes brighter. The green animal book and the illustrated rabbit book on the right exchange upper and middle positions. On the left, the top book is replaced by an orange book showing a green dish, the middle book by a yellow rabbit book, and the bottom book by a book showing a brown bear with blocks. The bottom-right elephant book stays in place."
+      }
+    ]
+  },
+  {
+    "id": "train_bd2928279c7f121d2295",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000126.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000128.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The white plastic chair on the far right, placed in front of the wooden table close to the camera, has been replaced by a brown leather chair with a brown leather seat and backrest. The size of the brown wooden tabletop in the center of the room has been reduced."
+      }
+    ]
+  },
+  {
+    "id": "train_9378fc3e60958b7c21ff",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000322.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000327.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The word \"Street,\" composed of large white letters, has appeared as a sign above the door on the green building. In front of the steps of the green house in the middle of the picture, a person wearing a light-colored top and black shorts appears and is talking on the phone, the person faces the right side of the picture, walks along the street with their head towards the camera, and steps forward with their right leg. The window with a white curtain, located on the second floor of the green house in the middle of the scene, is now present. The phone booth with posters on it, located in front of the \"Photo Lab\" building, has changed from green to white."
+      }
+    ]
+  },
+  {
+    "id": "negative_12_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/12_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/12_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_c73ae9b8ca7c1a64911e",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000463.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000459.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new blue sign with the word \"Energy\" has appeared on the wall above the computer monitor. A person wearing glasses, a light pink top, blue jeans, and brown shoes has appeared near the wall on the left side of the scene, facing left, holding a black bag, and talking on the phone. The tall vase on the right side of the desk has changed color from red to gray. A white keyboard has appeared in front of the computer monitor. A gray narrow-necked vase has appeared on the right side of the computer desk. The round orange vase on the far right side of the computer desk has also appeared. A red and white round object has appeared on top of the books on the second layer of the shelf to the left of the computer desk."
+      }
+    ]
+  },
+  {
+    "id": "train_5701d62bf7aeb9537cdf",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000462.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000466.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A white mouse has appeared to the right of the computer monitor. The spherical plant in the glass bottle to the left of the monitor has changed color from green to brown. The brown chair in front of the desk has changed its orientation from facing left to facing right. The taller gray vase on the right side of the desk has increased in size."
+      }
+    ]
+  },
+  {
+    "id": "train_776682820a3967d693d4",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000122.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000124.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman wearing sunglasses, a dark jacket, and fishnet stockings has appeared in the lower left corner of the scene, she is seated to the left of the wooden table, facing the left wall, with her back to the camera. The bright blue sign with the word \"Hoppinocc\" on the marble brick wall behind the wooden table has disappeared."
+      }
+    ]
+  },
+  {
+    "id": "negative_06_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/06_source.png",
+      "invariance_sft_v1/negative_images/06_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_7da8580efc801fa187d2",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001620.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001627.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A white plate is stacked on top of the central copper dinner plate. A white napkin, folded into a wavy pattern, is placed on the white plate. A new spoon has been added to the right side of the knife. Above the dinner plate, an additional spoon and fork have been placed, along with a potted green plant. In the upper left corner, a new white plate with a knife positioned diagonally inside has been added. In the upper right corner, a new transparent glass has been added."
+      }
+    ]
+  },
+  {
+    "id": "train_3df175a578fbeedeb43b",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000080.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000083.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The hanging learning boards are rearranged from green, pink, and blue on the first three hooks to blue, a new pink number board, pink, and green across all four hooks. A red toy box appears on the bed against the wall."
+      }
+    ]
+  },
+  {
+    "id": "train_aa45e61209727516b870",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000144.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000145.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new card featuring a white fire extinguisher on a black background has appeared in the lower center of the suitcase."
+      }
+    ]
+  },
+  {
+    "id": "train_99e8b00cc85bb7e0b6a4",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000095.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000092.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A brown pillow with large round white eyes and pointed ears has increased in size.The gray office chair in front of the blue desk on the right side of the room has turned its backrest from facing the bed to facing the blue desk."
+      }
+    ]
+  },
+  {
+    "id": "negative_04_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/04_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/04_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_509223dc7d1234a2b18c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000297.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000295.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The small black twig, previously placed horizontally relative to the camera on the right side of the scene, has disappeared.A tall, bright flame has appeared in the middle of the scene, between the two large wooden logs near the tent. A man wearing a red hat, a gray and black jacket, and black knee-length pants has appeared sitting on a black stool with a gray schoolbag on his chest, with his back to where the fire was previously located."
+      }
+    ]
+  },
+  {
+    "id": "train_edd004308664e329dd7d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000441.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a light shirt and gray trousers appears in front of the conference table, facing the back shelving. The trolley with the coffee machine at the back right disappears, and the chairs along the near and right sides of the table are rearranged."
+      }
+    ]
+  },
+  {
+    "id": "negative_04_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/04_source.png",
+      "invariance_sft_v1/negative_images/04_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "negative_01_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/01_source.png",
+      "invariance_sft_v1/negative_images/01_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_2ba50180587f70f96549",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000900.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000903.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The first white storage box in the third row has changed to blue. The second blue storage box in the third row has changed to white. The first white storage box in the fourth row has changed to blue, and two cards have been added inside. The second blue storage box in the fourth row has changed to white. A toy has been added inside the first white storage box in the second row."
+      }
+    ]
+  },
+  {
+    "id": "negative_08_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/08_source.png",
+      "invariance_sft_v1/negative_images/08_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_de35f71e371cc346facc",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000062.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000055.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ambient lighting has become brighter. The arrangement of the cutlery has changed from a crossed position with the fork and knife to a vertical placement.The text in the image has changed from 'Take a rest, don't clear if not finished'to 'Waiting for the second serving.'"
+      }
+    ]
+  },
+  {
+    "id": "train_89d5af6569ac0dd55c02",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000433.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000436.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person wearing a white T-shirt has lowered their legs from the table, turning from facing the right side of the screen to having their back to the camera, and has tilted the chair's backrest backward against the chair. A green water bottle has appeared in front of the blue cabinet in the bottom-right corner of the frame, and a black backpack containing white clothes has appeared on the stool against the wall."
+      }
+    ]
+  },
+  {
+    "id": "train_9198c95f1993a253499f",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001312.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001303.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The word \"transit\" located below \"forensic\" is replaced with \"transfer\"."
+      }
+    ]
+  },
+  {
+    "id": "negative_02_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/02_source.png",
+      "invariance_sft_v1/negative_images/02_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_04_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/04_source.png",
+      "invariance_sft_v1/negative_images/04_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_01_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/01_source.png",
+      "invariance_sft_v1/negative_images/01_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_3483501a885d0fa91d1e",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000869.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000874.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The plate originally had only two fan-shaped dragon fruit slices below the center. Now, the number of dragon fruit slices has increased to form a complete circle around the plate. Inside this circle of dragon fruit slices, an additional circle of kiwi slices cut into ovals has been added. Inside the circle of kiwi slices, a new circle of semi-circular orange slices has been added. Above the circle of orange slices, there are seven purple dragon fruit balls, with one located at the center and the other six surrounding it."
+      }
+    ]
+  },
+  {
+    "id": "train_174e2d3eef35c9605440",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000167.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000161.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper of the two framed pictures on the left wall disappears. The dark teal blanket draped over the right end of the orange sofa is removed. On the lower wall shelf, the right vase of the pair of turquoise vases changes to purple."
+      }
+    ]
+  },
+  {
+    "id": "train_343cd111c16ac59f5de3",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000781.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000777.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The four women change from balancing on one leg with the lifted foot resting across the standing leg and palms together at their chests to lifting a bent knee forward while separating their arms. Several now hold a hand near their forehead to shade their eyes."
+      }
+    ]
+  },
+  {
+    "id": "train_c3b46f94a67a10325d11",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000150.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000151.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The tall green tree that was located in the background between the wooden divider and the other trees, near the grill and table area, is no longer present. A small square table with four legs has been moved to the right side below the table where the barbecue grill."
+      }
+    ]
+  },
+  {
+    "id": "negative_08_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/08_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/08_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_de57f79d4e55954003b0",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000315.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000317.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The white water cup with a cyan stick, originally located in the upper-left corner of the wooden board, has disappeared.The blue pen on the transparent file folder has moved to the desktop. The paper in the center of the table has been unfolded, with handwritten content on it. The number sequence in the lower right corner of the image has changed from 01:59:24 to 01:46:47. The position of the brown pen has changed."
+      }
+    ]
+  },
+  {
+    "id": "train_f0cd5daf498fb787d98d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000075.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a white top and beige trousers appears beside the coffee table with a beige jacket draped over one shoulder, facing toward the windows. A glowing blue 'Life' sign appears on the rug in front of the table. The dumbbell on the rug and the light blue-and-yellow book on the table are no longer visible."
+      }
+    ]
+  },
+  {
+    "id": "train_9173839cdafaf8513697",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000150.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000152.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The large white fan-shaped decoration on the second shelf to the left of the gray table in the center of the room has appeared. A gray oval cushion has appeared on the floor to the left of the gray table in the center of the room. A black-covered book from the first shelf to the right of the gray table in the center of the room has been moved to the right edge of the gray table. The black-covered book on the first shelf to the left of the gray table in the center of the room has appeared. The middle white oval cushion in front of the gray table in the center of the room has changed from purple to white. "
+      }
+    ]
+  },
+  {
+    "id": "train_12e40329b5e034523b00",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000059.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000049.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene has become more illuminated."
+      }
+    ]
+  },
+  {
+    "id": "train_64abee839f8d4ef56fea",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001057.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The large box of pure milk in the top left corner, which was green and white, has been replaced by a deep blue box of pure milk. The number of small boxes of pure milk in the bottom left corner has increased from two bottles to three bottles."
+      }
+    ]
+  },
+  {
+    "id": "train_56e8ff0911c504be6041",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001000.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The pear has moved from the right side of the plate to the left side. The kiwi has shifted from the bottom left corner of the plate to the top right corner. The peach in the upper left corner of the plate has disappeared. An orange has replaced the peach in the upper left corner of the plate."
+      }
+    ]
+  },
+  {
+    "id": "train_aa123b6c65d52cb1bd95",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001362.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001363.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The red rectangular sticky note has shifted to the right. The wide marker with a white body and yellow cap on the right side of the image has been replaced by a blue cylindrical pen standing upright."
+      }
+    ]
+  },
+  {
+    "id": "negative_14_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/14_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/14_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_fb6236788bbafb70262c",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001662.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001666.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two additional green birds have appeared in the image, increasing the number of green birds to three. One new green bird is located on the thick branch to the right and back of the central bird, positioned sideways with its head turned back. The other new green bird is on the branch to the right and front of the central bird, facing away with its head looking backward."
+      }
+    ]
+  },
+  {
+    "id": "train_eec62543592c465930a9",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000217.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000218.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The vibrant cushion with a red floral and green leafy tropical design on the gray sofa in the back-right corner of the scene is no longer present. A person wearing a black hoodie and light brown pants has appeared on the right side of the scene, standing next to the gray sofa and facing the kitchen area on the left. A blue sign with the word \"Cupboard\" has appeared on the black wooden board in front of the central wooden table. The beige-backed chair in the middle of the right side of the central wooden table has been replaced by a stool with an orange cushion and gray metal legs."
+      }
+    ]
+  },
+  {
+    "id": "negative_15_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/15_source.png",
+      "invariance_sft_v1/negative_images/15_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_dc2cc79f2f1e87b6f397",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000445.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000437.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two of the three long ceiling light panels above the conference table are removed, leaving the middle panel. The room becomes darker."
+      }
+    ]
+  },
+  {
+    "id": "negative_10_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/10_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/10_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_90dbbf8ec757d472904d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000420.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000422.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The chairlift on the patterned walkway near the trees has shifted orientation from facing directly forward to facing toward the trees. The small green cushion with a pattern, previously upright near the upper right side of the hanging chair, is now lying flat in the center of the chair's seat."
+      }
+    ]
+  },
+  {
+    "id": "train_69981081831db93b804d",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000591.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000594.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The toothbrush cup that was originally in the upper right corner of the table has been moved to the front left of the computer keyboard. The blue and white striped towel in the upper left corner of the frame has disappeared, and more items have appeared on the left side of the table."
+      }
+    ]
+  },
+  {
+    "id": "train_3afbd86ec021553fe5f6",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000447.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000442.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The gray concrete pipe on the right side of the scene has increased in size. The newly added blue \"Rallwoy\" label appears on the side of the train located in the center of the scene, just below the windows of the locomotive. On the left side of the screen, in front of the train locomotive, there is now a person wearing a white shirt and blue pants, with hands on their waist, leaning sideways in line with the direction of the locomotive and facing the left side of the screen. The additional bollard that appeared to the left of the slimmer one on the left is no longer present."
+      }
+    ]
+  },
+  {
+    "id": "train_00991f51a6a25e1d6a23",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000206.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000209.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person wearing a gray-green shirt, blue jeans, and a backpack appears in front of the island, facing the stove and turning their head to the right. A pale blue 'Scullery' sign appears above the stove. The two stools on the right move closer under the island, while the small cartons on the counter become obscured."
+      }
+    ]
+  },
+  {
+    "id": "train_ad9322d761282c9f15a7",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000322.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000327.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene is now more lit up. A new object, a sign with the text \"Koop Qoiet\" in bright, light-colored letters, has appeared on the wall above the blackboard, positioned between the alphabet poster on the right and the picture frame on the left."
+      }
+    ]
+  },
+  {
+    "id": "train_dd0b392855e9a3f3b5a3",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000539.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000542.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The camera viewpoint shifts and tilts, changing the apparent positions of the toys. The same figurines remain on the shelf, with no clear addition or swap."
+      }
+    ]
+  },
+  {
+    "id": "train_7ec9af7809c1763d642d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000040.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The striped cup on the central table becomes smaller. The wheeled chair to the right of the table is replaced by a simple black stool. A blue 'Office' sign appears near the lower left, and the stack of books moves from the back-left part of the table onto the small stool to its left."
+      }
+    ]
+  },
+  {
+    "id": "train_bfde9d418ba3d331e6e9",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001153.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001156.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The toys in the storage box turn from facing the camera to facing away. The teddy bear, gray elephant, and pink pig toys remain in the box."
+      }
+    ]
+  },
+  {
+    "id": "train_dd0e852af641fb91b1c6",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000880.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000881.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Three heart-shaped sushis were added to the upper right corner of the plate."
+      }
+    ]
+  },
+  {
+    "id": "train_7ec9af7809c1763d642d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000040.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The striped cup on the central table becomes smaller. The wheeled chair to the right of the table is replaced by a simple black stool. A blue 'Office' sign appears near the lower left, and the stack of books moves from the back-left part of the table onto the small stool to its left."
+      }
+    ]
+  },
+  {
+    "id": "train_839fb9e459be84db17d8",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000157.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000168.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The light in the scene has increased. A light blue cushioned ottoman with a flat, dark tray on top has moved from being positioned in front of the left section of the seating area to the front of the right section of the seating area."
+      }
+    ]
+  },
+  {
+    "id": "negative_13_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/13_source.png",
+      "invariance_sft_v1/negative_images/13_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_89617bcefa2bd8e527c5",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000052.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a patterned top and blue trousers appears seated at the front left of the stage. Of the three red stools, the left one is replaced by a light upholstered chair and the right one disappears, leaving the middle red stool. The front-left microphone changes direction, while the guitars remain on the stage."
+      }
+    ]
+  },
+  {
+    "id": "train_9614535593e34799457f",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000112.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000119.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Previously, there were two green storage boxes with white lids stacked together in the lower left corner of the scene, and the top storage box has now disappeared. The black backpack, which was previously on the green storage box, has been moved to the green storage box below. The backpack was originally facing the camera with its back, but now it is facing the camera with its front. The white and black striped backpack that was previously in the gap between the room door and the suitcase on the left wall has now moved to the left side of the black backpack on top of the green storage box. The white socks with blue stripes that were next to the blue towel have disappeared."
+      }
+    ]
+  },
+  {
+    "id": "train_a6b64f2f8ef0805eed50",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000829.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000825.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The four people change from standing close together in a side-by-side group to lining up one behind another. The front person crouches, and all four extend both arms horizontally. Their clothing remains the same."
+      }
+    ]
+  },
+  {
+    "id": "train_0126ad41da0f10bf6ae6",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001352.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001354.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The brightness of the scene has increased. The small bowl from the large bowl in the upper right corner of the image has been moved to the large bowl in the upper left corner. The chopsticks on the plate in the lower right corner, previously with a green tip and black body, have been replaced with yellow wooden chopsticks featuring a floral pattern at the tip."
+      }
+    ]
+  },
+  {
+    "id": "train_8bd16c8f7d3936467aac",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000339.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000343.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The small dark-blue tube moves from in front of the pump bottle to the right of the toothbrush cup. A larger patterned tube appears in its former area. The electric razor rotates so that the front of its head faces the camera more directly."
+      }
+    ]
+  },
+  {
+    "id": "train_f352838f6d8762a2cd7b",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000714.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000719.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The woman opens her eyes and lowers her head slightly. Her hands separate from a clasped position at her chest: one hand is raised to the side while the other rests on the table."
+      }
+    ]
+  },
+  {
+    "id": "train_5fd57c44f3770414c11c",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000007.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The rusty yellow cargo box has been moved from the open space in the center of the scene to the top of the orange box on the right. And the blue device below the white air conditioning unit in the center of the outer wall of the two-story building on the left has been changed from blue to yellow."
+      }
+    ]
+  },
+  {
+    "id": "train_0b0c1633e70d5e3dffa8",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000969.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000976.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lighting in the environment has become brighter The cup noodles in the middle of the top row have changed from having the opening facing upward to facing downward. The cup noodles in the upper right have changed color from red to blue and have become larger in size."
+      }
+    ]
+  },
+  {
+    "id": "train_26080683e870bf7608da",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000051.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black speaker at the back left of the wooden table has disappeared.The stack of books at the back left of the wooden table has disappeared.The cone-shaped bottle on the wooden cabinet at the back left of the scene has disappeared.The open book on the wooden table has disappeared.The leaves of the green plant in the flowerpot beside the wooden shelf at the back right of the room have disappeared.The yellow and white striped coffee cup in the center of the wooden table has disappeared.The round stool on the right side of the wooden table has changed from black to blue.The round stool on the left side of the wooden table has changed from black to purple."
+      }
+    ]
+  },
+  {
+    "id": "train_c62be59de9e0b2e349bd",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000216.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The plant at the back left becomes larger. The faucet on the island turns toward the left, the tall white chair behind the gray sofa disappears, and the small blue kettle on the left kitchen counter becomes purple."
+      }
+    ]
+  },
+  {
+    "id": "train_ffd2f569f2633538bba1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000100.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The color of the red robot toy on the gray carpet in the center of the room has changed to brown. The black computer monitor above the table on the right side of the room has disappeared. There were two deer-shaped cushions leaning against the bed frame on the left side of the bed, but the one on the right is missing. A yellow scarf has appeared on the back of the chair to the right of the window. A blue and white toy train has appeared on the gray carpet in the center of the room."
+      }
+    ]
+  },
+  {
+    "id": "train_2cee9f45df8406c7657b",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000015.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000020.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The light in the scene has diminished. The red car on the right side of the road, near the traffic light, has turned toward the right side of the picture.The yellow taxi cab that was located in the lower left area of the scene, near the pedestrian crossing and in front of the Central Park Arcade building, is no longer in view."
+      }
+    ]
+  },
+  {
+    "id": "train_637f52da931cad394967",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000204.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000199.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A woman with yellow hair, wearing an orange top, black pants, and a crossbody bag appears on the right side of the scene, standing in front of the blue electric car, with her legs apart, hands hanging naturally, back to the screen, and head turned to the left. The word \"Garden\" in blue text appears on the upper right side of the wall, just above the person and the fruit crate, near the motorcycle. The signboard underneath the potted plant, previously blue, is no longer visible in the scene."
+      }
+    ]
+  },
+  {
+    "id": "train_4f544f61260ed29e22d9",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000508.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000513.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black mouse appears to the purple mouse pad.  \nThe yellow toy car appears to the right of the purple mouse pad.  \nThe black keyboard changes from horizontal to vertical orientation.  \nA card with a blue lanyard appears on the left side of the keyboard.  \nA yellow building block toy appears on the left side of the purple mouse pad."
+      }
+    ]
+  },
+  {
+    "id": "negative_03_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/03_source.png",
+      "invariance_sft_v1/negative_images/03_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_483bd5561436fda046be",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000108.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000109.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene has become more illuminated. The doll decoration wearing a blue jacket and white skirt has disappeared from the bedside table.A white pillow has replaced the red pillow on the left side of the bed, near the headboard, next to the messy red blanket.The word \"bedchamber\" written in glowing blue letters, has appeared on the wall above the headboard."
+      }
+    ]
+  },
+  {
+    "id": "train_5b0da60345d229167ea1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000129.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000131.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A new chair has been added at the angled corner to the front left of the wooden table, featuring a brown leather backrest and cushion. The flower pot at the left side of the wooden counter at the back of the scene has been moved to the right side of the counter."
+      }
+    ]
+  },
+  {
+    "id": "train_a24f16b32285bf5cf857",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001618.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001612.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A spoon and the label 'Dessert Spoon' appear next to the plate. There are now two forks and two knives instead of one of each, while the 'Dinner Fork' and 'Dinner Knife' labels disappear."
+      }
+    ]
+  },
+  {
+    "id": "negative_07_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/07_source.png",
+      "invariance_sft_v1/negative_images/07_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_cc34a5f3ff8311dd3b29",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001660.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001661.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The yellow and blue bird on the left has jumped to the branch in front of it, turning its body from facing right to facing left. The green bird in the center of the image has lifted its head to look toward the front left. The yellow and blue bird on the branch on the right side of the image, facing right, has disappeared."
+      }
+    ]
+  },
+  {
+    "id": "train_d8cb617d8797a49543bd",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000363.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000364.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A white plastic jerry can that was on the ground to the right of the cement mixer has appeared closer to the pile of tires. The concrete mixer has shifted its orientation from facing right to facing forward."
+      }
+    ]
+  },
+  {
+    "id": "train_4880e600cbb962a658ea",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000575.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000577.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lighting has brightened.A white-bordered phone has newly appeared in the person's right hand. The person's body has moved backward, away from the table, while turning to the left side, facing the camera. The left hand, which was originally on the keyboard, is now resting on the leg."
+      }
+    ]
+  },
+  {
+    "id": "negative_02_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/02_source.png",
+      "invariance_sft_v1/negative_images/02_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_07b99ec2261b63682939",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000244.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000246.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The person wearing a checkered shirt, dark pants, a flat cap, and white shoes, who was originally standing to the left of the bed in the center of the room, is no longer present. The black-and-white checkered pillow on the headboard has disappeared, revealing a solid black pillow behind it. The solid white pillow on the left side of the headboard is no longer present. The orange blanket on the bed near the center of the room has disappeared. The emblem on the wall above the headboard, originally consisting of two symmetrical 'C' letters, is no longer present. The brown swivel chair on the floor in front of the right-side window is no longer visible. The black-and-white decorative pillow on the right-side window sill has changed to blue. The light blue 'loggia' sign below the window sill on the right side of the bed is no longer present."
+      }
+    ]
+  },
+  {
+    "id": "negative_13_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/13_source.png",
+      "invariance_sft_v1/negative_images/13_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_2f350bb457a83be82260",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000070.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The pink and white toy ball that was above the yellow storage bucket in the center of the scene has moved to the top of the blue car bed on the right side. A boy, dressed in a green top, black trousers, and white sneakers, has appeared in the center of the frame, standing between two car-shaped beds, facing the camera. The black and white sailboat model has appeared on the third shelf of the right-side wardrobe. The white cushion on the floor in front of the blue car-shaped bed on the right side has appeared. The brownish-yellow whale plush toy on the blue car-shaped bed on the left side has changed color to gray."
+      }
+    ]
+  },
+  {
+    "id": "negative_13_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/13_source.png",
+      "invariance_sft_v1/negative_images/13_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_ea1bd8505ce95fc29fbc",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000003.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000004.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a pink-and-white outfit appears to the left of the bed, leaning forward and facing the camera. A blue 'Rest' sign appears above the headboard. The chair at the desk turns toward the desk, and the number of white cups on the desk decreases from three to two."
+      }
+    ]
+  },
+  {
+    "id": "train_3d96a85580ba708600a4",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001639.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001643.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The wooden box has slightly swayed to the right. The bird, originally positioned at the back left corner of the wooden box, has moved to the front left corner. Its posture has changed from having its head facing down to the left and its tail raised, to a more upright position, with its gaze directed toward the back left of the image. At the same time, a new bird with a yellow body, white cheeks, and a black head has appeared at the right corner of the wooden box on the right side of the image, with its head facing the back left of the image."
+      }
+    ]
+  },
+  {
+    "id": "train_2f0b198c53711ff8c7ca",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000505.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000507.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The yellow drink bottle at the front left of the computer changes its position to the right side of the topmost shelf of the table. The white drink bottle appears at the front left of the computer. The black mouse in the middle of the purple mouse pad disappears."
+      }
+    ]
+  },
+  {
+    "id": "train_edd004308664e329dd7d",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000441.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person in a light shirt and gray trousers appears in front of the conference table, facing the back shelving. The trolley with the coffee machine at the back right disappears, and the chairs along the near and right sides of the table are rearranged."
+      }
+    ]
+  },
+  {
+    "id": "train_9e0f66b5ac964ecf5093",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000156.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000154.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black sofa cushions placed on the wooden structure in the lower left corner of the scene rotate towards the camera."
+      }
+    ]
+  },
+  {
+    "id": "train_83357f3ded13e64e8f31",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000987.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000981.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The white fan on the left side of the table has been replaced with a white cup."
+      }
+    ]
+  },
+  {
+    "id": "negative_00_identity",
+    "image": [
+      "invariance_sft_v1/negative_images/00_source.png",
+      "invariance_sft_v1/negative_images/00_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is no visible difference between the two images."
+      }
+    ]
+  },
+  {
+    "id": "train_c635fc4f5de58402c71e",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001437.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001438.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The text changes from 'Look2' to 'Look3'. The woman's straw hat is removed, her loose hair is tied back, and the woven handbag held in front is replaced by a brown shoulder bag. Her light-colored shoes change to white lace-up sneakers, and one hand hangs at her side instead of holding the woven bag."
+      }
+    ]
+  },
+  {
+    "id": "train_9abf9da22a3e43cf9cca",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000022.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000028.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The background changes from a pale blue gradient to plain white. The Chinese text block shifts downward toward the center and becomes smaller and thinner, with the line breaks rearranged."
+      }
+    ]
+  },
+  {
+    "id": "train_7999c422adbd939937d7",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000160.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000156.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The dark blue blanket on the right side of the orange sofa appears. The upper painting on the back left wall, which was solid blue, now has a white background with a pattern. The bronze beast sculpture on the tall round table in front of the right side of the orange sofa is replaced by a blue bear-shaped sculpture. A black blanket appears on the floor in front of the round table to the left of the orange sofa."
+      }
+    ]
+  },
+  {
+    "id": "train_91a4483e8d99e6ef559f",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001380.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001376.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two orange chalks were replaced with two blue chalks, with an additional white chalk and a green chalk to the left. The color of the left white chalk in the top right corner changed to yellow, and the original two orange chalks moved to its left."
+      }
+    ]
+  },
+  {
+    "id": "train_f352838f6d8762a2cd7b",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000714.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000719.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The woman opens her eyes and lowers her head slightly. Her hands separate from a clasped position at her chest: one hand is raised to the side while the other rests on the table."
+      }
+    ]
+  },
+  {
+    "id": "train_c011c31a9cc0cc673e5c",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001239.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001242.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The pose of the six girls in the image has shifted from standing straight with their backs to the camera, arms raised above their heads forming an inverted V shape with palms together, bodies upright, right foot forward, and left foot back, to kneeling on the ground facing the right side of the frame, with their bodies upright and hands pressed together in a prayer-like gesture in front of their foreheads."
+      }
+    ]
+  },
+  {
+    "id": "train_fc128024ba5b82f3b7df",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000223.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000225.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene becomes darker, and a blue 'barn' sign appears on the wall to the left of the garage door. The yellow bollard to the right of the door changes to a dark striped bollard of similar height."
+      }
+    ]
+  },
+  {
+    "id": "train_47663623307f4dc0b2c1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000145.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000149.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The room becomes brighter. The leftmost of the three white oval floor cushions disappears, leaving two. The green plant and its pot to the left of the table turn red, and a dark book is removed from the nearby left shelving."
+      }
+    ]
+  },
+  {
+    "id": "train_aae9bd68723832a0f671",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000440.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_outdoor_000445.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lighting has improved. The atmosphere has darkened. In front of the gray concrete pipe on the right side of the scene, there are two yellow and black striped bollards. The slimmer bollard on the left has disappeared.The traffic light in the center of the background of the scene has disappeared.The traffic light on the far right side of the scene has disappeared.The traffic light at the bottom left side of the scene has disappeared.The white sign with black text hanging above the train tracks on the traffic pole to the right of the train has changed to yellow."
+      }
+    ]
+  },
+  {
+    "id": "negative_10_zoom_in_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/10_source.png",
+      "invariance_sft_v1/negative_images/10_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "train_783cf7f57e46ba76d5c1",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000213.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000215.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lighting has improved. A new stool has appeared in front of the wooden table in the center of the scene, featuring a red-orange cushion and gray metal legs.A pair of light gray pillows has moved from the left edge of the gray sectional sofa in the living room to the front right side of the wooden table."
+      }
+    ]
+  },
+  {
+    "id": "train_bfde9d418ba3d331e6e9",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001153.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001156.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The toys in the storage box turn from facing the camera to facing away. The teddy bear, gray elephant, and pink pig toys remain in the box."
+      }
+    ]
+  },
+  {
+    "id": "train_e45b74ecb1c4544c5181",
+    "image": [
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000012.jpg",
+      "baseline_cache/OmniDiff/Render/train/images/render_train_indoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The black lamp hanging above the bedside table on the left side of the bed has disappeared.The sketch hanging on the wall above the right side of the bed is gone.The white stool placed on the carpet in front of the foot of the bed has turned red."
+      }
+    ]
+  },
+  {
+    "id": "train_5440f11ddcef077aa5bc",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000101.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_000108.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The covered badminton racket moves from standing upright on the right to lying horizontally across the light-colored bag on the left. The red toy box and the small black bag below it disappear. The scissors card is replaced by a card showing a table-tennis paddle and ball."
+      }
+    ]
+  },
+  {
+    "id": "train_9ab030b7824dbc497756",
+    "image": [
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001172.jpg",
+      "baseline_cache/OmniDiff/Real/train/images/real_train_001174.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The yellow square magnetic piece located at the lower part of the scene, along with the circular chip marked with “50” inside it, has disappeared. Three purple triangular magnetic pieces, arranged horizontally, have newly appeared in the position where the yellow square magnetic piece was previously located."
+      }
+    ]
+  },
+  {
+    "id": "negative_03_zoom_out_reverse_1p10",
+    "image": [
+      "invariance_sft_v1/negative_images/03_zoom_out_reverse_1p10.png",
+      "invariance_sft_v1/negative_images/03_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "The second image shows a wider view of the same scene. No object changes are visible in the shared area."
+      }
+    ]
+  },
+  {
+    "id": "negative_11_roll_8_safe",
+    "image": [
+      "invariance_sft_v1/negative_images/11_source.png",
+      "invariance_sft_v1/negative_images/11_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      },
+      {
+        "from": "gpt",
+        "value": "Only the camera framing or image orientation changes; no object changes are visible in the shared area."
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "index": 0,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000051.jpg",
+    "sha256": "7710fcec918c0bdfa03debb8b6fa8229ccc39ebb13d0cbdd49ed73e634306b4d"
+  },
+  {
+    "index": 1,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000015.jpg",
+    "sha256": "7d30d36c9b3ac6137b7407be372bdf61c0a3844ea2447593fc016b6d5efa12b3"
+  },
+  {
+    "index": 2,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000109.jpg",
+    "sha256": "524b6b9e9f26161ec3a1889bcf8c5129ba0d0753d9162c0786635d22d46919df"
+  },
+  {
+    "index": 3,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000123.jpg",
+    "sha256": "e75138af3d48726f39bb47fddd7c9589b2577d86938b894b9c2b2a50bbffcd9a"
+  },
+  {
+    "index": 4,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000063.jpg",
+    "sha256": "2ac1217ce4a7326bb06b6f93940e9483d8ce9238e45eb0c495d4a16e32a760d7"
+  },
+  {
+    "index": 5,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000129.jpg",
+    "sha256": "de62b1c29215b3c54a66bd8b6a222507a0c981fe28ff1e06267615e45472b27e"
+  },
+  {
+    "index": 6,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000125.jpg",
+    "sha256": "315be8e6b6ce4829a9d44e18d5d33c0785e011a2ccc6f60ac8e20c62f16b4634"
+  },
+  {
+    "index": 7,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000113.jpg",
+    "sha256": "48834c503585e91e1636ba133ad20fb7cd9e38970e69a18a4e24b4f90be14e01"
+  },
+  {
+    "index": 8,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000185.jpg",
+    "sha256": "3e124f0b303c928646e6348d12ad0354bb0b10f0be07d515532bc218d9efeeef"
+  },
+  {
+    "index": 9,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000099.jpg",
+    "sha256": "717e9f6f2533a950d0cd45d0778e2a515e05964dfae2d022363df258a9078bce"
+  },
+  {
+    "index": 10,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000142.jpg",
+    "sha256": "a80c01309feb2aca2ce11ad51aac4d4ce2621528e48e04acca012bcf9c3e4d2f"
+  },
+  {
+    "index": 11,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000187.jpg",
+    "sha256": "b66a25f5cb416c2dccef4355944243078b9438a8c581766388569ef819f0d353"
+  },
+  {
+    "index": 12,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000088.jpg",
+    "sha256": "cf14a915d0f9cdb93ce751c4299a69888104f34ad6474c2cdd89ec1d18793ffb"
+  },
+  {
+    "index": 13,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000161.jpg",
+    "sha256": "c007423d7d39a325d49c969442941e1eaf592444610833a9a35167f6b1effeb4"
+  },
+  {
+    "index": 14,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000132.jpg",
+    "sha256": "3a7d3bb593b6701317872e2d0d5970084106b362849ed04d59615ff51946814d"
+  },
+  {
+    "index": 15,
+    "split": "Real",
+    "image": "Real/test/images/real_test_000027.jpg",
+    "sha256": "7f148c6a9b7522ff8bc48604e6449f76c2c99b492ee78eb4199ff8cb7ec92224"
+  },
+  {
+    "index": 16,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000063.jpg",
+    "sha256": "a85ce8a2e084fe2402ba676957b661122c4c1efadb3c104556a4c056913df743"
+  },
+  {
+    "index": 17,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000041.jpg",
+    "sha256": "9d887cab92f469204428b9ea36b3b494b6832f20c67c03f3737fa16d4f80ee8b"
+  },
+  {
+    "index": 18,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000059.jpg",
+    "sha256": "1cb6d06b57dbf1b2d7cce0f6ba57a03f7123d43e945dc7e76852516ddba35b8c"
+  },
+  {
+    "index": 19,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000021.jpg",
+    "sha256": "e7ba5c1182385bc35d80707b1b80a4c82b192dc27abecf1dbc7bff564547572e"
+  },
+  {
+    "index": 20,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000044.jpg",
+    "sha256": "19d58b6dd5532dffa9bef5a1c3ff49cbf203ec1790739cb2e8b35ea47d669cd4"
+  },
+  {
+    "index": 21,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000036.jpg",
+    "sha256": "38be8af0fa298b797fc5d6f595789cf1c30d9a7896163dbcd792329d494ca259"
+  },
+  {
+    "index": 22,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000011.jpg",
+    "sha256": "d664c308af6bb57218817c3e5c01f1cb0774fcac275ee9c881e9c45d8cb1291e"
+  },
+  {
+    "index": 23,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000031.jpg",
+    "sha256": "b96b7b1cc670cee076b5cd0f33cbc6d5c95247904542ce1356d604d41f2b1e5e"
+  },
+  {
+    "index": 24,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000021.jpg",
+    "sha256": "c3165e8d144c54288531b23968599a85ed98648e364cbea84f845a2ada2338a1"
+  },
+  {
+    "index": 25,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000011.jpg",
+    "sha256": "a4bcf595556e9eff9aec2c9ad6f04c1485c8c859c2ac968a2663717da81cb687"
+  },
+  {
+    "index": 26,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000001.jpg",
+    "sha256": "fe8c2b35a61188bb90a2fc1b6cd26014188e306b751fb6d355592b040860bd7c"
+  },
+  {
+    "index": 27,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000026.jpg",
+    "sha256": "a7abb1290b457c2a0e69906112c8237b1cc657d519485f931fe8ccac7937b165"
+  },
+  {
+    "index": 28,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000035.jpg",
+    "sha256": "eb5a1ee0da04bf1431732f981cf44a35681cb6fd2ba802f1f3197ac410cf08bd"
+  },
+  {
+    "index": 29,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000052.jpg",
+    "sha256": "344d9c500d8bf13d0b78cdf0970d3fa0678994d282141d08157b85f2422a6304"
+  },
+  {
+    "index": 30,
+    "split": "Render",
+    "image": "Render/test/images/render_test_outdoor_000027.jpg",
+    "sha256": "63239a24172aa3cea2a8a9f7c3fe4c4413170d2da5497e358fe111da1ea4d8cd"
+  },
+  {
+    "index": 31,
+    "split": "Render",
+    "image": "Render/test/images/render_test_indoor_000027.jpg",
+    "sha256": "f7d5ff3bfb8832433b40f14ec46beb91d15f502c59ec68916e4980a67cb53fc6"
+  }
+]

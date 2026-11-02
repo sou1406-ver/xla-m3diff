@@ -1,0 +1,210 @@
+[
+  {
+    "id": "v2_Real_00__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000030.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_00.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_01__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000012.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_01.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_02__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000087.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_03__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000174.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_03.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_04__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000189.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_04.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_05__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000067.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_05.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_06__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000057.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_06.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Real_07__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Real/test/images/real_test_000010.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Real_07.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_00__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000051.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_00.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_01__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000025.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_01.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_02__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000052.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_03__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000019.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_03.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_04__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000043.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_04.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_05__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000046.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_05.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_06__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_indoor_000018.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_06.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "v2_Render_07__positive_stress",
+    "image": [
+      "baseline_cache/OmniDiff/Render/test/images/render_test_outdoor_000027.jpg",
+      "invariance_v2_20261102/positive_stress/v2_Render_07.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  }
+]

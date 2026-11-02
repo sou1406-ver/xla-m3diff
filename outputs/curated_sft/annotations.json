@@ -1,0 +1,533 @@
+{
+  "reviewer": "Codex assistant visual review of original train images and close crops; not independently human adjudicated.",
+  "policy": "Reject unclear visibility and cases where baseline is already semantically adequate. Correct only visually supported facts; avoid unsupported identities, exact directions and object removals under occlusion.",
+  "reviews": [
+    {
+      "index": 0,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "viewpoint_confusion"
+      ],
+      "reference_status": "incomplete_viewpoint_description",
+      "corrected_caption": "The camera viewpoint shifts to the right, showing the back of the person's head more directly. The monitor remains on and the objects on the desk remain present.",
+      "evidence": "Both monitor screens are lit; headphones remain on the desk; the view shifts while the same desk objects are visible."
+    },
+    {
+      "index": 1,
+      "status": "reject",
+      "error_types": [
+        "viewpoint_confusion",
+        "uncertain_visibility"
+      ],
+      "reference_status": "removal_not_confirmable",
+      "corrected_caption": null,
+      "evidence": "Upright originals show camera tilt/rightward crop; yellow bottle near far-left lower boundary may leave field of view. Cannot establish true removal or all object movements confidently."
+    },
+    {
+      "index": 2,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "partly_misnamed_object",
+      "corrected_caption": "The person changes from picking up ice from a tray to writing in an open notebook while holding two pens. The ice tray and metal cup are removed. A phone appears in front of the fan. The small illustrated notebook moves onto the stack of books on the right, and a purple notebook is added to the stack.",
+      "evidence": "The before tray and cup are absent in after; phone visible below fan; two pens in writing hand; stacked notebooks visible."
+    },
+    {
+      "index": 3,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "wrong_orientation",
+        "wrong_object"
+      ],
+      "reference_status": "incomplete_after_state",
+      "corrected_caption": "The toys in the storage box turn from facing the camera to facing away. The teddy bear, gray elephant, and pink pig toys remain in the box.",
+      "evidence": "Backs of all plush toys visible after, same toy inventory. No orange-clothed pig removed."
+    },
+    {
+      "index": 4,
+      "status": "accept",
+      "error_types": [
+        "identity_confusion",
+        "omission"
+      ],
+      "reference_status": "new_board_color_inaccurate",
+      "corrected_caption": "The hanging learning boards are rearranged from green, pink, and blue on the first three hooks to blue, a new pink number board, pink, and green across all four hooks. A red toy box appears on the bed against the wall.",
+      "evidence": "Visible colored boards and number icons identify moved boards and new pink board."
+    },
+    {
+      "index": 5,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "hallucinated_movement",
+        "repetition"
+      ],
+      "reference_status": "tissue_packet_relocated_not_removed",
+      "corrected_caption": "The notebook beneath the phone stand changes from red to blue, and the stand shifts forward. The blue tissue packet is no longer on top of the notebook and is visible in the drawer. The white square box moves from the drawer's right side to its front-left corner, and a small clear bottle appears in its former location. The dark tumbler and black bag remain present.",
+      "evidence": "Tumbler and bag stay in same positions; blue tissue packet visible below wallet after; white box and new bottle visible."
+    },
+    {
+      "index": 6,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "hallucinated_movement",
+        "viewpoint_confusion"
+      ],
+      "reference_status": "no_physical_change_but_viewpoint_varies",
+      "corrected_caption": "The camera angle and framing change, but the desk and drawer objects remain in place. The black mouse is still visible at the right edge, the pens retain their arrangement, and the white square box remains to the left of the stapler.",
+      "evidence": "Matched desk and drawer objects persist with camera parallax; mouse visible after at right edge."
+    },
+    {
+      "index": 7,
+      "status": "accept",
+      "error_types": [
+        "wrong_count",
+        "wrong_addition"
+      ],
+      "reference_status": "mostly_correct_but_no_explicit_before_after_count",
+      "corrected_caption": "A fourth grape flower appears at the top of the plate, with green grapes surrounding one purple grape. Curved cucumber strips are added to connect the four flowers into a ring, and four leaf-shaped cucumber slices appear near the lower left and lower right of the ring.",
+      "evidence": "Three grape flowers before, four after; only one additional purple-grape center."
+    },
+    {
+      "index": 8,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "bag_color_imprecise",
+      "corrected_caption": "The covered badminton racket moves from standing upright on the right to lying horizontally across the light-colored bag on the left. The red toy box and the small black bag below it disappear. The scissors card is replaced by a card showing a table-tennis paddle and ball.",
+      "evidence": "Racket cover, toy box, small bag, and printed cards all identifiable across views."
+    },
+    {
+      "index": 9,
+      "status": "accept",
+      "error_types": [
+        "viewpoint_confusion",
+        "wrong_location",
+        "hallucinated_posture_change"
+      ],
+      "reference_status": "incomplete_viewpoint_context",
+      "corrected_caption": "The camera view changes from the diver's side to a frontal view, revealing the swimming pool below and behind him. The diver remains standing on the elevated diving platform.",
+      "evidence": "Platform visible in both; pool revealed by frontal viewpoint, not diver moving down to pool edge."
+    },
+    {
+      "index": 10,
+      "status": "accept",
+      "error_types": [
+        "wrong_count",
+        "hallucinated_addition",
+        "wrong_posture"
+      ],
+      "reference_status": "bird_identity_and_disappearance_uncertain",
+      "corrected_caption": "Two green birds now bend their heads down toward the fruit to feed, with their tails raised. A third green bird remains on the branch at the right side of the fruit.",
+      "evidence": "Three visible birds in both images; two after have heads together over fruit, no two-headed bird."
+    },
+    {
+      "index": 11,
+      "status": "accept",
+      "error_types": [
+        "wrong_object",
+        "wrong_count",
+        "wrong_text_location"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "A spoon and the label 'Dessert Spoon' appear next to the plate. There are now two forks and two knives instead of one of each, while the 'Dinner Fork' and 'Dinner Knife' labels disappear.",
+      "evidence": "Visible before one fork/knife; after two each and new spoon/label. Baseline calls added fork a knife."
+    },
+    {
+      "index": 12,
+      "status": "accept",
+      "error_types": [
+        "viewpoint_confusion",
+        "hallucinated_addition",
+        "hallucinated_swap"
+      ],
+      "reference_status": "correct_but_viewpoint_direction_not_precise",
+      "corrected_caption": "The camera viewpoint shifts and tilts, changing the apparent positions of the toys. The same figurines remain on the shelf, with no clear addition or swap.",
+      "evidence": "Same figurine order and inventory across tilted views; white head figurine already visible before."
+    },
+    {
+      "index": 13,
+      "status": "accept",
+      "error_types": [
+        "wrong_posture"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "The woman opens her eyes and lowers her head slightly. Her hands separate from a clasped position at her chest: one hand is raised to the side while the other rests on the table.",
+      "evidence": "Eyes closed before/open after; after one palm rests on tabletop and other lifted, not both arms extended sideways."
+    },
+    {
+      "index": 14,
+      "status": "accept",
+      "error_types": [
+        "wrong_side",
+        "omission"
+      ],
+      "reference_status": "footwear_description_inaccurate",
+      "corrected_caption": "The text changes from 'Look2' to 'Look3'. The woman's straw hat is removed, her loose hair is tied back, and the woven handbag held in front is replaced by a brown shoulder bag. Her light-colored shoes change to white lace-up sneakers, and one hand hangs at her side instead of holding the woven bag.",
+      "evidence": "Hat, hair, bags and shoe differences visible; avoid uncertain anatomical side and wristwatch provenance."
+    },
+    {
+      "index": 15,
+      "status": "accept",
+      "error_types": [
+        "wrong_pose",
+        "wrong_orientation"
+      ],
+      "reference_status": "overgeneralized_arm_and_body_directions",
+      "corrected_caption": "The four women change from balancing on one leg with the lifted foot resting across the standing leg and palms together at their chests to lifting a bent knee forward while separating their arms. Several now hold a hand near their forehead to shade their eyes.",
+      "evidence": "Both views still largely face camera; after knees point forward and three women shade eyes, no uniform left-arm-forward pose."
+    },
+    {
+      "index": 16,
+      "status": "accept",
+      "error_types": [
+        "wrong_count",
+        "identity_confusion",
+        "wrong_clothing_change"
+      ],
+      "reference_status": "incomplete_and_awkward_after_pose",
+      "corrected_caption": "The four people change from standing close together in a side-by-side group to lining up one behind another. The front person crouches, and all four extend both arms horizontally. Their clothing remains the same.",
+      "evidence": "Exactly four in each view, identifiable same pastel coats; line depth rather than supporting others."
+    },
+    {
+      "index": 17,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "razor_orientation_ambiguous_wording",
+      "corrected_caption": "The small dark-blue tube moves from in front of the pump bottle to the right of the toothbrush cup. A larger patterned tube appears in its former area. The electric razor rotates so that the front of its head faces the camera more directly.",
+      "evidence": "Large new patterned tube, relocated small tube and head rotation visible; baseline omitted razor."
+    },
+    {
+      "index": 18,
+      "status": "accept",
+      "error_types": [
+        "wrong_side",
+        "inconsistent_pose",
+        "omission"
+      ],
+      "reference_status": "skirt_color_and_visibility_overstated",
+      "corrected_caption": "The framing widens to show the woman's full outfit. Her purple cardigan, white T-shirt, and wide trousers are replaced by a sheer white blouse over a dark inner top and a long dark skirt. She now holds a small gray handbag in one hand while the other arm is behind her back, and her black shoes become visible.",
+      "evidence": "Wider after frame, skirt replaces trousers, blouse replaces cardigan, handbag held on image-left side."
+    },
+    {
+      "index": 19,
+      "status": "reject",
+      "error_types": [
+        "wrong_mouth_state"
+      ],
+      "reference_status": "unnecessary_emotion_inference",
+      "corrected_caption": null,
+      "evidence": "Baseline already captures the visible facial-expression change. Minor 'clenched teeth' wording is not sufficient to prioritize as a strong semantic correction."
+    },
+    {
+      "index": 20,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "The background changes from a pale blue gradient to plain white. The Chinese text block shifts downward toward the center and becomes smaller and thinner, with the line breaks rearranged.",
+      "evidence": "Same text content reflowed in lighter smaller type, lower on white page."
+    },
+    {
+      "index": 21,
+      "status": "accept",
+      "error_types": [
+        "wrong_object",
+        "wrong_count",
+        "hallucinated_addition"
+      ],
+      "reference_status": "citrus_container_misdescribed",
+      "corrected_caption": "The plate is shown more brightly against a yellow background. Green citrus wedges are added around the outer dragon-fruit slices, a ring of kiwi slices fills the middle, and a hollowed citrus half containing red fruit balls is placed in the center.",
+      "evidence": "Center is a citrus shell/bowl, not additional rings of white fruit and orange semicircles."
+    },
+    {
+      "index": 22,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "A black wristwatch appears across a green sachet in the center of the drawer. The blue raincoat package turns upside down, the seal card changes to a dolphin card, and the small blue ball at the lower left disappears.",
+      "evidence": "Watch and central green sachet visible after; blue ball absent, printed card and raincoat orientation change."
+    },
+    {
+      "index": 23,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_swap",
+        "wrong_text",
+        "omission"
+      ],
+      "reference_status": "correct_but_titles_translation_not_independently_checked",
+      "corrected_caption": "The scene becomes brighter. The green animal book and the illustrated rabbit book on the right exchange upper and middle positions. On the left, the top book is replaced by an orange book showing a green dish, the middle book by a yellow rabbit book, and the bottom book by a book showing a brown bear with blocks. The bottom-right elephant book stays in place.",
+      "evidence": "Book-cover images and positions visually matched; do not invent untranslated titles."
+    },
+    {
+      "index": 24,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "repetition",
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The two stacked books on the front-right round stool are removed, while the books on the central coffee table remain. One cushion on the right sofa changes its tilt.",
+      "evidence": "Only stool books removed; coffee-table books persist; cushion angle changes."
+    },
+    {
+      "index": 25,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "plant_change_not_confidently_confirmed",
+      "corrected_caption": "The person standing in the road disappears. The white 'Toxi' lettering on the orange taxi door is removed, and the blue-and-white striped awning over the corner window changes to plain beige.",
+      "evidence": "Close crop confirms person removal, awning change and text removal in full view. Potted plant removal not confidently established; excluded from corrected target."
+    },
+    {
+      "index": 26,
+      "status": "accept",
+      "error_types": [
+        "omission",
+        "wrong_shelf_location"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The red-and-white kettle and the stool at the left of the island disappear. The white cups on the middle open shelf disappear, and the containers on the bottom shelf change from blue-gray to green. One of the two pendant lamps above the island is removed.",
+      "evidence": "Close crop confirms rear of two overlapping pendant lamps absent; red-white counter kettle gone. Shelf/stool changes clear in full view."
+    },
+    {
+      "index": 27,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "correct_but_shelf_number_ambiguous",
+      "corrected_caption": "The upper of the two framed pictures on the left wall disappears. The dark teal blanket draped over the right end of the orange sofa is removed. On the lower wall shelf, the right vase of the pair of turquoise vases changes to purple.",
+      "evidence": "Upper art absent; teal blanket gone; right of two lower-shelf vases visibly purple."
+    },
+    {
+      "index": 28,
+      "status": "accept",
+      "error_types": [
+        "wrong_object",
+        "movement_as_removal",
+        "omission"
+      ],
+      "reference_status": "bottle_misnamed_and_oven_change_omitted",
+      "corrected_caption": "The rightmost glowing globe moves from the ceiling fixture onto the right dining chair. The small white bear-shaped ornament on the table changes orientation, and the white bottle at the right end of the table disappears. A white bowl on the lower illuminated wall shelf becomes larger.",
+      "evidence": "Close crop confirms white bottle absent and shelf bowl enlarged. Omitted uncertain oven change from the target."
+    },
+    {
+      "index": 29,
+      "status": "accept",
+      "error_types": [
+        "wrong_orientation",
+        "hallucinated_size_change",
+        "omission"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "A person in a white top and beige trousers appears beside the coffee table with a beige jacket draped over one shoulder, facing toward the windows. A glowing blue 'Life' sign appears on the rug in front of the table. The dumbbell on the rug and the light blue-and-yellow book on the table are no longer visible.",
+      "evidence": "Person faces image-left windows, not right sofa; left stack of books remains, no clear shrinkage."
+    },
+    {
+      "index": 30,
+      "status": "accept",
+      "error_types": [
+        "wrong_count",
+        "hallucinated_movement",
+        "wrong_color_change_as_replacement"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The room becomes brighter. The leftmost of the three white oval floor cushions disappears, leaving two. The green plant and its pot to the left of the table turn red, and a dark book is removed from the nearby left shelving.",
+      "evidence": "Only left floor cushion absent; same plant silhouette and pot change to red."
+    },
+    {
+      "index": 31,
+      "status": "accept",
+      "error_types": [
+        "omission",
+        "chair_identity_confusion"
+      ],
+      "reference_status": "chair_identity_tracking_not_certain",
+      "corrected_caption": "A person in a light shirt and gray trousers appears in front of the conference table, facing the back shelving. The trolley with the coffee machine at the back right disappears, and the chairs along the near and right sides of the table are rearranged.",
+      "evidence": "New person, missing rear-right trolley, near chair shifts; exact chair identities not asserted."
+    },
+    {
+      "index": 32,
+      "status": "accept",
+      "error_types": [
+        "addition_as_rotation",
+        "omission"
+      ],
+      "reference_status": "correct_with_occlusion_caveat",
+      "corrected_caption": "The green potted plant moves from the back-left to the back-right of the room. A new gray armchair appears in the center with its back to the camera, while the original side armchairs remain. The patterned ball and the extra gray cushion by the sofa are no longer visible.",
+      "evidence": "Both original armchairs persist; additional chair in foreground blocks table; ball/cushion absent or occluded, no forced removal."
+    },
+    {
+      "index": 33,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "A blue A-frame barrier appears in the lane between the gas pumps. The pink trash bin immediately to the left of the front-right concrete pillar disappears.",
+      "evidence": "Close crop confirms pink bin is removed next to front-right pillar and blue barrier added behind."
+    },
+    {
+      "index": 34,
+      "status": "accept",
+      "error_types": [
+        "wrong_replacement",
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The striped cup on the central table becomes smaller. The wheeled chair to the right of the table is replaced by a simple black stool. A blue 'Office' sign appears near the lower left, and the stack of books moves from the back-left part of the table onto the small stool to its left.",
+      "evidence": "Cup shrinks; rolling chair base gone, stool remains; visible books moved left; new sign."
+    },
+    {
+      "index": 35,
+      "status": "accept",
+      "error_types": [
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "Two of the three long ceiling light panels above the conference table are removed, leaving the middle panel. The room becomes darker.",
+      "evidence": "Close ceiling crop shows three illuminated panels before, one middle panel after."
+    },
+    {
+      "index": 36,
+      "status": "accept",
+      "error_types": [
+        "wrong_text",
+        "wrong_location"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "White 'Cannunity' lettering appears on the ground. A person in a red-and-black top and gray trousers appears near the barrels on the left, facing away from the camera and holding a white bucket.",
+      "evidence": "Text includes initial Ca; person stands on ground by barrels, not inside wall; no hat identity asserted."
+    },
+    {
+      "index": 37,
+      "status": "accept",
+      "error_types": [
+        "rotation_as_material_change",
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The plant at the back left becomes larger. The faucet on the island turns toward the left, the tall white chair behind the gray sofa disappears, and the small blue kettle on the left kitchen counter becomes purple.",
+      "evidence": "Close crop confirms faucet orientation rotates, blue kettle turns purple, plant larger, rear white chair missing."
+    },
+    {
+      "index": 38,
+      "status": "accept",
+      "error_types": [
+        "wrong_facing_direction",
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "A person in a pink-and-white outfit appears to the left of the bed, leaning forward and facing the camera. A blue 'Rest' sign appears above the headboard. The chair at the desk turns toward the desk, and the number of white cups on the desk decreases from three to two.",
+      "evidence": "Close crop confirms chair rotation and three cups reduced to two; full view confirms front-facing new person."
+    },
+    {
+      "index": 39,
+      "status": "accept",
+      "error_types": [
+        "wrong_replacement",
+        "hallucinated_movement",
+        "omission"
+      ],
+      "reference_status": "mostly_correct",
+      "corrected_caption": "A person in a patterned top and blue trousers appears seated at the front left of the stage. Of the three red stools, the left one is replaced by a light upholstered chair and the right one disappears, leaving the middle red stool. The front-left microphone changes direction, while the guitars remain on the stage.",
+      "evidence": "All three red guitars remain; central music stand stays; stool inventory changes."
+    },
+    {
+      "index": 40,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "wrong_text",
+        "omission"
+      ],
+      "reference_status": "OCR_incorrect_and_visibility_needs_care",
+      "corrected_caption": "A person wearing a gray-green shirt, blue jeans, and a backpack appears in front of the island, facing the stove and turning their head to the right. A pale blue 'Scullery' sign appears above the stove. The two stools on the right move closer under the island, while the small cartons on the counter become obscured.",
+      "evidence": "Backpack clearly visible; sign reads Scullery; person can occlude counter objects, no forced kettle removal."
+    },
+    {
+      "index": 41,
+      "status": "accept",
+      "error_types": [
+        "hallucinated_removal",
+        "omission"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "Of the two bronze pendant lamps over the island, the front one disappears and the remaining one turns purple. At the back-right corner of the island, the purple cup becomes white and a black cup appears. The white cup on the middle shelf remains.",
+      "evidence": "Pendant overlap reduces to one purple lamp; middle shelf cup still present, unlike baseline claim."
+    },
+    {
+      "index": 42,
+      "status": "accept",
+      "error_types": [
+        "wrong_location",
+        "color_change_as_size_change"
+      ],
+      "reference_status": "omits_bollard_color_change",
+      "corrected_caption": "The scene becomes darker, and a blue 'barn' sign appears on the wall to the left of the garage door. The yellow bollard to the right of the door changes to a dark striped bollard of similar height.",
+      "evidence": "Same approximate bollard dimensions, but yellow replaced by black/red stripes; sign left not above door."
+    },
+    {
+      "index": 43,
+      "status": "reject",
+      "error_types": [],
+      "reference_status": "correct",
+      "corrected_caption": null,
+      "evidence": "Baseline semantically matches visible sofa addition and loss of one left yellow bollard despite low train-CIDEr. Not a verified model error."
+    },
+    {
+      "index": 44,
+      "status": "reject",
+      "error_types": [],
+      "reference_status": "correct",
+      "corrected_caption": null,
+      "evidence": "Baseline conveys sofa enlargement and ottoman replacement adequately; sofa versus sofa-cushion wording alone is not a strong confirmed error."
+    },
+    {
+      "index": 45,
+      "status": "accept",
+      "error_types": [
+        "color_change_as_removal",
+        "hallucinated_replacement"
+      ],
+      "reference_status": "correct",
+      "corrected_caption": "The scene becomes brighter. One chair near the center-right of the deck changes from brown to a white backrest and a green pedestal base. Both life rings remain on the railing.",
+      "evidence": "Same chair silhouette with changed colors; two life rings persist, no lamp replacement."
+    },
+    {
+      "index": 46,
+      "status": "accept",
+      "error_types": [
+        "size_change_as_movement"
+      ],
+      "reference_status": "ball_location_imprecise",
+      "corrected_caption": "The black exercise ball on the mat becomes much larger. The jump rope moves off the mat onto the wooden floor near the treadmill.",
+      "evidence": "Same ball on mat substantially enlarges; rope relocated to floor between mat and treadmill."
+    },
+    {
+      "index": 47,
+      "status": "accept",
+      "error_types": [
+        "wrong_replacement_direction",
+        "wrong_posture"
+      ],
+      "reference_status": "gender_not_independently_asserted",
+      "corrected_caption": "A person in a black-and-white striped top and blue trousers appears seated near the left side of the garage entrance, with one knee raised while looking down at their hands. The lamp on the right entrance pillar changes from a slender handled light to a larger covered lantern.",
+      "evidence": "New seated person visible; lamp changes from narrow upright fixture to broad covered lantern, not reverse."
+    }
+  ]
+}

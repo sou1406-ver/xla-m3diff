@@ -1,0 +1,92 @@
+{
+  "locked_before_reading_candidate_outputs": true,
+  "created_at_utc": "2026-10-27T14:39:20.749998+00:00",
+  "reviewer": "Codex assistant, not independent human adjudication",
+  "facts": {
+    "old": {
+      "furniture": [
+        "Cushion blue to green",
+        "Cushion square to larger rectangular",
+        "White goose plush newly visible across ottoman/white table",
+        "One to two mint stools"
+      ],
+      "exercise": [
+        "Wide-legged squat to upright side bend",
+        "Previously low hands to one arm extended overhead/sideways"
+      ],
+      "yoga": [
+        "One-legged balance to wide-legged forward bend, head down (not lying flat)"
+      ],
+      "mouse": [
+        "Mouse outside to head peeking from box opening"
+      ],
+      "kitchen": [
+        "Clear green-lid handled jar shifts toward front/table edge",
+        "Red/black cylindrical thermos becomes visible behind it"
+      ],
+      "silhouette": [
+        "Crossed-leg stance to raised forward-kicking leg",
+        "Sky/framing appearance changes: larger dark cloud or much more visible sun (without asserting physical mountain removal)"
+      ],
+      "hospital": [
+        "Rear-right bed foot/end panel white to red",
+        "Small left-wall picture changes to heart illustration"
+      ],
+      "street": [
+        "Bicycle rotates from side-on to diagonal",
+        "Bicycle shifts closer to right curb/bucket"
+      ],
+      "picnic": [
+        "Additional pie/tart appears front-center on cloth",
+        "Upright pale rock appears right pool bank",
+        "Waterfall becomes narrower"
+      ],
+      "office": [
+        "Rear-left monitor rotates from dark screen to silver back"
+      ],
+      "greenhouse": [
+        "Purple watering can becomes visible nearer foreground left, where earlier can appearance/location differs"
+      ],
+      "classroom": [
+        "Scene becomes brighter"
+      ]
+    },
+    "new": {
+      "computer_desk": [
+        "A camera with large lens newly visible on front-left desk",
+        "Gray mouse/round patterned item relative arrangement changes"
+      ],
+      "snowy_street": [
+        "Daylight changes to dark/night appearance with artificial lights on"
+      ],
+      "basin_shelf": [
+        "Pink and white soap-bar appearances swap left/center positions"
+      ],
+      "city_intersection": [
+        "Round-headed streetlamp becomes visible beside left sidewalk/crosswalk",
+        "Right terrace round-table arrangement changes"
+      ],
+      "bunk_bedroom": [
+        "Broad room lighting dims to a localized brighter patch over beds"
+      ],
+      "bicycle_alley": [
+        "Blue lidded containers newly visible near rear doorway"
+      ],
+      "render_kitchen": [
+        "Person appears at counter",
+        "Blue pitcher changes to clear/amber appearance",
+        "Right chair shifts toward viewer",
+        "Blue floor text kitchen appears"
+      ]
+    }
+  },
+  "excluded_natural": {
+    "new": [
+      "clothesline"
+    ]
+  },
+  "geometry": "Record physical unsupported change (0/1), explicit global camera/frame acknowledgement (0/1), illumination inference separately, and uncertainty about apparent image-coordinate motion. Do not force ambiguous apparent-scale/position statements into physical errors.",
+  "natural": "Record hit fact indices, clear unsupported claims, uncertainties and explicit suppression of a visible scene change. Keep illumination-only facts separate from physical object count.",
+  "masking": "Read masked_predictions only; save all per-candidate assessments before reading mask_key. Stylistic clues may reveal training, so this is procedural masking, not independently blinded human validation.",
+  "source_protocol_sha256": "ea35586204d760af8c5583d072bf196987af3cdcd7ae612204749f8b836787b0"
+}

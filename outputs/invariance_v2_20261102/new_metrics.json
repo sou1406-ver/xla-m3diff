@@ -1,0 +1,368 @@
+{
+  "all/all_synthetic": {
+    "control": {
+      "n": 80,
+      "physical": 36,
+      "false_light": 30,
+      "wrong_geometry": 5,
+      "any_error": 53,
+      "ack": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 3
+    },
+    "revised": {
+      "n": 80,
+      "physical": 37,
+      "false_light": 40,
+      "wrong_geometry": 17,
+      "any_error": 63,
+      "ack": 17,
+      "fact_hits": 0,
+      "unsupported_pairs": 2,
+      "uncertain_pairs": 1
+    }
+  },
+  "all/geometry": {
+    "control": {
+      "n": 48,
+      "physical": 30,
+      "false_light": 26,
+      "wrong_geometry": 5,
+      "any_error": 43,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 3
+    },
+    "revised": {
+      "n": 48,
+      "physical": 32,
+      "false_light": 31,
+      "wrong_geometry": 11,
+      "any_error": 45,
+      "ack": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 2,
+      "uncertain_pairs": 1
+    }
+  },
+  "all/identity": {
+    "control": {
+      "n": 16,
+      "physical": 3,
+      "false_light": 4,
+      "wrong_geometry": 0,
+      "any_error": 7,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 16,
+      "physical": 4,
+      "false_light": 9,
+      "wrong_geometry": 4,
+      "any_error": 15,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "all/brightness": {
+    "control": {
+      "n": 16,
+      "physical": 3,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 3,
+      "ack": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 16,
+      "physical": 1,
+      "false_light": 0,
+      "wrong_geometry": 2,
+      "any_error": 3,
+      "ack": 13,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "all/natural": {
+    "control": {
+      "n": 16,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 10,
+      "ack": 0,
+      "fact_hits": 21,
+      "unsupported_pairs": 10,
+      "uncertain_pairs": 6,
+      "possible_facts": 29
+    },
+    "revised": {
+      "n": 16,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 10,
+      "ack": 0,
+      "fact_hits": 16,
+      "unsupported_pairs": 10,
+      "uncertain_pairs": 10,
+      "possible_facts": 29
+    }
+  },
+  "Real/all_synthetic": {
+    "control": {
+      "n": 40,
+      "physical": 18,
+      "false_light": 4,
+      "wrong_geometry": 5,
+      "any_error": 26,
+      "ack": 1,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 2
+    },
+    "revised": {
+      "n": 40,
+      "physical": 21,
+      "false_light": 10,
+      "wrong_geometry": 8,
+      "any_error": 31,
+      "ack": 9,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Real/geometry": {
+    "control": {
+      "n": 24,
+      "physical": 13,
+      "false_light": 4,
+      "wrong_geometry": 5,
+      "any_error": 21,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 2
+    },
+    "revised": {
+      "n": 24,
+      "physical": 17,
+      "false_light": 8,
+      "wrong_geometry": 4,
+      "any_error": 21,
+      "ack": 4,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Real/identity": {
+    "control": {
+      "n": 8,
+      "physical": 3,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 3,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 8,
+      "physical": 3,
+      "false_light": 2,
+      "wrong_geometry": 3,
+      "any_error": 8,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Real/brightness": {
+    "control": {
+      "n": 8,
+      "physical": 2,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 2,
+      "ack": 1,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 8,
+      "physical": 1,
+      "false_light": 0,
+      "wrong_geometry": 1,
+      "any_error": 2,
+      "ack": 5,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Real/natural": {
+    "control": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 5,
+      "ack": 0,
+      "fact_hits": 10,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 4,
+      "possible_facts": 14
+    },
+    "revised": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 5,
+      "ack": 0,
+      "fact_hits": 8,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 6,
+      "possible_facts": 14
+    }
+  },
+  "Render/all_synthetic": {
+    "control": {
+      "n": 40,
+      "physical": 18,
+      "false_light": 26,
+      "wrong_geometry": 0,
+      "any_error": 27,
+      "ack": 7,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 1
+    },
+    "revised": {
+      "n": 40,
+      "physical": 16,
+      "false_light": 30,
+      "wrong_geometry": 9,
+      "any_error": 32,
+      "ack": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 2,
+      "uncertain_pairs": 1
+    }
+  },
+  "Render/geometry": {
+    "control": {
+      "n": 24,
+      "physical": 17,
+      "false_light": 22,
+      "wrong_geometry": 0,
+      "any_error": 22,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 1
+    },
+    "revised": {
+      "n": 24,
+      "physical": 15,
+      "false_light": 23,
+      "wrong_geometry": 7,
+      "any_error": 24,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 2,
+      "uncertain_pairs": 1
+    }
+  },
+  "Render/identity": {
+    "control": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 4,
+      "wrong_geometry": 0,
+      "any_error": 4,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 8,
+      "physical": 1,
+      "false_light": 7,
+      "wrong_geometry": 1,
+      "any_error": 7,
+      "ack": 0,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Render/brightness": {
+    "control": {
+      "n": 8,
+      "physical": 1,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 1,
+      "ack": 7,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    },
+    "revised": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 1,
+      "any_error": 1,
+      "ack": 8,
+      "fact_hits": 0,
+      "unsupported_pairs": 0,
+      "uncertain_pairs": 0
+    }
+  },
+  "Render/natural": {
+    "control": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 5,
+      "ack": 0,
+      "fact_hits": 11,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 2,
+      "possible_facts": 15
+    },
+    "revised": {
+      "n": 8,
+      "physical": 0,
+      "false_light": 0,
+      "wrong_geometry": 0,
+      "any_error": 5,
+      "ack": 0,
+      "fact_hits": 8,
+      "unsupported_pairs": 5,
+      "uncertain_pairs": 4,
+      "possible_facts": 15
+    }
+  }
+}

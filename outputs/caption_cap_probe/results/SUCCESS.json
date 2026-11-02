@@ -1,0 +1,11 @@
+{
+  "n_expected": 23,
+  "n_completed": 23,
+  "complete": true,
+  "soft_stopped": false,
+  "exit_code": 0,
+  "elapsed_seconds": 165.872219625,
+  "GPU": "NVIDIA A10G, 23028 MiB",
+  "adapter_sha256": "6b8d81729b03f83e9c03de9a78fb1aa895a47088c32c4435115ac39b77a1fb5f",
+  "cached_reference_not_same_run_timing": true
+}

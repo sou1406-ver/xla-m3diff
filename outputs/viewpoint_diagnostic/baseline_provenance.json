@@ -1,0 +1,26 @@
+{
+  "repo_commit": "4e346e52185620ec6fa17235d93b0c26a9d47a71",
+  "hf_revisions": {
+    "model": "d6a8880dc789b0816660278c087ac9ebdfe18dd0",
+    "dataset": "ed4a84cc51912c73e3d54c8643256d9469657552"
+  },
+  "seed": 42,
+  "quantization": "none",
+  "dtype": "bfloat16",
+  "temperature": 0,
+  "num_beams": 1,
+  "max_new_tokens": 1024,
+  "use_cache": true,
+  "flash_attention": false,
+  "conv_mode": "qwen_2",
+  "extra_prompt": "",
+  "runner_sha256": "9152195ce2a8ca19ac211456e22c14dce1d285aa37249f266e4d7d8122ed0549",
+  "questions_sha256": {
+    "Real": "18121da4442bdb35647f4b4c3bb792c7a127f60c19d39226d844bc08f53ba4bf",
+    "Render": "3d024e0fe0a99b0a4099f0bf147f4546058ee56b92f31a8f0504c3a3e4b0ab31"
+  },
+  "reference_sha256": {
+    "Real": "54b401bb3c544db457754eabf90bd67aa2910ab071f64c513cf2b9a14e88735d",
+    "Render": "a1442b55fb6f059ec7e50f34a338e6468b820266c161848ab5a065ae54ebba45"
+  }
+}

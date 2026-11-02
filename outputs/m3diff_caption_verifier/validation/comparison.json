@@ -1,0 +1,721 @@
+[
+  {
+    "id": "real_test_pair_000771",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000183.jpg",
+      "Real/test/images/real_test_000188.jpg"
+    ],
+    "baseline": "The scene has darkened. The white pickup truck in the distance on the right side of the frame is no longer visible. The black SUV parked in the left rear of the frame is no longer visible. The red car parked in the left front of the frame is no longer visible. The blue pickup truck in the center of the frame has moved to the left and is now facing the camera. The mailbox at the lower left corner of the frame has been replaced with a new one. The snow on the ground has increased.",
+    "verified": "The scene has darkened. The white pickup truck in the distance on the right side of the frame is no longer visible. The black SUV parked in the left rear of the frame is no longer visible. The red car parked in the left front of the frame is no longer visible. The blue pickup truck in the center of the frame has moved to the left and is now facing the camera. The mailbox at the lower left corner of the frame has been replaced with a new one. The snow on the ground has increased.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The white pickup truck in the distance on the right side of the frame is no longer visible.",
+          "event": "removed",
+          "label": "pickup truck",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The black SUV parked in the left rear of the frame is no longer visible.",
+          "event": "removed",
+          "label": "car",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 3,
+          "sentence": "The red car parked in the left front of the frame is no longer visible.",
+          "event": "removed",
+          "label": "car",
+          "subject_color": "red"
+        },
+        "action": "keep",
+        "reason": "missing, malformed, or non-unique detections"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000345",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000078.jpg",
+      "Real/test/images/real_test_000080.jpg"
+    ],
+    "baseline": "The white tiger plush blanket on the bed has disappeared. The gray pillow that was previously placed on the blue mat at the foot of the bed has disappeared. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and stacked with the other blankets.",
+    "verified": "The white tiger plush blanket on the bed has disappeared. The gray pillow that was previously placed on the blue mat at the foot of the bed has disappeared. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and stacked with the other blankets.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The white tiger plush blanket on the bed has disappeared.",
+          "event": "removed",
+          "label": "blanket",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The gray pillow that was previously placed on the blue mat at the foot of the bed has disappeared.",
+          "event": "removed",
+          "label": "pillow",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000668",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000155.jpg",
+      "Real/test/images/real_test_000159.jpg"
+    ],
+    "baseline": "A blue and white milk carton appears on the large cyan basin in the middle of the rack. The rectangular box containing laundry detergent on the right side of the second level of the shelf has disappeared. The rectangular bar of soap on the left side of the second level has been replaced with a rectangular pink bar of soap.",
+    "verified": "A blue and white milk carton appears on the large cyan basin in the middle of the rack. The rectangular box containing laundry detergent on the right side of the second level of the shelf has disappeared. The rectangular bar of soap on the left side of the second level has been replaced with a rectangular pink bar of soap.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The rectangular box containing laundry detergent on the right side of the second level of the shelf has disappeared.",
+          "event": "removed",
+          "label": "box",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000116",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000027.jpg",
+      "Real/test/images/real_test_000028.jpg"
+    ],
+    "baseline": "The pink box for personal use on the right side of the table has disappeared. A white cup with a pattern on it has appeared in the position where the pink box was previously located.",
+    "verified": "The pink box for personal use on the right side of the table has disappeared. A white cup with a pattern on it has appeared in the position where the pink box was previously located.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The pink box for personal use on the right side of the table has disappeared.",
+          "event": "removed",
+          "label": "box",
+          "subject_color": "pink"
+        },
+        "action": "keep",
+        "reason": "missing, malformed, or non-unique detections"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A white cup with a pattern on it has appeared in the position where the pink box was previously located.",
+          "event": "added",
+          "label": "cup",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000761",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000181.jpg",
+      "Real/test/images/real_test_000175.jpg"
+    ],
+    "baseline": "The black e-bike with red details on the left side of the image has disappeared. Two yellow e-bikes have appeared in front of the middle and right sides of the image.",
+    "verified": "The black e-bike with red details on the left side of the image has disappeared. Two yellow e-bikes have appeared in front of the middle and right sides of the image.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The black e-bike with red details on the left side of the image has disappeared.",
+          "event": "removed",
+          "label": "bicycle",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "Two yellow e-bikes have appeared in front of the middle and right sides of the image.",
+          "event": "added",
+          "label": "bicycle",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000791",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000187.jpg",
+      "Real/test/images/real_test_000190.jpg"
+    ],
+    "baseline": "The scene has brightened. The white SUV in the left rear of the frame has disappeared. A yellow snowplow has appeared on the right side of the screen. The red taillights of the white pickup truck in the distance have disappeared. The blue lights on the house at the back right of the screen have disappeared.",
+    "verified": "The scene has brightened. The white SUV in the left rear of the frame has disappeared. A yellow snowplow has appeared on the right side of the screen. The red taillights of the white pickup truck in the distance have disappeared. The blue lights on the house at the back right of the screen have disappeared.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The white SUV in the left rear of the frame has disappeared.",
+          "event": "removed",
+          "label": "car",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000351",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000079.jpg",
+      "Real/test/images/real_test_000082.jpg"
+    ],
+    "baseline": "The light blue blanket with white patterns and the dark gray pillow in the lower left corner of the bed have disappeared. The tiger plush toy on the blue mat at the foot of the bed has also disappeared. The two vertically placed light blue blankets on the right side of the bed have been folded into a stack and placed horizontally. The light blue blanket with white polka dots that was previously rolled up in the middle of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up in the middle of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns",
+    "verified": "The light blue blanket with white patterns and the dark gray pillow in the lower left corner of the bed have disappeared. The tiger plush toy on the blue mat at the foot of the bed has also disappeared. The two vertically placed light blue blankets on the right side of the bed have been folded into a stack and placed horizontally. The light blue blanket with white polka dots that was previously rolled up in the middle of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up in the middle of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the foot of the bed has been unfolded and placed flat. The light blue blanket with white patterns that was previously rolled up at the head of the bed has been unfolded and placed flat. The light blue blanket with white patterns",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The light blue blanket with white patterns and the dark gray pillow in the lower left corner of the bed have disappeared.",
+          "event": "removed",
+          "label": "blanket",
+          "subject_color": "blue"
+        },
+        "action": "keep",
+        "reason": "missing, malformed, or non-unique detections"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000025",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000003.jpg",
+      "Real/test/images/real_test_000006.jpg"
+    ],
+    "baseline": "A new train toy has appeared to the left of the blue toy car in the center of the scene. The blue toy car has moved from the front to the back, and a green bell has newly appeared in its original position.",
+    "verified": "A new train toy has appeared to the left of the blue toy car in the center of the scene. The blue toy car has moved from the front to the back, and a green bell has newly appeared in its original position.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A new train toy has appeared to the left of the blue toy car in the center of the scene.",
+          "event": "added",
+          "label": "train toy",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The blue toy car has moved from the front to the back, and a green bell has newly appeared in its original position.",
+          "event": "added",
+          "label": "toy car",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000798",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000191.jpg",
+      "Real/test/images/real_test_000185.jpg"
+    ],
+    "baseline": "The scene has brightened. The white pickup truck in the distance on the right side of the frame has moved to the left side of the frame, and its rear lights are now visible.",
+    "verified": "The scene has brightened. The white pickup truck in the distance on the right side of the frame has moved to the left side of the frame, and its rear lights are now visible.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The white pickup truck in the distance on the right side of the frame has moved to the left side of the frame, and its rear lights are now visible.",
+          "event": "added",
+          "label": "pickup truck",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000585",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000135.jpg",
+      "Real/test/images/real_test_000137.jpg"
+    ],
+    "baseline": "The scene has become brighter. A new red and white toy car has appeared in the lower left corner of the gray ottoman. In the middle of the ottoman, a new off-road vehicle with red wheels and a yellow body has appeared, facing the front left. Two pink and one purple ball have appeared on the right side of the ottoman.",
+    "verified": "The scene has become brighter. A new red and white toy car has appeared in the lower left corner of the gray ottoman. In the middle of the ottoman, a new off-road vehicle with red wheels and a yellow body has appeared, facing the front left. Two pink and one purple ball have appeared on the right side of the ottoman.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A new red and white toy car has appeared in the lower left corner of the gray ottoman.",
+          "event": "added",
+          "label": "toy car",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 3,
+          "sentence": "Two pink and one purple ball have appeared on the right side of the ottoman.",
+          "event": "added",
+          "label": "ball",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000528",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000118.jpg",
+      "Real/test/images/real_test_000123.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. The green cutting board behind the white cup has changed its orientation, rotating to the right. The transparent glass cup on the left side of the scene has disappeared. The blue cylindrical container in front of the white cup has moved to the right and is now placed next to the dark blue water bottle. A new red metal cup has appeared in front of the blue water bottle.",
+    "verified": "The ambient lighting has brightened. The green cutting board behind the white cup has changed its orientation, rotating to the right. The transparent glass cup on the left side of the scene has disappeared. The blue cylindrical container in front of the white cup has moved to the right and is now placed next to the dark blue water bottle. A new red metal cup has appeared in front of the blue water bottle.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The transparent glass cup on the left side of the scene has disappeared.",
+          "event": "removed",
+          "label": "cup",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 4,
+          "sentence": "A new red metal cup has appeared in front of the blue water bottle.",
+          "event": "added",
+          "label": "cup",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "real_test_pair_000515",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000116.jpg",
+      "Real/test/images/real_test_000121.jpg"
+    ],
+    "baseline": "The ambient lighting has brightened. A green cup with a blue base has appeared in front of the red and yellow toy milk bottle on the right side of the scene.",
+    "verified": "The ambient lighting has brightened. A green cup with a blue base has appeared in front of the red and yellow toy milk bottle on the right side of the scene.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A green cup with a blue base has appeared in front of the red and yellow toy milk bottle on the right side of the scene.",
+          "event": "added",
+          "label": "cup",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000324",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000053.jpg",
+      "Render/test/images/render_test_outdoor_000044.jpg"
+    ],
+    "baseline": "A woman wearing a white vest and black pants has appeared behind the meadow, with her hands on her waist, facing the tree on the left side of the picture, with her back to the waterfall. The hamburger on the right side of the picnic blanket has been replaced by two cups of red drinks.",
+    "verified": "A woman wearing a white vest and black pants has appeared behind the meadow, with her hands on her waist, facing the tree on the left side of the picture, with her back to the waterfall. The hamburger on the right side of the picnic blanket has been replaced by two cups of red drinks.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A woman wearing a white vest and black pants has appeared behind the meadow, with her hands on her waist, facing the tree on the left side of the picture, with her back to the waterfall.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000682",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000053.jpg",
+      "Render/test/images/render_test_indoor_000055.jpg"
+    ],
+    "baseline": "The word 'Hushe' in blue letters, previously visible above the right side of the scene near the top of the wall, has been removed. A person wearing a white short-sleeved shirt, blue jeans, and white shoes is now present in the center of the hospital room, facing away from the viewpoint and looking toward the windows at the end of the room.",
+    "verified": "The word 'Hushe' in blue letters, previously visible above the right side of the scene near the top of the wall, has been removed. A person wearing a white short-sleeved shirt, blue jeans, and white shoes is now present in the center of the hospital room, facing away from the viewpoint and looking toward the windows at the end of the room.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A person wearing a white short-sleeved shirt, blue jeans, and white shoes is now present in the center of the hospital room, facing away from the viewpoint and looking toward the windows at the end of the room.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000455",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000012.jpg",
+      "Render/test/images/render_test_indoor_000005.jpg"
+    ],
+    "baseline": "A person wearing a black hat, an orange top, black pants, and black shoes appears in the front left of the scene. She is facing the table on the left side of the scene, holding a beige coat in her right hand, with her left hand raised near her mouth. The green cabinet door at the back left of the scene has disappeared.",
+    "verified": "A person wearing a black hat, an orange top, black pants, and black shoes appears in the front left of the scene. She is facing the table on the left side of the scene, holding a beige coat in her right hand, with her left hand raised near her mouth. The green cabinet door at the back left of the scene has disappeared.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A person wearing a black hat, an orange top, black pants, and black shoes appears in the front left of the scene.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The green cabinet door at the back left of the scene has disappeared.",
+          "event": "removed",
+          "label": "cabinet",
+          "subject_color": "green"
+        },
+        "action": "keep",
+        "reason": "missing, malformed, or non-unique detections"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000354",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000057.jpg",
+      "Render/test/images/render_test_outdoor_000063.jpg"
+    ],
+    "baseline": "The wooden chair with a cushion on the left side of the scene has been moved to the right, and its orientation is now facing the table. The two large terracotta pots in the middle of the greenhouse have been reduced in size. A purple box has appeared next to the wooden bench on the left side of the greenhouse.",
+    "verified": "The wooden chair with a cushion on the left side of the scene has been moved to the right, and its orientation is now facing the table. The two large terracotta pots in the middle of the greenhouse have been reduced in size. A purple box has appeared next to the wooden bench on the left side of the greenhouse.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "A purple box has appeared next to the wooden bench on the left side of the greenhouse.",
+          "event": "added",
+          "label": "box",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000487",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000018.jpg",
+      "Render/test/images/render_test_indoor_000016.jpg"
+    ],
+    "baseline": "A person wearing a white top and blue pants has appeared on the right side of the kitchen, facing the black counter on the right. A blue sign with the word \"kitchen\" has appeared in front of the round table in the center of the scene. The white clock hanging on the wall at the back left of the scene has changed from brown to white. A stainless steel pot has appeared on the stove at the back right of the scene. The transparent glass goblet on the black countertop at the back right of the scene has changed color from red to yellow.",
+    "verified": "A person wearing a white top and blue pants has appeared on the right side of the kitchen, facing the black counter on the right. A blue sign with the word \"kitchen\" has appeared in front of the round table in the center of the scene. The white clock hanging on the wall at the back left of the scene has changed from brown to white. A stainless steel pot has appeared on the stove at the back right of the scene. The transparent glass goblet on the black countertop at the back right of the scene has changed color from red to yellow.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A person wearing a white top and blue pants has appeared on the right side of the kitchen, facing the black counter on the right.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000509",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000021.jpg",
+      "Render/test/images/render_test_indoor_000022.jpg"
+    ],
+    "baseline": "The white chair with a light beige cushion on the left side of the round table has appeared. The transparent glass water bottle on the black countertop to the left of the oven has appeared. The stainless steel oven at the rear right of the kitchen has disappeared. The blue kettle on the round wooden table in the center of the scene has changed to transparent. The two wine glasses on the black countertop at the back right of the scene have changed from yellow to transparent.",
+    "verified": "The white chair with a light beige cushion on the left side of the round table has appeared. The transparent glass water bottle on the black countertop to the left of the oven has appeared. The stainless steel oven at the rear right of the kitchen has disappeared. The blue kettle on the round wooden table in the center of the scene has changed to transparent. The two wine glasses on the black countertop at the back right of the scene have changed from yellow to transparent.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The white chair with a light beige cushion on the left side of the round table has appeared.",
+          "event": "added",
+          "label": "chair",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The transparent glass water bottle on the black countertop to the left of the oven has appeared.",
+          "event": "added",
+          "label": "bottle",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000381",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000064.jpg",
+      "Render/test/images/render_test_outdoor_000060.jpg"
+    ],
+    "baseline": "A person wearing a white vest, blue overall overalls, and a blue hat appears in the middle of the greenhouse, standing with hands on hips, facing the front of the scene. The word \"Shep\" in large blue letters has appeared on the ground at the front entrance of the greenhouse, positioned in front of the wooden table and chairs.",
+    "verified": "A person wearing a white vest, blue overall overalls, and a blue hat appears in the middle of the greenhouse, standing with hands on hips, facing the front of the scene. The word \"Shep\" in large blue letters has appeared on the ground at the front entrance of the greenhouse, positioned in front of the wooden table and chairs.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A person wearing a white vest, blue overall overalls, and a blue hat appears in the middle of the greenhouse, standing with hands on hips, facing the front of the scene.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000283",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000048.jpg",
+      "Render/test/images/render_test_outdoor_000043.jpg"
+    ],
+    "baseline": "A blue and white beach chair has moved from the right side of the picnic blanket to the left side of the blanket, closer to the tree on the right. A man wearing a white vest and black pants appears behind the picture, with his hands on his waist, facing the tree on the left.",
+    "verified": "A blue and white beach chair has moved from the right side of the picnic blanket to the left side of the blanket, closer to the tree on the right. A man wearing a white vest and black pants appears behind the picture, with his hands on his waist, facing the tree on the left.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A man wearing a white vest and black pants appears behind the picture, with his hands on his waist, facing the tree on the left.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000622",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000044.jpg",
+      "Render/test/images/render_test_indoor_000041.jpg"
+    ],
+    "baseline": "A woman wearing a yellow dress and white shoes appears on the right side of the classroom, standing near the wall, facing the left side of the classroom with her body slightly angled towards the front. The blackboard at the front of the classroom has decreased in size.",
+    "verified": "A woman wearing a yellow dress and white shoes appears on the right side of the classroom, standing near the wall, facing the left side of the classroom with her body slightly angled towards the front. The blackboard at the front of the classroom has decreased in size.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "A woman wearing a yellow dress and white shoes appears on the right side of the classroom, standing near the wall, facing the left side of the classroom with her body slightly angled towards the front.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000691",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000051.jpg",
+      "Render/test/images/render_test_indoor_000056.jpg"
+    ],
+    "baseline": "The scene has become darker. A person wearing a white T-shirt, dark pants, and white shoes has appeared in the center of the scene, facing the camera, holding a cardboard box.",
+    "verified": "The scene has become darker. A person wearing a white T-shirt, dark pants, and white shoes has appeared in the center of the scene, facing the camera, holding a cardboard box.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "A person wearing a white T-shirt, dark pants, and white shoes has appeared in the center of the scene, facing the camera, holding a cardboard box.",
+          "event": "added",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000564",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000032.jpg",
+      "Render/test/images/render_test_indoor_000033.jpg"
+    ],
+    "baseline": "The white pillow on the right side of the top bunk bed has appeared. The blue book on the cabinet to the left of the lower bed has appeared. The orange cylindrical pillow on the lower bed has appeared. The white pillow on the left side of the lower bed has appeared. The color of the rectangular cushion on the floor below the lower bed has changed from yellow to orange.",
+    "verified": "The white pillow on the right side of the top bunk bed has appeared. The blue book on the cabinet to the left of the lower bed has appeared. The orange cylindrical pillow on the lower bed has appeared. The white pillow on the left side of the lower bed has appeared. The color of the rectangular cushion on the floor below the lower bed has changed from yellow to orange.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The white pillow on the right side of the top bunk bed has appeared.",
+          "event": "added",
+          "label": "pillow",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 1,
+          "sentence": "The blue book on the cabinet to the left of the lower bed has appeared.",
+          "event": "added",
+          "label": "book",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 2,
+          "sentence": "The orange cylindrical pillow on the lower bed has appeared.",
+          "event": "added",
+          "label": "pillow",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      },
+      {
+        "claim": {
+          "sentence_index": 3,
+          "sentence": "The white pillow on the left side of the lower bed has appeared.",
+          "event": "added",
+          "label": "pillow",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  },
+  {
+    "id": "render_test_pair_000007",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000003.jpg",
+      "Render/test/images/render_test_outdoor_000006.jpg"
+    ],
+    "baseline": "The man wearing a hat, a yellow coat, and blue pants, who was on the left side of the screen, facing away from the picture with his back to the camera and a backpack on his shoulders, is no longer visible. The bicycle that was leaning against the right fence in front of the red house has moved to the center of the road.",
+    "verified": "The man wearing a hat, a yellow coat, and blue pants, who was on the left side of the screen, facing away from the picture with his back to the camera and a backpack on his shoulders, is no longer visible. The bicycle that was leaning against the right fence in front of the red house has moved to the center of the road.",
+    "changed": false,
+    "decisions": [
+      {
+        "claim": {
+          "sentence_index": 0,
+          "sentence": "The man wearing a hat, a yellow coat, and blue pants, who was on the left side of the screen, facing away from the picture with his back to the camera and a backpack on his shoulders, is no longer visible.",
+          "event": "removed",
+          "label": "person",
+          "subject_color": null
+        },
+        "action": "keep",
+        "reason": "outside supported scope or uncertain"
+      }
+    ]
+  }
+]

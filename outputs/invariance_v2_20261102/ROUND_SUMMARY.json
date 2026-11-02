@@ -1,0 +1,44 @@
+{
+  "complete": true,
+  "new_checkpoints": 2,
+  "updates_each": 128,
+  "new_generations": 448,
+  "new_full_test": false,
+  "promoted": null,
+  "all_own_apps_stopped": true,
+  "billing_snapshot_usd": "2.10048036",
+  "decision": {
+    "control": {
+      "primary_checks": {
+        "fewer_synthetic_unsupported_cases": true,
+        "Real_natural_facts_preserved": true,
+        "Render_natural_facts_preserved": true,
+        "natural_unsupported_pairs_not_increased": true
+      },
+      "primary_pass": true,
+      "positive_stress_checks": {
+        "Real_stress_facts_preserved": false,
+        "Render_stress_facts_preserved": false,
+        "stress_unsupported_pairs_not_increased": true
+      },
+      "positive_stress_pass": false,
+      "eligible_for_broad_evaluation": false
+    },
+    "revised": {
+      "primary_checks": {
+        "fewer_synthetic_unsupported_cases": true,
+        "Real_natural_facts_preserved": false,
+        "Render_natural_facts_preserved": false,
+        "natural_unsupported_pairs_not_increased": true
+      },
+      "primary_pass": false,
+      "positive_stress_checks": {
+        "Real_stress_facts_preserved": false,
+        "Render_stress_facts_preserved": false,
+        "stress_unsupported_pairs_not_increased": false
+      },
+      "positive_stress_pass": false,
+      "eligible_for_broad_evaluation": false
+    }
+  }
+}

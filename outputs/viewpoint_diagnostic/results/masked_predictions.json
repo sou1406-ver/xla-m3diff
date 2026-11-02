@@ -1,0 +1,542 @@
+[
+  {
+    "id": "furniture__identity",
+    "scene": "furniture",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "There is no difference between the two images.",
+    "candidate_2": "The scene remains the same."
+  },
+  {
+    "id": "furniture__zoom_1p10",
+    "scene": "furniture",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The lighting has brightened.",
+    "candidate_2": "The ambient lighting has brightened."
+  },
+  {
+    "id": "furniture__roll_8_safe",
+    "scene": "furniture",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The ambient lighting has become brighter.",
+    "candidate_2": "The lighting has dimmed."
+  },
+  {
+    "id": "furniture__roll_minus8_zoom",
+    "scene": "furniture",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The lighting has brightened. The stool on the right side of the scene has rotated 90 degrees clockwise.",
+    "candidate_2": "The ambient lighting has brightened. The stool on the right side of the scene has rotated clockwise by a certain angle, changing its orientation from facing forward to facing left."
+  },
+  {
+    "id": "furniture__natural",
+    "scene": "furniture",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "A green cushion has been added to the stool on the right side of the scene. A white toy goose has appeared on the white table in the middle of the scene. The blue pillow that was originally on the stool on the left side of the scene has moved to the top of the gray low stool in the center of the scene. Two new green stools have appeared in front of the white table in the center of the scene.",
+    "candidate_2": "The blue cushion on the chair in the upper left corner of the scene has been replaced with a green cushion. A white toy goose plush toy has appeared on the white table on the right side of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved from being placed under the wooden table on the left side to being placed under the white table on the right side."
+  },
+  {
+    "id": "exercise__identity",
+    "scene": "exercise",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right."
+  },
+  {
+    "id": "exercise__zoom_1p10",
+    "scene": "exercise",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The girl in the center of the screen, who was previously looking at the camera, is now looking to her left.",
+    "candidate_2": "The three people in the center of the scene, who were previously facing forward, now turn their heads to the right."
+  },
+  {
+    "id": "exercise__roll_8_safe",
+    "scene": "exercise",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The three people in the middle of the formation change from facing forward to turning their heads to the left.",
+    "candidate_2": "The girl in the center of the screen, who was previously facing forward, is now facing right."
+  },
+  {
+    "id": "exercise__roll_minus8_zoom",
+    "scene": "exercise",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The girl in the center of the screen has raised her head.",
+    "candidate_2": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right."
+  },
+  {
+    "id": "exercise__natural",
+    "scene": "exercise",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The three people in the center of the scene, who were previously facing forward with their legs bent and hands resting on their chests, have now turned to the left, bending their bodies to the left while raising their right arms high.",
+    "candidate_2": "The three people in the middle row, who were previously facing forward with their bodies slightly bent and hands crossed in front of their chests, have now turned to the left side of the frame, bending their upper bodies to the left while extending their right arms backward."
+  },
+  {
+    "id": "yoga__identity",
+    "scene": "yoga",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The right hand, previously bent and holding the edge of the circular arch, is now straightened.",
+    "candidate_2": "The ambient lighting has brightened."
+  },
+  {
+    "id": "yoga__zoom_1p10",
+    "scene": "yoga",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The light in the scene has become stronger.",
+    "candidate_2": "The right leg, which was bent and supported on the ground, is now straightened. The left hand, which was resting on the edge of the arch, is now extended upward."
+  },
+  {
+    "id": "yoga__roll_8_safe",
+    "scene": "yoga",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The ambient lighting has brightened. The posture of the person in white clothes changes from a standing position with the left leg bent forward and the right leg extended backward, to a posture where the left leg is straight and supporting the body, while the right leg is bent and lifted, with the right hand touching the ground for support.",
+    "candidate_2": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the right side. The gaze shifts from being directed toward the ground to looking straight ahead. The arm movement changes from both arms extended, with the left hand supporting on the edge and the right hand raised, to the left hand supporting on the edge while the right hand is raised. The leg movement changes from the left leg bent and supporting, with the right leg extended backward, to the left leg straight and supporting, with the right leg lifted backward."
+  },
+  {
+    "id": "yoga__roll_minus8_zoom",
+    "scene": "yoga",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the front right. The gaze shifts from looking at the ground to looking straight ahead. The arm movement changes from the left hand supporting on the edge with the left arm bent and the right hand raised, to both arms extended horizontally. The leg movement changes from the left leg standing upright and the right leg bent backward, to the left leg standing upright and the right leg bent backward.",
+    "candidate_2": "The ambient lighting has brightened. The girl's body is now more bent forward, with her waist leaning forward and her head looking down at the ground. Her left hand, which was previously resting on the edge of the building, is now raised to the side. Her right hand, which was previously supporting her body, is now also raised to the side."
+  },
+  {
+    "id": "yoga__natural",
+    "scene": "yoga",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The posture of the person in white clothes changes from facing the left side with the left leg extended backward, right leg bent forward, waist tilted to the right, and both arms raised and extended horizontally to either side, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down.",
+    "candidate_2": "The posture of the person in white clothing changes from a standing position with the left leg extended backward and the right leg bent to support the body, arms raised and extended horizontally on both sides, to facing down with the head touching the ground, legs spread apart, and arms supporting the ground."
+  },
+  {
+    "id": "mouse__identity",
+    "scene": "mouse",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The mouse has turned its head to the left and is biting a peanut."
+  },
+  {
+    "id": "mouse__zoom_1p10",
+    "scene": "mouse",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The mouse has turned its head to the left and is biting a peanut on the ground.",
+    "candidate_2": "The quantity of food on the wooden table has changed."
+  },
+  {
+    "id": "mouse__roll_8_safe",
+    "scene": "mouse",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The mouse has moved to the left.",
+    "candidate_2": "The mouse has moved from the left side of the wooden box to the right side, closer to the feed tray."
+  },
+  {
+    "id": "mouse__roll_minus8_zoom",
+    "scene": "mouse",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The mouse has turned its head to the left and is biting the food on the ground.",
+    "candidate_2": "The mouse has moved from the left side of the frame to the right side."
+  },
+  {
+    "id": "mouse__natural",
+    "scene": "mouse",
+    "partition": "dev",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The mouse has moved from the middle of the scene to the mouse hole in the wooden board. The quantity of food scattered on the wooden board has changed.",
+    "candidate_2": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scattered on the wooden board has decreased."
+  },
+  {
+    "id": "kitchen__identity",
+    "scene": "kitchen",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The scene has not changed."
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "scene": "kitchen",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The scene has become brighter."
+  },
+  {
+    "id": "kitchen__roll_8_safe",
+    "scene": "kitchen",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The brightness of the scene has increased.",
+    "candidate_2": "The yellow lid on the right side of the table has disappeared."
+  },
+  {
+    "id": "kitchen__roll_minus8_zoom",
+    "scene": "kitchen",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The brightness of the scene has increased.",
+    "candidate_2": "The ambient lighting has brightened."
+  },
+  {
+    "id": "kitchen__natural",
+    "scene": "kitchen",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the right side of the table has rotated clockwise by a certain angle, changing its orientation from facing the front left to facing the right side of the table.",
+    "candidate_2": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle."
+  },
+  {
+    "id": "silhouette__identity",
+    "scene": "silhouette",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains unchanged.",
+    "candidate_2": "The person's right hand changes from being raised to the left side of the head to being raised above the head."
+  },
+  {
+    "id": "silhouette__zoom_1p10",
+    "scene": "silhouette",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "zoom_1p10",
+    "candidate_1": "The person's posture has changed from bending the right leg and lifting the left leg to standing on the right leg with the left leg raised.",
+    "candidate_2": "The person's posture changes from having the right leg bent and supporting the body, with the left leg raised and bent at a 90-degree angle, to standing upright with the right leg supporting the body, while the left leg is raised and bent at a 90-degree angle."
+  },
+  {
+    "id": "silhouette__roll_8_safe",
+    "scene": "silhouette",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The person's posture has changed from bending the left leg and lifting the right leg to standing on the left leg with the right leg bent behind.",
+    "candidate_2": "The person's left leg, previously bent and supporting the body, is now straightened."
+  },
+  {
+    "id": "silhouette__roll_minus8_zoom",
+    "scene": "silhouette",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The person's posture has changed from bending the right leg and lifting the left leg to standing straight with both legs together.",
+    "candidate_2": "The person's left leg, previously bent and supporting the body, is now straightened."
+  },
+  {
+    "id": "silhouette__natural",
+    "scene": "silhouette",
+    "partition": "validation",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The ambient lighting has become dimmer. The posture of the person in the picture changes from standing with legs apart, right hand raised above the head, left hand extended to the side, waist slightly turned to the left, and the upper body facing away from the frame to a posture where the body is slightly tilted to the right, the left leg is raised high, the right leg stands firmly on the ground, and both hands are extended forward.",
+    "candidate_2": "The posture of the figure changes from standing with the right leg bent and supporting the body, while the left leg is raised and bent, with both arms extended to the sides, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward."
+  },
+  {
+    "id": "hospital__identity",
+    "scene": "hospital",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The light in the scene has diminished."
+  },
+  {
+    "id": "hospital__zoom_1p10",
+    "scene": "hospital",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The lighting has dimmed.",
+    "candidate_2": "The area has grown darker. The gray mats at the foot of the beds on both sides have become smaller."
+  },
+  {
+    "id": "hospital__roll_8_safe",
+    "scene": "hospital",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The area is now brighter. The gray medical bed in the middle of the left side of the scene has been rotated to the right, facing the window at the foot of the bed.",
+    "candidate_2": "The scene has become more illuminated."
+  },
+  {
+    "id": "hospital__roll_minus8_zoom",
+    "scene": "hospital",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The light in the scene has diminished. The flower arrangement on the bedside table to the left of the room's central corridor, originally placed on a small table, is now placed directly on the bed frame.",
+    "candidate_2": "The light in the scene has increased. The white medical table at the far end of the left side of the room, next to the single bed, is no longer present.The white medical table at the far end of the right side of the room, next to the single bed, is no longer present."
+  },
+  {
+    "id": "hospital__natural",
+    "scene": "hospital",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The light level has dropped. A new red medical waste bin has appeared between the two beds on the right side of the scene.",
+    "candidate_2": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red."
+  },
+  {
+    "id": "street__identity",
+    "scene": "street",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become darker.",
+    "candidate_2": "The light level has dropped."
+  },
+  {
+    "id": "street__zoom_1p10",
+    "scene": "street",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The light level has dropped. The front wheel of the bicycle in the middle of the road has turned to the right.",
+    "candidate_2": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers that was originally on the left side of the scene, near the red house on the left and next to the black iron fence, is no longer visible."
+  },
+  {
+    "id": "street__roll_8_safe",
+    "scene": "street",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers on the brick platform at the entrance of the red house on the left side of the screen is no longer visible.",
+    "candidate_2": "The light level has dropped. The brown bicycle that was originally leaning against the right side of the road is now leaning against the left side of the road."
+  },
+  {
+    "id": "street__roll_minus8_zoom",
+    "scene": "street",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The bicycle that was leaning against the right side of the sidewalk is now lying on the road in the middle of the picture. The gray metal fence at the entrance of the red house on the right side of the picture has been replaced with a black metal fence. The potted plant in front of the blue house's steps has changed from green to brown.",
+    "candidate_2": "The light level has dropped. The flower pot in the lower left corner of the screen has disappeared.The bicycle that was originally leaning against the right side of the road has moved to the center of the road."
+  },
+  {
+    "id": "street__natural",
+    "scene": "street",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The red bicycle in the rear right of the picture has been moved to the front left.",
+    "candidate_2": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray pillar and bucket."
+  },
+  {
+    "id": "picnic__identity",
+    "scene": "picnic",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left side of the scene.",
+    "candidate_2": "The blue and white striped wooden chair on the right side of the scene has turned to face the left side."
+  },
+  {
+    "id": "picnic__zoom_1p10",
+    "scene": "picnic",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The light level has dropped. The blue and white striped wooden chair on the right side of the scene has turned to face the right side. The white cup in the center of the picnic mat has been replaced with a transparent glass. The quantity of white flowers in the lower right corner of the picnic mat has decreased.",
+    "candidate_2": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The white cup with a handle in front of the picnic basket on the left side of the picnic blanket has been replaced by a transparent glass."
+  },
+  {
+    "id": "picnic__roll_8_safe",
+    "scene": "picnic",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The brown picnic basket, originally placed on the picnic blanket near the upper left corner of the scene, has been moved to the lower right corner of the picnic blanket. The white cup with a handle that was in front of the round pastry box on the picnic blanket is no longer visible.",
+    "candidate_2": "The blue and white striped bench that was previously facing the right side of the picture has now turned to face the left side. The picnic mat has rotated clockwise, changing its orientation from horizontal to diagonal. The brown picnic box on the picnic mat has moved from the left side to the right side. The quantity of white flowers in the lower right corner of the scene has decreased."
+  },
+  {
+    "id": "picnic__roll_minus8_zoom",
+    "scene": "picnic",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The scene has become more illuminated. The blue and white striped wooden lounge chair, originally facing the camera, is now facing the waterfall on the right side of the scene.",
+    "candidate_2": "The lighting has improved. The blue and white striped wooden chair, which was originally facing the left side of the scene, is now facing the right side of the scene. The quantity of white flowers in the distance near the waterfall has increased. The quantity of yellow flowers on the grass to the right of the picnic table has increased."
+  },
+  {
+    "id": "picnic__natural",
+    "scene": "picnic",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "A new round pastry has appeared to the right of the picnic basket in the center of the scene.",
+    "candidate_2": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, facing the waterfall. A new plate of cookies has appeared on the picnic blanket in front of the blue-and-white lounge chair."
+  },
+  {
+    "id": "office__identity",
+    "scene": "office",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The white rectangular cabinet on the left wall of the scene has decreased in size."
+  },
+  {
+    "id": "office__zoom_1p10",
+    "scene": "office",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the back left of the scene has turned from facing the table to facing the camera.",
+    "candidate_2": "The scene has become more illuminated. The black office chair in the middle of the left side of the scene, facing away from the camera, has disappeared."
+  },
+  {
+    "id": "office__roll_8_safe",
+    "scene": "office",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The white keyboard in front of the center computer on the far right table is no longer present. The black office chair with wheels, originally positioned in front of the left side of the first row of tables, has been moved to the left side of the second row of tables. The gray rectangular monitor on the second table from the left in the back row has been replaced by a black monitor.",
+    "candidate_2": "The scene has become more illuminated. The black office chair in the middle of the left side of the desk, facing away from the camera, has disappeared.The white keyboard on the computer at the far right of the first row of tables has been replaced with a white mouse.A new white keyboard has appeared on the computer at the far left of the first row of tables."
+  },
+  {
+    "id": "office__roll_minus8_zoom",
+    "scene": "office",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The white keyboard on the center of the second row of desks from the left is no longer present. The black office chair in front of the computer on the far right of the first row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the second row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the third row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the fourth row of tables has turned to face the table instead of away from it.",
+    "candidate_2": "The scene has become more illuminated. The black office chair in the middle of the left side of the desk, facing away from the camera, has moved to the right side of the table."
+  },
+  {
+    "id": "office__natural",
+    "scene": "office",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The gray trash can in the bottom right corner of the first row of desks is no longer visible. The black office chair in front of the computer desk on the right side of the second row has turned from facing the left side of the screen to facing the right side of the screen.",
+    "candidate_2": "The chair in front of the computer desk at the back left of the scene has turned from facing right to facing left."
+  },
+  {
+    "id": "greenhouse__identity",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The wooden table located in the lower left corner of the greenhouse has been rotated, changing its orientation from facing the front-right to facing the back-left.",
+    "candidate_2": "The light level has increased."
+  },
+  {
+    "id": "greenhouse__zoom_1p10",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the left, and the bench below the window on the left side has also moved to the left.",
+    "candidate_2": "The light in the scene has increased. The wooden table on the left side of the scene, next to the chair, has been rotated from facing forward to facing right.A brown potted plant that was previously located on the ground near the entrance at the far right side of the greenhouse is now positioned on the ground near the entrance on the left side of the scene."
+  },
+  {
+    "id": "greenhouse__roll_8_safe",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench.",
+    "candidate_2": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green hose on the ground in the middle of the greenhouse has changed from a complete circle to a shorter length."
+  },
+  {
+    "id": "greenhouse__roll_minus8_zoom",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The light in the scene has increased. The wooden table on the left side of the scene has been moved to the right, next to the bench.The size of the green potted plant at the far end of the greenhouse, near the entrance, has decreased.",
+    "candidate_2": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench."
+  },
+  {
+    "id": "greenhouse__natural",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the left. The green plants in the wooden box at the front of the scene have disappeared.",
+    "candidate_2": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green plants in the wooden box at the back left of the scene have disappeared."
+  },
+  {
+    "id": "classroom__identity",
+    "scene": "classroom",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The black speaker located above the blackboard, to the left of the school's emblem, has disappeared."
+  },
+  {
+    "id": "classroom__zoom_1p10",
+    "scene": "classroom",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "zoom_1p10",
+    "candidate_1": "The area is now darker. The chair at the far left of the first row on the right side has been moved to the middle position between two desks.",
+    "candidate_2": "The light level has dropped. The blackboard at the front of the classroom, which was previously facing the right side of the scene, is now facing the left side of the scene."
+  },
+  {
+    "id": "classroom__roll_8_safe",
+    "scene": "classroom",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become darker.",
+    "candidate_2": "The scene is now more lit up. The blackboard located behind the white podium in the center of the classroom has decreased in size."
+  },
+  {
+    "id": "classroom__roll_minus8_zoom",
+    "scene": "classroom",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+    "candidate_2": "The light in the scene has diminished. The blackboard located at the front of the classroom, behind the lectern, has decreased in size."
+  },
+  {
+    "id": "classroom__natural",
+    "scene": "classroom",
+    "partition": "validation",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+    "candidate_2": "The scene has become brighter. The blackboard at the front of the classroom, which was previously facing the right side of the scene, is now facing the left side of the scene."
+  }
+]

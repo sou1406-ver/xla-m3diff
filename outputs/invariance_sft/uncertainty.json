@@ -1,0 +1,9 @@
+{
+  "new_scene_n": 8,
+  "delta_physical_fp_percentage_points_candidate_minus_baseline": -9.375,
+  "scene_bootstrap_CI95": [
+    -18.75,
+    -3.125
+  ],
+  "limits": "Within-sample scene resampling only, not uncertainty over training seeds or a fresh test distribution."
+}

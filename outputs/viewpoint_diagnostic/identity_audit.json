@@ -1,0 +1,482 @@
+[
+  {
+    "id": "silhouette__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "street__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "office__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "yoga__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "mouse__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "greenhouse__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "office__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "street__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "exercise__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "office__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "picnic__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "greenhouse__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "furniture__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "furniture__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "silhouette__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "mouse__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "street__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "silhouette__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "furniture__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "yoga__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "hospital__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "picnic__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "office__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "hospital__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "street__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "furniture__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "classroom__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "street__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "mouse__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "yoga__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "hospital__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "silhouette__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "greenhouse__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "office__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "silhouette__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "kitchen__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "exercise__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "kitchen__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "picnic__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "classroom__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "hospital__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "mouse__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "greenhouse__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "furniture__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "kitchen__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "picnic__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "kitchen__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "classroom__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "mouse__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "classroom__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "picnic__identity",
+    "mode": "identity-only",
+    "accept_no_scene_change": true,
+    "reason": "identical_decoded_pixels",
+    "caption": "The two images show the same scene with no visible changes.",
+    "changed": true
+  },
+  {
+    "id": "exercise__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "hospital__zoom_1p10",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "exercise__roll_8_safe",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "classroom__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "greenhouse__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "exercise__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "yoga__roll_minus8_zoom",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  },
+  {
+    "id": "yoga__natural",
+    "mode": "identity-only",
+    "accept_no_scene_change": false,
+    "reason": "fallback_to_model",
+    "caption": null,
+    "changed": false
+  }
+]

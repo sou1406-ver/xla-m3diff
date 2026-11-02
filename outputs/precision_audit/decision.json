@@ -1,0 +1,12 @@
+{
+  "fixed_new_scene_checks": {
+    "new_geometry_physical_fp_decreases": false,
+    "new_Real_fact_hits_do_not_drop": true,
+    "new_Render_fact_hits_do_not_drop": true,
+    "new_unsupported_pairs_do_not_increase": true
+  },
+  "caption_gain_gate_passes": false,
+  "numeric_rounding_evidence": "Mean relative L2 update rounding error .951 on21 matrices; 5.539% of sampled base elements change after merge.",
+  "interpretation": "Numerical discrepancy does not itself imply caption improvement. Keep adapter FP32/unmerged as an explicit experimental loading option, not an established quality gain.",
+  "production_default": "Published checkpoint remains default until a candidate passes factual-preservation and broader checks."
+}

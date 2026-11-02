@@ -1,0 +1,15 @@
+{
+  "matched_lora_initialization": true,
+  "matched_MDP_initialization": true,
+  "matched_actual_sample_order": true,
+  "n_sampled_records": 216,
+  "same_images_prompts_and_input_order": true,
+  "lora_initialization_sha256": "9ba4828a2ed34d9ffb69dcbeec2150b209b9708da663ff52d3ec69579a644ab0",
+  "MDP_initialization_sha256": "c018310f63e3ee7f9eeed978ccb5a62a2868b2076630840a0a3221fbc7b0117d",
+  "target_records_changed": 88,
+  "trainable_parameters": {
+    "original_labels": 104135681,
+    "corrected_labels": 104135681,
+    "corrected_lora_only": 40370176
+  }
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "silhouette__natural",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "street__identity",
+    "image": [
+      "images/street_source.png",
+      "images/street_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "office__zoom_1p10",
+    "image": [
+      "images/office_source.png",
+      "images/office_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "yoga__roll_8_safe",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "mouse__natural",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "greenhouse__identity",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "office__roll_minus8_zoom",
+    "image": [
+      "images/office_source.png",
+      "images/office_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "street__zoom_1p10",
+    "image": [
+      "images/street_source.png",
+      "images/street_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "exercise__identity",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "office__roll_8_safe",
+    "image": [
+      "images/office_source.png",
+      "images/office_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "picnic__natural",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "greenhouse__natural",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "furniture__natural",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "furniture__roll_8_safe",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "silhouette__zoom_1p10",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "mouse__zoom_1p10",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "street__roll_8_safe",
+    "image": [
+      "images/street_source.png",
+      "images/street_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "silhouette__roll_8_safe",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "furniture__roll_minus8_zoom",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "yoga__zoom_1p10",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "hospital__natural",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "picnic__roll_minus8_zoom",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "office__natural",
+    "image": [
+      "images/office_source.png",
+      "images/office_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "hospital__roll_minus8_zoom",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "street__natural",
+    "image": [
+      "images/street_source.png",
+      "images/street_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "furniture__zoom_1p10",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "classroom__roll_minus8_zoom",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "street__roll_minus8_zoom",
+    "image": [
+      "images/street_source.png",
+      "images/street_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "mouse__roll_minus8_zoom",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "yoga__identity",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "hospital__identity",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "silhouette__identity",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "greenhouse__zoom_1p10",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "office__identity",
+    "image": [
+      "images/office_source.png",
+      "images/office_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "silhouette__roll_minus8_zoom",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "kitchen__identity",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "exercise__zoom_1p10",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "kitchen__roll_8_safe",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "picnic__zoom_1p10",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "classroom__roll_8_safe",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "hospital__roll_8_safe",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "mouse__roll_8_safe",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "greenhouse__roll_8_safe",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "furniture__identity",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "kitchen__natural",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "picnic__roll_8_safe",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "kitchen__roll_minus8_zoom",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "classroom__zoom_1p10",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "mouse__identity",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "classroom__identity",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "picnic__identity",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "exercise__natural",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "hospital__zoom_1p10",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_zoom_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "exercise__roll_8_safe",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "classroom__natural",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "greenhouse__roll_minus8_zoom",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "exercise__roll_minus8_zoom",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "yoga__roll_minus8_zoom",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_roll_minus8_zoom.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  },
+  {
+    "id": "yoga__natural",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_positive.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images? <image><image> Compare corresponding objects while accounting for camera rotation, zoom, perspective, lighting, and cropping. An object moving in the frame or becoming cropped is not by itself evidence that it was added, removed, or physically moved. Describe supported scene changes; do not invent changes to unchanged objects. If only the camera view or framing changes, say so. Difference:"
+      }
+    ]
+  }
+]

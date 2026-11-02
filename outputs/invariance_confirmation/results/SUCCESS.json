@@ -1,0 +1,7 @@
+{
+  "n_eval": 80,
+  "generations": 240,
+  "gpu": "NVIDIA A10G, 23028 MiB",
+  "completed_at": 1793130186.6533184,
+  "GPU_released_on_return": true
+}

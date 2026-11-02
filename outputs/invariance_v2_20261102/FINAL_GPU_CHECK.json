@@ -1,0 +1,14 @@
+{
+  "time_utc": "2026-11-02T10:44:20.741304+00:00",
+  "all_own_apps_stopped": true,
+  "active_own_tasks": 0,
+  "app_ids": [
+    "ap-WIQHsKBJxELCehvzmToiXV",
+    "ap-ZSGxpTILIu84uGRLlmbd4c",
+    "ap-Hch5P6oavYL34jDPiAAFav",
+    "ap-GkCEGMY3CDLRFpCNjyLMAt",
+    "ap-y3DVFapxZJkcp9MY6AXvse",
+    "ap-iUSPUybguw2OzbAA6PBz3S"
+  ],
+  "source": "final_apps.json"
+}

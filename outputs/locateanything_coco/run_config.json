@@ -1,0 +1,25 @@
+{
+  "model": "nvidia/LocateAnything-3B",
+  "revision": "c32291ca5e996f5a7a485845b4f57a233936bba0",
+  "torch": "2.6.0+cu124",
+  "gpu": "NVIDIA A10",
+  "dtype": "bfloat16",
+  "attention": "sdpa",
+  "max_image_side": 768,
+  "seed": 42,
+  "generation_mode": "hybrid",
+  "max_new_tokens": 8192,
+  "note": "Small qualitative demo; no ground-truth localization metrics.",
+  "protocol": "First two eligible cached COCO val2017 images per selected class, sorted image_id, unique images, 12 positive and 12 negative image-query pairs, both single/all prompts.",
+  "annotation_sha256": "e8c7f7908f1d7278341fae127d0da654f102f11bd7b21d8aeefa635b8c810b6f",
+  "classes": [
+    "car",
+    "chair",
+    "dog",
+    "cat",
+    "bottle",
+    "cup"
+  ],
+  "seed_per_query": 42,
+  "limits": "Small diagnostic on convenience sample of cached images; COCO annotation absence is a proxy for true absence. Training overlap unknown. Not official benchmark reproduction or proof of M3Diff improvement."
+}

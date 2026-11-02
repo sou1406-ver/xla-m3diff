@@ -1,0 +1,194 @@
+[
+  {
+    "index": 0,
+    "id": "real_test_pair_000159",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "candidate_1": "The blue cushion on the black-legged chair on the left side of the scene has been replaced with a green cushion. A white toy goose has appeared on the white table in the center of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved to the right side.",
+    "candidate_2": "The blue cushion on the black-legged chair on the left side of the scene has been replaced with a green cushion. A white toy goose plush has appeared on the white table in the center of the scene. The number of green stools on the right side of the scene has increased to two.",
+    "candidate_3": "The blue cushion on the black-legged chair on the left side of the scene has been replaced with a green cushion. A white toy goose has appeared on the white table in the center of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved to the right side."
+  },
+  {
+    "index": 1,
+    "id": "real_test_pair_000273",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "candidate_1": "The three people in the center of the scene, who were previously facing forward with their legs bent and hands resting on their chests, have now turned to the left, bending their bodies to the left while extending their right arms upward.",
+    "candidate_2": "The three people in the center of the scene, who were previously facing forward with their legs bent and hands resting on their chests, have now turned to the left, bending their bodies to the left while extending their right arms upward.",
+    "candidate_3": "The three people in the center of the scene, who were previously facing forward with their legs bent and both hands resting on their chests, have now turned to the left side of the frame. Their bodies are leaning to the right, with their left hand extended forward and their right hand bent behind their backs."
+  },
+  {
+    "index": 2,
+    "id": "real_test_pair_000643",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000148.jpg",
+      "Real/test/images/real_test_000152.jpg"
+    ],
+    "candidate_1": "The body posture of the person in white clothing changes from facing the left side with the left hand supporting and the right hand raised to the side, waist tilted to the right, left leg bent and supporting, and right leg extended backward, to lying on the ground with the head naturally hanging down, the back straight, both hands holding the left foot, legs spread apart, and toes pointing toward the sky.",
+    "candidate_2": "The posture of the person in white clothing changes from facing the left side with the left hand supporting and the right hand raised to the side, waist tilted to the right, right leg bent and standing, left leg extended backward, to lying on the ground with the head naturally hanging down, the back straight, both hands holding the left foot, legs spread apart, and toes pointing toward the sky.",
+    "candidate_3": "The posture of the person in white clothing changes from facing the left side with the left hand supporting on the edge of the arch, the right hand raised above the head, the waist tilted to the right, the left leg standing upright, and the right leg bent backward, to lying flat on the ground with the body facing downward, the head naturally relaxed, the legs spread apart, and both hands grasping the left foot."
+  },
+  {
+    "index": 3,
+    "id": "real_test_pair_000184",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000040.jpg",
+      "Real/test/images/real_test_000043.jpg"
+    ],
+    "candidate_1": "The blue pillow on the back of the chair on the left side of the scene has changed to green. The gray stool in the middle of the scene has been replaced by a white toy goose.",
+    "candidate_2": "The blue pillow on the chair in the upper left corner of the scene has been replaced with a green pillow. The gray stool in the middle of the scene has been replaced with a white toy goose.",
+    "candidate_3": "The blue pillow on the chair in the upper left corner of the scene has been replaced by a green pillow. The gray stool in the middle of the scene has been replaced by a white toy goose."
+  },
+  {
+    "index": 4,
+    "id": "real_test_pair_000616",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000144.jpg",
+      "Real/test/images/real_test_000149.jpg"
+    ],
+    "candidate_1": "The posture of the person in white clothes changes from facing left with the upper body parallel to the ground, hands supporting on both sides of the circular opening, waist bent, and legs extended backward, to a handstand position with the head touching the ground, arms supporting the body, and legs straight.",
+    "candidate_2": "The posture of the person in a white outfit changes from facing left with the upper body parallel to the ground, hands supporting on both sides of the circular opening, waist bent, and legs extended backward, to a handstand position with the head touching the ground, arms supporting, legs straightened, and toes pointed upward.",
+    "candidate_3": "The posture of the person in white clothes changes from facing left with the upper body parallel to the ground, hands supporting on both sides of the circular opening, waist bent, and legs extended backward, to a handstand position with the head touching the ground, arms supporting the body, legs straight, and toes pointing upward."
+  },
+  {
+    "index": 5,
+    "id": "real_test_pair_000727",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000169.jpg",
+      "Real/test/images/real_test_000172.jpg"
+    ],
+    "candidate_1": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scraps on the wooden table has decreased.",
+    "candidate_2": "The mouse has moved from the front left of the wooden box to the small hole in the lower right corner. Its head is slightly raised, and it is looking towards the camera. The number of food pieces on the wooden board has decreased.",
+    "candidate_3": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scraps on the wooden table has decreased."
+  },
+  {
+    "index": 6,
+    "id": "real_test_pair_000519",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000117.jpg",
+      "Real/test/images/real_test_000119.jpg"
+    ],
+    "candidate_1": "The green seasoning bottle and the transparent seasoning bottle with a black cap on the right side of the scene have swapped positions. The black seasoning bottle on the right side has been turned to face the left side of the scene.",
+    "candidate_2": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the far right side of the table has disappeared.",
+    "candidate_3": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the far right side of the table has disappeared."
+  },
+  {
+    "index": 7,
+    "id": "real_test_pair_000463",
+    "split": "Real",
+    "images": [
+      "Real/test/images/real_test_000105.jpg",
+      "Real/test/images/real_test_000111.jpg"
+    ],
+    "candidate_1": "The posture of the person in the image changes from having both hands raised above the head, with the right hand bent and the left hand extended forward, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward.",
+    "candidate_2": "The posture of the person in the image changes from having both hands raised above the head, with the right hand bent and the left hand extended forward, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward.",
+    "candidate_3": "The posture of the person in the image changes from having both hands raised above the head, with the right hand bent and the left hand extended forward, to a posture where the body is turned to the right side of the frame, the left leg is lifted high, the right leg stands firmly on the ground, the right arm is extended forward, and the left arm is bent close to the chest."
+  },
+  {
+    "index": 8,
+    "id": "render_test_pair_000756",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000064.jpg",
+      "Render/test/images/render_test_indoor_000052.jpg"
+    ],
+    "candidate_1": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red.",
+    "candidate_2": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red.",
+    "candidate_3": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table lamp above the second bedside table on the right side of the scene has changed from white to red."
+  },
+  {
+    "index": 9,
+    "id": "render_test_pair_000040",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000008.jpg",
+      "Render/test/images/render_test_outdoor_000010.jpg"
+    ],
+    "candidate_1": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray bucket.",
+    "candidate_2": "The bicycle that was originally leaning against the right side of the sidewalk near the curb has now been moved to the center of the road.",
+    "candidate_3": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray bucket."
+  },
+  {
+    "index": 10,
+    "id": "render_test_pair_000277",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "candidate_1": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, facing the waterfall. A new plate of cookies has appeared on the picnic blanket in front of the blue-and-white lounge chair.",
+    "candidate_2": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, replacing the original one. A new round pastry has appeared on the picnic blanket in front of the white cup and red cup.",
+    "candidate_3": "A new blue-and-white beach chair has been moved to the right side of the picnic blanket, closer to the tree on the right side of the scene. A new plate of cookies has appeared in the center of the picnic blanket, positioned between the two brown woven picnic baskets and next to the white cup and red cup."
+  },
+  {
+    "index": 11,
+    "id": "render_test_pair_000472",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "candidate_1": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the far right of the first row has shifted from facing the desk to facing the camera.",
+    "candidate_2": "The white keyboard on the far left of the second row of desks is no longer visible. The black office chair in front of the computer desk on the right side of the first row has turned from facing the left side of the scene to facing the right side.",
+    "candidate_3": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The gray trash can in the bottom right corner of the first row of tables is no longer visible. The black office chair in front of the computer desk on the right side of the second row has turned from facing the camera to facing the left side of the scene."
+  },
+  {
+    "index": 12,
+    "id": "render_test_pair_000355",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "candidate_1": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green plants in the wooden box at the back left of the scene have disappeared.",
+    "candidate_2": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green hose on the ground in the middle of the greenhouse has been moved to the right side of the scene. The two brown pots on the ground to the right of the door at the end of the greenhouse have swapped positions with the potted plant that was originally in the middle of the right side of the greenhouse.",
+    "candidate_3": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green hose that was previously coiled in front of the bench at the back left of the greenhouse has been moved to the front of the bench. The brown flower pot on the ground to the right of the green hose has rotated, changing its orientation from facing the camera to facing away from it."
+  },
+  {
+    "index": 13,
+    "id": "render_test_pair_000600",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_indoor_000037.jpg",
+      "Render/test/images/render_test_indoor_000042.jpg"
+    ],
+    "candidate_1": "The area is now brighter. The middle chair in the first row on the right side has been moved to the left, aligning with the table.",
+    "candidate_2": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+    "candidate_3": "The area is now brighter. The middle chair in the first row on the right side has been moved to the left, closer to the blackboard."
+  },
+  {
+    "index": 14,
+    "id": "render_test_pair_000059",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000010.jpg",
+      "Render/test/images/render_test_outdoor_000012.jpg"
+    ],
+    "candidate_1": "A yellow mop bucket has appeared in the center of the scene, positioned between two houses and near the front entrance of the blue house.",
+    "candidate_2": "A yellow mop bucket has appeared in the center of the scene, positioned between two houses and near the front entrance of the blue house.",
+    "candidate_3": "A yellow mop bucket has appeared in the center of the scene, positioned between two houses and near the front entrance of the blue house."
+  },
+  {
+    "index": 15,
+    "id": "render_test_pair_000042",
+    "split": "Render",
+    "images": [
+      "Render/test/images/render_test_outdoor_000008.jpg",
+      "Render/test/images/render_test_outdoor_000012.jpg"
+    ],
+    "candidate_1": "A yellow mop bucket has appeared in the center of the scene, positioned between two houses and near the front entrance of the blue house. The rusty red bicycle that was originally leaning against the right side of the sidewalk is now located on the left side of the road, closer to the red house.",
+    "candidate_2": "A yellow mop bucket has appeared in the center of the scene, positioned between two houses and near the front entrance of the blue house. The rusty red bicycle that was leaning against the right side of the sidewalk is now located on the left side of the road, closer to the red house.",
+    "candidate_3": "The bicycle that was leaning against the right side of the sidewalk near the curb has moved to the center of the road. The yellow mop bucket in front of the blue house at the back of the scene has appeared."
+  }
+]

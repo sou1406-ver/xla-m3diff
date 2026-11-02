@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "new_scene_geometry_physical_fp_decreases": true,
+    "old_Real_natural_fact_hits_do_not_drop": true,
+    "old_Render_natural_fact_hits_do_not_drop": true,
+    "new_Real_natural_fact_hits_do_not_drop": true,
+    "new_Render_natural_fact_hits_do_not_drop": false,
+    "new_natural_unsupported_pairs_do_not_increase": true
+  },
+  "promising_on_this_development_diagnostic": false,
+  "one_configuration_only": true,
+  "interpretation": "Small single-seed adaptive development pilot, not external validation or proof of 3D robustness. No claim based solely on no-change accuracy.",
+  "selected_for_further_research": false,
+  "production_default": "Published checkpoint + exact-sentence dedup + exact-pixel identity only; approximate registration remains advisory."
+}

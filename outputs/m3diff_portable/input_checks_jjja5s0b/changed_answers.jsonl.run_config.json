@@ -1,0 +1,15 @@
+{
+  "questions_sha256": "890cb94cd724f16e59a318b4854e7c4c072a0b414221f9acc1f53ad592ddd418",
+  "image_file_sha256": {
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\input_checks_jjja5s0b\\before.png": "f3e795d63cae766cebb0175f56398706277616bc65b45909fd6c7371f4d239ba",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\m3diff_portable\\input_checks_jjja5s0b\\one_pixel_change.png": "8257b91d4a618e03d1ff42ff003eb1d69441465c45474ac0f1f9b1d866d8cd33"
+  },
+  "model_files_sha256": {},
+  "model_path": "not_needed",
+  "model_base": null,
+  "runtime_options": [],
+  "adapter_mode": "unmerged_fp32",
+  "exact_identity_guard": true,
+  "eval_runner_sha256": "9152195ce2a8ca19ac211456e22c14dce1d285aa37249f266e4d7d8122ed0549",
+  "loader_sha256": "9b009a14cc8410b26fcd7cae9fe88d15430303dd788234edcfeccd69ad5b3f55"
+}

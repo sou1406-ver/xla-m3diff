@@ -1,0 +1,24 @@
+{
+  "reviewer": "Codex assistant visual review; not independent human adjudication",
+  "masking": "Image-only observations saved first. Candidate names and reference captions hidden during rankings; blind_key.json not opened before saving this file.",
+  "criterion": "Factual precision and coverage of clearly visible changes; ignore wording. Ties include equally flawed captions. Rank tiers best first. Uncertain object identity/occlusion is not a confirmed error.",
+  "cases": [
+    {"index":0,"rank_tiers":[[2],[1,3]],"evidence":"All cover cushion, goose and extra stool. Candidates 1/3 additionally assert a left stool moved right, unsupported by the views. Goose is across ottoman/table, not solely table; cushion shape omitted by all."},
+    {"index":1,"rank_tiers":[[1,2],[3]],"evidence":"Candidates 1/2 capture side bend and overhead arm. All mislocate previous hands at chest. Candidate 3 adds incompatible new arm positions and lean direction."},
+    {"index":2,"rank_tiers":[[1,2,3]],"evidence":"All identify pose change but incorrectly describe new pose as lying flat/on ground rather than standing wide-legged forward bend, and misdescribe hand/foot contact. Limb laterality too uncertain for preference."},
+    {"index":3,"rank_tiers":[[1,2,3]],"evidence":"All identify cushion color but falsely replace gray ottoman with goose: ottoman remains underneath. Equivalent substantive errors."},
+    {"index":4,"rank_tiers":[[1,2,3]],"evidence":"All identify inversion but misdescribe previous supported one-leg balance and new split/bent leg geometry as both straight. Equivalent substantive errors."},
+    {"index":5,"rank_tiers":[[1,2,3]],"evidence":"All identify mouse entering opening; all assert fewer food pieces though camera angle/framing changes prevent reliable quantity comparison. No meaningful precision preference."},
+    {"index":6,"rank_tiers":[[1,2,3]],"evidence":"Clear jar forward movement and newly visible red/black thermos missed. Candidate 1 incorrectly claims bottle swapping/turning; 2/3 incorrectly claim color replacement and disappearance of still-visible green-lid jar. None materially adequate; no defensible clear ranking."},
+    {"index":7,"rank_tiers":[[1,2,3]],"evidence":"All capture lifted leg but describe both initial arms as overhead and misdescribe final rear arm; miss conspicuous changed background/framing. Anatomy is ambiguous; no clear factual advantage."},
+    {"index":8,"rank_tiers":[[1,2,3]],"evidence":"All falsely remove visible flowers and misidentify red bed-end panel as table/lamp. All miss changed wall picture. Equivalent major object confusions."},
+    {"index":9,"rank_tiers":[[1,3],[2]],"evidence":"Bike shifts/rotates toward right curb/bucket. Candidates 1/3 capture direction although initial middle-of-road phrasing overstates it. Candidate 2 reverses movement toward road center. All omit rotation."},
+    {"index":10,"rank_tiers":[[2],[1,3]],"evidence":"Candidate 2 identifies new round pastry and appropriate position. Candidates 1/3 call it cookies; 3 also invents two baskets. All invent chair changes and miss rock plus narrower waterfall. Relative preference only; none fully correct."},
+    {"index":11,"rank_tiers":[[1,2],[3]],"evidence":"True clear change is rear monitor rotation; keyboards/adjacent chairs unchanged in close view. All invent keyboard/chair changes; candidate 3 adds unsupported trash-can disappearance. Candidates 1/2 tied despite different wrong chair directions."},
+    {"index":12,"rank_tiers":[[1,2,3]],"evidence":"All incorrectly move table/chairs and miss white-to-purple watering-can appearance/location change. Other asserted plants/hose/pot changes unsupported. None adequate; no reliable preference from speculative small details."},
+    {"index":13,"rank_tiers":[[1,2,3]],"evidence":"All identify brightness increase and invent unsupported chair movement. Equivalent semantics despite wording."},
+    {"index":14,"rank_tiers":[[1,2,3]],"evidence":"Identical captions locate added yellow item correctly but misidentify folding caution sign as mop bucket."},
+    {"index":15,"rank_tiers":[[3],[1,2]],"evidence":"All identify added yellow item but call sign a mop bucket. All mislocate bicycle end position; candidate 3 center-of-road is less wrong than left side near red house in 1/2. True bike rotates/moves toward right curb; none fully correct."}
+  ],
+  "limitations": "16 correlated pairs, eight per domain. Assistant assessment only, no independent human gold or inter-rater reliability. Relative wins do not imply captions are correct. Aggregate cached-A10 preliminary scores were previously seen; candidate-model mapping remained hidden."
+}

@@ -1,0 +1,48 @@
+{
+  "locked_before_any_confirmation_caption": true,
+  "reviewer": "Codex assistant image-first review, not independent human ground truth",
+  "facts": {
+    "fresh_Real_00": ["A camera with large lens appears at front-left of desk", "Gray mouse previously on circular patterned item at front-center is no longer visible there"],
+    "fresh_Real_01": ["Both arms in upward V change to one arm diagonally forward/up and other hand near waist", "Feet-together stance changes to wide side/lunge stance"],
+    "fresh_Real_02": ["Adult polar bear lifts/turns head from looking down with eyes nearly closed to looking forward with eyes open"],
+    "fresh_Real_03": ["Large rectangular white pillow disappears from center of bed", "White cylindrical bolster disappears from front of bed", "Room becomes visibly brighter"],
+    "fresh_Real_04": ["Air-conditioner remote moves from upright in front of mask boxes to lying flat atop stack"],
+    "fresh_Real_05": ["Small colorful yellow/green push toy with tall orange handle disappears between rocking toy and tricycle"],
+    "fresh_Real_06": ["Goose plush becomes visible sprawling across foreground ottoman/white table", "Number of mint stools increases from one to two", "Chair with green cushion becomes visible at foreground left"],
+    "fresh_Real_07": ["A person in white T-shirt appears among the parked bicycles"],
+    "fresh_Render_00": ["Chair left-of-center in front row relocates/rotates toward foreground center/right"],
+    "fresh_Render_01": ["Person in white sleeveless top appears in front of waterfall"],
+    "fresh_Render_02": ["Person carrying brown box appears in center hospital aisle"],
+    "fresh_Render_03": ["Yellow bicycle rotates from three-quarter/front view to more side-on view"],
+    "fresh_Render_04": ["Black metal shelving unit in front of desks disappears", "Blue floor word Efficient appears"],
+    "fresh_Render_05": ["Person in sleeveless light top appears facing waterfall with back to camera"],
+    "fresh_Render_06": ["Person in overalls disappears from greenhouse corridor", "Blue3D floor word Shop disappears"],
+    "fresh_Render_07": ["Large tree appears at foreground-left sidewalk"]
+  },
+  "scene_groups": {
+    "fresh_Real_00": "known_computer_desk", "fresh_Real_01": "known_exercise", "fresh_Real_02": "new_polar_bears", "fresh_Real_03": "new_hello_kitty_bedroom", "fresh_Real_04": "new_mask_box_table", "fresh_Real_05": "new_children_toys", "fresh_Real_06": "known_furniture", "fresh_Real_07": "new_rotated_bicycle_parking",
+    "fresh_Render_00": "known_office", "fresh_Render_01": "known_picnic", "fresh_Render_02": "known_hospital", "fresh_Render_03": "known_bicycle_alley", "fresh_Render_04": "known_office", "fresh_Render_05": "known_picnic", "fresh_Render_06": "known_greenhouse", "fresh_Render_07": "known_city_intersection"
+  },
+  "unseen_in_prior_diagnostic_backgrounds": ["fresh_Real_02", "fresh_Real_03", "fresh_Real_04", "fresh_Real_05", "fresh_Real_07"],
+  "observations_and_uncertainty": {
+    "fresh_Real_00": "Same desk background as earlier diagnostic, different source pair. Patterned circular item is still visible at right; no evidence it disappears. Monitor/laptop/flags persist.",
+    "fresh_Real_01": "Same exercise video/background, different poses. Avoid anatomical left/right adjudication.",
+    "fresh_Real_02": "Cub persists against adult; do not infer different number of bears. Minor exposure/cub-head differences not primary facts.",
+    "fresh_Real_03": "Small gray pillow and folded blue/printed blankets persist; bedding/bedframe/wall stickers unchanged. Different view not physical wall change.",
+    "fresh_Real_04": "Mask boxes, spray bottle, pink fan and plastic bags persist. Main change is remote location/orientation.",
+    "fresh_Real_05": "Blue armchair, blue rocking toy and white/green tricycle persist in same arrangement. Removed small push toy not the large tricycle.",
+    "fresh_Real_06": "Same furniture background. Goose was visible at rear sofa before, so credit its newly visible foreground position rather than asserting a second goose was created. No blue-to-green cushion replacement in this particular pair.",
+    "fresh_Real_07": "Both original inputs already rotated90degrees; this is not a between-image rotation. Person occludes bikes, so bicycle disappearances not established.",
+    "fresh_Render_00": "Known office. Other chairs/computers remain; source pair differs from old monitor-rotation pair.",
+    "fresh_Render_01": "Known picnic. Chair, pie, rock and waterfall already present; only person clearly new.",
+    "fresh_Render_02": "Known hospital. Wall-picture small details not confidently adjudicated. Beds/flowers remain, no clear bed-panel color event in this pair.",
+    "fresh_Render_03": "Known alley. Wall graffiti persists. Boxes at wall are partly occluded by shifted bicycle; not a locked removal fact.",
+    "fresh_Render_04": "Known office. Shelving unit removal and floor text clear; chair changes not separately established.",
+    "fresh_Render_05": "Known picnic, same background family as Render01. Person now present facing away. Brightness also varies somewhat, not a required fact.",
+    "fresh_Render_06": "Known greenhouse. Hose and red can become more visible after person disappears; physical addition not established. Wooden furniture/plants persist.",
+    "fresh_Render_07": "Known city background. Terrace tables and streetlights already exist. Main event is foreground tree."
+  },
+  "scoring_rules": "Same prior rubric: physical FP, illumination inferences, identity differences and camera acknowledgement separately. Unqualified image-coordinate movement/apparent scale or crop visibility not forced into physical FP. Record unsupported natural claims and1-based fact hits. Incorrect global90degree explanation is an error, not a correct camera acknowledgement. Never suppress uncertain natural change just to improve FP.",
+  "fixed_gate": "Report both training arms. For provisional success versus published baseline: fewer physical FP on48 transformed cases, no reduction in natural fact hits in either Real or Render, no increase in naturally unsupported pairs. Also report joint physical-or-lighting error, incorrect camera claims, and five unfamiliar Real backgrounds separately. A pilot pass alone is not a benchmark-wide claim.",
+  "limits": "No exact decoded RGB overlap with prior train/diagnostic/gallery inputs.11/16 pairs nevertheless use familiar semantic backgrounds; Render00/04 and01/05 share backgrounds within this set. Only5 Real backgrounds are unfamiliar to prior diagnostic. Dataset was already used for published-baseline full inference; these captions were not consulted for selection or this rubric. Do not claim independent unseen-scene Render validation. No prompt/hyperparameter changes after this evaluation."
+}

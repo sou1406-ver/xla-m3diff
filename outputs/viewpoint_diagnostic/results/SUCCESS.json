@@ -1,0 +1,7 @@
+{
+  "generations": 120,
+  "gpu": "NVIDIA A100-SXM4-40GB, 40960 MiB",
+  "time": 1793097156.239479,
+  "checkpoint": "published M3Diff",
+  "weights_updated": false
+}

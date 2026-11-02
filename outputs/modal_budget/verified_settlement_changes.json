@@ -1,0 +1,48 @@
+{
+  "report_cutoff": "2026-10-27T22:00:00+00:00",
+  "changes": [
+    {
+      "label": "ten_prompt_probe",
+      "old_upper_usd": "0.15",
+      "official_closed_cost_usd": "0.12728890",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.15"
+    },
+    {
+      "label": "mixed_full_batch0_attempt1",
+      "old_upper_usd": "0.54",
+      "official_closed_cost_usd": "0.51219694",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.54"
+    },
+    {
+      "label": "mixed_full_batch3_attempt1",
+      "old_upper_usd": "0.56",
+      "official_closed_cost_usd": "0.53575813",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.56"
+    },
+    {
+      "label": "mixed_full_batch1_attempt1",
+      "old_upper_usd": "0.52",
+      "official_closed_cost_usd": "0.47215246",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.50"
+    },
+    {
+      "label": "mixed_full_batch2_attempt1",
+      "old_upper_usd": "0.43",
+      "official_closed_cost_usd": "0.38390206",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.41"
+    },
+    {
+      "label": "mixed_full_batch4_attempt1",
+      "old_upper_usd": "0.62",
+      "official_closed_cost_usd": "0.57157098",
+      "buffer_usd": "0.02",
+      "new_upper_usd": "0.60"
+    }
+  ],
+  "global_stop_29p90_and_billed_zero_checks_unchanged": true
+}

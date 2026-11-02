@@ -1,0 +1,7 @@
+{
+ "fixed_chunks_unchanged":true,
+ "order":[0,3,1,2,4],
+ "reason":"Prioritize both domains before credit ends: chunk0 contains320Real; chunk3 contains320Render. All original questions/IDs/order within each chunk unchanged. Chosen from coverage/cost before any full-test scores; not by outcomes.",
+ "full_if_credit_permits":true,
+ "partial_rule":"If incomplete, recompute BOTH arms against references restricted to exactly completed IDs, and label partial. Do not compare partial CIDEr directly to legacy full-test CIDEr."
+}

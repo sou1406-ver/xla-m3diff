@@ -1,0 +1,30 @@
+{
+  "baseline": {
+    "n": 96,
+    "mean_words": 31.604166666666668,
+    "median_words": 27.5,
+    "at_least500_words": 0,
+    "max_words": 124
+  },
+  "old_mixed": {
+    "n": 96,
+    "mean_words": 19.791666666666668,
+    "median_words": 15.0,
+    "at_least500_words": 0,
+    "max_words": 93
+  },
+  "control": {
+    "n": 96,
+    "mean_words": 19.645833333333332,
+    "median_words": 14.0,
+    "at_least500_words": 0,
+    "max_words": 111
+  },
+  "revised": {
+    "n": 96,
+    "mean_words": 43.291666666666664,
+    "median_words": 22.5,
+    "at_least500_words": 2,
+    "max_words": 900
+  }
+}

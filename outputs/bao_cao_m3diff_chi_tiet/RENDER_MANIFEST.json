@@ -1,0 +1,39 @@
+{
+  "backend": "Native Microsoft Word PDF plus packaged render_docx.py rasterize",
+  "dpi": 150,
+  "page_count": 27,
+  "pages": [
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-1.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-2.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-3.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-4.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-5.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-6.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-7.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-8.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-9.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-10.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-11.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-12.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-13.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-14.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-15.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-16.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-17.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-18.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-19.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-20.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-21.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-22.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-23.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-24.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-25.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-26.png",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\page-27.png"
+  ],
+  "contacts": [
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\contact_01.jpg",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\contact_02.jpg",
+    "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\qa_render\\contact_03.jpg"
+  ]
+}

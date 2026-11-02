@@ -1,0 +1,722 @@
+[
+  {
+    "id": "old__furniture__identity",
+    "cohort": "old",
+    "scene": "furniture",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The scene remains unchanged.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "old__furniture__natural",
+    "cohort": "old",
+    "scene": "furniture",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The blue cushion on the chair in the upper left corner of the scene has been replaced with a green cushion. A white toy goose plush toy has appeared on the white table on the right side of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved from being placed under the wooden table on the left side to being placed under the white table on the right side.",
+    "candidate_2": "The blue pillow on the chair on the left side of the scene changes to green. A larger white plush goose toy appears on the white table in the center of the scene, with its head facing toward the camera. The number of green stools increases from one to two, with an additional stool placed in front of the white table on the right side of the scene.",
+    "candidate_3": "The blue pillow on the chair on the left side of the scene has been replaced by a green pillow. A white toy goose has appeared on the white table in the center of the scene. The number of green stools has increased to two, with one added in front of the white table and the other added to the right side of the scene."
+  },
+  {
+    "id": "old__exercise__identity",
+    "cohort": "old",
+    "scene": "exercise",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The three people in the center of the scene shift their heads from facing right to facing left.",
+    "candidate_2": "The three people in the center of the frame shift their gaze from looking to the left side of the image to looking to the right side.",
+    "candidate_3": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right."
+  },
+  {
+    "id": "old__exercise__natural",
+    "cohort": "old",
+    "scene": "exercise",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The three people in the center of the frame change from a squatting position to facing the right side of the screen, with their bodies leaning back and their arms extended forward.",
+    "candidate_2": "The three people in the center of the scene, who were previously facing forward with their legs bent and hands resting on their chests, have now turned to the left, bending their bodies to the left while raising their right arms high.",
+    "candidate_3": "The three people in the center of the frame change from a squatting position to facing right with their left arms extended forward and their right arms bent behind their backs."
+  },
+  {
+    "id": "old__yoga__identity",
+    "cohort": "old",
+    "scene": "yoga",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The right hand, previously bent and holding the edge of the circular arch, is now straightened.",
+    "candidate_2": "The right leg, which was bent and lifted, is now straightened.",
+    "candidate_3": "There is no visible difference between the two images."
+  },
+  {
+    "id": "old__yoga__natural",
+    "cohort": "old",
+    "scene": "yoga",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The posture of the person in a white outfit changes from facing right with the left leg extended backward, right leg bent forward, arms raised and extended to the sides, fingers lightly touching the edge of the archway, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down.",
+    "candidate_2": "The posture of the person changes from a side plank position with the left leg extended backward, right leg bent forward, arms raised and extended to the sides, fingers pointing upward, to a head-down pose with both legs spread apart, arms extended downward, palms resting on the ground.",
+    "candidate_3": "The posture of the person in white clothes changes from facing the left side with the left leg extended backward, right leg bent forward, waist tilted to the right, and both arms raised and extended horizontally to either side, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down."
+  },
+  {
+    "id": "old__mouse__identity",
+    "cohort": "old",
+    "scene": "mouse",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The mouse has turned its head to the left and is biting a peanut.",
+    "candidate_2": "The mouse has turned its head to the left and is biting a peanut.",
+    "candidate_3": "There is no difference between the two images."
+  },
+  {
+    "id": "old__mouse__natural",
+    "cohort": "old",
+    "scene": "mouse",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The mouse has moved from the front left of the frame to the small hole in the wooden base on the right side, with only its head visible. The number of food scraps on the wooden table has decreased.",
+    "candidate_2": "The mouse has moved from the front left of the frame to the small hole in the wooden base on the right side, with only its head peeking out. The number of food scraps on the wooden table has decreased.",
+    "candidate_3": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scattered on the wooden board has decreased."
+  },
+  {
+    "id": "old__kitchen__identity",
+    "cohort": "old",
+    "scene": "kitchen",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The ambient lighting has brightened.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "old__kitchen__natural",
+    "cohort": "old",
+    "scene": "kitchen",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The green seasoning bottle on the right side of the table changes its orientation from facing the camera to facing away from the camera. The transparent plastic bottle with a green cap moves to the right, and a red cup with a black lid appears in its original position.",
+    "candidate_2": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the right side of the table has rotated clockwise by a certain angle, changing its orientation from facing the front left to facing the right side of the table.",
+    "candidate_3": "The green seasoning bottle and the transparent plastic bottle with a black cap on the right side of the table have swapped positions. The red cup with a yellow lid on the right side of the table has been replaced by a stainless steel cup with a red lid."
+  },
+  {
+    "id": "old__silhouette__identity",
+    "cohort": "old",
+    "scene": "silhouette",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The person's right hand changes from being raised to the left side of the head to being raised above the head.",
+    "candidate_2": "The person's right hand changes from being raised to being lowered.",
+    "candidate_3": "The person's right hand changes from being raised to being lowered."
+  },
+  {
+    "id": "old__silhouette__natural",
+    "cohort": "old",
+    "scene": "silhouette",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The posture of the figure changes from standing with the right leg bent and supporting the body, while the left leg is raised and bent, with both arms extended to the sides, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward.",
+    "candidate_2": "The posture of the figure changes from a silhouette with both arms raised and bent, the right leg standing straight, and the left leg bent backward, to a silhouette with the right leg extended forward, the left leg bent backward, the body leaning to the right side of the frame, and both arms extended outward.",
+    "candidate_3": "The posture of the figure changes from standing with legs apart, right hand raised above the head, left hand extended forward, and the body slightly leaning to the right, to a pose where the right leg is lifted high, the left leg stands firmly on the ground, the left arm extends forward, and the right arm swings backward."
+  },
+  {
+    "id": "old__hospital__identity",
+    "cohort": "old",
+    "scene": "hospital",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "old__hospital__natural",
+    "cohort": "old",
+    "scene": "hospital",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The leftmost and rightmost beds in the scene have been moved closer to the windows. A red cart has appeared between the two beds on the right side of the scene.",
+    "candidate_2": "The scene is now more lit up. A red medical waste bin appears in the center of the scene, between two beds facing away from the camera.",
+    "candidate_3": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red."
+  },
+  {
+    "id": "old__street__identity",
+    "cohort": "old",
+    "scene": "street",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become darker.",
+    "candidate_2": "The scene has become more illuminated.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "old__street__natural",
+    "cohort": "old",
+    "scene": "street",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The rusty bicycle that was leaning against the right fence is now positioned in the center of the road, facing the camera.",
+    "candidate_2": "The rusty bicycle that was leaning against the right fence is now placed on the left side of the road.",
+    "candidate_3": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray pillar and bucket."
+  },
+  {
+    "id": "old__picnic__identity",
+    "cohort": "old",
+    "scene": "picnic",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left side of the scene."
+  },
+  {
+    "id": "old__picnic__natural",
+    "cohort": "old",
+    "scene": "picnic",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "A new blue-and-white beach chair appears in the scene, positioned between the trees and the picnic mat, angled toward the waterfall. A new plate of cookies has appeared on the picnic blanket near the center of the scene, to the right of the picnic basket and left of the white cup.",
+    "candidate_2": "A new piece of pie has appeared on the picnic mat.",
+    "candidate_3": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, facing the waterfall. A new plate of cookies has appeared on the picnic blanket in front of the blue-and-white lounge chair."
+  },
+  {
+    "id": "old__office__identity",
+    "cohort": "old",
+    "scene": "office",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The white rectangular cabinet on the left wall of the scene has decreased in size.",
+    "candidate_3": "The scene has become more illuminated."
+  },
+  {
+    "id": "old__office__natural",
+    "cohort": "old",
+    "scene": "office",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The scene is now more lit up. The chair in front of the computer desk on the far right of the first row has turned from facing the camera to facing the desk.",
+    "candidate_2": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The gray trash can in the bottom right corner of the first row of desks is no longer visible. The black office chair in front of the computer desk on the right side of the second row has turned from facing the left side of the screen to facing the right side of the screen.",
+    "candidate_3": "The chair in front of the computer desk on the far right of the first row has turned from facing the left side to facing the right side. The chair in front of the computer desk at the back left of the scene has turned from facing the right side to facing the left side."
+  },
+  {
+    "id": "old__greenhouse__identity",
+    "cohort": "old",
+    "scene": "greenhouse",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The wooden table located in the lower left corner of the greenhouse has been rotated, changing its orientation from facing the front-right to facing the back-left.",
+    "candidate_3": "The scene has become more illuminated."
+  },
+  {
+    "id": "old__greenhouse__natural",
+    "cohort": "old",
+    "scene": "greenhouse",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green plants in the wooden box at the back left of the scene have disappeared.",
+    "candidate_2": "The wooden table and chair on the left side of the scene are no longer visible. The bench on the right side of the corridor has changed from brown to purple.",
+    "candidate_3": "The wooden table and chair on the left side of the scene have moved to the right. The bench on the left side of the corridor has changed from brown to gray."
+  },
+  {
+    "id": "old__classroom__identity",
+    "cohort": "old",
+    "scene": "classroom",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The black speaker located above the blackboard on the left side of the classroom has been moved to the right side of the blackboard.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The black speaker located above the blackboard, to the left of the school's emblem, has disappeared."
+  },
+  {
+    "id": "old__classroom__natural",
+    "cohort": "old",
+    "scene": "classroom",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The scene has become more illuminated. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+    "candidate_2": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+    "candidate_3": "The scene is now more lit up. The middle chair in the first row on the right side of the classroom disappears."
+  },
+  {
+    "id": "new__clothesline__identity",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The black and white striped shorts on the left side of the clothes rack disappear.",
+    "candidate_2": "The black-and-white striped T-shirt on the left disappears.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "new__clothesline__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_2": "The white T-shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left disappears."
+  },
+  {
+    "id": "new__clothesline__roll_8_safe",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_2": "The white short-sleeved shirt on the left disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left disappears."
+  },
+  {
+    "id": "new__clothesline__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The white short-sleeved shirt on the left disappears.",
+    "candidate_2": "The white short-sleeved shirt on the left side of the clothesline disappears.",
+    "candidate_3": "The white short-sleeved shirt on the left disappears."
+  },
+  {
+    "id": "new__clothesline__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The black and white striped pants on the left side of the clothesline have disappeared.",
+    "candidate_2": "The image is rotated 90 degrees clockwise.",
+    "candidate_3": "The clothes hanger on the left side of the white T-shirt has moved downward."
+  },
+  {
+    "id": "new__clothesline__natural",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The white T-shirt on the left is replaced by a long-sleeved white T-shirt with black letters.",
+    "candidate_2": "The orange clothes with a pattern on a white background, which were previously hanging on the left hook, have now been moved to the right hook.",
+    "candidate_3": "The orange clothes with a pattern on a white background that was hanging on the left hook has disappeared. A new long-sleeve white T-shirt with the word \"AN\" printed on it has appeared on the left hook."
+  },
+  {
+    "id": "new__computer_desk__identity",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "A yellow sticky note that was on the blue storage box under the monitor has disappeared.",
+    "candidate_2": "The camera lens cap disappears.",
+    "candidate_3": "The yellow and red circular ornaments on the left side of the monitor disappear."
+  },
+  {
+    "id": "new__computer_desk__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The camera lens on the left side of the table rotates to the right, revealing a portion of the lens. The monitor screen is open.",
+    "candidate_2": "The black keyboard on the desk has shifted from a horizontal to a vertical position. The gray laptop that was previously placed vertically on the desk is now open and facing upward. The yellow notebook, which was originally placed on the left side of the monitor, is no longer visible in the image.",
+    "candidate_3": "The monitor has shifted downward. The camera lens on the left side of the table has been repositioned to the right, and the lens cap has been removed."
+  },
+  {
+    "id": "new__computer_desk__roll_8_safe",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The camera lens on the left side of the keyboard moves to the right. The camera body on the right side of the keyboard rotates to the right, changing its orientation from facing the upper right corner to facing the lower right corner. The black mouse on the right side of the mouse pad disappears.",
+    "candidate_2": "The black mouse on the right side of the mouse pad is moved to the left. The camera lens on the left side of the table is moved to the right, and the camera body is also moved to the right. The yellow pen lying flat on the left side of the desk disappears.",
+    "candidate_3": "A book that was placed vertically on the desk has disappeared. The black keyboard on the desktop has been pressed down, reducing its size. The yellow pen lying on the left side of the table has disappeared."
+  },
+  {
+    "id": "new__computer_desk__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The camera lens on the left side of the keyboard rotates to the right, changing its orientation. The wooden pen holder with yellow and green pens on the left side of the monitor disappears.",
+    "candidate_2": "The monitor, which was previously tilted back, is now upright. The yellow pen and green pen in the pen holder on the left side of the desk are no longer visible.",
+    "candidate_3": "The black keyboard on the desk has been pressed down, causing the keys to be slightly compressed. The yellow notebook located on the white stand below the monitor has disappeared. The yellow pen and green pen in the pen slot of the desk have disappeared. The mouse on the right side of the table has changed its orientation from facing the upper left corner to facing the lower right corner."
+  },
+  {
+    "id": "new__computer_desk__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The gray keyboard on the desk has moved to the left. The camera lens on the left side of the table has been replaced with a stack of additional camera lenses.",
+    "candidate_2": "The camera lens on the left side of the keyboard has been replaced with a stack of additional camera lenses. The mouse on the right side of the table has changed orientation from horizontal to vertical.",
+    "candidate_3": "The camera lens on the left side of the keyboard rotates to the right, revealing a stack of additional camera lenses. The camera body moves to the right, and the lens that was previously placed on it is now placed on the lens rack."
+  },
+  {
+    "id": "new__computer_desk__natural",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The camera lens on the left side of the keyboard has been replaced with a stack of additional camera lenses. The camera lens on the right side of the keyboard has been replaced with a black mouse. The monitor, which was previously tilted back, is now upright. The red and blue flags hanging on the wall above the table are no longer visible. The camera lens holder on the right side of the desk has moved to the left side of the keyboard.",
+    "candidate_2": "The monitor has shifted to the right. The black keyboard on the desk has been replaced with a black keyboard stand holding additional camera lenses. The red and blue flags hanging on the wall above the table have disappeared. The glasses frame on the right side of the table has disappeared.",
+    "candidate_3": "The black keyboard on the blue desk below the monitor has been moved to the left side of the mouse. The red and blue flag hanging on the wall in the upper right corner of the screen has disappeared. The camera lens on the stand on the left side of the table has been replaced with a full set of black camera lenses. The yellow and green pens in the pen holder have been replaced with a black pen. The blue sticky notes on the white desk below the monitor have appeared. The gray tablet placed vertically on the stool on the right side of the table has changed its orientation from facing the camera to facing away from the camera."
+  },
+  {
+    "id": "new__snowy_street__identity",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The white pickup truck in the distance is no longer visible.",
+    "candidate_2": "The red car in the distance on the right side of the screen is no longer visible.",
+    "candidate_3": "The white pickup truck in the distance has disappeared."
+  },
+  {
+    "id": "new__snowy_street__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The white pickup truck in the distance has moved from the driveway to the street. The red car on the right side of the frame is no longer visible.",
+    "candidate_2": "The white pickup truck in the distance has moved from the left side of the frame to the right side. The red car on the right side of the screen is no longer visible.",
+    "candidate_3": "The white pickup truck in the distance has moved from the driveway to the street. The red car on the right side of the frame is no longer visible."
+  },
+  {
+    "id": "new__snowy_street__roll_8_safe",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The white pickup truck in the distance has moved from the driveway to the street. The red car on the right side of the screen is no longer visible.",
+    "candidate_2": "The white pickup truck in the distance has moved from the driveway to the street. The red car on the right side of the frame is no longer visible.",
+    "candidate_3": "The black car in the left rear of the frame has moved to the right side of the frame. The white pickup truck in the distance has moved from the driveway to the road on the left side of the frame. The red car in the right rear of the frame has disappeared. The snow on the ground near the house on the right side of the screen has melted."
+  },
+  {
+    "id": "new__snowy_street__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The white pickup truck in the distance has moved from the driveway to the street.",
+    "candidate_2": "The white pickup truck in the distance has moved from the left side of the frame to the right side.",
+    "candidate_3": "The white pickup truck in the distance has moved from the driveway to the street."
+  },
+  {
+    "id": "new__snowy_street__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The red car on the right side of the screen is now visible. The white pickup truck in the distance has moved forward.",
+    "candidate_2": "The red car on the right side of the screen has moved forward. The black SUV in the left rear of the frame is no longer visible.",
+    "candidate_3": "The red car on the right side of the frame is now visible. The white pickup truck in the distance has moved forward."
+  },
+  {
+    "id": "new__snowy_street__natural",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame is no longer visible. The red car at the right rear of the screen is no longer visible. The black SUV at the right rear of the screen is no longer visible. The white car at the right rear of the screen is now lit up.",
+    "candidate_2": "The scene has darkened, and the ambient lighting has become darker. The white pickup truck in the distance on the left side of the frame has disappeared. The red car that was previously visible on the right side of the screen is no longer present. The black SUV that was previously at the rear right of the screen has moved to the front right. The white vehicle in the middle of the frame has moved from the driveway to the street. The light in the garage at the back left of the frame has been turned on.",
+    "candidate_3": "The scene has darkened, and the ambient lighting has shifted from daytime to nighttime. The white pickup truck in the distance on the left side of the frame is no longer visible. The red car parked on the right side of the frame is no longer visible. The vehicle parked in the left rear of the frame is no longer visible. The white SUV parked in the middle of the frame is no longer visible. The blue light on the house on the right side of the frame has changed color from purple to blue."
+  },
+  {
+    "id": "new__basin_shelf__identity",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "identity",
+    "candidate_1": "The white barbell in the middle of the second level disappears.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The scene remains the same."
+  },
+  {
+    "id": "new__basin_shelf__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene remains the same.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The toothbrush in the green toothbrush holder on the second level has changed its orientation from facing upward to facing downward."
+  },
+  {
+    "id": "new__basin_shelf__roll_8_safe",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become brighter. The green pot on the second shelf is moved to the third shelf.",
+    "candidate_2": "The scene remains the same.",
+    "candidate_3": "The brightness of the scene has increased. The pink basin on the top of the shelf has swapped places with the blue basin below it."
+  },
+  {
+    "id": "new__basin_shelf__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The lighting in the environment has become brighter.",
+    "candidate_2": "The lighting in the environment has become brighter.",
+    "candidate_3": "The brightness of the scene has increased. The white bar of soap in the storage rack has moved to the right side of the second-level tray."
+  },
+  {
+    "id": "new__basin_shelf__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The lighting in the environment has become brighter.",
+    "candidate_2": "The ambient lighting has brightened.",
+    "candidate_3": "The ambient lighting has brightened."
+  },
+  {
+    "id": "new__basin_shelf__natural",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "natural",
+    "candidate_1": "The lighting in the environment has become brighter. The white bottle on the right side of the second layer disappears, and the number of white bars on the left side decreases by one. The pink basin on the third shelf moves to the first shelf. The white box on the third shelf disappears.",
+    "candidate_2": "The lighting has brightened. The white bottle on the right side of the second shelf disappeared. The pink basin on the third shelf moved to the top of the first shelf. The box of disinfectant on the third shelf is no longer visible.",
+    "candidate_3": "The scene has become brighter. The white bottle on the right side of the second layer disappears. The pink basin on the third layer rotates clockwise by a certain angle. The box of disinfectant on the third layer disappears."
+  },
+  {
+    "id": "new__city_intersection__identity",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The scene is now more lit up.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "new__city_intersection__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The person who was on the left side of the road, next to the street sign and near the building on the left side of the scene, is no longer visible. The black trash can at the rear right of the pedestrian crossing has increased in size.",
+    "candidate_2": "The scene is now more lit up. The person in a black jacket and black shorts on the right side of the road, near the roadside, is no longer visible.",
+    "candidate_3": "The scene is now more lit up. The person in a black jacket and black shorts on the right side of the road moves to the left side of the road, standing next to another person."
+  },
+  {
+    "id": "new__city_intersection__roll_8_safe",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The scene has become more illuminated. A person wearing a black vest and red shorts appeared on the left side of the road, standing next to the traffic light and facing the blue building on the right side of the screen.The round table on the second layer of the building on the right side of the scene has decreased in size.",
+    "candidate_2": "The scene is now more lit up. A person appears at the traffic light in the middle left of the road, and a person appears on the right side of the road near the roadside.",
+    "candidate_3": "The scene is now more lit up. The person in a black jacket and black pants on the right side of the road moves to the left side of the road, standing next to the traffic light."
+  },
+  {
+    "id": "new__city_intersection__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The scene has become more illuminated. A person appears at the traffic light in the lower left corner of the road, standing next to the street lamp and facing the camera.",
+    "candidate_2": "The scene is now more lit up. The person in a black jacket and black shorts, who was on the left side of the road crossing, is now on the right side of the road crossing.",
+    "candidate_3": "The scene has become more illuminated. A person who was previously in the middle of the road, near the center of the scene and walking towards the camera, is no longer visible."
+  },
+  {
+    "id": "new__city_intersection__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene is now more lit up. A new person appears on the left side of the road, walking towards the street light near the roadside.",
+    "candidate_2": "The scene is now more lit up. The person on the left side of the road, near the street corner and close to the building, is no longer visible.",
+    "candidate_3": "The scene has become more illuminated. A person wearing a black vest and red shorts appears on the right side of the road, standing next to a street lamp, facing the blue table on the left side of the building."
+  },
+  {
+    "id": "new__city_intersection__natural",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The streetlight at the bottom left corner of the scene rotates counterclockwise. A person with an umbrella appears on the left side of the road crossing, facing the camera.",
+    "candidate_2": "The streetlight at the lower left corner of the scene has been reduced in size. A person with an umbrella appears on the left side of the road crossing, next to another pedestrian.",
+    "candidate_3": "The streetlight at the corner near the left side of the scene, next to the pedestrian crossing, has decreased in size. A man wearing a black vest and white shorts appears on the left side of the road, standing in the middle of the road, facing the camera, with his hands on his waist."
+  },
+  {
+    "id": "new__bunk_bedroom__identity",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more visible.",
+    "candidate_2": "The black rectangular picture frame with a white border, which was placed vertically on the left side of the lower bed near the wall, is no longer visible.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "new__bunk_bedroom__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The black pillow on the left side of the top bed has been moved to the right side of the middle gray pillow. The orange pillow on the left side of the top bed has increased in size. The blue and orange storage box on the left side of the floor has rotated 90 degrees clockwise, changing from a front-to-back orientation to a side-to-front orientation.",
+    "candidate_2": "The scene is now more visible. The black pillow on the top bed has been moved to the middle of the lower bed.",
+    "candidate_3": "The black rectangular picture frame with a white border, which was previously missing, has now appeared on the wall above the top bunk bed. The orange pillow on the left side of the top bunk bed has increased in size."
+  },
+  {
+    "id": "new__bunk_bedroom__roll_8_safe",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The black frame of the bed has rotated 90 degrees clockwise. The gray rectangular cushion on the lower bed has disappeared.",
+    "candidate_2": "The black frame of the lower bed has rotated 90° counterclockwise. The gray rectangular pillow on the left side of the lower bed is no longer present.",
+    "candidate_3": "The scene has not changed."
+  },
+  {
+    "id": "new__bunk_bedroom__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The scene has become more visible.",
+    "candidate_2": "The blue and orange rectangular boxes on the left side of the floor have disappeared. The gray rectangular pillow in front of the black frame above the single bed has disappeared.",
+    "candidate_3": "The orange pillow on the top bunk has changed from black to brown. The blue and orange block-style storage box beneath the lower bed has disappeared."
+  },
+  {
+    "id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The black-covered book on the left side of the lower bed, next to the gray pillow, is no longer visible. The orange pillow on the left side of the top bunk has moved to the right side of the middle of the double bed. The brown pillow on the right side of the top bunk has disappeared. The picture frame with a green plant pattern on the left side of the cabinet against the wall is no longer present.",
+    "candidate_2": "The scene has become more illuminated. The black pillow on the left side of the top bed is no longer present.The orange pillow on the right side of the top bed is no longer present.The brown pillow on the right side of the top bed is no longer present.The picture frame with a green plant pattern on the wall of the left side of the lower bed is no longer visible.",
+    "candidate_3": "The scene has become more visible."
+  },
+  {
+    "id": "new__bunk_bedroom__natural",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The scene has become darker.",
+    "candidate_2": "The area is now darker. The gray rectangular pillow on the lower bed has appeared.The white box on the first layer of the blue and orange rack on the left side of the bed has appeared.The gray blanket at the foot of the lower bed has appeared.",
+    "candidate_3": "The scene has become darker. The gray blanket on the lower bed has disappeared.The white pillow on the left side of the lower bed has disappeared.The rectangular picture frame with a green tree pattern on the left side of the bed has disappeared.The rectangular blue box below the left side of the single bed has disappeared.The rectangular orange box below the left side of the single bed has disappeared.The rectangular blue box below the left side of the single bed has changed to solid blue."
+  },
+  {
+    "id": "new__bicycle_alley__identity",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The word \"Caution\" in large blue letters has moved from the right side of the wall above the electric vehicle to the left side of the wall behind the stairs.",
+    "candidate_2": "The word \"Caution\" in blue text on the wall above the yellow bicycle changes its location.",
+    "candidate_3": "The word \"Caution\" in blue letters on the wall above the yellow bicycle has moved from the right side of the scene to the left."
+  },
+  {
+    "id": "new__bicycle_alley__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The light in the scene has increased. The word \"Caution\" on the wall above the yellow electric car has moved to the right of the yellow electric car.",
+    "candidate_3": "The scene has become more illuminated."
+  },
+  {
+    "id": "new__bicycle_alley__roll_8_safe",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The word \"Caution\" on the wall above the yellow bicycle has moved from the right side of the scene to the left side. The blue box hanging on the wall at the back right of the scene has decreased in size.",
+    "candidate_2": "The scene has become more illuminated. The word \"Caution\" on the wall in the upper right corner of the scene changes from blue to white.",
+    "candidate_3": "The scene has become more illuminated. The word \"Caution\" on the wall above the yellow bicycle has moved to the right side of the wall, and the blue graffiti on the wall has changed from a blue cartoon face to a blue \"063\" tag."
+  },
+  {
+    "id": "new__bicycle_alley__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The scene has become more illuminated. The word \"Caution\" on the wall changes from blue to white.",
+    "candidate_2": "The scene has become more illuminated. The word \"Caution\" on the wall changes from blue to white.",
+    "candidate_3": "The word \"Caution\" on the wall above the yellow bicycle has changed from blue to white. The yellow bicycle in the lower right corner of the scene has turned its front wheel to the left."
+  },
+  {
+    "id": "new__bicycle_alley__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The word \"Caution\" on the wall above the electric vehicle has moved from the right side of the scene to the left. The yellow and black electric vehicle moves forward, away from the wall.",
+    "candidate_3": "The word \"Caution\" on the wall above the electric vehicle has moved from the right side of the scene to the left side. The yellow and black unicycle in front of the right side of the elevator has turned its front wheel to the right."
+  },
+  {
+    "id": "new__bicycle_alley__natural",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "The word \"Caution\" on the wall changes to \"Cautious\".",
+    "candidate_2": "The word \"Caution\" on the wall changes to \"Cautious\".",
+    "candidate_3": "The word \"Caution\" on the wall above the yellow bicycle has been replaced with \"Cautious\"."
+  },
+  {
+    "id": "new__render_kitchen__identity",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "identity",
+    "candidate_1": "The scene is now more lit up.",
+    "candidate_2": "The white chair behind the round table has turned from facing the camera to facing the cabinet on the left.",
+    "candidate_3": "The scene is now more lit up."
+  },
+  {
+    "id": "new__render_kitchen__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "candidate_1": "The chair on the left side of the round table has turned from facing the camera to facing the cabinet on the left. The transparent glass cup in front of the blue water壶 on the table has changed from being present to absent.",
+    "candidate_2": "The chair on the left side of the round table changes from a white frame with a light green cushion to a white frame with a beige cushion. The transparent glass in the center of the table has changed from being present to missing.",
+    "candidate_3": "The chair on the left side of the round table has changed from a white frame and green cushion to a solid white chair. The transparent glass cup in front of the blue water壶 on the round table has disappeared."
+  },
+  {
+    "id": "new__render_kitchen__roll_8_safe",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "candidate_1": "The chair on the left side of the round table has changed from white to beige. The transparent glass cup in front of the blue water kettle on the round table has disappeared. The microwave above the right stove is now visible.",
+    "candidate_2": "The chair on the left side of the round table has turned from facing the camera to facing the cabinet on the left. The transparent glass cup in front of the blue water pitcher on the round table has disappeared. The microwave above the stove on the right side of the kitchen has changed from white to gray. The yellow kettle on the black countertop at the back right of the scene has appeared.",
+    "candidate_3": "The chair on the left side of the round table has changed from white to light green. The transparent glass cup in front of the blue water壶 on the round table has disappeared. The microwave above the right stove in the kitchen has appeared. The yellow kettle on the black countertop at the back right of the scene has appeared. The transparent glass cup on the black countertop at the back right of the scene has changed from half full to full."
+  },
+  {
+    "id": "new__render_kitchen__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "candidate_1": "The two glasses of orange juice on the table have been replaced by a glass of water. The white plate in front of the blue water pitcher has increased in size. The black coffee machine on the right side of the stove has disappeared. The white chair on the left side of the round table has turned from facing the camera to facing the cabinet on the left.",
+    "candidate_2": "The white chair on the left side of the scene has turned from facing the camera to facing the round table. The transparent glass cup in front of the blue water壶 on the round table has changed from yellow to white. The stainless steel hood above the stove on the right side of the kitchen has disappeared. The two wine glasses on the black countertop at the back right of the scene have disappeared. The dining stool on the left side of the round table has disappeared. The stainless steel oven at the back right of the scene has changed from a horizontal to a vertical position. The white plate on the right side of the round table has increased in size.",
+    "candidate_3": "The scene has become more illuminated. The white chair on the left side of the table rotates counterclockwise, changing its orientation from facing the camera to facing the cabinet on the left."
+  },
+  {
+    "id": "new__render_kitchen__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "candidate_1": "The scene has become more illuminated.",
+    "candidate_2": "The white chair on the left side of the room has turned from facing the camera to facing the round table. The two transparent glasses in front of the blue water壶 on the round table have changed from being filled with yellow juice to being empty.",
+    "candidate_3": "The light in the scene has increased. The two glasses of orange juice on the table have changed from three to two."
+  },
+  {
+    "id": "new__render_kitchen__natural",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "natural",
+    "candidate_1": "A person wearing a white top and blue pants appears in front of the stove on the right side, facing away from the camera towards the stove. A blue sign with the word \"kitchen\" has appeared in front of the round table. The blue water pitcher on the round table has been replaced by a transparent glass carafe. The chair behind the round table has appeared.",
+    "candidate_2": "A woman wearing a white top and blue pants appears in front of the stove on the right side of the kitchen, facing the stove. A blue sign with the word \"kitchen\" appears in the lower left corner of the scene. The blue water pitcher on the table has been replaced by a transparent glass carafe. The chair behind the round wooden table is visible.",
+    "candidate_3": "A person wearing a white top and blue pants has appeared in front of the black stove on the right side of the kitchen, facing it with her back to the camera. A bright blue sign with the word \"kitchen\" has appeared on the wooden floor at the front of the scene, positioned in front of the round table. The transparent glass water bottle has appeared on the black countertop on the left side of the kitchen. The white chair behind the round table has appeared. The blue teapot on the round table has changed to transparent."
+  }
+]

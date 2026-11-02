@@ -1,0 +1,106 @@
+[
+  {
+    "app_id": "ap-XLrm7NBZuAWOhYZh4cfH4p",
+    "description": "m3diff-curated-sft-analysis",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 17:10:07+07:00",
+    "stopped_at": "2026-10-27 17:12:59+07:00"
+  },
+  {
+    "app_id": "ap-Bfa8eUQHvlLl3yCu79sSuC",
+    "description": "m3diff-curated-matched-baseline",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 16:57:29+07:00",
+    "stopped_at": "2026-10-27 17:08:01+07:00"
+  },
+  {
+    "app_id": "ap-7oW1fKDkasTPRtb18Bz1rh",
+    "description": "m3diff-blind-image-preparation",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 16:43:52+07:00",
+    "stopped_at": "2026-10-27 16:44:32+07:00"
+  },
+  {
+    "app_id": "ap-9XbVMhe6SsL9dAPb53KYLg",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 16:23:13+07:00",
+    "stopped_at": "2026-10-27 16:38:36+07:00"
+  },
+  {
+    "app_id": "ap-3BOOqa1py3I5MbNg97DFWE",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 16:21:00+07:00",
+    "stopped_at": "2026-10-27 17:01:04+07:00"
+  },
+  {
+    "app_id": "ap-wxKpYWh9W2ddLHzzf9fA3B",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 16:09:51+07:00",
+    "stopped_at": "2026-10-27 16:21:01+07:00"
+  },
+  {
+    "app_id": "ap-5jJgeOwvGcbZd1T28RQvsu",
+    "description": "m3diff-full-test-exact-dedup",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:58:24+07:00",
+    "stopped_at": "2026-10-27 15:59:10+07:00"
+  },
+  {
+    "app_id": "ap-qeGHNNwL5ZjHprOmGJ1ct9",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:52:27+07:00",
+    "stopped_at": "2026-10-27 16:20:58+07:00"
+  },
+  {
+    "app_id": "ap-cSEwEBUq2yiJWvEBqYk7Vm",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:50:52+07:00",
+    "stopped_at": "2026-10-27 15:51:14+07:00"
+  },
+  {
+    "app_id": "ap-RDtQp82ONSnNGo8bLaEEra",
+    "description": "m3diff-curated-caption-sft",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:49:04+07:00",
+    "stopped_at": "2026-10-27 15:49:29+07:00"
+  },
+  {
+    "app_id": "ap-4dudgtcmCJ6KeYgWZledW8",
+    "description": "m3diff-curated-review-preparation",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:35:33+07:00",
+    "stopped_at": "2026-10-27 15:36:29+07:00"
+  },
+  {
+    "app_id": "ap-GUGBv5Pw3mHxagYAcEEBmV",
+    "description": "m3diff-real-sft-report",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 15:30:06+07:00",
+    "stopped_at": "2026-10-27 15:31:01+07:00"
+  },
+  {
+    "app_id": "ap-wW8dxFwRcUe6UU71zvxtOX",
+    "description": "m3diff-real-sft-pilot",
+    "state": "stopped",
+    "tasks": "0",
+    "created_at": "2026-10-27 14:58:34+07:00",
+    "stopped_at": "2026-10-27 15:29:48+07:00"
+  }
+]

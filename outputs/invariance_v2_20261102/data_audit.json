@@ -1,0 +1,19 @@
+{
+  "train_records_each": 512,
+  "positive_each": 384,
+  "negative_each": 128,
+  "evaluation_pairs": 96,
+  "evaluation_sources": 16,
+  "RGB_overlap_with_excluded": 0,
+  "model_captions_used": false,
+  "train_hashes": {
+    "control": "f162a1f24f649883650a5628933c459d7798710be7816eb3fa4e7f18a7b4ebc1",
+    "revised": "cef5645641cfceab169d0c400af560a4b977a5b4ad03098a246f3a39ce56ab72"
+  },
+  "matched_positive_negative_flags_per_index": true,
+  "positive_augmentation": {
+    "common_both_images": 96,
+    "after_only_with_explicit_caption": 96
+  },
+  "finalization_note": "Control arranged positive384/negative128 before same shuffle, matching revised category indices. No captions observed."
+}

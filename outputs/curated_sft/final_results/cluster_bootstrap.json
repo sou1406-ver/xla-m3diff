@@ -1,0 +1,313 @@
+{
+  "Real": {
+    "n_pairs": 128,
+    "n_shared_image_components": 18,
+    "component_sizes": [
+      7,
+      3,
+      5,
+      23,
+      7,
+      3,
+      4,
+      5,
+      5,
+      3,
+      6,
+      5,
+      1,
+      1,
+      25,
+      8,
+      14,
+      3
+    ],
+    "contrasts": {
+      "corrected_labels minus baseline": {
+        "delta_CIDEr_x100": 3.869318882590619,
+        "cluster_bootstrap_95pct_CI": [
+          -1.6439597638307897,
+          12.710479913828552
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -2.655225719805138,
+          11.84239627425248
+        ]
+      },
+      "original_labels minus baseline": {
+        "delta_CIDEr_x100": 5.867000078900314,
+        "cluster_bootstrap_95pct_CI": [
+          -2.3525728133492234,
+          19.36067352236609
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -1.3380019397146217,
+          14.318241150511396
+        ]
+      },
+      "corrected_labels minus original_labels": {
+        "delta_CIDEr_x100": -1.9976811963096945,
+        "cluster_bootstrap_95pct_CI": [
+          -8.628510661204023,
+          2.3968364243642313
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -6.822043967360676,
+          2.6523408343430077
+        ]
+      },
+      "previous_random minus baseline": {
+        "delta_CIDEr_x100": 5.835791339253247,
+        "cluster_bootstrap_95pct_CI": [
+          0.22724948702652428,
+          12.319992077619652
+        ],
+        "pair_bootstrap_95pct_CI": [
+          0.9297046840491215,
+          11.678996852880392
+        ]
+      },
+      "baseline_dedup minus baseline": {
+        "delta_CIDEr_x100": 1.772819522633677e-34,
+        "cluster_bootstrap_95pct_CI": [
+          0.0,
+          6.674144085209137e-34
+        ],
+        "pair_bootstrap_95pct_CI": [
+          0.0,
+          5.318458567901031e-34
+        ]
+      },
+      "corrected_labels_dedup minus corrected_labels": {
+        "delta_CIDEr_x100": 0.007595660099401169,
+        "cluster_bootstrap_95pct_CI": [
+          0.0,
+          0.02859542625656911
+        ],
+        "pair_bootstrap_95pct_CI": [
+          0.0,
+          0.02278698029820351
+        ]
+      },
+      "previous_random_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": 5.835791339253247,
+        "cluster_bootstrap_95pct_CI": [
+          0.22724948702652428,
+          12.319992077619652
+        ],
+        "pair_bootstrap_95pct_CI": [
+          0.9297046840491215,
+          11.678996852880392
+        ]
+      },
+      "corrected_labels_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": 3.8769145426900202,
+        "cluster_bootstrap_95pct_CI": [
+          -1.6387886565334924,
+          12.745655017976924
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -2.6474083917934688,
+          11.84717695452165
+        ]
+      },
+      "corrected_lora_only minus baseline": {
+        "delta_CIDEr_x100": 3.3009007344696935,
+        "cluster_bootstrap_95pct_CI": [
+          -1.5754693331552996,
+          8.854017748475258
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -0.73258128077573,
+          7.827567790474551
+        ]
+      },
+      "corrected_lora_only minus corrected_labels": {
+        "delta_CIDEr_x100": -0.5684181481209265,
+        "cluster_bootstrap_95pct_CI": [
+          -8.598499414323998,
+          5.138311155387433
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -8.2035245130714,
+          5.563245864071105
+        ]
+      },
+      "corrected_lora_only_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": 3.3009007344764423,
+        "cluster_bootstrap_95pct_CI": [
+          -1.575469333149307,
+          8.854017748475258
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -0.7325812807624015,
+          7.827567790481468
+        ]
+      },
+      "baseline minus cached_A10_baseline": {
+        "delta_CIDEr_x100": 2.225370242546904,
+        "cluster_bootstrap_95pct_CI": [
+          -1.2634311410381172,
+          5.26039477970895
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -2.568245464031517,
+          6.946192602749433
+        ]
+      }
+    }
+  },
+  "Render": {
+    "n_pairs": 128,
+    "n_shared_image_components": 13,
+    "component_sizes": [
+      11,
+      1,
+      1,
+      15,
+      13,
+      5,
+      7,
+      7,
+      15,
+      10,
+      12,
+      18,
+      13
+    ],
+    "contrasts": {
+      "corrected_labels minus baseline": {
+        "delta_CIDEr_x100": -3.712852996155058,
+        "cluster_bootstrap_95pct_CI": [
+          -11.461354778334924,
+          4.9971574088113915
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -11.460597313822198,
+          3.8772440198869673
+        ]
+      },
+      "original_labels minus baseline": {
+        "delta_CIDEr_x100": -1.3070853480982274,
+        "cluster_bootstrap_95pct_CI": [
+          -7.315008099794602,
+          3.920493052871741
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -7.973102032918601,
+          4.545629886219304
+        ]
+      },
+      "corrected_labels minus original_labels": {
+        "delta_CIDEr_x100": -2.405767648056828,
+        "cluster_bootstrap_95pct_CI": [
+          -10.024836967757958,
+          5.628039014629727
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -10.29275735438512,
+          5.6693531679999545
+        ]
+      },
+      "previous_random minus baseline": {
+        "delta_CIDEr_x100": -3.299328969232933,
+        "cluster_bootstrap_95pct_CI": [
+          -12.453760288743597,
+          4.210381966384718
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -9.24820248930025,
+          2.5758130968209128
+        ]
+      },
+      "baseline_dedup minus baseline": {
+        "delta_CIDEr_x100": 1.1481754459471853,
+        "cluster_bootstrap_95pct_CI": [
+          0.0,
+          2.881695236887053
+        ],
+        "pair_bootstrap_95pct_CI": [
+          0.0,
+          2.966723077493056
+        ]
+      },
+      "corrected_labels_dedup minus corrected_labels": {
+        "delta_CIDEr_x100": 0.8724278205547241,
+        "cluster_bootstrap_95pct_CI": [
+          0.0,
+          2.8449694966655135
+        ],
+        "pair_bootstrap_95pct_CI": [
+          5.946132170093818e-05,
+          2.1612515776918926
+        ]
+      },
+      "previous_random_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": -3.7771322295814334,
+        "cluster_bootstrap_95pct_CI": [
+          -12.711253183472671,
+          3.1575187914905833
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -9.80268292157841,
+          2.19262441408796
+        ]
+      },
+      "corrected_labels_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": -3.988600621547519,
+        "cluster_bootstrap_95pct_CI": [
+          -11.659744991718666,
+          4.622098635021712
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -11.827901789053172,
+          3.727653477585981
+        ]
+      },
+      "corrected_lora_only minus baseline": {
+        "delta_CIDEr_x100": -2.7706424302967942,
+        "cluster_bootstrap_95pct_CI": [
+          -13.223483773814863,
+          5.989252098355322
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -10.332308551424966,
+          4.873888746387447
+        ]
+      },
+      "corrected_lora_only minus corrected_labels": {
+        "delta_CIDEr_x100": 0.9422105658582627,
+        "cluster_bootstrap_95pct_CI": [
+          -6.023397651829965,
+          7.040670259583749
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -5.334111101134808,
+          7.770546008261984
+        ]
+      },
+      "corrected_lora_only_dedup minus baseline_dedup": {
+        "delta_CIDEr_x100": -2.743093573123475,
+        "cluster_bootstrap_95pct_CI": [
+          -13.112296782279316,
+          5.715779363417566
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -10.167096296642585,
+          4.778523567037083
+        ]
+      },
+      "baseline minus cached_A10_baseline": {
+        "delta_CIDEr_x100": -1.8358729494013641,
+        "cluster_bootstrap_95pct_CI": [
+          -7.170981859797179,
+          3.130298512936109
+        ],
+        "pair_bootstrap_95pct_CI": [
+          -8.76371057589741,
+          4.7581038342140385
+        ]
+      }
+    }
+  }
+}

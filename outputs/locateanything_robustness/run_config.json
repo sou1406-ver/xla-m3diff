@@ -1,0 +1,15 @@
+{
+  "model": "nvidia/LocateAnything-3B",
+  "revision": "c32291ca5e996f5a7a485845b4f57a233936bba0",
+  "torch": "2.6.0+cu124",
+  "gpu": "NVIDIA A10",
+  "dtype": "bfloat16",
+  "attention": "sdpa",
+  "max_image_side": 768,
+  "seed": 42,
+  "generation_mode": "hybrid",
+  "max_new_tokens": 8192,
+  "note": "Controlled qualitative test, one source scene plus two actual photos. No box ground truth or localization accuracy. 2D rotations do not model 3D viewpoint changes.",
+  "seed_per_case": 42,
+  "n_queries": 13
+}

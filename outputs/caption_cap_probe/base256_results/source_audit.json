@@ -1,0 +1,4 @@
+{
+  "instrumentation": "CUDA synchronization and monotonic timestamps around generate; additional JSON fields. Generation arguments except cap unchanged.",
+  "source_sha256": "dca209a414205bbef53bb5227582a94f43c1f696e8ad131f964234d0b6bd7a40"
+}

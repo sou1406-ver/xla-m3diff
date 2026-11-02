@@ -1,0 +1,174 @@
+[
+  {
+    "id": "bicycle_alley__identity",
+    "replace_caption": true,
+    "caption": "The two images show the same scene with no visible changes.",
+    "needs_review": false,
+    "reason": "exact_decoded_pixels",
+    "v1_would_replace": true
+  },
+  {
+    "id": "bicycle_alley__zoom_out_reverse_1p10",
+    "replace_caption": false,
+    "caption": null,
+    "needs_review": true,
+    "reason": "approximate_registration_advisory_only",
+    "v1_would_replace": false,
+    "alignment_found": true,
+    "target_overlap": 0.80718994140625,
+    "scale": 0.9090948300288666,
+    "angle": -3.268977180557853e-06,
+    "review_hint": "Inspect residuals and unmatched regions; geometric similarity does not establish absence of small appearance changes.",
+    "features": {
+      "exact_identity": false,
+      "matches": 2560,
+      "inliers": 2514,
+      "inlier_ratio": 0.98203125,
+      "grid_cells": 16,
+      "scale": 0.9090948300288666,
+      "angle": -3.268977180557853e-06,
+      "matrix": [
+        [
+          0.9090948300288652,
+          5.186787368254465e-08,
+          34.882059780470726
+        ],
+        [
+          -5.186787368254465e-08,
+          0.9090948300288652,
+          34.88522537726297
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 0.80718994140625,
+      "mean_absolute_rgb_error": 1.2362955808639526,
+      "p99_max_channel_error": 9.0,
+      "fraction_max_channel_above_30": 0.0005082965763495064,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 476100
+    }
+  },
+  {
+    "id": "bicycle_alley__square32_delta16",
+    "replace_caption": false,
+    "caption": null,
+    "needs_review": true,
+    "reason": "approximate_registration_advisory_only",
+    "v1_would_replace": true,
+    "alignment_found": true,
+    "target_overlap": 1.0,
+    "scale": 1.0000001191420067,
+    "angle": 3.2381850766484366e-06,
+    "review_hint": "Inspect residuals and unmatched regions; geometric similarity does not establish absence of small appearance changes.",
+    "features": {
+      "exact_identity": false,
+      "matches": 4982,
+      "inliers": 4981,
+      "inlier_ratio": 0.9997992773986351,
+      "grid_cells": 16,
+      "scale": 1.0000001191420067,
+      "angle": 3.2381850766484366e-06,
+      "matrix": [
+        [
+          1.0000001191420052,
+          -5.65169981100079e-08,
+          -1.1160080628005196e-06
+        ],
+        [
+          5.65169981100079e-08,
+          1.0000001191420052,
+          -0.00019993763056598823
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.027777211740612984,
+      "p99_max_channel_error": 0.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    }
+  },
+  {
+    "id": "render_kitchen__natural",
+    "replace_caption": false,
+    "caption": null,
+    "needs_review": true,
+    "reason": "approximate_registration_advisory_only",
+    "v1_would_replace": false,
+    "alignment_found": true,
+    "target_overlap": 1.0,
+    "scale": 1.0000941879829082,
+    "angle": -0.0021888556023973364,
+    "review_hint": "Inspect residuals and unmatched regions; geometric similarity does not establish absence of small appearance changes.",
+    "features": {
+      "exact_identity": false,
+      "matches": 454,
+      "inliers": 424,
+      "inlier_ratio": 0.933920704845815,
+      "grid_cells": 15,
+      "scale": 1.0000941879829082,
+      "angle": -0.0021888556023973364,
+      "matrix": [
+        [
+          1.0000941872531148,
+          3.820633534201424e-05,
+          -0.05254579466842224
+        ],
+        [
+          -3.820633534201424e-05,
+          1.0000941872531148,
+          -0.0015793542068132105
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 8.216343879699707,
+      "p99_max_channel_error": 180.0,
+      "fraction_max_channel_above_30": 0.089324951171875,
+      "largest_opened_residual_pixels": 6735,
+      "valid_pixels": 262144
+    }
+  },
+  {
+    "id": "bicycle_alley__zoom_in_edited",
+    "replace_caption": false,
+    "caption": null,
+    "needs_review": true,
+    "reason": "approximate_registration_advisory_only",
+    "v1_would_replace": true,
+    "alignment_found": true,
+    "target_overlap": 1.0,
+    "scale": 1.1000022822793911,
+    "angle": -7.99527438078924e-06,
+    "review_hint": "Inspect residuals and unmatched regions; geometric similarity does not establish absence of small appearance changes.",
+    "features": {
+      "exact_identity": false,
+      "matches": 2515,
+      "inliers": 2479,
+      "inlier_ratio": 0.9856858846918489,
+      "grid_cells": 16,
+      "scale": 1.1000022822793911,
+      "angle": -7.99527438078924e-06,
+      "matrix": [
+        [
+          1.1000022822793805,
+          1.5349856727771657e-07,
+          -38.37466542515492
+        ],
+        [
+          -1.5349856727771657e-07,
+          1.1000022822793805,
+          -38.37757660747762
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.8005275130271912,
+      "p99_max_channel_error": 5.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 589824
+    }
+  }
+]

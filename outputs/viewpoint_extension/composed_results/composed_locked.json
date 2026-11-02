@@ -1,0 +1,13 @@
+{
+  "locked_before_reading_any_extension_gate_outcomes": true,
+  "reason": "Check a real input may contain both camera geometry and a small appearance change; requiring nonidentity geometry alone must not bypass the appearance-change test.",
+  "sources": "The same eight scene sources in selection_locked.json; no reselection.",
+  "cases_per_scene": [
+    "zoom_in_1p10_plus_square32_delta16",
+    "roll_8_safe_plus_square32_delta16",
+    "zoom_out_1p10_plus_square32_delta16"
+  ],
+  "edit": "On the target image, change a central 32x32 RGB patch by +16 if its mean <=127, otherwise -16, clipped to byte range. The edited region lies within shared central content.",
+  "gate": "Use frozen v1 code and thresholds without tuning. Any automatic no-change acceptance is false suppression of a known appearance edit. Synthetic diagnostic, not a count of natural object changes.",
+  "model_inference": false
+}

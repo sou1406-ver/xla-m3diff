@@ -1,0 +1,27 @@
+{
+  "original_labels": {
+    "n": 256,
+    "unique_ids": 256,
+    "expected_id_set_matches": true
+  },
+  "corrected_labels": {
+    "n": 256,
+    "unique_ids": 256,
+    "expected_id_set_matches": true
+  },
+  "corrected_lora_only": {
+    "n": 256,
+    "unique_ids": 256,
+    "expected_id_set_matches": true
+  },
+  "previous_random": {
+    "n": 256,
+    "unique_ids": 256,
+    "expected_id_set_matches": true
+  },
+  "matched_baseline": {
+    "n": 256,
+    "unique_ids": 256,
+    "expected_id_set_matches": true
+  }
+}

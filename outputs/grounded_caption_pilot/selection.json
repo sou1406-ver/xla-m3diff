@@ -1,0 +1,326 @@
+[
+  {
+    "id": "real_test_pair_000324",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000075.jpg",
+      "Real/test/images/real_test_000077.jpg"
+    ],
+    "original_prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "draft": "The ambient lighting has brightened. The white cylindrical object on the left side of the floor against the wall, which was previously placed vertically, is now folded and placed flat on the bed. The light blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The dark blue mat that was previously rolled up at the foot of the bed has been unfolded and placed flat on the bed. The light brown rectangular cushion that was previously placed vertically at the foot of the bed has been replaced with a gray rectangular cushion. A new cartoon tiger pattern blanket has appeared on the folded blankets at the foot of the bed.",
+    "queries": [
+      "bed"
+    ]
+  },
+  {
+    "id": "real_test_pair_000161",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000037.jpg",
+      "Real/test/images/real_test_000038.jpg"
+    ],
+    "original_prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "draft": "The ambient lighting has become brighter. The blue cushion on the black metal chair on the left side of the scene has disappeared, and a gray low stool has moved to the right side of the wooden table in the center.",
+    "queries": [
+      "chair",
+      "table"
+    ]
+  },
+  {
+    "id": "real_test_pair_000554",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000127.jpg",
+      "Real/test/images/real_test_000128.jpg"
+    ],
+    "original_prompt": "Can you highlight the differences in these two pictures?  <image><image>Difference:",
+    "draft": "The dog has turned to the right and is now facing away from the camera.",
+    "queries": [
+      "dog"
+    ]
+  },
+  {
+    "id": "real_test_pair_000425",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000104.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "original_prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "draft": "The three people in the image change from leaning to the left, with their arms extended and legs bent, to standing upright with their hands on their hips, legs crossed, and heads turned to the right.",
+    "queries": [
+      "person"
+    ]
+  },
+  {
+    "id": "real_test_pair_000577",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000143.jpg",
+      "Real/test/images/real_test_000136.jpg"
+    ],
+    "original_prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "draft": "The yellow toy bulldozer on the right side of the gray stool has been replaced by a red and white toy car. The blue and white police car in front of the bus has moved to the left side of the large toy bus. A new red and white toy truck with black tires has appeared in the position previously occupied by the yellow toy bulldozer.",
+    "queries": [
+      "toy car",
+      "chair"
+    ]
+  },
+  {
+    "id": "real_test_pair_000440",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000099.jpg",
+      "Real/test/images/real_test_000101.jpg"
+    ],
+    "original_prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "draft": "The three people who were previously leaning forward with their heads resting on each other's shoulders are now standing upright, with their hands on their hips. The person in the middle has their left hand on the shoulder of the person on the right.",
+    "queries": [
+      "person"
+    ]
+  },
+  {
+    "id": "real_test_pair_000534",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000120.jpg",
+      "Real/test/images/real_test_000122.jpg"
+    ],
+    "original_prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "draft": "The ambient lighting has brightened. A new pink bottle appears in the center of the scene.",
+    "queries": [
+      "bottle"
+    ]
+  },
+  {
+    "id": "real_test_pair_000567",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000132.jpg"
+    ],
+    "original_prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "draft": "The dog has lowered its head and is looking to the left. The green plants in the background have changed from yellowing to lush and green. A new blue toy has appeared in the lower left corner of the image.",
+    "queries": [
+      "dog",
+      "plant"
+    ]
+  },
+  {
+    "id": "real_test_pair_000742",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000174.jpg",
+      "Real/test/images/real_test_000179.jpg"
+    ],
+    "original_prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "draft": "A person wearing a white T-shirt and black shorts appears in front of the electric car, leaning against the electric car with their back to the camera, looking down at their phone. The yellow electric car on the left side of the frame moves forward one meter.",
+    "queries": [
+      "car",
+      "person"
+    ]
+  },
+  {
+    "id": "real_test_pair_000304",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000072.jpg",
+      "Real/test/images/real_test_000073.jpg"
+    ],
+    "original_prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "draft": "The three people in the middle of the formation change from having their right hand on their chest and their left hand extended forward to having both hands extended to the sides.",
+    "queries": [
+      "person"
+    ]
+  },
+  {
+    "id": "real_test_pair_000566",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000129.jpg",
+      "Real/test/images/real_test_000131.jpg"
+    ],
+    "original_prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+    "draft": "The dog has lowered its head and is sniffing the ground.",
+    "queries": [
+      "dog"
+    ]
+  },
+  {
+    "id": "real_test_pair_000005",
+    "split": "Real",
+    "image": [
+      "Real/test/images/real_test_000009.jpg",
+      "Real/test/images/real_test_000005.jpg"
+    ],
+    "original_prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "draft": "A new train toy has appeared in front of the toy car on the left side of the scene.",
+    "queries": [
+      "toy car"
+    ]
+  },
+  {
+    "id": "render_test_pair_000180",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000028.jpg"
+    ],
+    "original_prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "draft": "The yellow shared bicycle next to the power box on the right side of the stairs has turned its front wheel to the left. The fire extinguisher on the wall on the right side of the scene has rotated from facing forward to facing backward.",
+    "queries": [
+      "bicycle",
+      "box"
+    ]
+  },
+  {
+    "id": "render_test_pair_000575",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000035.jpg",
+      "Render/test/images/render_test_indoor_000028.jpg"
+    ],
+    "original_prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "draft": "The blue and white rectangular cushions on the lower bed have disappeared. The black blanket at the foot of the lower bed has disappeared. The brown stool with four legs, placed to the right of the lower bed against the wall, has disappeared. A person wearing a white top and blue pants appears on the gray mattress at the bottom of the bed, facing the wall behind the bed. The word \"Rost\" in glowing blue letters has appeared on the wall behind the upper and lower beds.",
+    "queries": [
+      "chair",
+      "person"
+    ]
+  },
+  {
+    "id": "render_test_pair_000614",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000043.jpg",
+      "Render/test/images/render_test_indoor_000045.jpg"
+    ],
+    "original_prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "draft": "The blackboard at the front of the classroom, behind the teacher's podium, has increased in size. The first row of school desks on the right side has shifted forward.",
+    "queries": [
+      "table"
+    ]
+  },
+  {
+    "id": "render_test_pair_000648",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000047.jpg",
+      "Render/test/images/render_test_indoor_000040.jpg"
+    ],
+    "original_prompt": "What distinguishes these two images?  <image><image>Difference:",
+    "draft": "A black speaker has newly appeared on the right side wall above the teacher's podium. A person wearing a hat, a dark jacket, shorts, and yellow shoes appears at the door on the right side of the classroom, facing the front of the classroom with their back to the camera. The red fire extinguisher hanging on the right wall of the classroom is no longer present.",
+    "queries": [
+      "person"
+    ]
+  },
+  {
+    "id": "render_test_pair_000717",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000058.jpg",
+      "Render/test/images/render_test_indoor_000061.jpg"
+    ],
+    "original_prompt": "What has changed from the first image to the second?  <image><image>Difference:",
+    "draft": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of blue flowers.",
+    "queries": [
+      "table",
+      "flower"
+    ]
+  },
+  {
+    "id": "render_test_pair_000137",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000023.jpg",
+      "Render/test/images/render_test_outdoor_000018.jpg"
+    ],
+    "original_prompt": "What's the difference between 2 images?  <image><image>Difference:",
+    "draft": "A man in a red shirt and blue shorts appears on the right side of the road, walking towards the building on the left side of the scene. The red car on the rooftop of the green building on the right is replaced by a green sofa.",
+    "queries": [
+      "car",
+      "person"
+    ]
+  },
+  {
+    "id": "render_test_pair_000219",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000029.jpg"
+    ],
+    "original_prompt": "Explain the disparities between the first and second image.  <image><image>Difference:",
+    "draft": "A man wearing a black sweatshirt, black pants, and white shoes has appeared on the left side of the stairs. He is holding a camera in his right hand and facing the stairs.",
+    "queries": [
+      "person"
+    ]
+  },
+  {
+    "id": "render_test_pair_000222",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000037.jpg",
+      "Render/test/images/render_test_outdoor_000032.jpg"
+    ],
+    "original_prompt": "Describe the contrast between these two images.  <image><image>Difference:",
+    "draft": "A new blue sign with the word \"Cautiuos\" has appeared on the wall above the electric vehicle.",
+    "queries": [
+      "car"
+    ]
+  },
+  {
+    "id": "render_test_pair_000309",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000051.jpg",
+      "Render/test/images/render_test_outdoor_000042.jpg"
+    ],
+    "original_prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "draft": "The white ball that was on the right side of the picnic blanket, in front of the blue and white lounge chair, is no longer visible.",
+    "queries": [
+      "chair",
+      "ball"
+    ]
+  },
+  {
+    "id": "render_test_pair_000182",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_outdoor_000033.jpg",
+      "Render/test/images/render_test_outdoor_000030.jpg"
+    ],
+    "original_prompt": "Identify the transformations in the second image compared to the first.  <image><image>Difference:",
+    "draft": "The yellow non-motorized vehicle next to the power box on the right side of the hallway has turned its front wheel to the left. A man wearing a gray coat, blue pants, and white shoes has appeared on the middle step of the stairs in the distance, with his hands crossed in front of him, facing the yellow non-motorized vehicle.",
+    "queries": [
+      "car",
+      "person"
+    ]
+  },
+  {
+    "id": "render_test_pair_000549",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000030.jpg",
+      "Render/test/images/render_test_indoor_000027.jpg"
+    ],
+    "original_prompt": "Point out the variations between the two images.  <image><image>Difference:",
+    "draft": "The blue ladder on the right side of the lower bed has disappeared. A person wearing a white long-sleeve shirt, blue pants, and black shoes is sitting on the floor mat at the foot of the bed, with their legs bent and resting against the bed frame, arms wrapped around their legs, and their head lowered. The word \"Rest\" in glowing blue letters has appeared on the wall behind the lower bed.",
+    "queries": [
+      "person",
+      "bed"
+    ]
+  },
+  {
+    "id": "render_test_pair_000391",
+    "split": "Render",
+    "image": [
+      "Render/test/images/render_test_indoor_000003.jpg",
+      "Render/test/images/render_test_indoor_000006.jpg"
+    ],
+    "original_prompt": "Identify the alterations between these two images.  <image><image>Difference:",
+    "draft": "The word \"Efficient\" written in light blue letters on the floor is no longer visible. A woman wearing a black hat, an orange coat, black leggings, and black boots has appeared near the center of the scene, facing away from the camera towards the desks with computers.",
+    "queries": [
+      "table",
+      "person"
+    ]
+  }
+]

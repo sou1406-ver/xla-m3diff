@@ -1,0 +1,20 @@
+{
+  "counts": {
+    "": 2,
+    ".md": 58,
+    ".ipynb": 8,
+    ".json": 606,
+    ".py": 167,
+    ".ps1": 2,
+    ".jsonl": 124,
+    ".toml": 1,
+    ".csv": 16,
+    ".txt": 21
+  },
+  "parse_errors": [],
+  "missing_handoff_links": [],
+  "source_manifest_verified": 996,
+  "gpu_jobs_started": 0,
+  "secret_pattern_hits": [],
+  "note": "Static checks only; original evidence whitespace preserved intentionally."
+}

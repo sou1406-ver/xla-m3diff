@@ -1,0 +1,202 @@
+{
+  "case_00_prompt_00": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "baseline",
+    "candidate_3": "balanced"
+  },
+  "case_00_prompt_01": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_00_prompt_02": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed"
+  },
+  "case_00_prompt_03": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_00_prompt_04": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_00_prompt_05": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_00_prompt_06": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "baseline",
+    "candidate_3": "balanced"
+  },
+  "case_00_prompt_07": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_00_prompt_08": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_00_prompt_09": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_01_prompt_00": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_01_prompt_01": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_01_prompt_02": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_01_prompt_03": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_01_prompt_04": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "baseline",
+    "candidate_3": "balanced"
+  },
+  "case_01_prompt_05": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_01_prompt_06": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_01_prompt_07": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_01_prompt_08": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_01_prompt_09": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_00": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_01": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_02": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_03": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_02_prompt_04": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_02_prompt_05": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_06": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_07": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed"
+  },
+  "case_02_prompt_08": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_02_prompt_09": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_03_prompt_00": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_03_prompt_01": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_03_prompt_02": {
+    "candidate_1": "baseline",
+    "candidate_2": "old_mixed",
+    "candidate_3": "balanced"
+  },
+  "case_03_prompt_03": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_03_prompt_04": {
+    "candidate_1": "old_mixed",
+    "candidate_2": "balanced",
+    "candidate_3": "baseline"
+  },
+  "case_03_prompt_05": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_03_prompt_06": {
+    "candidate_1": "balanced",
+    "candidate_2": "old_mixed",
+    "candidate_3": "baseline"
+  },
+  "case_03_prompt_07": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  },
+  "case_03_prompt_08": {
+    "candidate_1": "balanced",
+    "candidate_2": "baseline",
+    "candidate_3": "old_mixed"
+  },
+  "case_03_prompt_09": {
+    "candidate_1": "baseline",
+    "candidate_2": "balanced",
+    "candidate_3": "old_mixed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "run": "invariance_ablation_v1",
+  "question": "Does a no-change objective help beyond continued positive-caption training when forward examples, initialization, order and optimizer schedule are matched?",
+  "arms": {"positive_control":{"negative_loss_weight":0.0},"mixed_objective":{"negative_loss_weight":1.0}},
+  "data": "Exact same 256 records from invariance_sft_v1: 192 positive +64 geometric no-change. Both arms forward all records; only64 negative scalar losses are multiplied by0 versus1. Input text/images/targets identical, so positive exposure and RNG consumption remain matched.",
+  "training": {"seed":42,"lora_r":16,"lora_alpha":32,"learning_rate":0.00002,"epochs":2,"batch":1,"gradient_accumulation":8,"optimizer_steps":64,"vision":"frozen","projector":"frozen","MDP":"frozen"},
+  "checks": "Verify all samples have valid assistant target tokens and finite unweighted losses; each arm sees384 positives and128 negatives. Compare LoRA/MDP initialization hashes and both epoch sampler orders. Only LoRA parameters trainable; non-LoRA trainable state empty.",
+  "evaluation": "72 fixed pairs: all48 new-scene geometry/natural cases +12 old natural +12 old identity. Published checkpoint and both adapters run sequentially in one GPU container with original prompt/BF16 base, greedy,1024 cap. Adapters stay FP32/unmerged for both training arms, to avoid numerical merge rounding as a confound.",
+  "assessment": "Hide three model names per pair, same exact-sentence cleanup. Reuse labels only for exact case+question+entire displayed caption. Manually review new captions before decoding. Assistant review, not independent human validation.",
+  "selection": "A candidate must reduce new-scene nonidentity physical-FP count versus published baseline, preserve natural fact hits in each domain on old and new groups, and not increase new confirmed-natural unsupported pairs. If both qualify, choose fewer physical-FP cases, then more natural hits. Report the matched-control contrast even if only one is promising. No parameter search within this ablation.",
+  "limits": "Adaptive development images already viewed and used in previous pilots; one seed, few scenes, synthetic2D geometry. Zero-weight negatives still consume optimizer schedule and can affect momentum between steps, equally timed across both arms; the treatment is contribution of their objective, not simply extra training time.",
+  "budget": "One sequential GPU app, timeout1800 seconds, 8CPU/64GiB/A100, conservative cost reservation before dispatch. No purchase or billing changes. Save results/checkpoints and release GPU on return."
+}

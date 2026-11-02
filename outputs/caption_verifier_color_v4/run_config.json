@@ -1,0 +1,10 @@
+{
+  "method": "LocateAnything unique generic detections + reliable global geometry + matched-pixel color evidence; only removed->color-change clause replacement.",
+  "rules": {
+    "min_aligned_iou": 0.8,
+    "min_source_interior_pixels": 30,
+    "min_target_color_fraction": 0.8,
+    "source_mask_erosion": 3
+  },
+  "limits": "24 development pairs reused, including known ladder failure. No independent generalization claim. Palette is coarse; illumination/occlusion can confound color. Same-class substitution not fully resolved."
+}

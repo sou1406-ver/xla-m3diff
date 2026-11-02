@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "furniture__identity",
+    "split": "Real",
+    "scene": "furniture",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000046.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "furniture__zoom_1p10",
+    "split": "Real",
+    "scene": "furniture",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000046.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        133.09090909090924,
+        0.0,
+        0.9090909090909091,
+        133.09090909090924
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "furniture__roll_8_safe",
+    "split": "Real",
+    "scene": "furniture",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000046.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        362.9988729037019,
+        0.12297702090678934,
+        0.8750269711091788,
+        2.9221556886227518
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "furniture__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "furniture",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000046.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        135.74741426238432,
+        -0.11179729173344485,
+        0.795479064644708,
+        463.0898844579108
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "furniture__natural",
+    "split": "Real",
+    "scene": "furniture",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/furniture_source.png",
+      "images/furniture_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000046.jpg",
+      "Real/test/images/real_test_000044.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000159",
+    "image_only_observations": {
+      "index": 0,
+      "clear_changes": [
+        "A white goose-like plush toy appears lying across the gray ottoman and white tabletop.",
+        "A second mint-green plastic stool appears at the front right.",
+        "The chair cushion changes from a blue square cushion to a larger green rectangular cushion."
+      ],
+      "unchanged_context": [
+        "The gray ottoman, wooden table and white table remain.",
+        "The original mint stool remains."
+      ],
+      "uncertain": [
+        "Small changes in chair/table placement may be due to viewpoint; do not infer removal.",
+        "A partly visible white object on the background sofa may be related to the foreground plush; addition versus relocation is not certain."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "exercise__identity",
+    "split": "Real",
+    "scene": "exercise",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000065.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "exercise__zoom_1p10",
+    "split": "Real",
+    "scene": "exercise",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000065.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        67.4545454545455,
+        0.0,
+        0.9090909090909091,
+        67.4545454545455
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "exercise__roll_8_safe",
+    "split": "Real",
+    "scene": "exercise",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000065.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        183.978936949827,
+        0.12297702090678934,
+        0.8750269711091788,
+        1.4810379241515648
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "exercise__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "exercise",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000065.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        68.80094356741058,
+        -0.11179729173344485,
+        0.795479064644708,
+        234.7081244998427
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "exercise__natural",
+    "split": "Real",
+    "scene": "exercise",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/exercise_source.png",
+      "images/exercise_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000065.jpg",
+      "Real/test/images/real_test_000070.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000273",
+    "image_only_observations": {
+      "index": 1,
+      "clear_changes": [
+        "The same three exercisers change from a wide-legged squat with hands held together low in front to an upright side bend toward the left side of the image.",
+        "In the after image one arm stretches overhead sideways while the other hand rests near the waist."
+      ],
+      "unchanged_context": [
+        "Three people remain in the same turquoise-and-white uniforms.",
+        "The sports field and tree/fence background remain."
+      ],
+      "uncertain": [
+        "Exact anatomical left/right arm descriptions are easy to invert; use image-side direction."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "yoga__identity",
+    "split": "Real",
+    "scene": "yoga",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000148.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "yoga__zoom_1p10",
+    "split": "Real",
+    "scene": "yoga",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000148.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        65.4545454545455,
+        0.0,
+        0.9090909090909091,
+        81.63636363636363
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "yoga__roll_8_safe",
+    "split": "Real",
+    "scene": "yoga",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000148.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.1661755487005299,
+      "output_to_input_affine": [
+        0.8491586621285506,
+        -0.11934146717031249,
+        215.77440078638415,
+        0.11934146717031249,
+        0.8491586621285506,
+        49.529665045936554
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "yoga__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "yoga",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000148.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.2827931035705828,
+      "output_to_input_affine": [
+        0.7719624201168642,
+        0.10849224288210227,
+        66.76102340772992,
+        -0.10849224288210227,
+        0.7719624201168642,
+        282.8921616101695
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "yoga__natural",
+    "split": "Real",
+    "scene": "yoga",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/yoga_source.png",
+      "images/yoga_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000148.jpg",
+      "Real/test/images/real_test_000152.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000643",
+    "image_only_observations": {
+      "index": 2,
+      "clear_changes": [
+        "The same woman changes from a one-legged balance pose, torso leaning left and other leg extended behind, to a wide-legged forward bend with her head down.",
+        "Her arms change from one raised and one touching the circular gate to both stretched outward toward the lower sides/feet."
+      ],
+      "unchanged_context": [
+        "The white outfit, circular gateway, sign and garden background remain."
+      ],
+      "uncertain": [
+        "Exact hand-versus-foot contacts in the forward bend are partially occluded; avoid over-specific limb claims."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "mouse__identity",
+    "split": "Real",
+    "scene": "mouse",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000169.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "mouse__zoom_1p10",
+    "split": "Real",
+    "scene": "mouse",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000169.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        73.09090909090912,
+        0.0,
+        0.9090909090909091,
+        73.09090909090912
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "mouse__roll_8_safe",
+    "split": "Real",
+    "scene": "mouse",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000169.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        199.3518400372789,
+        0.12297702090678934,
+        0.8750269711091788,
+        1.6047904191616453
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "mouse__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "mouse",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000169.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        74.54980947196516,
+        -0.11179729173344485,
+        0.795479064644708,
+        254.31985457934445
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "mouse__natural",
+    "split": "Real",
+    "scene": "mouse",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/mouse_source.png",
+      "images/mouse_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000169.jpg",
+      "Real/test/images/real_test_000172.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000727",
+    "image_only_observations": {
+      "index": 5,
+      "clear_changes": [
+        "The mouse moves from being fully outside on the wooden floor to peeking out through the opening in the wooden box/wall.",
+        "The viewpoint changes from an oblique overhead view to a more frontal, lower view of the opening."
+      ],
+      "unchanged_context": [
+        "One mouse and scattered food/seeds remain visible.",
+        "The opening already belongs to the wooden structure; no clear newly created hole."
+      ],
+      "uncertain": [
+        "Seed quantity/distribution is not directly comparable because framing and viewpoint change.",
+        "The after view is darker, but its physical lighting cause is not established."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "kitchen__identity",
+    "split": "Real",
+    "scene": "kitchen",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000117.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "split": "Real",
+    "scene": "kitchen",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000117.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        111.27272727272725,
+        0.0,
+        0.9090909090909091,
+        111.27272727272725
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "kitchen__roll_8_safe",
+    "split": "Real",
+    "scene": "kitchen",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000117.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        303.4908609522754,
+        0.12297702090678934,
+        0.8750269711091788,
+        2.4431137724550354
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "kitchen__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "kitchen",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000117.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        113.493739793141,
+        -0.11179729173344485,
+        0.795479064644708,
+        387.1735099566141
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "kitchen__natural",
+    "split": "Real",
+    "scene": "kitchen",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/kitchen_source.png",
+      "images/kitchen_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000117.jpg",
+      "Real/test/images/real_test_000119.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000519",
+    "image_only_observations": {
+      "index": 6,
+      "clear_changes": [
+        "The clear handled drinking jar with a pale-green lid moves forward toward the front edge of the table.",
+        "A red-and-black cylindrical thermos is now visible behind the clear jar in the area it previously occupied.",
+        "A patch of white powder/white residue appears on the tabletop to the left/front of the large blue-lidded tin."
+      ],
+      "unchanged_context": [
+        "The kettle, blue-lidded tin, cutting boards, red bottle with green cap, large dark water jug and yellow/red child's cup remain."
+      ],
+      "uncertain": [
+        "Whether the red-and-black thermos is newly added or was occluded before cannot be fully established from the contact sheet."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "silhouette__identity",
+    "split": "Real",
+    "scene": "silhouette",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_identity.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000105.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "silhouette__zoom_1p10",
+    "split": "Real",
+    "scene": "silhouette",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000105.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        65.4545454545455,
+        0.0,
+        0.9090909090909091,
+        65.4545454545455
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "silhouette__roll_8_safe",
+    "split": "Real",
+    "scene": "silhouette",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000105.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        178.52403585427962,
+        0.12297702090678934,
+        0.8750269711091788,
+        1.4371257485029219
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "silhouette__roll_minus8_zoom",
+    "split": "Real",
+    "scene": "silhouette",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000105.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        66.76102340772995,
+        -0.11179729173344485,
+        0.795479064644708,
+        227.7491235038906
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "silhouette__natural",
+    "split": "Real",
+    "scene": "silhouette",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/silhouette_source.png",
+      "images/silhouette_positive.png"
+    ],
+    "source_dataset_images": [
+      "Real/test/images/real_test_000105.jpg",
+      "Real/test/images/real_test_000111.jpg"
+    ],
+    "source_pair_id": "real_test_pair_000463",
+    "image_only_observations": {
+      "index": 7,
+      "clear_changes": [
+        "The person changes from a crossed-leg standing pose with one arm curved overhead and the other extended outward to balancing on one bent supporting leg while kicking the other leg forward toward the right of the image.",
+        "The after pose has one arm reaching diagonally forward/up and the other drawn back.",
+        "The background/framing changes: the bright sun is directly visible near the right horizon and a much larger dark cloud occupies the upper sky."
+      ],
+      "unchanged_context": [
+        "One silhouetted person in a cap remains by the water."
+      ],
+      "uncertain": [
+        "Do not infer physical disappearance of mountains or exact weather/time progression from the viewpoint difference.",
+        "Exact anatomical limb sides are uncertain."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "hospital__identity",
+    "split": "Render",
+    "scene": "hospital",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000064.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "hospital__zoom_1p10",
+    "split": "Render",
+    "scene": "hospital",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000064.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        34.909090909090935,
+        0.0,
+        0.9090909090909091,
+        34.909090909090935
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "hospital__roll_8_safe",
+    "split": "Render",
+    "scene": "hospital",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000064.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        95.21281912228245,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.7664670658682553
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "hospital__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "hospital",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000064.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        35.605879150789335,
+        -0.11179729173344485,
+        0.795479064644708,
+        121.46619920207496
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "hospital__natural",
+    "split": "Render",
+    "scene": "hospital",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/hospital_source.png",
+      "images/hospital_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000064.jpg",
+      "Render/test/images/render_test_indoor_000052.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000756",
+    "image_only_observations": {
+      "index": 8,
+      "clear_changes": [
+        "The end/foot panel of the back-right hospital bed changes from white to red.",
+        "The small picture on the left wall nearer the back changes to an anatomical heart illustration."
+      ],
+      "unchanged_context": [
+        "The room layout, six beds, ceiling panels and large flower pictures remain."
+      ],
+      "uncertain": [
+        "The front-left overbed tabletop changes apparent orientation/extent while its base stays near the same position; physical resizing versus rotation is not certain."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "street__identity",
+    "split": "Render",
+    "scene": "street",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/street_source.png",
+      "images/street_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000008.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "street__zoom_1p10",
+    "split": "Render",
+    "scene": "street",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/street_source.png",
+      "images/street_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000008.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        34.909090909090935,
+        0.0,
+        0.9090909090909091,
+        34.909090909090935
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "street__roll_8_safe",
+    "split": "Render",
+    "scene": "street",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/street_source.png",
+      "images/street_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000008.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        95.21281912228245,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.7664670658682553
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "street__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "street",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/street_source.png",
+      "images/street_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000008.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        35.605879150789335,
+        -0.11179729173344485,
+        0.795479064644708,
+        121.46619920207496
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "street__natural",
+    "split": "Render",
+    "scene": "street",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/street_source.png",
+      "images/street_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000008.jpg",
+      "Render/test/images/render_test_outdoor_000010.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000040",
+    "image_only_observations": {
+      "index": 9,
+      "clear_changes": [
+        "The single bicycle near the right curb moves slightly toward the curb and rotates from a more side-on horizontal view to a more diagonal orientation."
+      ],
+      "unchanged_context": [
+        "There is one bicycle before and after.",
+        "The houses, trees, road and fence remain in the same layout."
+      ],
+      "uncertain": [
+        "Do not infer a newly added or removed bicycle."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "picnic__identity",
+    "split": "Render",
+    "scene": "picnic",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "picnic__zoom_1p10",
+    "split": "Render",
+    "scene": "picnic",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        34.909090909090935,
+        0.0,
+        0.9090909090909091,
+        34.909090909090935
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "picnic__roll_8_safe",
+    "split": "Render",
+    "scene": "picnic",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        95.21281912228245,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.7664670658682553
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "picnic__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "picnic",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000047.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        35.605879150789335,
+        -0.11179729173344485,
+        0.795479064644708,
+        121.46619920207496
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "picnic__natural",
+    "split": "Render",
+    "scene": "picnic",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/picnic_source.png",
+      "images/picnic_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000047.jpg",
+      "Render/test/images/render_test_outdoor_000049.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000277",
+    "image_only_observations": {
+      "index": 10,
+      "clear_changes": [
+        "A second pie/tart appears at the front center of the picnic cloth.",
+        "A large upright pale rock appears on the right edge of the pool.",
+        "The visible waterfall becomes narrower."
+      ],
+      "unchanged_context": [
+        "The existing pie at the back, picnic basket, crockery and striped deck chair remain."
+      ],
+      "uncertain": []
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "office__identity",
+    "split": "Render",
+    "scene": "office",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/office_source.png",
+      "images/office_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000014.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "office__zoom_1p10",
+    "split": "Render",
+    "scene": "office",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/office_source.png",
+      "images/office_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000014.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        34.909090909090935,
+        0.0,
+        0.9090909090909091,
+        34.909090909090935
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "office__roll_8_safe",
+    "split": "Render",
+    "scene": "office",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/office_source.png",
+      "images/office_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000014.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        95.21281912228245,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.7664670658682553
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "office__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "office",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/office_source.png",
+      "images/office_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000014.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        35.605879150789335,
+        -0.11179729173344485,
+        0.795479064644708,
+        121.46619920207496
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "office__natural",
+    "split": "Render",
+    "scene": "office",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/office_source.png",
+      "images/office_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000014.jpg",
+      "Render/test/images/render_test_indoor_000010.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000472",
+    "image_only_observations": {
+      "index": 11,
+      "clear_changes": [
+        "A monitor on the rear-left row rotates so that its silver back is visible instead of its dark screen."
+      ],
+      "unchanged_context": [
+        "Close inspection shows the adjacent chairs and table legs remain in the same positions.",
+        "The number of monitors/chairs and ceiling lights stays the same."
+      ],
+      "uncertain": []
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "greenhouse__identity",
+    "split": "Render",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "condition": "identity",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "greenhouse__zoom_1p10",
+    "split": "Render",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        23.27272727272728,
+        0.0,
+        0.9090909090909091,
+        23.27272727272728
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "greenhouse__roll_8_safe",
+    "split": "Render",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        63.4752127481883,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.5109780439121607
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "greenhouse__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000058.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        23.737252767192878,
+        -0.11179729173344485,
+        0.795479064644708,
+        80.97746613471665
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "greenhouse__natural",
+    "split": "Render",
+    "scene": "greenhouse",
+    "partition": "dev",
+    "condition": "natural",
+    "image": [
+      "images/greenhouse_source.png",
+      "images/greenhouse_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_outdoor_000058.jpg",
+      "Render/test/images/render_test_outdoor_000055.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000355",
+    "image_only_observations": {
+      "index": 12,
+      "clear_changes": [
+        "A purple watering can becomes visible on the ground beside the soil bags at the left of the aisle.",
+        "The white watering can previously visible farther back on the left is no longer visible in its original position."
+      ],
+      "unchanged_context": [
+        "The hose loop, wooden table/chair, soil bags and large right-side potted plants remain."
+      ],
+      "uncertain": [
+        "The can may have moved forward and changed from white to purple; do not require treating it as an additional second can.",
+        "A smaller right-side clay pot may shift slightly, but this is not confidently established."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  },
+  {
+    "id": "classroom__identity",
+    "split": "Render",
+    "scene": "classroom",
+    "partition": "validation",
+    "condition": "identity",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_identity.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000037.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1,
+      "actual_scale": 1.0,
+      "output_to_input_affine": [
+        1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "classroom__zoom_1p10",
+    "split": "Render",
+    "scene": "classroom",
+    "partition": "validation",
+    "condition": "zoom_1p10",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_zoom_1p10.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000037.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 0,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.1,
+      "output_to_input_affine": [
+        0.9090909090909091,
+        -0.0,
+        34.909090909090935,
+        0.0,
+        0.9090909090909091,
+        34.909090909090935
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "classroom__roll_8_safe",
+    "split": "Render",
+    "scene": "classroom",
+    "partition": "validation",
+    "condition": "roll_8_safe",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_roll_8_safe.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000037.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": 8,
+      "requested_zoom": 1,
+      "actual_scale": 1.131700052041039,
+      "output_to_input_affine": [
+        0.8750269711091788,
+        -0.12297702090678934,
+        95.21281912228245,
+        0.12297702090678934,
+        0.8750269711091788,
+        0.7664670658682553
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "classroom__roll_minus8_zoom",
+    "split": "Render",
+    "scene": "classroom",
+    "partition": "validation",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_roll_minus8_zoom.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000037.jpg"
+    ],
+    "expected": "No physical object/state change in shared visible content. Global geometry/framing change allowed; cropping can hide content without removal.",
+    "transform": {
+      "angle_degrees": -8,
+      "requested_zoom": 1.1,
+      "actual_scale": 1.244870057245143,
+      "output_to_input_affine": [
+        0.795479064644708,
+        0.11179729173344485,
+        35.605879150789335,
+        -0.11179729173344485,
+        0.795479064644708,
+        121.46619920207496
+      ],
+      "border_fill_samples": 0
+    }
+  },
+  {
+    "id": "classroom__natural",
+    "split": "Render",
+    "scene": "classroom",
+    "partition": "validation",
+    "condition": "natural",
+    "image": [
+      "images/classroom_source.png",
+      "images/classroom_positive.png"
+    ],
+    "source_dataset_images": [
+      "Render/test/images/render_test_indoor_000037.jpg",
+      "Render/test/images/render_test_indoor_000042.jpg"
+    ],
+    "source_pair_id": "render_test_pair_000600",
+    "image_only_observations": {
+      "index": 13,
+      "clear_changes": [
+        "The classroom becomes brighter."
+      ],
+      "unchanged_context": [
+        "The desks/chairs, ceiling fans and lamps, chalkboard drawing/text, windows and speakers appear to keep the same arrangement."
+      ],
+      "uncertain": [
+        "No clear object addition, removal or movement is identified at contact-sheet resolution."
+      ]
+    },
+    "expected": "Describe the visually reviewed changes without inventing other changes. Classroom is illumination-only, scored separately from physical-object positives."
+  }
+]

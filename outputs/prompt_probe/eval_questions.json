@@ -1,0 +1,522 @@
+[
+  {
+    "id": "case_00_prompt_00",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_01",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_02",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_03",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_04",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_05",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_06",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_07",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_08",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_00_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_00",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_01",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_02",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_03",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_04",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_05",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_06",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_07",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_08",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_01_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_00",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_01",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_02",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_03",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_04",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_05",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_06",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_07",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_08",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_00",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_01",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the contrast between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_02",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_03",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the alterations between these two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_04",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_05",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Point out the variations between the two images.  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_06",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What distinguishes these two images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_07",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What has changed from the first image to the second?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_08",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_03_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  }
+]

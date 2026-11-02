@@ -1,0 +1,9 @@
+{
+  "comparison": "Same invariance_sft_v1 checkpoint, merged BF16 versus unmerged adapters retained/restored as FP32. No new training or repository mutation.",
+  "reason": "CPU audit found mean relative L2 rounding error about 0.951 across 21 sampled matrices, but a numerical difference does not prove a caption gain.",
+  "evaluation": "The exact 108 paired questions from invariance_sft_v1, same original prompt and BF16 base model, greedy decoding and 1024 token cap. Both modes run sequentially in the same GPU container. No registration or prompt gating.",
+  "interpretation": "Treatment jointly avoids weight merge and preserves adapter FP32 if a loader casts it. Record actual saved/loaded dtypes. Native multimodal generation remains intact.",
+  "assessment": "Randomized candidate names. Reuse earlier factual annotations only when case ID, image/question manifest and entire displayed caption are identical; flag every reuse. Manually review remaining captions before decoding mode key. This is assistant review on development images, not independent blinded validation.",
+  "selection": "Prefer unmerged only if new-scene nonidentity physical-FP count decreases without new-natural fact hits decreasing per domain or unsupported-claim pairs increasing. Also report old-natural domain recall and raw length/loop diagnostics. One fixed comparison, no parameter tuning within it.",
+  "budget": "900 second GPU timeout, 8 CPU cores, 64GiB RAM, A100 requested. Check current credit before dispatch using budget_policy and include startup allowance. No new credit purchase."
+}

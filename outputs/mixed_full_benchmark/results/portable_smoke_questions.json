@@ -1,0 +1,28 @@
+[
+  {
+    "id": "case_00_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "case_02_prompt_09",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What's the difference between 2 images?  <image><image>Difference:"
+      }
+    ]
+  }
+]

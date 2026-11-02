@@ -1,0 +1,794 @@
+[
+  {
+    "id": "old__furniture__identity",
+    "cohort": "old",
+    "scene": "furniture",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/furniture_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/furniture_identity.png"
+    ]
+  },
+  {
+    "id": "old__furniture__natural",
+    "cohort": "old",
+    "scene": "furniture",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/furniture_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/furniture_positive.png"
+    ]
+  },
+  {
+    "id": "old__exercise__identity",
+    "cohort": "old",
+    "scene": "exercise",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/exercise_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/exercise_identity.png"
+    ]
+  },
+  {
+    "id": "old__exercise__natural",
+    "cohort": "old",
+    "scene": "exercise",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/exercise_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/exercise_positive.png"
+    ]
+  },
+  {
+    "id": "old__yoga__identity",
+    "cohort": "old",
+    "scene": "yoga",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/yoga_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/yoga_identity.png"
+    ]
+  },
+  {
+    "id": "old__yoga__natural",
+    "cohort": "old",
+    "scene": "yoga",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/yoga_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/yoga_positive.png"
+    ]
+  },
+  {
+    "id": "old__mouse__identity",
+    "cohort": "old",
+    "scene": "mouse",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/mouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/mouse_identity.png"
+    ]
+  },
+  {
+    "id": "old__mouse__natural",
+    "cohort": "old",
+    "scene": "mouse",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/mouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/mouse_positive.png"
+    ]
+  },
+  {
+    "id": "old__kitchen__identity",
+    "cohort": "old",
+    "scene": "kitchen",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_identity.png"
+    ]
+  },
+  {
+    "id": "old__kitchen__natural",
+    "cohort": "old",
+    "scene": "kitchen",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/kitchen_positive.png"
+    ]
+  },
+  {
+    "id": "old__silhouette__identity",
+    "cohort": "old",
+    "scene": "silhouette",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_identity.png"
+    ]
+  },
+  {
+    "id": "old__silhouette__natural",
+    "cohort": "old",
+    "scene": "silhouette",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/silhouette_positive.png"
+    ]
+  },
+  {
+    "id": "old__hospital__identity",
+    "cohort": "old",
+    "scene": "hospital",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/hospital_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/hospital_identity.png"
+    ]
+  },
+  {
+    "id": "old__hospital__natural",
+    "cohort": "old",
+    "scene": "hospital",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/hospital_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/hospital_positive.png"
+    ]
+  },
+  {
+    "id": "old__street__identity",
+    "cohort": "old",
+    "scene": "street",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/street_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/street_identity.png"
+    ]
+  },
+  {
+    "id": "old__street__natural",
+    "cohort": "old",
+    "scene": "street",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/street_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/street_positive.png"
+    ]
+  },
+  {
+    "id": "old__picnic__identity",
+    "cohort": "old",
+    "scene": "picnic",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/picnic_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/picnic_identity.png"
+    ]
+  },
+  {
+    "id": "old__picnic__natural",
+    "cohort": "old",
+    "scene": "picnic",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/picnic_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/picnic_positive.png"
+    ]
+  },
+  {
+    "id": "old__office__identity",
+    "cohort": "old",
+    "scene": "office",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/office_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/office_identity.png"
+    ]
+  },
+  {
+    "id": "old__office__natural",
+    "cohort": "old",
+    "scene": "office",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/office_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/office_positive.png"
+    ]
+  },
+  {
+    "id": "old__greenhouse__identity",
+    "cohort": "old",
+    "scene": "greenhouse",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_identity.png"
+    ]
+  },
+  {
+    "id": "old__greenhouse__natural",
+    "cohort": "old",
+    "scene": "greenhouse",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/greenhouse_positive.png"
+    ]
+  },
+  {
+    "id": "old__classroom__identity",
+    "cohort": "old",
+    "scene": "classroom",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/classroom_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/classroom_identity.png"
+    ]
+  },
+  {
+    "id": "old__classroom__natural",
+    "cohort": "old",
+    "scene": "classroom",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_diagnostic_v1/dataset/images/classroom_source.png",
+      "viewpoint_diagnostic_v1/dataset/images/classroom_positive.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__identity",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_identity.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__roll_8_safe",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_source.png",
+      "viewpoint_extension_v1/dataset/clothesline_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/clothesline_source.png"
+    ]
+  },
+  {
+    "id": "new__clothesline__natural",
+    "cohort": "new",
+    "scene": "clothesline",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/clothesline_natural_0.png",
+      "viewpoint_extension_v1/dataset/clothesline_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__identity",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_identity.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__roll_8_safe",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_source.png",
+      "viewpoint_extension_v1/dataset/computer_desk_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/computer_desk_source.png"
+    ]
+  },
+  {
+    "id": "new__computer_desk__natural",
+    "cohort": "new",
+    "scene": "computer_desk",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/computer_desk_natural_0.png",
+      "viewpoint_extension_v1/dataset/computer_desk_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__identity",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_source.png",
+      "viewpoint_extension_v1/dataset/snowy_street_identity.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_source.png",
+      "viewpoint_extension_v1/dataset/snowy_street_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__roll_8_safe",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_source.png",
+      "viewpoint_extension_v1/dataset/snowy_street_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_source.png",
+      "viewpoint_extension_v1/dataset/snowy_street_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/snowy_street_source.png"
+    ]
+  },
+  {
+    "id": "new__snowy_street__natural",
+    "cohort": "new",
+    "scene": "snowy_street",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/snowy_street_natural_0.png",
+      "viewpoint_extension_v1/dataset/snowy_street_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__identity",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_source.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_identity.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_source.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__roll_8_safe",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_source.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_source.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_source.png"
+    ]
+  },
+  {
+    "id": "new__basin_shelf__natural",
+    "cohort": "new",
+    "scene": "basin_shelf",
+    "split": "Real",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/basin_shelf_natural_0.png",
+      "viewpoint_extension_v1/dataset/basin_shelf_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__identity",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_source.png",
+      "viewpoint_extension_v1/dataset/city_intersection_identity.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_source.png",
+      "viewpoint_extension_v1/dataset/city_intersection_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__roll_8_safe",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_source.png",
+      "viewpoint_extension_v1/dataset/city_intersection_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_source.png",
+      "viewpoint_extension_v1/dataset/city_intersection_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/city_intersection_source.png"
+    ]
+  },
+  {
+    "id": "new__city_intersection__natural",
+    "cohort": "new",
+    "scene": "city_intersection",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/city_intersection_natural_0.png",
+      "viewpoint_extension_v1/dataset/city_intersection_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__identity",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_identity.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__roll_8_safe",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_source.png"
+    ]
+  },
+  {
+    "id": "new__bunk_bedroom__natural",
+    "cohort": "new",
+    "scene": "bunk_bedroom",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/bunk_bedroom_natural_0.png",
+      "viewpoint_extension_v1/dataset/bunk_bedroom_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__identity",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_identity.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__roll_8_safe",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_source.png"
+    ]
+  },
+  {
+    "id": "new__bicycle_alley__natural",
+    "cohort": "new",
+    "scene": "bicycle_alley",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/bicycle_alley_natural_0.png",
+      "viewpoint_extension_v1/dataset/bicycle_alley_natural_1.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__identity",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "identity",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_source.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_identity.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__zoom_in_1p10",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_in_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_source.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_zoom_in_1p10.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__roll_8_safe",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_8_safe",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_source.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_roll_8_safe.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__roll_minus8_zoom",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "roll_minus8_zoom",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_source.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_roll_minus8_zoom.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__zoom_out_reverse_1p10",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "zoom_out_reverse_1p10",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_zoom_in_1p10.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_source.png"
+    ]
+  },
+  {
+    "id": "new__render_kitchen__natural",
+    "cohort": "new",
+    "scene": "render_kitchen",
+    "split": "Render",
+    "condition": "natural",
+    "image": [
+      "viewpoint_extension_v1/dataset/render_kitchen_natural_0.png",
+      "viewpoint_extension_v1/dataset/render_kitchen_natural_1.png"
+    ]
+  }
+]

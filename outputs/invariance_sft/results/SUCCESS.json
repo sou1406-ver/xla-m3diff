@@ -1,0 +1,7 @@
+{
+  "n_eval": 108,
+  "generations": 216,
+  "gpu": "NVIDIA A100 80GB PCIe, 81920 MiB",
+  "completed_at": 1793112722.41997,
+  "GPU_released_on_return": true
+}

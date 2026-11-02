@@ -1,0 +1,1677 @@
+{
+  "reviewer": "Codex assistant visual assessment, not independent human gold",
+  "model_mapping_opened_before_saving": false,
+  "scoring_clarification_before_decoding": "Physical-FP metric follows original object/state criterion; illumination assertions are separate, not silently reclassified as object changes. Ambiguous image-coordinate shifts or apparent size claims are not forced into physical-FP. Wrong apparent scale/direction gets other_error; identity_difference captures any invented change on identical pixels. No prompt/threshold/locked fact changes.",
+  "ack_policy": "No candidate explicitly identifies global camera roll/zoom/framing as explanation. Mere object motion or lighting assertion does not count.",
+  "cases": [
+    {
+      "id": "furniture__identity",
+      "review_note": "Both correctly say unchanged.",
+      "candidate_1": {
+        "caption": "There is no difference between the two images.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene remains the same.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "furniture__zoom_1p10",
+      "review_note": "Both infer lighting from geometry-only crop; no object-change claim.",
+      "candidate_1": {
+        "caption": "The lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "furniture__roll_8_safe",
+      "review_note": "Opposite lighting claims, no physical object change.",
+      "candidate_1": {
+        "caption": "The ambient lighting has become brighter.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The lighting has dimmed.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "furniture__roll_minus8_zoom",
+      "review_note": "Both invent individual stool turning/3D orientation change; whole scene affine only.",
+      "candidate_1": {
+        "caption": "The lighting has brightened. The stool on the right side of the scene has rotated 90 degrees clockwise.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened. The stool on the right side of the scene has rotated clockwise by a certain angle, changing its orientation from facing forward to facing left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "furniture__natural",
+      "review_note": "Goose present for both. Candidate 2 covers color and total stool count, neither covers cushion shape.",
+      "candidate_1": {
+        "caption": "A green cushion has been added to the stool on the right side of the scene. A white toy goose has appeared on the white table in the middle of the scene. The blue pillow that was originally on the stool on the left side of the scene has moved to the top of the gray low stool in the center of the scene. Two new green stools have appeared in front of the white table in the center of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          3
+        ],
+        "unsupported": [
+          "Green cushion added to right stool",
+          "Blue pillow relocated to gray ottoman",
+          "Two new stools instead of total two"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The blue cushion on the chair in the upper left corner of the scene has been replaced with a green cushion. A white toy goose plush toy has appeared on the white table on the right side of the scene. The number of green stools on the right side of the scene has increased to two, and the green stool on the left has moved from being placed under the wooden table on the left side to being placed under the white table on the right side.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1,
+          3,
+          4
+        ],
+        "unsupported": [
+          "Existing stool physically moved between tables"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "exercise__identity",
+      "review_note": "Candidate 2 invents changed head direction on identical pixels.",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "exercise__zoom_1p10",
+      "review_note": "Both invent head/gaze turning.",
+      "candidate_1": {
+        "caption": "The girl in the center of the screen, who was previously looking at the camera, is now looking to her left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The three people in the center of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "exercise__roll_8_safe",
+      "review_note": "Both invent changed head/body facing.",
+      "candidate_1": {
+        "caption": "The three people in the middle of the formation change from facing forward to turning their heads to the left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The girl in the center of the screen, who was previously facing forward, is now facing right.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "exercise__roll_minus8_zoom",
+      "review_note": "Both invent head movement.",
+      "candidate_1": {
+        "caption": "The girl in the center of the screen has raised her head.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle of the scene, who were previously facing forward, now turn their heads to the right.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "exercise__natural",
+      "review_note": "Candidate 1 captures squat-to-side-bend plus raised arm; candidate 2 only captures the main side bend.",
+      "candidate_1": {
+        "caption": "The three people in the center of the scene, who were previously facing forward with their legs bent and hands resting on their chests, have now turned to the left, bending their bodies to the left while raising their right arms high.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1,
+          2
+        ],
+        "unsupported": [
+          "Previous hands at chest instead of low in front"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The three people in the middle row, who were previously facing forward with their bodies slightly bent and hands crossed in front of their chests, have now turned to the left side of the frame, bending their upper bodies to the left while extending their right arms backward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Previous hands at chest",
+          "New arm extended backward instead of overhead"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "yoga__identity",
+      "review_note": "Candidate 1 invents arm change; candidate 2 invents lighting difference on identical pixels.",
+      "candidate_1": {
+        "caption": "The right hand, previously bent and holding the edge of the circular arch, is now straightened.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "yoga__zoom_1p10",
+      "review_note": "Candidate 2 invents limb pose changes.",
+      "candidate_1": {
+        "caption": "The light in the scene has become stronger.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The right leg, which was bent and supported on the ground, is now straightened. The left hand, which was resting on the edge of the arch, is now extended upward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "yoga__roll_8_safe",
+      "review_note": "Both invent pose/orientation changes beyond global roll.",
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened. The posture of the person in white clothes changes from a standing position with the left leg bent forward and the right leg extended backward, to a posture where the left leg is straight and supporting the body, while the right leg is bent and lifted, with the right hand touching the ground for support.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the right side. The gaze shifts from being directed toward the ground to looking straight ahead. The arm movement changes from both arms extended, with the left hand supporting on the edge and the right hand raised, to the left hand supporting on the edge while the right hand is raised. The leg movement changes from the left leg bent and supporting, with the right leg extended backward, to the left leg straight and supporting, with the right leg lifted backward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "yoga__roll_minus8_zoom",
+      "review_note": "Both invent multiple posture/arm changes.",
+      "candidate_1": {
+        "caption": "The body's orientation shifts from facing the left side of the frame to facing the right side. The head's direction changes from looking toward the left side of the frame to looking toward the front right. The gaze shifts from looking at the ground to looking straight ahead. The arm movement changes from the left hand supporting on the edge with the left arm bent and the right hand raised, to both arms extended horizontally. The leg movement changes from the left leg standing upright and the right leg bent backward, to the left leg standing upright and the right leg bent backward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened. The girl's body is now more bent forward, with her waist leaning forward and her head looking down at the ground. Her left hand, which was previously resting on the edge of the building, is now raised to the side. Her right hand, which was previously supporting her body, is now also raised to the side.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "yoga__natural",
+      "review_note": "Neither accurately states the locked standing wide-legged forward bend. No fact hit for merely mentioning a changed pose.",
+      "candidate_1": {
+        "caption": "The posture of the person in white clothes changes from facing the left side with the left leg extended backward, right leg bent forward, waist tilted to the right, and both arms raised and extended horizontally to either side, to lying on the ground with the body facing downward, legs spread apart, and head naturally hanging down.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Lying on ground instead of standing forward bend",
+          "Initial both arms horizontal"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The posture of the person in white clothing changes from a standing position with the left leg extended backward and the right leg bent to support the body, arms raised and extended horizontally on both sides, to facing down with the head touching the ground, legs spread apart, and arms supporting the ground.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Head/arms supporting ground instead of hands reaching spread feet",
+          "Initial arms horizontal"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "mouse__identity",
+      "review_note": "Candidate 2 invents head turning/biting.",
+      "candidate_1": {
+        "caption": "The scene remains the same.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The mouse has turned its head to the left and is biting a peanut.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "mouse__zoom_1p10",
+      "review_note": "Candidate 1 invents head action; candidate 2 asserts food quantity change rather than cropped visibility.",
+      "candidate_1": {
+        "caption": "The mouse has turned its head to the left and is biting a peanut on the ground.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The quantity of food on the wooden table has changed.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "mouse__roll_8_safe",
+      "review_note": "Candidate 2 invents movement to the other side of box and feed tray.",
+      "candidate_1": {
+        "caption": "The mouse has moved to the left.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Unqualified moved left could describe global image-coordinate shift; conservatively not counted physical"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The mouse has moved from the left side of the wooden box to the right side, closer to the feed tray.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "mouse__roll_minus8_zoom",
+      "review_note": "Candidate 1 invents head action. Candidate 2 explicitly says left frame to right; this is a wrong apparent location description, recorded separately from physical relocation.",
+      "candidate_1": {
+        "caption": "The mouse has turned its head to the left and is biting the food on the ground.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The mouse has moved from the left side of the frame to the right side.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 1,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "mouse__natural",
+      "review_note": "Both correctly describe entry into hole; uncertain food amount is not a confirmed invented physical change.",
+      "candidate_1": {
+        "caption": "The mouse has moved from the middle of the scene to the mouse hole in the wooden board. The quantity of food scattered on the wooden board has changed.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Food quantity comparison unreliable under changed camera framing"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The mouse has moved from the front left of the scene to the small hole in the wooden box on the right side, with only its head peeking out. The number of food scattered on the wooden board has decreased.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": [
+          "Food quantity decrease unreliable under changed camera framing"
+        ]
+      }
+    },
+    {
+      "id": "kitchen__identity",
+      "review_note": "Candidate 1 invents lighting; candidate 2 correctly says unchanged.",
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has not changed.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "kitchen__zoom_1p10",
+      "review_note": "Both infer brighter lighting/scene from crop only.",
+      "candidate_1": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become brighter.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "kitchen__roll_8_safe",
+      "review_note": "Candidate 2 falsely removes visible lid; lids remain in transformed frame.",
+      "candidate_1": {
+        "caption": "The brightness of the scene has increased.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The yellow lid on the right side of the table has disappeared.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "kitchen__roll_minus8_zoom",
+      "review_note": "Both only infer brighter illumination.",
+      "candidate_1": {
+        "caption": "The brightness of the scene has increased.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The ambient lighting has brightened.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "kitchen__natural",
+      "review_note": "Red/green bottle already present. Neither captures forward jar movement or newly visible separate thermos correctly.",
+      "candidate_1": {
+        "caption": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle. The transparent plastic bottle with a green cap on the right side of the table has rotated clockwise by a certain angle, changing its orientation from facing the front left to facing the right side of the table.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Green seasoning bottle replaced with red",
+          "Jar claimed only turned, not supported front movement"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The green seasoning bottle on the right side of the table has been replaced with a red seasoning bottle.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Green seasoning bottle replaced with red"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "silhouette__identity",
+      "review_note": "Candidate 2 invents arm movement on identical pixels.",
+      "candidate_1": {
+        "caption": "The scene remains unchanged.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The person's right hand changes from being raised to the left side of the head to being raised above the head.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "silhouette__zoom_1p10",
+      "review_note": "Both invent leg pose changes.",
+      "candidate_1": {
+        "caption": "The person's posture has changed from bending the right leg and lifting the left leg to standing on the right leg with the left leg raised.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The person's posture changes from having the right leg bent and supporting the body, with the left leg raised and bent at a 90-degree angle, to standing upright with the right leg supporting the body, while the left leg is raised and bent at a 90-degree angle.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "silhouette__roll_8_safe",
+      "review_note": "Both invent leg geometry changes.",
+      "candidate_1": {
+        "caption": "The person's posture has changed from bending the left leg and lifting the right leg to standing on the left leg with the right leg bent behind.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The person's left leg, previously bent and supporting the body, is now straightened.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "silhouette__roll_minus8_zoom",
+      "review_note": "Both invent different leg pose.",
+      "candidate_1": {
+        "caption": "The person's posture has changed from bending the right leg and lifting the left leg to standing straight with both legs together.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The person's left leg, previously bent and supporting the body, is now straightened.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "silhouette__natural",
+      "review_note": "Both capture raised forward leg; neither covers the specified sky/framing fact.",
+      "candidate_1": {
+        "caption": "The ambient lighting has become dimmer. The posture of the person in the picture changes from standing with legs apart, right hand raised above the head, left hand extended to the side, waist slightly turned to the left, and the upper body facing away from the frame to a posture where the body is slightly tilted to the right, the left leg is raised high, the right leg stands firmly on the ground, and both hands are extended forward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Initial legs apart",
+          "Both final arms forward"
+        ],
+        "uncertain": [
+          "Only dimmer lighting does not satisfy locked larger-cloud/more-visible-sun fact"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The posture of the figure changes from standing with the right leg bent and supporting the body, while the left leg is raised and bent, with both arms extended to the sides, to a position where the body is slightly tilted to the right, the left leg is lifted high, the right leg stands firmly on the ground, and both arms are extended forward.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Initial legs/arms configuration",
+          "Both final arms forward"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "hospital__identity",
+      "review_note": "Both claim lighting changes on identical pixels.",
+      "candidate_1": {
+        "caption": "The scene is now more lit up.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has diminished.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "hospital__zoom_1p10",
+      "review_note": "Crop magnifies rather than shrinks. Record scale error separately.",
+      "candidate_1": {
+        "caption": "The lighting has dimmed.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The area has grown darker. The gray mats at the foot of the beds on both sides have become smaller.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 1,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Smaller mats is wrong apparent-scale description; no explicit physical resizing, excluded from physical-FP count"
+        ]
+      }
+    },
+    {
+      "id": "hospital__roll_8_safe",
+      "review_note": "Candidate 1 invents individual bed rotation toward window; candidate 2 only infers light.",
+      "candidate_1": {
+        "caption": "The area is now brighter. The gray medical bed in the middle of the left side of the scene has been rotated to the right, facing the window at the foot of the bed.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "hospital__roll_minus8_zoom",
+      "review_note": "Candidate 1 invents flower relocation relative to bed. Candidate 2 falsely removes end tables; known source geometry only.",
+      "candidate_1": {
+        "caption": "The light in the scene has diminished. The flower arrangement on the bedside table to the left of the room's central corridor, originally placed on a small table, is now placed directly on the bed frame.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The white medical table at the far end of the left side of the room, next to the single bed, is no longer present.The white medical table at the far end of the right side of the room, next to the single bed, is no longer present.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "hospital__natural",
+      "review_note": "Neither captures locked heart picture or correctly names changed bed panel.",
+      "candidate_1": {
+        "caption": "The light level has dropped. A new red medical waste bin has appeared between the two beds on the right side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Red waste bin added instead of bed end-panel color change"
+        ],
+        "uncertain": [
+          "Lighting decrease not independently established"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The bouquet of blue and purple flowers on the bedside table to the left of the first bed on the right side of the scene has disappeared. The color of the bedside table next to the leftmost bed in the second row has changed from white to red.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Visible flowers disappeared",
+          "Red bed panel mislabeled as wrong bedside table"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "street__identity",
+      "review_note": "Both invent darker illumination on identical pixels.",
+      "candidate_1": {
+        "caption": "The scene has become darker.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light level has dropped.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "street__zoom_1p10",
+      "review_note": "Both invent bicycle component/orientation change under pure zoom.",
+      "candidate_1": {
+        "caption": "The light level has dropped. The front wheel of the bicycle in the middle of the road has turned to the right.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers that was originally on the left side of the scene, near the red house on the left and next to the black iron fence, is no longer visible.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "No-longer-visible border flower pot could be crop; not counted as a physical deletion"
+        ]
+      }
+    },
+    {
+      "id": "street__roll_8_safe",
+      "review_note": "Bike facing flip or right-to-left-road relocation is not global 8-degree roll.",
+      "candidate_1": {
+        "caption": "The front of the bicycle in the middle of the road has changed from facing the right side of the picture to facing the left side. The potted plant with orange flowers on the brick platform at the entrance of the red house on the left side of the screen is no longer visible.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border pot no longer visible can be crop"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The light level has dropped. The brown bicycle that was originally leaning against the right side of the road is now leaning against the left side of the road.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "street__roll_minus8_zoom",
+      "review_note": "Candidate 1 invents fence replacement/plant color and bike relocation; candidate 2 invents bike relocation.",
+      "candidate_1": {
+        "caption": "The bicycle that was leaning against the right side of the sidewalk is now lying on the road in the middle of the picture. The gray metal fence at the entrance of the red house on the right side of the picture has been replaced with a black metal fence. The potted plant in front of the blue house's steps has changed from green to brown.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light level has dropped. The flower pot in the lower left corner of the screen has disappeared.The bicycle that was originally leaning against the right side of the road has moved to the center of the road.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Border pot disappearance may be crop; not a separate confirmed physical error"
+        ]
+      }
+    },
+    {
+      "id": "street__natural",
+      "review_note": "Candidate 2 captures shift toward bucket, but neither mentions diagonal rotation.",
+      "candidate_1": {
+        "caption": "The red bicycle in the rear right of the picture has been moved to the front left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Bike moved front left instead of toward right curb"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The rusty red bicycle that was originally parked in the middle of the road has moved to the right side of the road, near the gray pillar and bucket.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          2
+        ],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "picnic__identity",
+      "review_note": "Both invent beach-chair turning on identical pixels.",
+      "candidate_1": {
+        "caption": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The blue and white striped wooden chair on the right side of the scene has turned to face the left side.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "picnic__zoom_1p10",
+      "review_note": "Both invent chair turning and cup replacement; flower count under crop is uncertain.",
+      "candidate_1": {
+        "caption": "The light level has dropped. The blue and white striped wooden chair on the right side of the scene has turned to face the right side. The white cup in the center of the picnic mat has been replaced with a transparent glass. The quantity of white flowers in the lower right corner of the picnic mat has decreased.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The white cup with a handle in front of the picnic basket on the left side of the picnic blanket has been replaced by a transparent glass.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "picnic__roll_8_safe",
+      "review_note": "Both invent individual chair/basket relocation. Global mat image orientation alone would not be a physical error.",
+      "candidate_1": {
+        "caption": "The blue and white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall. The brown picnic basket, originally placed on the picnic blanket near the upper left corner of the scene, has been moved to the lower right corner of the picnic blanket. The white cup with a handle that was in front of the round pastry box on the picnic blanket is no longer visible.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The blue and white striped bench that was previously facing the right side of the picture has now turned to face the left side. The picnic mat has rotated clockwise, changing its orientation from horizontal to diagonal. The brown picnic box on the picnic mat has moved from the left side to the right side. The quantity of white flowers in the lower right corner of the scene has decreased.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "picnic__roll_minus8_zoom",
+      "review_note": "Both invent chair facing changes; candidate 2 also flower count changes.",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated. The blue and white striped wooden lounge chair, originally facing the camera, is now facing the waterfall on the right side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The lighting has improved. The blue and white striped wooden chair, which was originally facing the left side of the scene, is now facing the right side of the scene. The quantity of white flowers in the distance near the waterfall has increased. The quantity of yellow flowers on the grass to the right of the picnic table has increased.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "picnic__natural",
+      "review_note": "Candidate 1 accurately captures new round pastry; both omit rock and waterfall width.",
+      "candidate_1": {
+        "caption": "A new round pastry has appeared to the right of the picnic basket in the center of the scene.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "A new blue-and-white wooden lounge chair has been added to the right of the picnic mat, facing the waterfall. A new plate of cookies has appeared on the picnic blanket in front of the blue-and-white lounge chair.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged lounge chair added",
+          "New pastry mislabeled as plate of cookies"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "office__identity",
+      "review_note": "Lighting or cabinet size change on identical pixels is incorrect.",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The white rectangular cabinet on the left wall of the scene has decreased in size.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "office__zoom_1p10",
+      "review_note": "Keyboard replacement/chair turning or chair removal is invented; middle-left chair remains.",
+      "candidate_1": {
+        "caption": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The chair in front of the computer desk at the back left of the scene has turned from facing the table to facing the camera.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The black office chair in the middle of the left side of the scene, facing away from the camera, has disappeared.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "office__roll_8_safe",
+      "review_note": "Multiple invented keyboard/monitor/chair changes, not global frame rotation.",
+      "candidate_1": {
+        "caption": "The white keyboard in front of the center computer on the far right table is no longer present. The black office chair with wheels, originally positioned in front of the left side of the first row of tables, has been moved to the left side of the second row of tables. The gray rectangular monitor on the second table from the left in the back row has been replaced by a black monitor.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The black office chair in the middle of the left side of the desk, facing away from the camera, has disappeared.The white keyboard on the computer at the far right of the first row of tables has been replaced with a white mouse.A new white keyboard has appeared on the computer at the far left of the first row of tables.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "office__roll_minus8_zoom",
+      "review_note": "Multiple individual keyboard/chair movements or relocation relative to table are invented.",
+      "candidate_1": {
+        "caption": "The white keyboard on the center of the second row of desks from the left is no longer present. The black office chair in front of the computer on the far right of the first row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the second row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the third row of tables has turned to face the table instead of away from it. The black office chair in front of the computer on the far left of the fourth row of tables has turned to face the table instead of away from it.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become more illuminated. The black office chair in the middle of the left side of the desk, facing away from the camera, has moved to the right side of the table.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "office__natural",
+      "review_note": "Both miss the actual rear monitor rotation.",
+      "candidate_1": {
+        "caption": "The white keyboard on the far left of the second row of desks has been replaced with a black keyboard. The gray trash can in the bottom right corner of the first row of desks is no longer visible. The black office chair in front of the computer desk on the right side of the second row has turned from facing the left side of the screen to facing the right side of the screen.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Keyboard replacement",
+          "Trash can disappearance",
+          "Unchanged chair rotation"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The chair in front of the computer desk at the back left of the scene has turned from facing right to facing left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged chair rotation"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "greenhouse__identity",
+      "review_note": "Candidate 1 invents table rotation; candidate 2 invents lighting.",
+      "candidate_1": {
+        "caption": "The wooden table located in the lower left corner of the greenhouse has been rotated, changing its orientation from facing the front-right to facing the back-left.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light level has increased.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "greenhouse__zoom_1p10",
+      "review_note": "Candidate 2 invents table facing and pot relocation across entrance.",
+      "candidate_1": {
+        "caption": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the left, and the bench below the window on the left side has also moved to the left.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Several left-side objects shifting left can describe global zoom coordinates; no explicit relative relocation"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has increased. The wooden table on the left side of the scene, next to the chair, has been rotated from facing forward to facing right.A brown potted plant that was previously located on the ground near the entrance at the far right side of the greenhouse is now positioned on the ground near the entrance on the left side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "greenhouse__roll_8_safe",
+      "review_note": "Both claim table set moves next to bench, altering a scene relation; candidate 2 adds hose length change.",
+      "candidate_1": {
+        "caption": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green hose on the ground in the middle of the greenhouse has changed from a complete circle to a shorter length.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "greenhouse__roll_minus8_zoom",
+      "review_note": "Both claim table moves next to bench, altering relation; extra plant size claim uncertain apparent scale.",
+      "candidate_1": {
+        "caption": "The light in the scene has increased. The wooden table on the left side of the scene has been moved to the right, next to the bench.The size of the green potted plant at the far end of the greenhouse, near the entrance, has decreased.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the right, now positioned next to a bench.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "greenhouse__natural",
+      "review_note": "Neither sees the changed watering-can appearance/location.",
+      "candidate_1": {
+        "caption": "The light level has increased. The wooden table and chair on the left side of the scene have moved to the left. The green plants in the wooden box at the front of the scene have disappeared.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged table/chairs moved",
+          "Persistent plants disappeared"
+        ],
+        "uncertain": [
+          "Lighting increase not established"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The wooden table and chair set on the left side of the scene have moved to the right, now positioned next to the bench. The green plants in the wooden box at the back left of the scene have disappeared.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [
+          "Unchanged table/chairs moved",
+          "Persistent plants disappeared"
+        ],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "classroom__identity",
+      "review_note": "Candidate 1 invents lighting; candidate 2 removes unchanged speaker on identical pixels.",
+      "candidate_1": {
+        "caption": "The scene has become more illuminated.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The black speaker located above the blackboard, to the left of the school's emblem, has disappeared.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 1,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "classroom__zoom_1p10",
+      "review_note": "Both invent individual chair movement or board facing reversal.",
+      "candidate_1": {
+        "caption": "The area is now darker. The chair at the far left of the first row on the right side has been moved to the middle position between two desks.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The light level has dropped. The blackboard at the front of the classroom, which was previously facing the right side of the scene, is now facing the left side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      }
+    },
+    {
+      "id": "classroom__roll_8_safe",
+      "review_note": "Both infer illumination; board actually magnified by safe crop.",
+      "candidate_1": {
+        "caption": "The scene has become darker.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene is now more lit up. The blackboard located behind the white podium in the center of the classroom has decreased in size.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 1,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong smaller-board apparent scale, no explicit physical resizing; excluded from physical-FP"
+        ]
+      }
+    },
+    {
+      "id": "classroom__roll_minus8_zoom",
+      "review_note": "Both claim board smaller despite affine enlargement.",
+      "candidate_1": {
+        "caption": "The scene is now more lit up. The blackboard located behind the teacher's podium on the right side of the classroom has decreased in size.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 1,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong apparent scale; physical resizing not explicit"
+        ]
+      },
+      "candidate_2": {
+        "caption": "The light in the scene has diminished. The blackboard located at the front of the classroom, behind the lectern, has decreased in size.",
+        "fp": 0,
+        "ack": 0,
+        "illumination_fp": 1,
+        "other_error": 1,
+        "identity_difference": 0,
+        "facts": [],
+        "unsupported": [],
+        "uncertain": [
+          "Wrong apparent scale; physical resizing not explicit"
+        ]
+      }
+    },
+    {
+      "id": "classroom__natural",
+      "review_note": "Both cover true brightness increase but invent an object change.",
+      "candidate_1": {
+        "caption": "The area is now brighter. The middle chair in the first row on the right side of the classroom has been moved to the left, closer to the blackboard.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Unchanged chair moved"
+        ],
+        "uncertain": []
+      },
+      "candidate_2": {
+        "caption": "The scene has become brighter. The blackboard at the front of the classroom, which was previously facing the right side of the scene, is now facing the left side of the scene.",
+        "fp": 1,
+        "ack": 0,
+        "illumination_fp": 0,
+        "other_error": 0,
+        "identity_difference": 0,
+        "facts": [
+          1
+        ],
+        "unsupported": [
+          "Blackboard facing reversed"
+        ],
+        "uncertain": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "n": 256,
+  "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+  "completed_at": 1793095676.3183353,
+  "reason": "Published baseline rerun on same requested A100-40GB type and BF16/greedy settings as SFT; old cached A10 baseline kept as secondary comparison."
+}

@@ -1,0 +1,45 @@
+{
+  "reviewer": "Codex assistant visual review of original train images and close crops; not independently human adjudicated.",
+  "reviewed_pairs": 48,
+  "accepted_unique_pairs": 44,
+  "rejected_indices": [
+    1,
+    19,
+    43,
+    44
+  ],
+  "unique_replay_pairs": 128,
+  "corrected_pair_exposure": 2,
+  "train_records_per_arm": 216,
+  "steps_per_arm": 27,
+  "eval_pairs": 256,
+  "per_split": {
+    "Real": 128,
+    "Render": 128
+  },
+  "eval_selection_seed": 20261030,
+  "train_order_seed": 20261030,
+  "training_seed": 42,
+  "image_clean_eval_counts": {
+    "Real": 128,
+    "Render": 9
+  },
+  "annotations_sha256": "efc55cd1fb70e17cd3415f890eadc2d7eec2d6f4e72801be3e94851703dd6d81",
+  "initialization_control": "set_seed(42) before model/LoRA creation; initialization hashes saved and compared across arms",
+  "sample_order_control": "Length grouping disabled; actual sampled record indices saved and compared across arms",
+  "trainer_wrapper_sha256": "0518de400b7bbf7c0e20ba88e28099cecccac66c8155bd5e327dc6d7cff47f79",
+  "training": {
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lr": 1e-05,
+    "epochs": 1,
+    "batch": 1,
+    "accum": 8,
+    "vision": "frozen",
+    "projector": "frozen",
+    "MDP": "trainable"
+  },
+  "comparison": "Original labels versus visually reviewed corrected labels on identical image pairs, same order/replay/updates. Both start from published base. Previous random-SFT checkpoint evaluated separately.",
+  "holdout": "128 new unordered image pairs per domain, excluding all earlier pilot/validation/SFT question IDs and unordered pairs. Prior-unseen images prioritized, but not enough exist in Render: some evaluation images were viewed in earlier pilots. Explicit per-pair freshness flags and image-clean counts saved. Pairs may share images within this batch; use shared-image connected components for clustered uncertainty. Official train paths only for fitting. Not guaranteed scene-disjoint or fully independent of development.",
+  "limits": "Review performed by Codex assistant, not independently human adjudicated. Targets describe supported visible changes and may differ in length/wording from originals. Small single-seed study; no claim of general rotation/zoom robustness."
+}

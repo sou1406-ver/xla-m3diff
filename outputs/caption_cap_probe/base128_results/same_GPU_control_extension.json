@@ -1,0 +1,4 @@
+{
+  "added_before_any_base128_outputs": true,
+  "control": "All19 natural pairs generated1024 then128 with identical loaded base, sameGPU, sameinput tensors and greedy. Four long cases use cap128 only. Control always first; timing has warm-up/order limitations. Cached1024 long captions remain cross-job references."
+}

@@ -1,0 +1,205 @@
+{
+  "all": {
+    "baseline": {
+      "n": 40,
+      "physical_fp_pairs": 40,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 40,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 40
+    },
+    "old_mixed": {
+      "n": 40,
+      "physical_fp_pairs": 22,
+      "illumination_or_visibility_inferences": 17,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 39,
+      "ambiguous_more_visible_only": 10,
+      "strict_error_excluding_vague_visibility": 29
+    },
+    "balanced": {
+      "n": 40,
+      "physical_fp_pairs": 20,
+      "illumination_or_visibility_inferences": 20,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 40,
+      "ambiguous_more_visible_only": 10,
+      "strict_error_excluding_vague_visibility": 30
+    }
+  },
+  "fixed_question": {
+    "baseline": {
+      "n": 4,
+      "physical_fp_pairs": 4,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 1,
+      "broad_object_or_lighting_visibility_error": 4,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 4
+    },
+    "old_mixed": {
+      "n": 4,
+      "physical_fp_pairs": 3,
+      "illumination_or_visibility_inferences": 1,
+      "identity_difference_pairs": 1,
+      "broad_object_or_lighting_visibility_error": 4,
+      "ambiguous_more_visible_only": 1,
+      "strict_error_excluding_vague_visibility": 3
+    },
+    "balanced": {
+      "n": 4,
+      "physical_fp_pairs": 2,
+      "illumination_or_visibility_inferences": 2,
+      "identity_difference_pairs": 1,
+      "broad_object_or_lighting_visibility_error": 4,
+      "ambiguous_more_visible_only": 1,
+      "strict_error_excluding_vague_visibility": 3
+    }
+  },
+  "other_questions": {
+    "baseline": {
+      "n": 36,
+      "physical_fp_pairs": 36,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 9,
+      "broad_object_or_lighting_visibility_error": 36,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 36
+    },
+    "old_mixed": {
+      "n": 36,
+      "physical_fp_pairs": 19,
+      "illumination_or_visibility_inferences": 16,
+      "identity_difference_pairs": 9,
+      "broad_object_or_lighting_visibility_error": 35,
+      "ambiguous_more_visible_only": 9,
+      "strict_error_excluding_vague_visibility": 26
+    },
+    "balanced": {
+      "n": 36,
+      "physical_fp_pairs": 18,
+      "illumination_or_visibility_inferences": 18,
+      "identity_difference_pairs": 9,
+      "broad_object_or_lighting_visibility_error": 36,
+      "ambiguous_more_visible_only": 9,
+      "strict_error_excluding_vague_visibility": 27
+    }
+  },
+  "new__bicycle_alley__identity": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "old_mixed": {
+      "n": 10,
+      "physical_fp_pairs": 3,
+      "illumination_or_visibility_inferences": 7,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 0,
+      "illumination_or_visibility_inferences": 10,
+      "identity_difference_pairs": 10,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    }
+  },
+  "new__bunk_bedroom__zoom_out_reverse_1p10": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "old_mixed": {
+      "n": 10,
+      "physical_fp_pairs": 0,
+      "illumination_or_visibility_inferences": 10,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 10,
+      "strict_error_excluding_vague_visibility": 0
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 0,
+      "illumination_or_visibility_inferences": 10,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 10,
+      "strict_error_excluding_vague_visibility": 0
+    }
+  },
+  "new__clothesline__zoom_in_1p10": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "old_mixed": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    }
+  },
+  "new__computer_desk__roll_8_safe": {
+    "baseline": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    },
+    "old_mixed": {
+      "n": 10,
+      "physical_fp_pairs": 9,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 9,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 9
+    },
+    "balanced": {
+      "n": 10,
+      "physical_fp_pairs": 10,
+      "illumination_or_visibility_inferences": 0,
+      "identity_difference_pairs": 0,
+      "broad_object_or_lighting_visibility_error": 10,
+      "ambiguous_more_visible_only": 0,
+      "strict_error_excluding_vague_visibility": 10
+    }
+  }
+}

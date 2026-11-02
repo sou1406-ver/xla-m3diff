@@ -1,0 +1,27 @@
+{
+  "page_count": 27,
+  "visual_review_all_pages": true,
+  "last_changed_pages_reinspected": [
+    11,
+    12,
+    13
+  ],
+  "tables": 34,
+  "source_files_verified": 63,
+  "no_unresolved_placeholders": true,
+  "Vietnamese_glyphs_checked": true,
+  "title_black_without_border": true,
+  "render_backend": "Microsoft Word ExportAsFixedFormat and packaged DOCX rasterizer",
+  "outputs": [
+    {
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\BAO_CAO_M3DIFF_CHI_TIET.docx",
+      "sha256": "727db867ed3d2c2691146f58bb0249b300b8e72d39d9951786e1fcde375bfab5",
+      "bytes": 83357
+    },
+    {
+      "path": "C:\\Users\\phuc1\\Downloads\\xla\\outputs\\bao_cao_m3diff_chi_tiet\\BAO_CAO_M3DIFF_CHI_TIET.md",
+      "sha256": "adfb3183a0caf9585677ac12794c313a8ed767df296a701b886cf3d801c3db67",
+      "bytes": 89989
+    }
+  ]
+}

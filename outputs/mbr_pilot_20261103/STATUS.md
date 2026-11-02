@@ -1,0 +1,1 @@
+MBR is a new decoding-only experiment, not v3 training. Fixed20pairs(10/domain),8sampled+1greedy; compare sequential vs batch under1USD. No GPU started at this snapshot. Train-only IDF preparation pending. Val200/full not yet budget-admitted. V2 remains rejected/closed.

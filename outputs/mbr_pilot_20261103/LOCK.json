@@ -1,0 +1,15 @@
+{
+  "stage": "before_CPU_IDF_and_GPU_predictions",
+  "files": {
+    "PROTOCOL.json": "ccb82c650d4401cc433788aa2233dc63ad2e3c0b666de9e84299549b8c6c2cf2",
+    "questions20.json": "3519d964bfe8b86493a55fd5ec27ff66546a75ea73fe2320d9a0cd75d8b3c6ee",
+    "selection20.json": "b86cde6e86671d6d9e7249f25a4328e800adf5ca3ed36fdee9a5d89359336e5c",
+    "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36",
+    "prepare_cpu.py": "a9317f47f41a39cc0ad5aa976817dedfe21ddd5123c850c7fa0e69c47bcf270f"
+  },
+  "cpu_reservation_usd": ".05",
+  "a10_reservation_usd": ".91",
+  "twenty_pair_cap_usd": 1,
+  "reserved_total_usd": ".96",
+  "val200_admitted": false
+}

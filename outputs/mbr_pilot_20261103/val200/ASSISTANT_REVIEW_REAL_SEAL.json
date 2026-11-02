@@ -1,0 +1,8 @@
+{
+  "utc": "2026-11-02T21:34:01.016113+00:00",
+  "masked_assessment_sha256": "7efba73f6f3015d63477af19239b7db49469dc85ef7de05a2cec2e78d2d2faf7",
+  "n": 20,
+  "final_val_metrics_not_computed_yet": true,
+  "mapping_not_read_before_seal": true,
+  "rater": "Codex assistant,not independent human"
+}

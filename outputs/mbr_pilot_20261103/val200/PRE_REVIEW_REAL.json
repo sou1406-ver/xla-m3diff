@@ -1,0 +1,206 @@
+{
+  "phase": "before val200 metric computation",
+  "selection": "20changed Real IDs,seed20261106; matches final review-selection rule",
+  "rows": [
+    {
+      "id": "real_val_pair_000704",
+      "image": [
+        "Real/val/images/real_val_000169.jpg",
+        "Real/val/images/real_val_000164.jpg"
+      ],
+      "caption_A": "A blue plate with a white bowl inside has appeared in the upper left corner of the screen. On the left side of the image, there is an additional white plate with a brown edge containing a round pastry. In the upper right corner of the screen, there is an additional light blue bowl containing white cream and a spoon. In the upper left corner of the screen, there is an additional plate with three pieces of cake.",
+      "caption_B": "A blue plate with a white bowl containing cream and a spoon has been added to the right side of the image. A brown plate with a white edge, containing a round pastry, has been added to the lower left corner of the image. Three pieces of cake have been added to the blue plate on the left side of the image.",
+      "reference_for_review_only": "There is an additional plate with a blue edge in the upper left corner of the screen, but only a small part of it is visible. To the right of the white plate in the center of the screen, there is an additional turquoise bowl containing white cream and a spoon. There are three more pieces of cake on the blue plate to the left. On the plate with a brown edge located slightly lower to the left, there is an additional round pastry."
+    },
+    {
+      "id": "real_val_pair_000718",
+      "image": [
+        "Real/val/images/real_val_000171.jpg",
+        "Real/val/images/real_val_000173.jpg"
+      ],
+      "caption_A": "The teal bird on the left has turned its head to the right, looking toward the black and red bird. The black and red bird in the middle has turned its head to the right, facing away from the camera.",
+      "caption_B": "The teal bird on the left has turned its head to the right and is now facing away from the camera. The black-and-red bird in the middle has turned its head to the right, with its gaze directed toward the front left of the image.",
+      "reference_for_review_only": "The teal bird on the left has its back to the image, with its head looking into the distance. The black and red bird in the middle, which was facing left, has turned to the right, nearly facing away from the image, and has lifted its head to look into the distance."
+    },
+    {
+      "id": "real_val_pair_000229",
+      "image": [
+        "Real/val/images/real_val_000050.jpg",
+        "Real/val/images/real_val_000058.jpg"
+      ],
+      "caption_A": "The ambient lighting has brightened. The blue and white bird on the tree stump has moved to the left side of the tree stump, with its head lowered and looking toward the ground.",
+      "caption_B": "The ambient lighting has brightened. The blue and white bird on the tree stump has shifted its body orientation from facing left to facing right, with its head slightly lowered.The quantity of food on the tree stump has changed.",
+      "reference_for_review_only": "The ambient lighting has brightened. The blue and white bird on the tree stump has disappeared. A larger blue and white bird has appeared on the left edge of the tree stump, positioned sideways and looking at the food on the stump. The quantity of food on the tree stump has changed."
+    },
+    {
+      "id": "real_val_pair_000627",
+      "image": [
+        "Real/val/images/real_val_000159.jpg",
+        "Real/val/images/real_val_000150.jpg"
+      ],
+      "caption_A": "The gray shoes on the left side of the shoe rack have moved to the right side. The black shoes on the far right of the middle shelf have changed from a horizontal arrangement to a vertical one.",
+      "caption_B": "The black shoes on the far right of the middle shelf have disappeared. The red men's leather shoes on the far right of the bottom shelf have disappeared. The gray shoes on the left side of the shoe rack have moved to the far right of the middle shelf.",
+      "reference_for_review_only": "the scene remains the same."
+    },
+    {
+      "id": "real_val_pair_000562",
+      "image": [
+        "Real/val/images/real_val_000129.jpg",
+        "Real/val/images/real_val_000130.jpg"
+      ],
+      "caption_A": "In the first image, the person is standing with their body facing the left side of the frame, their head slightly tilted to the right, and their gaze directed toward the mountain in the distance. Their left leg is bent forward, while their right leg is extended backward, forming a lunge position. Their left hand is raised high above their head, and their right hand is extended backward, touching the ground. In the second image, the person's posture changes to bending over with their head lowered, their right hand supporting their body on the ground, and their left hand touching the ground. Their gaze shifts from looking at the mountain in the distance to looking down at the ground.",
+      "caption_B": "The posture of the person wearing a black vest and black pants changes from facing the right side with the left leg bent forward, the right leg stretched back, the left hand reaching upward, the right hand downward, the body slightly leaning to the left, the head naturally raised, the gaze directed toward the sky, and the upper body slightly leaning forward to face the right side. To the new posture where the person is facing the right side, bending down, with the left hand on the ground, the right hand supporting the head, the waist bent backward, the left leg bent and lifted, the right leg supporting the body, and the head tilted backward.",
+      "reference_for_review_only": "In the first image, the person\u2019s posture is facing the right side of the frame, the left leg stepping forward with the knee bent into a lunge, the right leg stretching backward, the left hand stretching upward with the arm inclined backward, the right hand gently resting on the right leg, the body leaning toward the left side of the frame, the head tilted backward, the chest open, displaying a large lateral stretch. In the second image, the posture changes to an arched waist, bending downward, with the right hand touching the ground to support the body, the left arm bent and resting on the head, the head naturally tilted back, the left leg bent, and the right leg extended straight toward the right side of the frame."
+    },
+    {
+      "id": "real_val_pair_000590",
+      "image": [
+        "Real/val/images/real_val_000140.jpg",
+        "Real/val/images/real_val_000139.jpg"
+      ],
+      "caption_A": "The person's expression changes from a smile with closed eyes to having their head slightly tilted downward, eyes closed, and fingers pressing against the inner corners of their eyes. The posture shifts from arms crossed on the table to both hands holding the face.",
+      "caption_B": "The character's expression changes from a smile with eyes closed to a gesture of gently pressing the fingertips of both thumbs against the inner sides of the eyes. The posture shifts from arms crossed on the tabletop to hands placed on either side of the head.",
+      "reference_for_review_only": "The character changes from having arms crossed on the table with closed eyes and a smile to using both hands, with thumbs resting on their temples and index fingers massaging the area below their closed eyes, with the head slightly lowered."
+    },
+    {
+      "id": "real_val_pair_000258",
+      "image": [
+        "Real/val/images/real_val_000057.jpg",
+        "Real/val/images/real_val_000058.jpg"
+      ],
+      "caption_A": "The black bird on the tree stump has disappeared. A new blue and white bird has appeared on the tree stump, with its head facing left.",
+      "caption_B": "The black bird on the tree stump has disappeared. A new blue and white bird has appeared on the left side of the tree stump, with its head facing downward.",
+      "reference_for_review_only": "A black bird on the right side of the tree stump, positioned sideways with its head facing left, is no longer visible. Another black bird that was behind the tree stump is no longer visible. A larger blue and white bird has appeared on the left edge of the tree stump, positioned sideways and looking at the food on the stump. The quantity of food on the tree stump has changed."
+    },
+    {
+      "id": "real_val_pair_000373",
+      "image": [
+        "Real/val/images/real_val_000086.jpg",
+        "Real/val/images/real_val_000091.jpg"
+      ],
+      "caption_A": "The ambient lighting has brightened. The dog's head is slightly tilted to the left, and its ears are raised.",
+      "caption_B": "The ambient lighting has brightened.The dog's head is slightly tilted to the left, and its ears are upright.",
+      "reference_for_review_only": "The brightness of the scene has increased. The dog's body has turned towards the left side of the frame, its ears are slightly bent, and its mouth is open, revealing its tongue. A white swing has appeared in the back right of the image."
+    },
+    {
+      "id": "real_val_pair_000675",
+      "image": [
+        "Real/val/images/real_val_000161.jpg",
+        "Real/val/images/real_val_000165.jpg"
+      ],
+      "caption_A": "A plate with a blue edge containing a piece of black cake has been added to the upper left corner. A plate with a brown edge containing a round pastry has been moved to the lower left corner. In the center, three pieces of cake have been added to the plate on the left. To the right of the white plate, there is now a transparent glass cup containing red beverage.",
+      "caption_B": "A plate with a blue edge containing a piece of black cake has appeared in the upper left corner. A plate with three pieces of cake has appeared in the upper right corner. A cup of red drink has appeared in the upper center of the scene, positioned to the right of the plate with the three pieces of cake. A round pastry has appeared in the lower left corner.",
+      "reference_for_review_only": "In the upper left corner of the screen, an additional plate with a blue edge containing a piece of black cake has been added.Three pieces of cake have been added to the blue plate on the left, slightly moved to the right.Above the white plate in the center of the table, a cup of red beverage has been added.In the lower left position, on a plate with a brown edge, an additional round pastry has been added."
+    },
+    {
+      "id": "real_val_pair_000479",
+      "image": [
+        "Real/val/images/real_val_000108.jpg",
+        "Real/val/images/real_val_000110.jpg"
+      ],
+      "caption_A": "The body's orientation changes from facing the right side of the frame to facing away from the camera. The head shifts from being naturally aligned with the spine to tilting slightly downward, with the gaze directed toward the ground. The position of the hands changes from both hands supporting the ground with arms bent at a 90-degree angle to the left hand resting on the yoga ball and the right hand extended upward. The waist transitions from arching upward in an inverted V-shape to bending to the right side of the frame. The legs change from extending straight back with toes touching the yoga ball to standing with the left leg straight and the right leg bent, forming a \"V\" shape.",
+      "caption_B": "The body posture changes from a handstand position on the yoga ball, with the upper body inverted and supporting the ground with both hands, the waist raised, legs extended backward, toes touching the yoga ball, head lowered with the face toward the ground, to a side-lying pose facing the right side of the frame. The left arm is extended forward and touches the yoga ball, while the right arm is extended upward, fingers pointing toward the ceiling. The left leg is bent and stands on the ground, while the right leg is bent at a 90-degree angle, with the right foot touching the yoga ball.",
+      "reference_for_review_only": "The body's orientation changes from an inverted \"V\" shape with the upper body facing downward to a position where the back is facing the frame, with the body leaning towards the right side. The gaze shifts from looking at the yoga mat on the ground to looking at the left hand pointing towards the ceiling. The head moves from facing downward towards the ground to facing the left hand pointing upwards. The hand movement transitions from both hands supporting the ground with fingers spread apart to the right hand resting flat on the yoga ball, and the left hand raised, pointing towards the ceiling. The waist changes from an upward arch forming an inverted \"V\" shape to leaning to the right. The leg movement changes from both legs straight with toes on the ball to standing with legs apart. The position of the yoga ball moves from being under the feet on the left side of the mat to being under the right hand on the right side of the mat."
+    },
+    {
+      "id": "real_val_pair_000595",
+      "image": [
+        "Real/val/images/real_val_000149.jpg",
+        "Real/val/images/real_val_000145.jpg"
+      ],
+      "caption_A": "A black mouse on the right side of the computer disappeared. The digital time displayed on the computer changed from 12:30:46 to 12:32:03. The microphone in front of the computer moved to the left side of the monitor.",
+      "caption_B": "The digital time displayed on the computer changes from 12:30:46 to 12:32:03. The microphone, which was originally placed to the right of the computer, is now moved to the left side of the computer.",
+      "reference_for_review_only": "A black-gray mouse disappeared from the right side of the computer. The digital time displayed on the computer changed from 12:30:46 to 12:32:03. The microphone at the top right of the computer turned to the left, facing the left side of the screen."
+    },
+    {
+      "id": "real_val_pair_000525",
+      "image": [
+        "Real/val/images/real_val_000119.jpg",
+        "Real/val/images/real_val_000121.jpg"
+      ],
+      "caption_A": "In the first image, the person is in a handstand position with their body facing the left side of the frame. Their head is lowered, and they are looking at the ground. Their hands are supporting their body on the ground, with their arms straight. Their legs are extended backward, forming a straight line. In the second image, the person is performing a handstand with their head facing upward. Their body is raised off the ground, supported by their hands. Their left leg is extended straight upward, while their right leg is bent at a 90-degree angle.",
+      "caption_B": "In the first image, the person is in a handstand position with their head facing the ground and their body parallel to the ground. Their left leg is extended straight up toward the sky, while their right leg is bent at a 90-degree angle, with the foot touching the ground. In the second image, the person transitions into a headstand position, with their head on the ground and their body inverted. Their left leg is extended straight up toward the sky, while their right leg is bent at a 90-degree angle, with the foot touching the ground.",
+      "reference_for_review_only": "In the first image, the person\u2019s posture involves both hands straightened and supporting the ground, with the upper body and head close to the ground, the face facing forward, and both legs stretched apart to form a straight line. In the second image, the posture changes to a handstand position, with the head touching the ground to support the body, both arms bent at 90 degrees and supporting the ground, the left leg stretched straight to form a line extending to the left side of the frame, and the right leg bent at a 90-degree angle."
+    },
+    {
+      "id": "real_val_pair_000346",
+      "image": [
+        "Real/val/images/real_val_000078.jpg",
+        "Real/val/images/real_val_000083.jpg"
+      ],
+      "caption_A": "The panda's posture changes from bending its body, with its head lowered and its front legs resting on the ground, to sitting up straight. The panda's right hand picks up a bamboo stalk, while its left hand holds the remaining part of the bamboo.",
+      "caption_B": "The panda's posture changes from bending its body to the left, with its head lowered and its mouth biting the bamboo, to a more upright position. The panda's right hand is holding the bamboo, while its left hand is also holding the bamboo.",
+      "reference_for_review_only": "The panda's posture shifts from walking with its left foot forward, body leaning forward, and biting the bamboo, to a sitting position with its head slightly lowered, eyes focused on the bamboo in its hands, and its right front paw tightly gripping the bamboo. The previously intact bamboo has been peeled open in the panda's paw, revealing the tender green inner layer, with bamboo fibers clearly visible. There are noticeable bite marks on the upper part of the bamboo."
+    },
+    {
+      "id": "real_val_pair_000588",
+      "image": [
+        "Real/val/images/real_val_000140.jpg",
+        "Real/val/images/real_val_000137.jpg"
+      ],
+      "caption_A": "The girl's hands move from being crossed on the tabletop to gently pressing her fingertips against her closed eyes.",
+      "caption_B": "The girl's head is slightly tilted downward, and her eyes are closed. Her right hand is gently pressing on the inner corner of her right eye, while her left hand is also pressing on the inner corner of her left eye.",
+      "reference_for_review_only": "The character changes from having arms crossed on the table with closed eyes and a smile to gently pressing the fingertips of both index fingers against the inner corners of their eyes."
+    },
+    {
+      "id": "real_val_pair_000763",
+      "image": [
+        "Real/val/images/real_val_000180.jpg",
+        "Real/val/images/real_val_000189.jpg"
+      ],
+      "caption_A": "The teal bird on the left side of the image has disappeared. The yellow and black bird in the upper right corner has moved to the left branch, with its head facing downward. The teal bird in the background has disappeared.",
+      "caption_B": "The teal bird on the left side of the image has disappeared. The yellow and black bird that was originally on the thin branch above the center of the image has moved to the right, standing sideways with its head facing toward the front left of the image. The teal bird in the background has also disappeared.",
+      "reference_for_review_only": "The teal bird on the left side of the image has disappeared. The blue and yellow bird that was originally in the upper right corner has moved to the branch below its original position, turned around with its back to the camera, its body tilted, tail raised, and is pecking at the ground.  In the background, a teal bird has disappeared."
+    },
+    {
+      "id": "real_val_pair_000584",
+      "image": [
+        "Real/val/images/real_val_000140.jpg",
+        "Real/val/images/real_val_000133.jpg"
+      ],
+      "caption_A": "The ambient lighting has dimmed.",
+      "caption_B": "The brightness of the scene has dimmed.",
+      "reference_for_review_only": "no change has occurred."
+    },
+    {
+      "id": "real_val_pair_000361",
+      "image": [
+        "Real/val/images/real_val_000082.jpg",
+        "Real/val/images/real_val_000084.jpg"
+      ],
+      "caption_A": "The ambient lighting has dimmed. The panda's head is slightly tilted to the left, and its mouth is biting into a bamboo shoot.",
+      "caption_B": "The ambient lighting has dimmed. The panda's head is slightly tilted downward, and its eyes are closed. Its left hand holds a bamboo stick, while its right hand also holds a bamboo stick. The bamboo in the panda's mouth has changed from being pulled apart to being held firmly by both hands.",
+      "reference_for_review_only": "The ambient lighting has dimmed. The panda's posture shifts from having its head slightly tilted back while forcefully biting the bamboo to having its head tilted to the left while nibbling on the middle part of the bamboo."
+    },
+    {
+      "id": "real_val_pair_000338",
+      "image": [
+        "Real/val/images/real_val_000077.jpg",
+        "Real/val/images/real_val_000073.jpg"
+      ],
+      "caption_A": "The black stool that was originally in the left corner of the scene has moved to the right side of the white stool, and an open umbrella has been added onto its back. The white stool that was previously in the lower left corner of the scene has moved to the right side of the wall.",
+      "caption_B": "The black stool that was originally in the left corner of the scene has moved to the right side of the white stool. A new black stool has appeared on the left side of the white stool. The yellow stool that was previously in the left corner has disappeared.",
+      "reference_for_review_only": "The black stool in front of the white stool on the left side of the screen moves to the right corner of the wall. The yellow stool in the left corner of the wall disappears. The white stool on the left side of the screen moves to the position where the yellow stool in the original left corner was. The moved white stool faces the wall. In the distance, a folded umbrella has appeared against the wall. To the right of the smaller white stool in the lower left corner that is facing left, there is now a black chair."
+    },
+    {
+      "id": "real_val_pair_000678",
+      "image": [
+        "Real/val/images/real_val_000161.jpg",
+        "Real/val/images/real_val_000168.jpg"
+      ],
+      "caption_A": "The blue plate in the upper left corner has a piece of black cake on it. The white plate with brown edges, which was originally in the lower left corner, has been moved to the upper right corner of the image. A plate with three pieces of cake has appeared in the middle of the image, and a glass of red drink has been added to its right side. A pink plate has appeared below the white plate with a black edge in the center. A round pastry has appeared in the teal plate at the bottom left of the image. The teal plate in the upper right corner now contains cookies.",
+      "caption_B": "A white plate with a brown edge has been replaced by a pink plate. A white plate with a blue edge now contains three pieces of cake. A cup of red drink has appeared in the upper center of the scene. A white plate with a gold edge has appeared in the upper right corner, and a piece of cake has been added to it. A round pastry has appeared on the plate with a blue and white edge in the lower left corner.",
+      "reference_for_review_only": "In the upper right corner, there is an additional white plate containing brown cookies.On the blue plate on the left, three more pieces of cake have been added, slightly moved to the right, with a cup of red beverage added to its upper right corner.Above the red beverage, there is an additional white plate with a golden edge.In the lower left corner, the round pastry on the plate with a brown edge has been moved to the upper left and stacked on a green plate.The teal bowl with white cream and a spoon, originally positioned to the right of the white plate, has been replaced by a green bowl with white cream and a spoon.The white plate with a brown edge, located at the lower left of the blue plate, is no longer visible.Above the red beverage, an additional white plate with a golden edge has been added."
+    },
+    {
+      "id": "real_val_pair_000578",
+      "image": [
+        "Real/val/images/real_val_000136.jpg",
+        "Real/val/images/real_val_000138.jpg"
+      ],
+      "caption_A": "The fingertips, which were previously placed on the inner corners of the eyes, are now gently pressing against the area below the closed eyes.",
+      "caption_B": "The index fingers, which were previously placed on the inner corners of the eyes, are now gently pressing against the area between the eyebrows. The thumbs, which were previously placed under the inner corners of the eyes, are now positioned under the outer corners of the eyes.",
+      "reference_for_review_only": "The fingertips of both index fingers move from pressing against the inner corners of the eyes to pressing against the area below the eyes."
+    }
+  ]
+}

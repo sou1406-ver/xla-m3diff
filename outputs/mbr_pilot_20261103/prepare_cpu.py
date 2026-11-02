@@ -9,7 +9,7 @@ t=time.time()
 # Independent numeric cross-check against the benchmark scorer, including clipping/length penalty.
 docs=[['a red dog sits on the table','a small dog is sitting'],['a blue car moved to the left'],['nothing has changed in the room']]
 hyps=['a red dog sits on the table','a blue car moved moved to the left','the room has no change']
-cache=document_frequency(docs);g={i:[{'caption':r} for r in d] for i,d in enumerate(docs)};h={i:[{'caption':s}] for i,s in enumerate(hyps)}
+cache=document_frequency(docs);g={i:d for i,d in enumerate(docs)};h={i:[s] for i,s in enumerate(hyps)}
 _,expected=Cider().compute_score(g,h);actual=[sum(pair_score(hyps[i],r,cache) for r in refs)/len(refs) for i,refs in enumerate(docs)]
 assert max(abs(float(a)-float(b)) for a,b in zip(expected,actual))<1e-10,(expected,actual)
 groups={}

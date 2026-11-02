@@ -5,11 +5,15 @@
     "questions20.json": "3519d964bfe8b86493a55fd5ec27ff66546a75ea73fe2320d9a0cd75d8b3c6ee",
     "selection20.json": "b86cde6e86671d6d9e7249f25a4328e800adf5ca3ed36fdee9a5d89359336e5c",
     "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36",
-    "prepare_cpu.py": "a9317f47f41a39cc0ad5aa976817dedfe21ddd5123c850c7fa0e69c47bcf270f"
+    "prepare_cpu.py": "7be70ea9e0b63f91c7fb64a5d7fa4b47a9771a2ce0e711610bbdc1933db0cc04",
+    "benchmark.py": "9f5de666ceb874cc7af379960e4e1608948f296477435bc6f14ad8133511e613",
+    "benchmark_modal.py": "153a48b2d12d777bfdef119c4746072552ce14cc166cb0d341eccb20a7cc54ba",
+    "benchmark.ipynb": "34086a610ee6da1be68d28ca7fbd81a5db68c296821b8a1baf05abc69c10912b"
   },
-  "cpu_reservation_usd": ".05",
+  "cpu_reservation_usd": ".07",
   "a10_reservation_usd": ".91",
   "twenty_pair_cap_usd": 1,
-  "reserved_total_usd": ".96",
-  "val200_admitted": false
+  "reserved_total_usd": ".98",
+  "val200_admitted": false,
+  "pre_inference_fix": "CPU numeric test passed un-tokenized dict format into Cider; corrected to expected tokenized-string lists. No GPU/candidates, no utility/protocol change. First CPU app failed immediately and stopped."
 }

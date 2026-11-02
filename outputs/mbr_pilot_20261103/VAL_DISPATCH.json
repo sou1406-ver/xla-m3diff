@@ -1,0 +1,8 @@
+{
+  "app_id": "ap-rH53YdWBmdC2pW9wD1QsTQ",
+  "url": "https://modal.com/apps/sou1406-ver/main/ap-rH53YdWBmdC2pW9wD1QsTQ",
+  "stage": "val200_fixed_config",
+  "cap_usd": 3.6,
+  "pre_inference_commit": "09131cd",
+  "full_not_budget_admitted": true
+}

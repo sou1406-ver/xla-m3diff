@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**MBR val200 đang chạy:** [pilot20 đủ và báo cáo](../outputs/mbr_pilot_20261103/KET_QUA_20.md);batch2rẻhơn1.417×,nhưngMBR20deltaReal−12.14/Render−41.42,oraclecao;khôngđổi sangpooltuầntựtốtđiểmsaukhiđọcref. [Val200app](https://modal.com/apps/sou1406-ver/main/ap-rH53YdWBmdC2pW9wD1QsTQ),mộtconfig,cap3.60USD;chưađiểmval,fullchưaadmit. Cácsnapshotpilot20đangchạybêndướilàlịchsử.
+
 **MBR mới03/11:** user đồng ý decoding-only,khôngfeature-loss. [Pilot20](../outputs/mbr_pilot_20261103/STATUS.md)đangchạytừbase,8sampling+1greedy,sosequentialvàbatch;trần<1USD. Batch8/4đầuOOM,batch2chạyđược;chưaCIDEr/Oracle. Giữv2đãđóng. Sau20mớibudget-admitval200mộtconfig;fullchỉsaugate/qualreview/budget.
 
 **Kết quả cuối03/11:** [V2 bị loại và đã dừng GPU](../outputs/r64_v2_final_round/KET_QUA.md). Train đủ450/450từbasegốc;camera240qua(40/180cờvật,41/60joint). Synth600trượt:124/600cờcamera;typeadd83/remove67/color83/move24/size25/light52 trên90mỗiloại. Khôngval200/full1570/v3,khôngchọnV2làmmặcđịnh. Toànvòngupper5.50USDdướitrần7;APIobserveddelta~4.58USDcóđộtrễ. A100dừng00:19:08,A10dừng02:35:24GMT+7;0task. Gate/scorernguyênhash;840rawcaptionvàCSVđãgiữ. Các snapshot “đang chạy” bên dưới là lịch sử, không phải trạng thái hiện tại.

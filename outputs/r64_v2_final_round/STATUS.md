@@ -13,3 +13,5 @@ A10080GB training hardtimeout88min,softstop85min; incomplete training is not a v
 Evaluate camera240 first, stop on failure; otherwise synth600, then matchedval200base/v2. Full1570 requires every gate plus remaining same7USD budget admission. Model remains baseline by default.
 
 Remote Volume prerequisites:existing m3diff baseline checkpoint/pinned source, synth test600, ft camera240, cached objects and val200. Checkpoints and images intentionally excluded from Git.
+
+Launcher correction before training: first app failed remote module import before TRAIN_ATTEMPT/optimizer. Stopped22:57:02. See ROUND_BUDGET_REVISION1.json: train87min hard/84min soft; conservative total upper6.99USD including failed startup. Same data/candidate, no training retry.

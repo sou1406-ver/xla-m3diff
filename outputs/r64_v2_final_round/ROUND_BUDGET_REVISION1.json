@@ -1,0 +1,26 @@
+{
+  "stage": "BEFORE_TRAINING_FUNCTION_OR_OPTIMIZER_STARTED",
+  "reason": "Fix launcher local-parent path at remote import. First app failed before TRAIN_ATTEMPT; no candidate/adapters created. Include failed GPU-startup lifetime conservatively, tighten train by60sec. No gate, data, or model-recipe change.",
+  "cap_usd": 7,
+  "train_hard_seconds": 5220,
+  "train_soft_seconds": 5040,
+  "train_rate_upper_hour": "3.24",
+  "train_reservation_including_180s_startup": "4.86",
+  "evaluation_reservation": "1.79",
+  "cpu_preparation_lifetimes_seconds": [
+    55,
+    941,
+    847
+  ],
+  "cpu_preparation_rate_upper_hour": "0.28",
+  "cpu_preparation_upper": "0.15",
+  "failed_startup_app": "ap-OVXoW86sBhaOAap8Xwb77D",
+  "failed_startup_created_at": "2026-11-02T22:54:21+07:00",
+  "failed_startup_stopped_at": "2026-11-02T22:57:02+07:00",
+  "failed_startup_lifetime_seconds": 161,
+  "failed_startup_rate_upper_hour": "3.24",
+  "failed_startup_upper": "0.15",
+  "additional_round_overhead_allowance": "0.04",
+  "reserved_total_upper": "6.99",
+  "actual_billed_cost": "Not established; these are conservative upper reservations, not billed totals."
+}

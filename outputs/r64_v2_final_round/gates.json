@@ -1,0 +1,17 @@
+{
+  "status": "GATES_LOCKED_ONLY_NOT_TRAINED",
+  "candidate_limit": 1,
+  "camera_only": {"n": 180, "max_object_flags": 54},
+  "camera_object": {"n": 60, "min_joint_type_name": 35},
+  "synth_camera": {"n": 600, "max_camera_motion_flags": 30, "detector": "camera_detector.py"},
+  "synth_type": {
+    "n_per_type": 90,
+    "tolerance_count": 2,
+    "base_correct": {"add": 86, "remove": 83, "color": 69, "move": 41, "size": 23, "light": 60},
+    "minimum_correct": {"add": 84, "remove": 81, "color": 67, "move": 39, "size": 21, "light": 58}
+  },
+  "val": {"n_real": 100, "n_render": 100, "metric": "CIDEr_x100_scored_per_domain", "min_delta_each_domain": -1.0, "selection": "PENDING_LOCK_BEFORE_INFERENCE"},
+  "decision": "All mandatory gates pass; otherwise stop permanently after this candidate. No gate revisions or v3.",
+  "confidence_intervals": "Descriptive only; fixed tolerance gates determine decision.",
+  "pending_before_training": ["val selection and overlap audit", "base/r64 matched val evaluation", "exact dataset/replay recipe and counts", "steps and hyperparameters", "budget cap"]
+}

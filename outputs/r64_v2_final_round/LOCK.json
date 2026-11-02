@@ -1,0 +1,16 @@
+{
+  "locked_at_utc": "2026-11-02T14:06:16.682450+00:00",
+  "stage": "gate/scorer lock only, before v2 predictions or training",
+  "gpu_jobs_started": 0,
+  "files": {
+    "camera_detector.py": "793a30563c6e11d4ab4d0ce2ba4c0d1bbcfc7a4623be4ccdd76a9599c86c2d07",
+    "ft_common_frozen.py": "039880aa8b9d101b7c613e3960c9ca9a6dbc3b2cf5e107afbecee503b1ac863e",
+    "gates.json": "03d26aa7fb0193263f4dc2b7d8bb792158a6a9f7995bc5a814513419e9b5ff6c",
+    "PROTOCOL.md": "b474e9079d5e5c97272b76c286d0750052d839f56fcb2c6fbe8dfd574a878fea",
+    "score_camera_frozen.py": "6edb8092561bd36752cc8d7dbb1f44a39c1d11071b93aaddc167b9d1cdccd06c",
+    "score_captions_frozen.py": "3e09865fa5253ba1912252e9cd9da67fd09b77cd8793a135764a333c8e2eca5e",
+    "test_camera_detector.py": "eedccd45d1c4bfd0fd718c12b3811c7f22abeddb8a3773922a0a9a73079d303b"
+  },
+  "regression_cases": 15,
+  "regression_passed": true
+}

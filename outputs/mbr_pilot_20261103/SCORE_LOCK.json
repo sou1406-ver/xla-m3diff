@@ -1,0 +1,10 @@
+{
+  "stage": "before first MBR/oracle metric computation",
+  "files": {
+    "score20_cpu.py": "db183f514dfdd590630acb50022530e9c2cf6c582b7a14f98ad99d3c676df257",
+    "score_modal.py": "e142289a471e397c87e1dc7ed444b4847d9f280b827b48ab1e1e9278f531a60a",
+    "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+  },
+  "generation_protocol_unchanged": true,
+  "same_train_only_idf": true
+}

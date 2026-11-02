@@ -1,11 +1,12 @@
 """Offline diagnostics after generation; oracle labels cannot affect candidate generation/ranking."""
 from pathlib import Path
-import json,pickle,statistics,collections
+import json,pickle,statistics,collections,hashlib
 from pycocoevalcap.tokenizer.ptbtokenizer import PTBTokenizer
 from pycocoevalcap.cider.cider import Cider
 from utility import select
 P=Path('/mnt/m3diff/mbr_pilot_20261103');VAL=Path('/mnt/m3diff/r64_val_precheck_20261102');records=[json.loads(x) for x in (P/'results20.jsonl').read_text().splitlines() if x.strip()]
 assert len(records)==20 and json.loads((P/'BENCHMARK_DONE.json').read_text())['complete']
+assert hashlib.sha256((P/'train_idf.pkl').read_bytes()).hexdigest()==json.loads((P/'CPU_READY.json').read_text())['train_idf_sha256']
 cache=pickle.load((P/'train_idf.pkl').open('rb'));tokenizer=PTBTokenizer();token_input={};captions={}
 for r in records:
  for method in ['sequential8','batch8']:
@@ -33,6 +34,7 @@ for method in ['sequential8','batch8']:
   pairs=[]
   for r in rr:
    cs=captions[(r['id'],method)];idx=selected[(r['id'],method)];ss=[a[r['id']] for a in arm_scores];oracle=max(range(9),key=lambda i:(ss[i],-i))
+   assert ss[oracle]>=ss[0] and ss[oracle]>=ss[idx]
    row={'id':r['id'],'domain':domain,'method':method,'greedy_cider_x100':ss[0],'selected_index':idx,'mbr_cider_x100':ss[idx],'oracle_index':oracle,'oracle_cider_x100':ss[oracle],'unique_captions':len(set(cs)),'greedy_words':len(cs[0].split()),'mbr_words':len(cs[idx].split()),'greedy':cs[0],'selected_caption':cs[idx],'consensus_utility_scores':utilities[(r['id'],method)]};pairs.append(row);per.append(row)
   def mean(k):return statistics.mean(x[k] for x in pairs)
   summary[domain]={'n':len(pairs),'greedy_CIDEr_x100':mean('greedy_cider_x100'),'MBR_CIDEr_x100':mean('mbr_cider_x100'),'oracle_CIDEr_x100':mean('oracle_cider_x100'),'MBR_delta':mean('mbr_cider_x100')-mean('greedy_cider_x100'),'oracle_delta':mean('oracle_cider_x100')-mean('greedy_cider_x100'),'mean_unique_captions':mean('unique_captions'),'changed_from_greedy':sum(x['selected_index']!=0 and x['selected_caption']!=x['greedy'] for x in pairs),'greedy_mean_words':mean('greedy_words'),'MBR_mean_words':mean('mbr_words'),'greedy_median_words':statistics.median(x['greedy_words'] for x in pairs),'MBR_median_words':statistics.median(x['mbr_words'] for x in pairs)}

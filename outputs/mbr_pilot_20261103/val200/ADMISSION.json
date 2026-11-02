@@ -1,0 +1,10 @@
+{
+  "admitted": true,
+  "cap_usd": 3.6,
+  "worst_reserved_usd": 3.57,
+  "sample_method": "batch2chunks_to8samples,chosen_runtime_only",
+  "reference_score20_not_used_to_tune": true,
+  "val_lock_sha256": "b225ec428f59386bdb54c7d651bffd4f3a247c1580a94a744d0467ad554a73a6",
+  "estimated_seconds_from20": 5418.90597823,
+  "no_full_yet": true
+}

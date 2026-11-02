@@ -1,0 +1,79 @@
+{
+  "n": 20,
+  "chosen_generation_method_by_runtime_only": "batch8",
+  "generation_sample_seconds": {
+    "sequential8": 620.1257134090001,
+    "batch8": 437.60866796200025
+  },
+  "batch_speedup_vs_sequential": 1.417078222643544,
+  "batch_sizes": {
+    "2": 20
+  },
+  "methods": {
+    "sequential8": {
+      "real": {
+        "n": 10,
+        "greedy_CIDEr_x100": 120.86514436452995,
+        "MBR_CIDEr_x100": 144.06202204690763,
+        "oracle_CIDEr_x100": 260.7747343403813,
+        "MBR_delta": 23.196877682377675,
+        "oracle_delta": 139.90958997585136,
+        "mean_unique_captions": 8.5,
+        "changed_from_greedy": 8,
+        "greedy_mean_words": 57.2,
+        "MBR_mean_words": 52.5,
+        "greedy_median_words": 46.5,
+        "MBR_median_words": 38.0
+      },
+      "render": {
+        "n": 10,
+        "greedy_CIDEr_x100": 266.86093785548525,
+        "MBR_CIDEr_x100": 303.44682902112027,
+        "oracle_CIDEr_x100": 428.75114327727596,
+        "MBR_delta": 36.58589116563502,
+        "oracle_delta": 161.8902054217907,
+        "mean_unique_captions": 7.9,
+        "changed_from_greedy": 7,
+        "greedy_mean_words": 124,
+        "MBR_mean_words": 47.3,
+        "greedy_median_words": 66.0,
+        "MBR_median_words": 42.0
+      }
+    },
+    "batch8": {
+      "real": {
+        "n": 10,
+        "greedy_CIDEr_x100": 120.86514436452995,
+        "MBR_CIDEr_x100": 108.72725274669672,
+        "oracle_CIDEr_x100": 244.52045050802786,
+        "MBR_delta": -12.137891617833233,
+        "oracle_delta": 123.65530614349791,
+        "mean_unique_captions": 8.4,
+        "changed_from_greedy": 5,
+        "greedy_mean_words": 57.2,
+        "MBR_mean_words": 61.5,
+        "greedy_median_words": 46.5,
+        "MBR_median_words": 51.5
+      },
+      "render": {
+        "n": 10,
+        "greedy_CIDEr_x100": 266.86093785548525,
+        "MBR_CIDEr_x100": 225.44185673167777,
+        "oracle_CIDEr_x100": 377.5135020866882,
+        "MBR_delta": -41.41908112380747,
+        "oracle_delta": 110.65256423120297,
+        "mean_unique_captions": 8,
+        "changed_from_greedy": 6,
+        "greedy_mean_words": 124,
+        "MBR_mean_words": 53.8,
+        "greedy_median_words": 66.0,
+        "MBR_median_words": 48.5
+      }
+    }
+  },
+  "oracle_diagnostic_only": true,
+  "no_reference_labels_used_by_selector": true,
+  "full100_per_domain_reference_DF_used_for_diagnostic_scores": true,
+  "operational_low_promise_stop": false,
+  "interpretation": "Only10pairs/domain; oracle is a conditional ceiling for these candidate sets, not a prediction or proof about val200. Method chosen only by runtime. Hyperparameters unchanged. Final val200 must regenerate greedy+samples in one session."
+}

@@ -1,0 +1,15 @@
+{
+  "stage": "before_val200_predictions",
+  "files": {
+    "VAL_PROTOCOL.json": "f57685fb60641dfb9d396193e86a74165dfd13eaf3a4a28d950a74b3943f6aa8",
+    "evaluate200.py": "ba620f8ea365382ef89ed682b51bbaf0b4ff6887ef47037755cf34aff890e293",
+    "val200_modal.py": "8ed4c50e66a17e69d8da9e31928e1b0cf4b8bf5bb8774e73547ed12c37f5acba",
+    "val200.ipynb": "ec29c025a67e51ca61e27d930fa0e6dd537802a977f644b42e0832dba6baa1e0",
+    "score200_cpu.py": "428c8edeef22adf3cb98837ceacc821b3358b1b2bbb6e002071133f72d423d20",
+    "score200_modal.py": "db50df026ae5e63efa0e130eb8da0e3bc018161d504600f194fb6d291951a6df",
+    "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+  },
+  "sampling_protocol_sha256": "ccb82c650d4401cc433788aa2233dc63ad2e3c0b666de9e84299549b8c6c2cf2",
+  "budget_cap_usd": 3.6,
+  "reserved_total_usd": 3.57
+}

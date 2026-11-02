@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "real_val_pair_000409",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000094.jpg",
+      "Real/val/images/real_val_000097.jpg"
+    ],
+    "caption": "The ambient lighting has brightened. An orange and white striped bucket-shaped toy in the upper left corner moves to the right. A new green bucket-shaped toy appears on the left side, with its opening facing the screen. The teal watering can toy moves from the right side of the basin to the lower left.",
+    "image_component": "Real/val/images/real_val_000094.jpg"
+  },
+  {
+    "id": "real_val_pair_000321",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000071.jpg",
+      "Real/val/images/real_val_000076.jpg"
+    ],
+    "caption": "The black stool at the back wall on the right side of the scene has disappeared. The yellow stool at the front left side of the scene has exchanged positions with the white stool at the back wall, with the white stool now facing the right side (instead of the wall), and the yellow stool now facing the left side (instead of the right side). The black folded umbrella, which was previously at the back wall of the scene, has moved to the right side of the white stool on the left. The yellow stool at the left wall of the scene has turned to face the right side.",
+    "image_component": "Real/val/images/real_val_000067.jpg"
+  },
+  {
+    "id": "real_val_pair_000385",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000088.jpg",
+      "Real/val/images/real_val_000091.jpg"
+    ],
+    "caption": "The house in the distance on the right side of the image is now obscured.A white swing has appeared in the back right of the image.The dog's right leg is lowered while its left leg is lifted, and its right ear is slightly bent.The dog's mouth is open, revealing its tongue.",
+    "image_component": "Real/val/images/real_val_000086.jpg"
+  },
+  {
+    "id": "real_val_pair_000030",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000004.jpg",
+      "Real/val/images/real_val_000005.jpg"
+    ],
+    "caption": "The round tray that was originally hanging on the right hook on the right side of the wall has disappeared. The rectangular cutting board, previously located on the left hook on the right wall, has now moved to the right hook. A new white water pump has appeared on the lid of the water barrel on the right side of the mop.",
+    "image_component": "Real/val/images/real_val_000001.jpg"
+  },
+  {
+    "id": "real_val_pair_000534",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000131.jpg",
+      "Real/val/images/real_val_000123.jpg"
+    ],
+    "caption": "The ambient lighting has dimmed.",
+    "image_component": "Real/val/images/real_val_000123.jpg"
+  },
+  {
+    "id": "real_val_pair_000765",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000181.jpg",
+      "Real/val/images/real_val_000183.jpg"
+    ],
+    "caption": "The teal bird on the left side of the image has moved slightly to the left and tilted downward. To its right, a new blue-and-yellow bird has appeared, facing the left side of the image. The blue-and-yellow bird in the upper right corner has moved to the branch below it, with its head turning from right to left. In the background, the teal bird is moving along the branch toward the front of the scene.",
+    "image_component": "Real/val/images/real_val_000179.jpg"
+  },
+  {
+    "id": "real_val_pair_000678",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000161.jpg",
+      "Real/val/images/real_val_000168.jpg"
+    ],
+    "caption": "In the upper right corner, there is an additional white plate containing brown cookies.On the blue plate on the left, three more pieces of cake have been added, slightly moved to the right, with a cup of red beverage added to its upper right corner.Above the red beverage, there is an additional white plate with a golden edge.In the lower left corner, the round pastry on the plate with a brown edge has been moved to the upper left and stacked on a green plate.The teal bowl with white cream and a spoon, originally positioned to the right of the white plate, has been replaced by a green bowl with white cream and a spoon.The white plate with a brown edge, located at the lower left of the blue plate, is no longer visible.Above the red beverage, an additional white plate with a golden edge has been added.",
+    "image_component": "Real/val/images/real_val_000160.jpg"
+  },
+  {
+    "id": "real_val_pair_000240",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000052.jpg",
+      "Real/val/images/real_val_000055.jpg"
+    ],
+    "caption": "A new squirrel has appeared on the tree stump, squatting with its head facing left, tail raised, and holding a peanut with both hands, bringing it to its mouth. The black bird that was stepping forward with its head facing to the right is no longer present. The quantity of food on the tree stump has changed.",
+    "image_component": "Real/val/images/real_val_000050.jpg"
+  },
+  {
+    "id": "real_val_pair_000189",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000041.jpg",
+      "Real/val/images/real_val_000045.jpg"
+    ],
+    "caption": "The girl's body changes from facing forward to turning to the right side of the screen.The girl's legs change from the right leg extended to the right side and the left leg bent, to both legs together, standing straight.The arms that were previously bent in front of the chest are now extended straight towards the right side of the screen.",
+    "image_component": "Real/val/images/real_val_000040.jpg"
+  },
+  {
+    "id": "real_val_pair_000052",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000020.jpg",
+      "Real/val/images/real_val_000018.jpg"
+    ],
+    "caption": "The book with the cover featuring a green caterpillar at the top of the screen has moved to the left side, swapping places with the book labeled \"大卫不可必,\" and the book labeled \"大卫不可必\" has been rotated 90° counterclockwise.A new orange book with the cover \"生活用品\" has appeared in the lower left corner of the screen.The red book with the cover \"交通工具\" on the left side has been rotated 180° clockwise.The book with the cover \"拉㞎㞎\" has disappeared, and the book with the cover \"点点和多多放风筝\" has moved to the bottom center, taking the position of the book labeled \"拉㞎㞎.\"A new book with the cover \"收起来\" has appeared in the position where the book with the cover \"点点和多多放风筝\" was originally placed",
+    "image_component": "Real/val/images/real_val_000011.jpg"
+  },
+  {
+    "id": "real_val_pair_000140",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000030.jpg",
+      "Real/val/images/real_val_000038.jpg"
+    ],
+    "caption": "The color of the bandage to the left of the brown 100 chip changes from black to white. The white bandage on the stool to the left of the chip rack moves to the left front of the chip rack, and a white bandage appears in its original position. The row of brown 100 chips on the far left of the weight rack swaps places with the row of yellow 10 chips on the far right. The small pack of wet wipes at the back left of the weight rack moves to the front right where a single pack of wet wipes was, and the single pack of wet wipes disappears. A single pack of wet toilet paper with a cartoon pattern appears at the back left of the weight rack. The second row of green 50 chips from left to right on the weight rack disappears. The number of blue small packs of tissues increases from two to three. The clothing draped on the stool changes from white to disappear.",
+    "image_component": "Real/val/images/real_val_000029.jpg"
+  },
+  {
+    "id": "real_val_pair_000627",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000159.jpg",
+      "Real/val/images/real_val_000150.jpg"
+    ],
+    "caption": "the scene remains the same.",
+    "image_component": "Real/val/images/real_val_000150.jpg"
+  },
+  {
+    "id": "real_val_pair_000368",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000085.jpg",
+      "Real/val/images/real_val_000083.jpg"
+    ],
+    "caption": "The panda's posture has changed from leaning against a piece of wood, with its body slightly tilted, holding a bamboo stick, and its head slightly tilted upward, to having its head slightly lowered, with its gaze focused on the bamboo in its hands, and its right front paw tightly gripping the bamboo. The once intact and straight bamboo has been peeled open in the panda's paw, revealing the tender green inner layer, with the bamboo fibers clearly visible. There are noticeable bite marks on the upper part of the bamboo.",
+    "image_component": "Real/val/images/real_val_000078.jpg"
+  },
+  {
+    "id": "real_val_pair_000518",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000117.jpg",
+      "Real/val/images/real_val_000119.jpg"
+    ],
+    "caption": "In the first image, the person is standing facing the left side of the scene, with knees bent, hips tilted upward, both arms extended straight overhead, the head tilted upward, and the gaze directed toward the sky above. In the second image, the posture changes to both hands supporting the ground, with the upper body and head close to the ground, and both legs stretched straight apart to form a straight line.",
+    "image_component": "Real/val/images/real_val_000114.jpg"
+  },
+  {
+    "id": "real_val_pair_000613",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000143.jpg",
+      "Real/val/images/real_val_000145.jpg"
+    ],
+    "caption": "The digital time displayed on the computer changes from 12:31:49 to 12:32:03.",
+    "image_component": "Real/val/images/real_val_000141.jpg"
+  },
+  {
+    "id": "real_val_pair_000282",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000062.jpg",
+      "Real/val/images/real_val_000064.jpg"
+    ],
+    "caption": "A woman wearing a red jacket who was previously in the scene is no longer present, and the number of people has decreased from four to three.The posture and arrangement of the figures have changed: they were originally lined up in a row, leaning forward with their hands on the shoulders of the person in front. Now, one person on the left is bending forward to make an attacking move, while the other two are jumping upward in mid-air.",
+    "image_component": "Real/val/images/real_val_000059.jpg"
+  },
+  {
+    "id": "real_val_pair_000590",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000140.jpg",
+      "Real/val/images/real_val_000139.jpg"
+    ],
+    "caption": "The character changes from having arms crossed on the table with closed eyes and a smile to using both hands, with thumbs resting on their temples and index fingers massaging the area below their closed eyes, with the head slightly lowered.",
+    "image_component": "Real/val/images/real_val_000132.jpg"
+  },
+  {
+    "id": "real_val_pair_000106",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000024.jpg",
+      "Real/val/images/real_val_000026.jpg"
+    ],
+    "caption": "The hand in the scene is now holding the handle of the green and white striped cup, which has been moved to the center of the table. The two open books on the table are now closed. A new red sticky note has appeared on the left side of the table. The phone placed on the pink tablet on the right side of the table is now tilted. The black pen that was next to the green sticky note on the left side is no longer visible.",
+    "image_component": "Real/val/images/real_val_000021.jpg"
+  },
+  {
+    "id": "real_val_pair_000464",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000113.jpg",
+      "Real/val/images/real_val_000111.jpg"
+    ],
+    "caption": "The body’s orientation changes from facing the right side of the frame to facing directly towards the yoga mat. The gaze shifts from looking upward with the head tilted back to looking towards the ground with the head slightly lowered. The hand movement changes from both hands raised above the head, holding a yellow yoga ball with straight arms, to both hands supporting on the yoga mat with straight arms. The waist movement changes from the waist noticeably bending backward with the back arched to the waist kept straight, with the back and legs forming a straight line. The leg movement changes from the right leg bent forward, knee at a 90-degree angle, with the left leg extending backward and the back toes touching the ground, to both legs placed on the yoga ball, with the right leg straight and the left leg bent and lifted upwards. The position of the ball changes from being held above the head by both hands to being placed under the legs, supporting the lower body.",
+    "image_component": "Real/val/images/real_val_000104.jpg"
+  },
+  {
+    "id": "real_val_pair_000724",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000172.jpg",
+      "Real/val/images/real_val_000173.jpg"
+    ],
+    "caption": "The teal bird on the left has turned further and is now completely facing away from the image, with its head looking into the distance. The black-and-red bird in the center has turned its head backward and is now fully facing away from the image.",
+    "image_component": "Real/val/images/real_val_000170.jpg"
+  },
+  {
+    "id": "real_val_pair_000425",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000096.jpg",
+      "Real/val/images/real_val_000100.jpg"
+    ],
+    "caption": "The green watering can toy on the right has moved to the lower left corner. The bucket openings of the green toy bucket in the upper left corner, the red bucket resembling a strawberry, and the orange bucket with white stripes, which were previously facing downward, have now rotated to face upward. The turquoise caterpillar toy in the upper right corner has moved to the lower right corner. The cylindrical toy with a small yellow duck on top has disappeared.",
+    "image_component": "Real/val/images/real_val_000094.jpg"
+  },
+  {
+    "id": "real_val_pair_000339",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000077.jpg",
+      "Real/val/images/real_val_000074.jpg"
+    ],
+    "caption": "The black stool in front of the white stool on the left side of the screen moves to the right wall corner. After moving, a black folded umbrella appears on its left. The yellow stool in the left wall corner moves to the right front, changing its orientation from facing right to facing left.",
+    "image_component": "Real/val/images/real_val_000067.jpg"
+  },
+  {
+    "id": "real_val_pair_000374",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000086.jpg",
+      "Real/val/images/real_val_000092.jpg"
+    ],
+    "caption": "The brightness of the scene has increased. The black-and-yellow dog's right leg has transitioned from being lowered to stepping forward, while its left leg has moved from being lifted to stretching backward. The dog's tail is raised. Its head has turned to the left, revealing a green collar around its neck. The house in the distance on the right side of the image has been obscured. A white swing has appeared in the back right. A new gray-and-white dog has appeared on the left side of the image.",
+    "image_component": "Real/val/images/real_val_000086.jpg"
+  },
+  {
+    "id": "real_val_pair_000019",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000002.jpg",
+      "Real/val/images/real_val_000005.jpg"
+    ],
+    "caption": "A mop has newly appeared on the left wall. The round tray hanging on the right side of the wall has disappeared. The rectangular cutting board has moved to the hook on the right side.",
+    "image_component": "Real/val/images/real_val_000001.jpg"
+  },
+  {
+    "id": "real_val_pair_000543",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000124.jpg",
+      "Real/val/images/real_val_000126.jpg"
+    ],
+    "caption": "In the first image, the person is facing the right side of the frame, standing on the left leg, with the right leg raised backward and upward, the right hand holding the right ankle, pulling the leg toward the body while keeping it straight, the left hand extended forward, with the thumb and index finger touching, the body leaning forward, and the back maintaining a natural curve. In the second image, the posture changes to an arched waist, bending downward, with the head naturally tilting back, the left hand touching the ground to support the body, the right arm bent, with the right hand making an \"OK\" gesture near the face, the left leg straight, and the right leg bent, both legs touching the ground to support the body.",
+    "image_component": "Real/val/images/real_val_000123.jpg"
+  },
+  {
+    "id": "real_val_pair_000764",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000181.jpg",
+      "Real/val/images/real_val_000182.jpg"
+    ],
+    "caption": "The teal bird on the left side of the image is now leaning downward. The blue and yellow bird has moved from the upper right corner to a branch in the middle of the image, and an additional bird has appeared on the branch, resulting in two birds each standing at opposite ends. The left bird on the branch is facing toward the back right of the image, while the other bird is looking toward the front left. In the background, the teal bird is now moving toward the front left while turning its head to the right.",
+    "image_component": "Real/val/images/real_val_000179.jpg"
+  },
+  {
+    "id": "real_val_pair_000690",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000164.jpg",
+      "Real/val/images/real_val_000165.jpg"
+    ],
+    "caption": "The plate with a blue edge in the upper left corner has increased in visible size, and a piece of black cake has been added to it.The blue plate on the left, which holds three pieces of cake, has shifted slightly to the right.A cup of red beverage has been added above the white plate in the center of the table.",
+    "image_component": "Real/val/images/real_val_000160.jpg"
+  },
+  {
+    "id": "real_val_pair_000229",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000050.jpg",
+      "Real/val/images/real_val_000058.jpg"
+    ],
+    "caption": "The ambient lighting has brightened. The blue and white bird on the tree stump has disappeared. A larger blue and white bird has appeared on the left edge of the tree stump, positioned sideways and looking at the food on the stump. The quantity of food on the tree stump has changed.",
+    "image_component": "Real/val/images/real_val_000050.jpg"
+  },
+  {
+    "id": "real_val_pair_000180",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000040.jpg",
+      "Real/val/images/real_val_000043.jpg"
+    ],
+    "caption": "The right hand changes from being raised above the head to extending horizontally upward.The left hand changes from extending horizontally to the left to extending horizontally forward.The head changes from looking at the left hand to looking at the right hand.The feet change from being together in a half-squat position to having the right leg raised.",
+    "image_component": "Real/val/images/real_val_000040.jpg"
+  },
+  {
+    "id": "real_val_pair_000079",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000014.jpg",
+      "Real/val/images/real_val_000019.jpg"
+    ],
+    "caption": "The book with the cover \"大卫不可必\" has disappeared from the top of the screen. On the left side, the book with the cover \"生活用品\" and the book with the cover \"交通工具\" have been rotated 180° clockwise. On the right side, the book with the cover \"人间失格\" has been replaced with a book with the cover \"收起来.\"",
+    "image_component": "Real/val/images/real_val_000011.jpg"
+  },
+  {
+    "id": "real_val_pair_000154",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000033.jpg",
+      "Real/val/images/real_val_000034.jpg"
+    ],
+    "caption": "The row of green 50 chips on the left side of the plastic box has disappeared.",
+    "image_component": "Real/val/images/real_val_000029.jpg"
+  },
+  {
+    "id": "real_val_pair_000647",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000152.jpg",
+      "Real/val/images/real_val_000157.jpg"
+    ],
+    "caption": "The pair of grey shoes that were originally on the right side of the shoe rack has moved to the left side and rotated 90 degrees clockwise, with the toe direction changing from pointing right to outward.The red shoes on the bottom shelf of the shoe rack have changed their orientation, with the toes now facing outward instead of inward.The blue and orange sneakers previously placed in the middle of the bottom shelf have been replaced by a pair of dark blue cloth shoes, which have also changed their orientation, with the toes now facing outward instead of inward.",
+    "image_component": "Real/val/images/real_val_000150.jpg"
+  },
+  {
+    "id": "real_val_pair_000346",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000078.jpg",
+      "Real/val/images/real_val_000083.jpg"
+    ],
+    "caption": "The panda's posture shifts from walking with its left foot forward, body leaning forward, and biting the bamboo, to a sitting position with its head slightly lowered, eyes focused on the bamboo in its hands, and its right front paw tightly gripping the bamboo. The previously intact bamboo has been peeled open in the panda's paw, revealing the tender green inner layer, with bamboo fibers clearly visible. There are noticeable bite marks on the upper part of the bamboo.",
+    "image_component": "Real/val/images/real_val_000078.jpg"
+  },
+  {
+    "id": "real_val_pair_000525",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000119.jpg",
+      "Real/val/images/real_val_000121.jpg"
+    ],
+    "caption": "In the first image, the person’s posture involves both hands straightened and supporting the ground, with the upper body and head close to the ground, the face facing forward, and both legs stretched apart to form a straight line. In the second image, the posture changes to a handstand position, with the head touching the ground to support the body, both arms bent at 90 degrees and supporting the ground, the left leg stretched straight to form a line extending to the left side of the frame, and the right leg bent at a 90-degree angle.",
+    "image_component": "Real/val/images/real_val_000114.jpg"
+  },
+  {
+    "id": "real_val_pair_000608",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000142.jpg",
+      "Real/val/images/real_val_000145.jpg"
+    ],
+    "caption": "The digital time displayed on the computer changes from 12:31:45 to 12:32:03. The black wireless mouse that was originally placed on the laptop disappears.",
+    "image_component": "Real/val/images/real_val_000141.jpg"
+  },
+  {
+    "id": "real_val_pair_000260",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000066.jpg",
+      "Real/val/images/real_val_000060.jpg"
+    ],
+    "caption": "The number of people in the scene increases from three to four.Previously, the three people in the scene were facing the left side of the picture, bending sideways with their arms naturally extended—right hand down and left hand up. Now, the scene shows four people bending forward, with their left hands extended upward and their right hands touching the ground.",
+    "image_component": "Real/val/images/real_val_000059.jpg"
+  },
+  {
+    "id": "real_val_pair_000575",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000135.jpg",
+      "Real/val/images/real_val_000137.jpg"
+    ],
+    "caption": "The girl's hands move from holding her forehead, with thumbs pressing against the inner corners of her eyes, to gently pressing the fingertips of both index fingers against the inner corners of her eyes. Her head lifts from a slightly lowered position.",
+    "image_component": "Real/val/images/real_val_000132.jpg"
+  },
+  {
+    "id": "real_val_pair_000096",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000022.jpg",
+      "Real/val/images/real_val_000023.jpg"
+    ],
+    "caption": "The hands have moved from away from the desk to towards the chest. The green and white striped water cup at the edge of the table in the lower right corner has moved to the middle of the table. A red sticky note has appeared on the table.",
+    "image_component": "Real/val/images/real_val_000021.jpg"
+  },
+  {
+    "id": "real_val_pair_000465",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000113.jpg",
+      "Real/val/images/real_val_000112.jpg"
+    ],
+    "caption": "The body’s orientation changes from facing the right side of the frame to facing the left side. The head movement changes from tilting back with the face towards the ceiling to leaning the head back on the yoga ball, with the face towards the ceiling. The hand movement changes from raising both hands overhead, holding a yellow yoga ball with straight arms, to extending both arms backward. The waist movement changes from bending significantly backward with the back arched to the back making contact with the yoga ball and leaning back. The leg movement changes from the right leg bent at a 90-degree angle at the knee, with the left leg extended backward and the toes touching the ground, to both legs kneeling on the yoga mat. The position of the ball changes from being lifted by both hands in the air behind the head to being placed on the green carpet, under the back of the person, to provide support.",
+    "image_component": "Real/val/images/real_val_000104.jpg"
+  },
+  {
+    "id": "real_val_pair_000712",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000170.jpg",
+      "Real/val/images/real_val_000175.jpg"
+    ],
+    "caption": "The ambient lighting has darkened. The teal bird on the left has changed its body orientation from facing the front left of the image to facing the back left, with its body tilted and looking toward the back left. The black and red bird in the middle has turned to face away from the image, with its head looking toward the right side.",
+    "image_component": "Real/val/images/real_val_000170.jpg"
+  },
+  {
+    "id": "real_val_pair_000423",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000096.jpg",
+      "Real/val/images/real_val_000098.jpg"
+    ],
+    "caption": "The green watering can toy on the right has moved to the lower left corner. The bucket openings of the green toy bucket in the upper left corner, the red bucket resembling a strawberry, and the orange bucket with white stripes, which were previously facing downward, have now rotated to face upward.",
+    "image_component": "Real/val/images/real_val_000094.jpg"
+  },
+  {
+    "id": "real_val_pair_000290",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000067.jpg",
+      "Real/val/images/real_val_000071.jpg"
+    ],
+    "caption": "The white stool on the left side of the scene has exchanged positions with the yellow stool that was previously in the left corner, with the white stool now facing the wall. A black folded umbrella has newly appeared to the right of the white stool in the left corner. A black stool has been newly placed next to the yellow stool against the wall on the right side of the scene.",
+    "image_component": "Real/val/images/real_val_000067.jpg"
+  },
+  {
+    "id": "real_val_pair_000393",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000090.jpg",
+      "Real/val/images/real_val_000092.jpg"
+    ],
+    "caption": "The black-and-yellow dog, originally positioned on the far right side of the frame, has turned its head to the left, revealing a green collar around its neck. Its left leg is stretched backward, and its right leg is stepping forward. A new gray-and-white dog has appeared on the left side of the image. A white swing and a row of white houses have appeared in the back right of the image.",
+    "image_component": "Real/val/images/real_val_000086.jpg"
+  },
+  {
+    "id": "real_val_pair_000043",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000007.jpg",
+      "Real/val/images/real_val_000009.jpg"
+    ],
+    "caption": "The black apron that was originally hanging on the left hook of the right wall has disappeared. The rectangular cutting board, which was previously on the right hook of the right wall, has now moved to the left hook. The round tray, which was previously in the corner of the left wall, has moved to the right hook on the right wall.",
+    "image_component": "Real/val/images/real_val_000001.jpg"
+  },
+  {
+    "id": "real_val_pair_000544",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000124.jpg",
+      "Real/val/images/real_val_000127.jpg"
+    ],
+    "caption": "In the first image, the person is facing the right side of the frame, standing on the left leg, with the right leg raised backward and upward, the right hand holding the right ankle, pulling the leg toward the body while keeping it straight, the left hand extended forward, with the thumb and index finger touching, the body leaning forward, and the back maintaining a natural curve. In the second image, the person transitions to standing with their back facing the frame, balancing on the left leg as the supporting leg, the right leg bent with the right foot placed on the inner side of the left thigh, the knee extending outward to the right side of the frame, both arms stretched upward with hands joined above the head, the body remaining upright, and the head naturally aligned.",
+    "image_component": "Real/val/images/real_val_000123.jpg"
+  },
+  {
+    "id": "real_val_pair_000782",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000183.jpg",
+      "Real/val/images/real_val_000187.jpg"
+    ],
+    "caption": "The teal bird on the left side of the image has disappeared. The blue-and-yellow bird that was originally perched in front of the thick branch on the left, facing the left side of the image, is no longer visible. The blue-and-yellow bird that was previously on the slanted thin branch in the upper right has now turned its head from facing the upper left to facing the lower left. The teal bird in the background, which was originally facing left, is no longer visible.",
+    "image_component": "Real/val/images/real_val_000179.jpg"
+  },
+  {
+    "id": "real_val_pair_000671",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000160.jpg",
+      "Real/val/images/real_val_000168.jpg"
+    ],
+    "caption": "In the upper left corner of the screen, an additional plate with a blue edge containing a piece of black cake has been added.In the center of the screen, to the right of the white plate, an additional turquoise bowl containing white cream and a spoon has been added.In the upper right corner of the screen, an additional white plate with brown cookies has been added.On the blue plate on the left, three more pieces of cake have been added, slightly moved to the right.Above the white plate in the center of the table, a cup of red beverage has been added.Below the white plate in the center of the table, an additional pink plate has been added.Above the table, an additional white plate with a golden edge has appeared.Below the brown-edged plate with round pastries in the lower left corner, an additional green plate has appeared.",
+    "image_component": "Real/val/images/real_val_000160.jpg"
+  },
+  {
+    "id": "real_val_pair_000248",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000053.jpg",
+      "Real/val/images/real_val_000058.jpg"
+    ],
+    "caption": "The blue-and-white bird in the middle of the tree stump has disappeared. The larger blue bird that was originally on the left side of the tree stump, facing away from the camera with its head turned to the left, has turned its body to the right and is now looking at the food on the tree stump. The quantity of food on the tree stump has changed.",
+    "image_component": "Real/val/images/real_val_000050.jpg"
+  },
+  {
+    "id": "real_val_pair_000186",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000041.jpg",
+      "Real/val/images/real_val_000042.jpg"
+    ],
+    "caption": "The arms change from being bent and placed in front of the chest to both hands placed on the waist.Previously, the left leg was standing upright and the right leg extended to the right side; now, the right leg stands upright and the left leg is raised high.",
+    "image_component": "Real/val/images/real_val_000040.jpg"
+  },
+  {
+    "id": "real_val_pair_000064",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000012.jpg",
+      "Real/val/images/real_val_000015.jpg"
+    ],
+    "caption": "The book with the cover featuring a green caterpillar at the top of the screen has moved to the left side, swapping positions with the book labeled \"大卫不可必.\" The book with the cover \"点点和多多放风筝\" at the bottom has moved to the bottom center, swapping positions with the book labeled \"拉㞎㞎.\" The book with the cover \"小熊很忙\" has moved to the position above the book with the cover of a large brown bear on the left, and a new book with the cover \"人间失格\" has appeared in its original position.",
+    "image_component": "Real/val/images/real_val_000011.jpg"
+  },
+  {
+    "id": "real_val_pair_000129",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000029.jpg",
+      "Real/val/images/real_val_000035.jpg"
+    ],
+    "caption": "The color of the clothes draped on the stool changes from orange to white. The brown 100 chip on the far right of the plastic box has swapped places with the light yellow 01 chip on the far left. A white bandage appears in the front left of the plastic box. The single wet wipe at the back left of the plastic box swaps places with the full package of wet wipes at the front right. A new package of toilet paper has appeared on the right side of the plastic box.",
+    "image_component": "Real/val/images/real_val_000029.jpg"
+  },
+  {
+    "id": "real_val_pair_000629",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000159.jpg",
+      "Real/val/images/real_val_000152.jpg"
+    ],
+    "caption": "A pair of grey shoes on the left side of the shoe rack has moved to the right side of the shoe rack.",
+    "image_component": "Real/val/images/real_val_000150.jpg"
+  },
+  {
+    "id": "real_val_pair_000354",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000080.jpg",
+      "Real/val/images/real_val_000082.jpg"
+    ],
+    "caption": "The panda's head is tilted back. The left front paw no longer grips one end of the bamboo, and the right front paw is no longer stretched upward. Both front limbs are now tightly gripping part of the bamboo. The bamboo, which was previously intact with the right side higher and the left side lower, has now been torn apart, revealing its fibers and inner structure",
+    "image_component": "Real/val/images/real_val_000078.jpg"
+  },
+  {
+    "id": "real_val_pair_000506",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000115.jpg",
+      "Real/val/images/real_val_000116.jpg"
+    ],
+    "caption": "In the previous image, the person's head is facing the ground, both hands are on the ground, the hips are arched upward, the left leg is straight with the left foot touching the ground, and the right leg is raised and extended straight. In the next image, the posture changes to an upright upper body, with the head tilted back, eyes looking toward the sky, both arms extended straight overhead, the right leg stepping forward into a lunge position, and the left leg stretching backward.",
+    "image_component": "Real/val/images/real_val_000114.jpg"
+  },
+  {
+    "id": "real_val_pair_000603",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000141.jpg",
+      "Real/val/images/real_val_000146.jpg"
+    ],
+    "caption": "The black wired mouse with a red scroll wheel on the right side of the desk has disappeared.The laptop that was previously open has been closed.The black wireless mouse that was placed on the laptop has disappeared.The microphone on the right side of the computer rotates to the left of the scene, facing the left side of the screen.",
+    "image_component": "Real/val/images/real_val_000141.jpg"
+  },
+  {
+    "id": "real_val_pair_000274",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000060.jpg",
+      "Real/val/images/real_val_000063.jpg"
+    ],
+    "caption": "The three people who were originally bending forward with their left hands extended upward and their right hands touching the ground are now standing upright, extending both arms, and performing a kicking motion.",
+    "image_component": "Real/val/images/real_val_000059.jpg"
+  },
+  {
+    "id": "real_val_pair_000588",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000140.jpg",
+      "Real/val/images/real_val_000137.jpg"
+    ],
+    "caption": "The character changes from having arms crossed on the table with closed eyes and a smile to gently pressing the fingertips of both index fingers against the inner corners of their eyes.",
+    "image_component": "Real/val/images/real_val_000132.jpg"
+  },
+  {
+    "id": "real_val_pair_000123",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000028.jpg",
+      "Real/val/images/real_val_000027.jpg"
+    ],
+    "caption": "The ambient lighting has dimmed.",
+    "image_component": "Real/val/images/real_val_000021.jpg"
+  },
+  {
+    "id": "real_val_pair_000459",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000113.jpg",
+      "Real/val/images/real_val_000106.jpg"
+    ],
+    "caption": "The gaze changes from the head tilting back, with the eyes looking upwards, to the head tilting forward, with the eyes looking at the ground. The head movement changes from tilting back with the face towards the ceiling to the head naturally tilting forward, with the face towards the ground. The hand movement changes from both hands raised above the head, holding a yellow yoga ball with straight arms, to both arms pointing to the right side of the frame, holding the yellow yoga ball. The waist movement changes from bending significantly backward, with the back arched, to the waist remaining level and the back straight. The leg movement changes from the right leg bent forward at a 90-degree angle with the knee, and the left leg extended backward with the toes touching the ground, to the left leg lifting backward in a straight line with the body, and the right leg standing, with the toes pointing forward. The position of the yoga ball changes from being held above the head, located behind the head, to being placed to the right side of the head.",
+    "image_component": "Real/val/images/real_val_000104.jpg"
+  },
+  {
+    "id": "real_val_pair_000737",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000174.jpg",
+      "Real/val/images/real_val_000177.jpg"
+    ],
+    "caption": "The teal bird on the left has shifted from facing back left with a tilted body to facing forward while lowering its head to look downward. The teal bird on the far right has further turned to the right.",
+    "image_component": "Real/val/images/real_val_000170.jpg"
+  },
+  {
+    "id": "real_val_pair_000399",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000103.jpg",
+      "Real/val/images/real_val_000095.jpg"
+    ],
+    "caption": "The bucket-shaped toy in the upper left corner changed from orange and white to green.",
+    "image_component": "Real/val/images/real_val_000094.jpg"
+  },
+  {
+    "id": "real_val_pair_000299",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000068.jpg",
+      "Real/val/images/real_val_000072.jpg"
+    ],
+    "caption": "The white stool on the left side of the scene has exchanged positions with the yellow stool that was previously in the left corner, with the white stool now facing the wall. A black stool has been newly placed next to the yellow stool against the wall on the right side of the scene. The low stool on the left side of the scene has disappeared.",
+    "image_component": "Real/val/images/real_val_000067.jpg"
+  },
+  {
+    "id": "real_val_pair_000373",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000086.jpg",
+      "Real/val/images/real_val_000091.jpg"
+    ],
+    "caption": "The brightness of the scene has increased. The dog's body has turned towards the left side of the frame, its ears are slightly bent, and its mouth is open, revealing its tongue. A white swing has appeared in the back right of the image.",
+    "image_component": "Real/val/images/real_val_000086.jpg"
+  },
+  {
+    "id": "real_val_pair_000040",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000006.jpg",
+      "Real/val/images/real_val_000008.jpg"
+    ],
+    "caption": "A round stainless steel stand located on the tabletop has appeared in the lower left corner of the scene. The black apron that was originally hanging on the left hook of the right wall has disappeared. The rectangular cutting board, which was previously on the left hook of the right wall, has now moved to the right hook. A round tray has newly appeared on the right hook of the right wall.",
+    "image_component": "Real/val/images/real_val_000001.jpg"
+  },
+  {
+    "id": "real_val_pair_000562",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000129.jpg",
+      "Real/val/images/real_val_000130.jpg"
+    ],
+    "caption": "In the first image, the person’s posture is facing the right side of the frame, the left leg stepping forward with the knee bent into a lunge, the right leg stretching backward, the left hand stretching upward with the arm inclined backward, the right hand gently resting on the right leg, the body leaning toward the left side of the frame, the head tilted backward, the chest open, displaying a large lateral stretch. In the second image, the posture changes to an arched waist, bending downward, with the right hand touching the ground to support the body, the left arm bent and resting on the head, the head naturally tilted back, the left leg bent, and the right leg extended straight toward the right side of the frame.",
+    "image_component": "Real/val/images/real_val_000123.jpg"
+  },
+  {
+    "id": "real_val_pair_000759",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000180.jpg",
+      "Real/val/images/real_val_000185.jpg"
+    ],
+    "caption": "The teal bird on the left side of the image has disappeared. The blue and yellow bird that was originally in the upper right corner has moved to the thin branch in the front left of the image, positioned diagonally away from the camera with its head facing toward the back of the image. In the background, a teal bird is moving to the front left, positioned sideways with its head turned to the right.",
+    "image_component": "Real/val/images/real_val_000179.jpg"
+  },
+  {
+    "id": "real_val_pair_000704",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000169.jpg",
+      "Real/val/images/real_val_000164.jpg"
+    ],
+    "caption": "There is an additional plate with a blue edge in the upper left corner of the screen, but only a small part of it is visible. To the right of the white plate in the center of the screen, there is an additional turquoise bowl containing white cream and a spoon. There are three more pieces of cake on the blue plate to the left. On the plate with a brown edge located slightly lower to the left, there is an additional round pastry.",
+    "image_component": "Real/val/images/real_val_000160.jpg"
+  },
+  {
+    "id": "real_val_pair_000235",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000051.jpg",
+      "Real/val/images/real_val_000056.jpg"
+    ],
+    "caption": "The blue and white bird on the tree stump has disappeared. A black bird has appeared in the middle of the tree stump, with its head looking toward the lower right corner of the image. Another black bird has appeared behind the tree stump. In front of the tree stump, in the lower right corner of the image, a bird with a blue head, green neck, and gray body has appeared, with its mouth open and looking to the left. The quantity of food on the tree stump has changed.",
+    "image_component": "Real/val/images/real_val_000050.jpg"
+  },
+  {
+    "id": "real_val_pair_000222",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000049.jpg",
+      "Real/val/images/real_val_000048.jpg"
+    ],
+    "caption": "The girl changes from having both hands on her hips, feet slightly apart, to turning her body to the right side of the screen. Her legs are spread apart, and she bends forward, extending both hands downward to touch her ankles.",
+    "image_component": "Real/val/images/real_val_000040.jpg"
+  },
+  {
+    "id": "real_val_pair_000080",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000015.jpg",
+      "Real/val/images/real_val_000016.jpg"
+    ],
+    "caption": "On the left side, the book with the cover \"生活用品\" and the book with the cover \"交通工具\" have been rotated 180° clockwise. The book with the cover \"小熊很忙,\" which was previously placed horizontally above the book with the cover \"大棕熊,\" is now positioned vertically.",
+    "image_component": "Real/val/images/real_val_000011.jpg"
+  },
+  {
+    "id": "real_val_pair_000127",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000029.jpg",
+      "Real/val/images/real_val_000033.jpg"
+    ],
+    "caption": "The color of the clothes draped on the stool changes from orange to white. The brown 100 chip on the far right of the plastic box has swapped places with the light yellow 01 chip on the far left. A white bandage appears in the front left of the plastic box. The single wet wipe at the back left of the plastic box swaps places with the full package of wet wipes at the front right.",
+    "image_component": "Real/val/images/real_val_000029.jpg"
+  },
+  {
+    "id": "real_val_pair_000632",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000159.jpg",
+      "Real/val/images/real_val_000155.jpg"
+    ],
+    "caption": "A pair of grey shoes on the left side of the shoe rack has moved to the right side.  A pair of green children's slippers and a pair of grey slippers have appeared, aligned horizontally with the grey shoes. The positions of the shoes on the middle shelf of the shoe rack have shifted slightly in place.",
+    "image_component": "Real/val/images/real_val_000150.jpg"
+  },
+  {
+    "id": "real_val_pair_000343",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000078.jpg",
+      "Real/val/images/real_val_000080.jpg"
+    ],
+    "caption": "The panda's posture shifts from walking with its left foot forward, body leaning forward, and biting the bamboo, to leaning against the tree trunk, with its head slightly tilted to the right, tightly biting one end of the bamboo. The left front paw grips the same end of the bamboo, while the right front paw stretches upward.",
+    "image_component": "Real/val/images/real_val_000078.jpg"
+  },
+  {
+    "id": "real_val_pair_000522",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000118.jpg",
+      "Real/val/images/real_val_000120.jpg"
+    ],
+    "caption": "In the first image, the person is in a handstand position, with the head facing downward and touching the ground to support the body, both arms bent at 90 degrees and supporting the ground, and both legs stretched apart to form a straight line. In the second image, the posture changes to the right leg extended straight to touch the ground and support the body, the left leg lifted backward, the left hand holding the left ankle, the right hand reaching forward toward the left side of the frame, the waist leaning forward, and the head facing the left side of the frame.",
+    "image_component": "Real/val/images/real_val_000114.jpg"
+  },
+  {
+    "id": "real_val_pair_000595",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000149.jpg",
+      "Real/val/images/real_val_000145.jpg"
+    ],
+    "caption": "A black-gray mouse disappeared from the right side of the computer. The digital time displayed on the computer changed from 12:30:46 to 12:32:03. The microphone at the top right of the computer turned to the left, facing the left side of the screen.",
+    "image_component": "Real/val/images/real_val_000141.jpg"
+  },
+  {
+    "id": "real_val_pair_000263",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000066.jpg",
+      "Real/val/images/real_val_000063.jpg"
+    ],
+    "caption": "The number of people in the image changes from three to four. Previously, three people were bending to the left, turning their heads toward the camera, with their arms naturally extended, right hand down, left hand up. Now, four people are extending both arms and performing a kicking motion.",
+    "image_component": "Real/val/images/real_val_000059.jpg"
+  },
+  {
+    "id": "real_val_pair_000578",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000136.jpg",
+      "Real/val/images/real_val_000138.jpg"
+    ],
+    "caption": "The fingertips of both index fingers move from pressing against the inner corners of the eyes to pressing against the area below the eyes.",
+    "image_component": "Real/val/images/real_val_000132.jpg"
+  },
+  {
+    "id": "real_val_pair_000117",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000028.jpg",
+      "Real/val/images/real_val_000021.jpg"
+    ],
+    "caption": "Originally writing became picking up the phone located on the pink tablet on the right side of the desk.",
+    "image_component": "Real/val/images/real_val_000021.jpg"
+  },
+  {
+    "id": "real_val_pair_000451",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000105.jpg",
+      "Real/val/images/real_val_000107.jpg"
+    ],
+    "caption": "The brightness of the scene has increased.",
+    "image_component": "Real/val/images/real_val_000104.jpg"
+  },
+  {
+    "id": "real_val_pair_000718",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000171.jpg",
+      "Real/val/images/real_val_000173.jpg"
+    ],
+    "caption": "The teal bird on the left has its back to the image, with its head looking into the distance. The black and red bird in the middle, which was facing left, has turned to the right, nearly facing away from the image, and has lifted its head to look into the distance.",
+    "image_component": "Real/val/images/real_val_000170.jpg"
+  },
+  {
+    "id": "real_val_pair_000408",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000094.jpg",
+      "Real/val/images/real_val_000096.jpg"
+    ],
+    "caption": "The ambient lighting has brightened. In the upper left corner, the toy that resembles an orange and white striped bucket moves to the right. A new toy resembling a green bucket appears on the left, with its opening facing the screen.",
+    "image_component": "Real/val/images/real_val_000094.jpg"
+  },
+  {
+    "id": "real_val_pair_000338",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000077.jpg",
+      "Real/val/images/real_val_000073.jpg"
+    ],
+    "caption": "The black stool in front of the white stool on the left side of the screen moves to the right corner of the wall. The yellow stool in the left corner of the wall disappears. The white stool on the left side of the screen moves to the position where the yellow stool in the original left corner was. The moved white stool faces the wall. In the distance, a folded umbrella has appeared against the wall. To the right of the smaller white stool in the lower left corner that is facing left, there is now a black chair.",
+    "image_component": "Real/val/images/real_val_000067.jpg"
+  },
+  {
+    "id": "real_val_pair_000376",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000087.jpg",
+      "Real/val/images/real_val_000089.jpg"
+    ],
+    "caption": "The ambient lighting has brightened. The dog has moved backward, and its ears have drooped. The dog's right leg is lowered while its left leg is lifted. The house in the distance on the right side of the image has disappeared.",
+    "image_component": "Real/val/images/real_val_000086.jpg"
+  },
+  {
+    "id": "real_val_pair_000020",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000002.jpg",
+      "Real/val/images/real_val_000006.jpg"
+    ],
+    "caption": "A mop has newly appeared on the left wall. The round tray hanging on the right hook on the wall has disappeared. The rectangular cutting board has moved to the right hook. A black apron has been hung on the left hook.",
+    "image_component": "Real/val/images/real_val_000001.jpg"
+  },
+  {
+    "id": "real_val_pair_000560",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000128.jpg",
+      "Real/val/images/real_val_000129.jpg"
+    ],
+    "caption": "In the first image, the person’s posture is facing the left side of the frame, bending toward the left side to a horizontal position, with the right hand stretched upward, fingertips pointing to the sky, the left arm bent close to the head, the left leg straight supporting the body on one leg, and the right leg raised straight, extending toward the right side of the frame. In the second image, the posture changes to facing the right side of the frame, the left leg stepping forward with the knee bent into a lunge, the right leg stretching backward, the left hand stretching upward with the arm inclined backward, the right hand gently resting on the right leg, the body leaning toward the left side of the frame, the head tilted backward, the chest open, displaying a large lateral stretch.",
+    "image_component": "Real/val/images/real_val_000123.jpg"
+  },
+  {
+    "id": "real_val_pair_000763",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000180.jpg",
+      "Real/val/images/real_val_000189.jpg"
+    ],
+    "caption": "The teal bird on the left side of the image has disappeared. The blue and yellow bird that was originally in the upper right corner has moved to the branch below its original position, turned around with its back to the camera, its body tilted, tail raised, and is pecking at the ground.  In the background, a teal bird has disappeared.",
+    "image_component": "Real/val/images/real_val_000179.jpg"
+  },
+  {
+    "id": "real_val_pair_000675",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000161.jpg",
+      "Real/val/images/real_val_000165.jpg"
+    ],
+    "caption": "In the upper left corner of the screen, an additional plate with a blue edge containing a piece of black cake has been added.Three pieces of cake have been added to the blue plate on the left, slightly moved to the right.Above the white plate in the center of the table, a cup of red beverage has been added.In the lower left position, on a plate with a brown edge, an additional round pastry has been added.",
+    "image_component": "Real/val/images/real_val_000160.jpg"
+  },
+  {
+    "id": "real_val_pair_000258",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000057.jpg",
+      "Real/val/images/real_val_000058.jpg"
+    ],
+    "caption": "A black bird on the right side of the tree stump, positioned sideways with its head facing left, is no longer visible. Another black bird that was behind the tree stump is no longer visible. A larger blue and white bird has appeared on the left edge of the tree stump, positioned sideways and looking at the food on the stump. The quantity of food on the tree stump has changed.",
+    "image_component": "Real/val/images/real_val_000050.jpg"
+  },
+  {
+    "id": "real_val_pair_000220",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000049.jpg",
+      "Real/val/images/real_val_000046.jpg"
+    ],
+    "caption": "The girl changes from having both hands on her hips, with feet slightly apart, to turning her body to the right, lifting her left leg, and keeping both hands on her hips.",
+    "image_component": "Real/val/images/real_val_000040.jpg"
+  },
+  {
+    "id": "real_val_pair_000084",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000016.jpg",
+      "Real/val/images/real_val_000017.jpg"
+    ],
+    "caption": "The book with the cover \"拉㞎㞎\" in the lower right corner has been replaced with a book titled \"收起来.\" The book with the cover \"小熊很忙,\" which was originally placed vertically above the book with the cover \"大棕熊,\" has disappeared.",
+    "image_component": "Real/val/images/real_val_000011.jpg"
+  },
+  {
+    "id": "real_val_pair_000138",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000030.jpg",
+      "Real/val/images/real_val_000036.jpg"
+    ],
+    "caption": "The color of the bandage located to the left of the brown 100 chip changes from black to white.  \nThe white bandage on the stool to the left of the chip rack is no longer present, as it was in the previous state.  \nA white bandage appears at the left front of the chip rack, where the other bandage used to be.  \nThe brown 100 chips in the leftmost row of the weight rack swap positions with the yellow 10 chips in the rightmost row.  \nThe small pack of wet wipes at the left rear of the weight rack moves to the position of the individually packaged wet wipes at the right front, and the individually packaged wet wipes disappear.  \nA new individually packaged wet toilet paper with a cartoon design appears at the left rear of the weight rack.  \nThe green 50 chips in the second row from the left on the weight rack disappear.  \nThe number of blue small packs of tissues increases from two to three.",
+    "image_component": "Real/val/images/real_val_000029.jpg"
+  },
+  {
+    "id": "real_val_pair_000650",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000153.jpg",
+      "Real/val/images/real_val_000155.jpg"
+    ],
+    "caption": "Two green children's slippers and two grey slippers have appeared on the floor in front of the left side of the shoe rack, arranged horizontally from left to right, positioned to the left of the grey sneakers placed on the floor. The grey slipper on the far right of the second shelf has been replaced by a pair of black women's leather shoes.",
+    "image_component": "Real/val/images/real_val_000150.jpg"
+  },
+  {
+    "id": "real_val_pair_000361",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000082.jpg",
+      "Real/val/images/real_val_000084.jpg"
+    ],
+    "caption": "The ambient lighting has dimmed. The panda's posture shifts from having its head slightly tilted back while forcefully biting the bamboo to having its head tilted to the left while nibbling on the middle part of the bamboo.",
+    "image_component": "Real/val/images/real_val_000078.jpg"
+  },
+  {
+    "id": "real_val_pair_000498",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000122.jpg",
+      "Real/val/images/real_val_000121.jpg"
+    ],
+    "caption": "Previously, the figure's body was facing left, head tilted back, eyes looking up, hands stretched behind the head, grasping the raised right foot to maintain balance, while the waist was bent backward to form a deep bend, with the left leg supporting the body.In the second image, the person's head is facing downward, touching the ground to support the body, oriented toward the right side of the frame. Both hands are bent, supporting the ground, the left leg is extended straight back, and the right leg is bent at a 90-degree angle.",
+    "image_component": "Real/val/images/real_val_000114.jpg"
+  },
+  {
+    "id": "real_val_pair_000601",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000141.jpg",
+      "Real/val/images/real_val_000144.jpg"
+    ],
+    "caption": "The digital time displayed on the computer changes from 12:30:57 to 12:32:02. The black mouse placed on the laptop disappears. The microphone on the right side of the computer rotates to the left of the scene, facing the left side of the screen.",
+    "image_component": "Real/val/images/real_val_000141.jpg"
+  },
+  {
+    "id": "real_val_pair_000264",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000066.jpg",
+      "Real/val/images/real_val_000064.jpg"
+    ],
+    "caption": "The woman in red on the right side of the screen disappears, and a man in a black top and black pants appears. Initially, three people bend their bodies to the left, turning their heads toward the camera, with arms naturally extended, right hand down, left hand up. Now, one person on the left side of the screen bends toward the right side to make an attack move, while the other two jump into the air.",
+    "image_component": "Real/val/images/real_val_000059.jpg"
+  },
+  {
+    "id": "real_val_pair_000584",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000140.jpg",
+      "Real/val/images/real_val_000133.jpg"
+    ],
+    "caption": "no change has occurred.",
+    "image_component": "Real/val/images/real_val_000132.jpg"
+  },
+  {
+    "id": "real_val_pair_000116",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000027.jpg",
+      "Real/val/images/real_val_000026.jpg"
+    ],
+    "caption": "The ambient lighting has brightened. The two open books on the table were closed. The green and white striped cup at the edge of the table's bottom right corner was moved to the center of the table, with a hand holding the cup handle. Meanwhile, a new red sticky note appeared on the left side of the table. The phone placed on the pink tablet on the right side of the table was tilted. The black pen in the hand disappeared. The watch on the left hand was exposed.",
+    "image_component": "Real/val/images/real_val_000021.jpg"
+  },
+  {
+    "id": "real_val_pair_000479",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000108.jpg",
+      "Real/val/images/real_val_000110.jpg"
+    ],
+    "caption": "The body's orientation changes from an inverted \"V\" shape with the upper body facing downward to a position where the back is facing the frame, with the body leaning towards the right side. The gaze shifts from looking at the yoga mat on the ground to looking at the left hand pointing towards the ceiling. The head moves from facing downward towards the ground to facing the left hand pointing upwards. The hand movement transitions from both hands supporting the ground with fingers spread apart to the right hand resting flat on the yoga ball, and the left hand raised, pointing towards the ceiling. The waist changes from an upward arch forming an inverted \"V\" shape to leaning to the right. The leg movement changes from both legs straight with toes on the ball to standing with legs apart. The position of the yoga ball moves from being under the feet on the left side of the mat to being under the right hand on the right side of the mat.",
+    "image_component": "Real/val/images/real_val_000104.jpg"
+  },
+  {
+    "id": "real_val_pair_000738",
+    "subset": "real",
+    "split": "val",
+    "image": [
+      "Real/val/images/real_val_000174.jpg",
+      "Real/val/images/real_val_000178.jpg"
+    ],
+    "caption": "The teal bird on the left has disappeared. The black-and-red bird in the center has adjusted its posture, standing upright.",
+    "image_component": "Real/val/images/real_val_000170.jpg"
+  },
+  {
+    "id": "render_val_pair_000760",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000068.jpg",
+      "Render/val/images/render_val_indoor_000057.jpg"
+    ],
+    "caption": "A smaller white thermos has been placed in the center of the wooden table at the front of the scene. The painting hanging on the white wall above the microwave has disappeared.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000243",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000039.jpg",
+      "Render/val/images/render_val_outdoor_000045.jpg"
+    ],
+    "caption": "The environment has become brighter. The white lantern with black text, which is hanging on the front upper-left side of the wooden building near some colorful cables, has decreased in size.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000547",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000027.jpg",
+      "Render/val/images/render_val_indoor_000028.jpg"
+    ],
+    "caption": "A sofa has been placed to the left of the white coffee table at the front, and the cushion on the right has turned into a black and white patterned cushion. One of the cushions from the armchair on the right rear side has been moved to the armchair on the right front side of the scene. A gray storage rack has been added to the left of the armchair near the back of the scene. The gray barbecue rack in the left rear of the scene remains unchanged and is rotated to the left, placed against the wall.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000136",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000024.jpg",
+      "Render/val/images/render_val_outdoor_000023.jpg"
+    ],
+    "caption": "A green armchair has appeared in the right corner of the room, next to a small side table with items on it, to the right of the bed.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000433",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000005.jpg",
+      "Render/val/images/render_val_indoor_000009.jpg"
+    ],
+    "caption": "The pendant light, composed of three circular rings, has now appeared above the 'L'-shaped dining table and is facing sideways. The white vase with pampas grass in the far corner of the 'L'-shaped dining table has also appeared. The fully yellow chair on the front right side of the 'L'-shaped dining table has changed to a chair with a curved red backrest and a gray metal frame. The chair on the rear left side of the 'L'-shaped dining table, which has a curved red backrest and a metal frame, has become smaller.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000669",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000053.jpg",
+      "Render/val/images/render_val_indoor_000045.jpg"
+    ],
+    "caption": "A person wearing an orange hoodie, blue jeans, and black shoes has appeared in front of the bar, standing facing the bar. The central pendant light of the three black hanging lights above the bar now has an additional lampshade, matching the ones on the two neighboring lights.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000160",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000031.jpg",
+      "Render/val/images/render_val_outdoor_000027.jpg"
+    ],
+    "caption": "A man wearing a blue T-shirt, black pants, and white shoes has appeared in front of door number 5, to the left of the stacked boxes in the corner. He is facing away from door number 5, with his arms crossed in front of his body and his eyes looking at the camera.Black spray-painted graffiti has appeared on the wall above the stacked boxes in the lower right corner of the scene.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000002",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000002.jpg",
+      "Render/val/images/render_val_outdoor_000003.jpg"
+    ],
+    "caption": "The yellow cone next to the green pillar on the left side of the subway car has disappeared. The black sign with the text '74th Street' that was fixed to the green pillar on the platform is no longer visible.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000616",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000043.jpg",
+      "Render/val/images/render_val_indoor_000038.jpg"
+    ],
+    "caption": "The rectangular wooden table on the right side of the brick wall opposite the bar counter has been replaced with a round wooden table.A new coffee machine with a white body is placed on a large wooden table near the center of the right side of the scene.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000506",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000019.jpg",
+      "Render/val/images/render_val_indoor_000021.jpg"
+    ],
+    "caption": "A light brown rug has been added at the foot of the bed. A green decorative round ornament has appeared on top of the cabinet to the left of the TV. A black bird-shaped decoration is now visible on the upper shelf to the left of the TV. A black computer monitor displaying '8:31' in white is now visible on the table to the right of the bed. The purple TV mounted on the left wall of the room has changed to black. The deer-shaped decoration has been moved to the front-right wooden platform next to a flowerpot. Additionally, two new gray rectangular blankets have been added to the bed, one in the middle and one at the foot.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000346",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000059.jpg",
+      "Render/val/images/render_val_outdoor_000060.jpg"
+    ],
+    "caption": "The white door handle on the middle right side of the door is visible. The dark brown bench below the window on the wooden board has decreased in size.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000768",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000069.jpg",
+      "Render/val/images/render_val_indoor_000059.jpg"
+    ],
+    "caption": "A new illuminated sign with the text \"Serviae Holl\" has appeared on the wall above the water dispenser and microwave, to the left of the refrigerator.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000235",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000042.jpg",
+      "Render/val/images/render_val_outdoor_000043.jpg"
+    ],
+    "caption": "The sign with the word 'Shep' that appeared on the building's roof has disappeared.A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He is holding a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the left side of the picture.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000562",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000030.jpg",
+      "Render/val/images/render_val_indoor_000031.jpg"
+    ],
+    "caption": "The person wearing a light gray shirt and dark gray pants, holding a black bag, who appeared behind the white coffee table, is no longer visible. The blue letters \"repase\" on the wooden wall at the back left of the scene have disappeared. A sofa, placed to the left of the white coffee table, has appeared. The white cushion on the left side of this sofa is missing. The white cushion on the right side of the sofa is also missing. Two white armchairs have appeared to the right of the white coffee table. The white cushion on the armchair closer to the back of the scene is missing. Two white round-seated stools have appeared to the left of the dining table at the back of the scene. The seat of the front stool has changed from white to blue.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000127",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000024.jpg",
+      "Render/val/images/render_val_outdoor_000014.jpg"
+    ],
+    "caption": "A new illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000418",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000001.jpg",
+      "Render/val/images/render_val_indoor_000009.jpg"
+    ],
+    "caption": "The surroundings have brightened. The chair with a curved red backrest and metal frame at the back left of the \"L\"-shaped dining table has decreased in size.The white chandelier composed of three rings, hanging above the \"L\"-shaped dining table, has rotated from facing forward to facing sideways.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000652",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000050.jpg",
+      "Render/val/images/render_val_indoor_000046.jpg"
+    ],
+    "caption": "A large blue \"Bar\" sign with bold letters has appeared on the right side of the scene, positioned on the brick wall behind the seating area. An orange glass bottle that was on the bar counter is no longer present.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000207",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000036.jpg",
+      "Render/val/images/render_val_outdoor_000029.jpg"
+    ],
+    "caption": " The stacked cardboard boxes and the trash can on the ground in the lower right corner of the scene have rotated from facing the camera to facing forward. The word \"Garage\" in blue letters has appeared on the closed shutter door positioned on the left side of the scene, under the number \"5\" and next to the stacked boxes.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000036",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000009.jpg",
+      "Render/val/images/render_val_outdoor_000001.jpg"
+    ],
+    "caption": "A glowing blue text object displaying the word \"submay\" has disappeared from the floor near the bottom center of the scene. A new, thin black pole is now leaning against the post labeled '74 Street'.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000606",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000040.jpg",
+      "Render/val/images/render_val_indoor_000035.jpg"
+    ],
+    "caption": "The person wearing a black top, red pants, and a black hat, positioned between the bar counter and a wooden table, facing the brick wall on the right side of the room, no longer appears in the scene. The blue glowing \"coffee\" sign on the brick wall opposite the bar counter has disappeared. The central pendant light among the three black ones above the large wooden table in the middle of the scene has changed from black to green.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000515",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000021.jpg",
+      "Render/val/images/render_val_indoor_000015.jpg"
+    ],
+    "caption": "A person wearing a denim jacket, black shirt, red pants, and black shoes has appeared in the lower-left corner of the room, facing the black TV on the left wall and holding a brown bag in their left hand. A shiny blue 'garderobe' letter sign has appeared on the floor to the left of the bed. The deer-shaped decoration has disappeared from the front-right wooden platform next to the flowerpot. The new gray rectangular blanket in the center of the bed has been removed.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000381",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000063.jpg",
+      "Render/val/images/render_val_outdoor_000056.jpg"
+    ],
+    "caption": "The smaller red sofa that was previously placed in front of the small table, right next to the wall, is no longer there. An additional blue \"deerway\" sign has appeared on the side of the red chair that is against the wall to the right of the door in the scene.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000777",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000069.jpg",
+      "Render/val/images/render_val_indoor_000068.jpg"
+    ],
+    "caption": "A mural identical to the one on the wall above the power bank box on the left appeared on the white wall above the microwave.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000268",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000046.jpg",
+      "Render/val/images/render_val_outdoor_000049.jpg"
+    ],
+    "caption": "The vertical sign attached to the right side of the building has rotated, changing from a blank backside to a front side with content. The colorful billboard in front of the entrance to the two-story building on the right has been reduced from two panels to one.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000534",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000024.jpg",
+      "Render/val/images/render_val_indoor_000028.jpg"
+    ],
+    "caption": "The scene is now more lit up. A sofa is placed to the left of the white coffee table in the front, and the white cushion on the right side of the sofa has been replaced with a black-and-white patterned cushion.Two white armchairs are placed to the right of the white coffee table in the front. A new gray storage rack has been added to the left of the armchair closer to the back of the scene.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000085",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000018.jpg",
+      "Render/val/images/render_val_outdoor_000020.jpg"
+    ],
+    "caption": "The black chair on the right side of the bed has turned from facing the camera to facing the wall. The white rug under the coffee table in front of the white double bed has been reduced in size.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000445",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000007.jpg",
+      "Render/val/images/render_val_indoor_000010.jpg"
+    ],
+    "caption": "The yellow bottle on the far-right side of the bar has disappeared, and a dark glass bottle with a gold cap has appeared in its place on the far-right side of the kitchen counter. Additionally, a hamburger has appeared at the center of the 'L'-shaped dining table.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000633",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000044.jpg",
+      "Render/val/images/render_val_indoor_000054.jpg"
+    ],
+    "caption": "The light in the scene has increased. There is a row of clear glass wine glasses on the counter at the back right of the bar, and the color of the leftmost glass has changed from clear to blue.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000214",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000037.jpg",
+      "Render/val/images/render_val_outdoor_000030.jpg"
+    ],
+    "caption": "The shovel with a yellow handle that appears next to the blue bucket on the right wall is no longer visible. A blue text sign with the word \"Gorege\" appears on the rolling shutter door located on the left side of the scene near the number \"5\".",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000015",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000003.jpg",
+      "Render/val/images/render_val_outdoor_000009.jpg"
+    ],
+    "caption": "On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared.A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000594",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000037.jpg",
+      "Render/val/images/render_val_indoor_000040.jpg"
+    ],
+    "caption": "A person wearing a black top, red pants, and a black hat has appeared in the center of the scene, positioned between the bar and the wooden table, facing the brick wall on the right side of the room. On the right side of the cafe scene, a glowing blue 'coffee' sign has appeared on the brick wall opposite the bar. The black pendant light, previously located above the bar and near the plant, has been moved back to above the large wooden table at the front of the scene, positioned next to other similar lights. The black metal chair with a curved backrest, originally located at the top-left corner of the central wooden table, is no longer present.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000480",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000016.jpg",
+      "Render/val/images/render_val_indoor_000015.jpg"
+    ],
+    "caption": "A black bird-shaped decoration has appeared on the upper shelf to the left of the TV. A black computer monitor displaying '8:31' in white has appeared on the table to the right of the bed. The yellow blanket at the foot of the bed has changed to gray. A person wearing a denim jacket, black shirt, red pants, and black shoes has appeared in the lower left corner of the room, facing the black TV on the left side, holding a brown bag in their left hand. A shiny blue 'garderobe' letter sign has appeared on the floor to the left of the bed.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000340",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000053.jpg",
+      "Render/val/images/render_val_outdoor_000065.jpg"
+    ],
+    "caption": "The area is now brighter. The tabletop of the small round table to the right of the sofa, near the edge of the porch, has changed from brown to green.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000736",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000064.jpg",
+      "Render/val/images/render_val_indoor_000066.jpg"
+    ],
+    "caption": "The sign with white Chinese characters on a red background, located on the upper right wall near the refrigerator and above the text on the wall, has become larger. The color of the left door panel of the wooden cabinet below the water dispenser changed from brown to red.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000229",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000040.jpg",
+      "Render/val/images/render_val_outdoor_000042.jpg"
+    ],
+    "caption": "A new sign with the text \"Shep\" has appeared on the roof of the building, located near the top center of the scene above the second-story window and adjacent to the white lantern on the left. The ceiling above the entrance of the two-story dark brown building has changed from green  to black.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000543",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000026.jpg",
+      "Render/val/images/render_val_indoor_000030.jpg"
+    ],
+    "caption": "A person wearing a light gray shirt and dark gray pants, holding a black bag, has appeared behind the white coffee table at the front of the scene, facing the entrance door at the back of the room. A blue 'repase' letter sign has appeared on the wooden wall in the rear-left part of the scene, positioned above the grill and to the left of the room's entrance. The chair with a round woven seat and black metal legs, previously added in front of the white coffee table, is no longer present. The cushion on the armchair behind the person has increased in size.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000071",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000017.jpg",
+      "Render/val/images/render_val_outdoor_000015.jpg"
+    ],
+    "caption": "A black rectangular pendant light has appeared in the center of the room, above the bed, and to the right of the hanging chair.A man in a black coat and black pants appeared on the right side of the cradle in the room. He is facing outdoors, his body slightly tilted, with his left hand raised to his mouth.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000416",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000001.jpg",
+      "Render/val/images/render_val_indoor_000007.jpg"
+    ],
+    "caption": "The ambiance has brightened. On the right side of the back counter in the scene, there were three bottles of red wine, and the middle one has disappeared.On the right side of the back counter in the scene, there were three bottles of red wine, and the one on the right has changed from black to yellow.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000653",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000050.jpg",
+      "Render/val/images/render_val_indoor_000047.jpg"
+    ],
+    "caption": "An orange glass bottle is no longer present on the bar counter. The word \"Pub\" in large blue letters has been added to the upper right section of the wall, positioned above a seating area and to the right of the bar counter.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000217",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000038.jpg",
+      "Render/val/images/render_val_outdoor_000027.jpg"
+    ],
+    "caption": "On the left side of the stacked boxes in the corner, in front of Door No. 5, a man wearing a blue T-shirt, black pants, and white shoes appeared. He had his back to Door No. 5, his hands crossed in front of his body, and his eyes looking towards the camera.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000008",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000002.jpg",
+      "Render/val/images/render_val_outdoor_000009.jpg"
+    ],
+    "caption": "A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train.The yellow cone next to the green pillar with the '74 Street' text on the left side of the subway car has disappeared.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000596",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000037.jpg",
+      "Render/val/images/render_val_indoor_000042.jpg"
+    ],
+    "caption": "The black pendant lamp, which was positioned closer to the entrance and near the bar, has moved back to its previous position hanging above the large wooden table at the front of the scene, adjacent to other similar lamps. The black metal chair with a curved backrest, which was present at the upper left corner of the central wooden table, is no longer visible. The tabletop of the wooden table closest to the bar on the left side of the scene has disappeared.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000520",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000023.jpg",
+      "Render/val/images/render_val_indoor_000012.jpg"
+    ],
+    "caption": "The scene has become darker.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000390",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000064.jpg",
+      "Render/val/images/render_val_outdoor_000058.jpg"
+    ],
+    "caption": "A woman with yellow hair, wearing a white top and light blue pants, appears in front of the left side of the pink steps. She raises her hands to her waist, with a coat on her right hand. Her left leg steps forward, with her right leg behind, and her body faces the red sofa in the picture. The brown cylindrical flower pot with decorative patterns, which was located between the staircase and the sofa, has disappeared.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000693",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000058.jpg",
+      "Render/val/images/render_val_indoor_000061.jpg"
+    ],
+    "caption": "A person wearing a gray suit and black shoes has appeared near the refrigerator on the right side of the scene, standing next to the wooden cabinet and facing toward the front left.The glowing 'Service Hall' sign on the wall above the water dispenser has disappeared.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000305",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000051.jpg",
+      "Render/val/images/render_val_outdoor_000044.jpg"
+    ],
+    "caption": "A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He holds a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the right side of the screen. The small-sized gray switch box with a white label on the door of the second-floor wooden building has been replaced with a larger white switch box that features a yellow warning sign.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000558",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000029.jpg",
+      "Render/val/images/render_val_indoor_000030.jpg"
+    ],
+    "caption": "The person behind the white coffee table has shifted their orientation from facing the armchair to facing the entrance door. The blue letters on the wooden wall have changed from spelling \"repose\" to \"repase.\"",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000116",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000022.jpg",
+      "Render/val/images/render_val_outdoor_000015.jpg"
+    ],
+    "caption": "A man in a black coat and black pants appeared on the right side of the cradle in the room. He was facing outdoors, his body slightly tilted, and his left hand raised to his mouth.The round table covered with a white cloth in front of the bed has been replaced by a wooden coffee table.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000456",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000011.jpg",
+      "Render/val/images/render_val_indoor_000002.jpg"
+    ],
+    "caption": "Two women have appeared at the front right of the \"L\"-shaped dining table, embracing each other. The woman in the light-colored dress is on the right, while the woman in the green top is on the left.A \"Meet\" sign, made of blue letters, has appeared on the wooden cabinet door above the back right counter.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000679",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000055.jpg",
+      "Render/val/images/render_val_indoor_000047.jpg"
+    ],
+    "caption": "The word \"Pub,\" which appears in large blue letters, has been newly added to the upper right section of the wall, positioned above a seating area and to the right of the bar counter.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000223",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000038.jpg",
+      "Render/val/images/render_val_outdoor_000033.jpg"
+    ],
+    "caption": "A silver ladder was originally placed vertically on the wall to the left of the blue barrel, but has now been moved to lean against the roller shutter door on the right.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000045",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000010.jpg",
+      "Render/val/images/render_val_outdoor_000009.jpg"
+    ],
+    "caption": "A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000597",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000038.jpg",
+      "Render/val/images/render_val_indoor_000035.jpg"
+    ],
+    "caption": "The round wooden table on the right side of the brick wall opposite the bar has been replaced with a rectangular wooden table. The white-bodied coffee machine, previously placed on the large wooden table near the center of the right side of the scene, has disappeared. The central pendant light of the three hanging lights above the large wooden table in the center of the scene has changed color from black to green.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000529",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000023.jpg",
+      "Render/val/images/render_val_indoor_000021.jpg"
+    ],
+    "caption": "The deer-shaped ornament on the left side of the cabinet below the black television has been moved next to the flower pot on the wooden platform at the front right of the scene.A new black rectangular blanket has been added on the bed, laid in the center, matching the style of the blanket at the foot of the bed.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000369",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000061.jpg",
+      "Render/val/images/render_val_outdoor_000064.jpg"
+    ],
+    "caption": "A brown cylindrical flower pot with a decorative pattern has newly appeared on the wooden floor in front of the steps near the door, positioned to the left side of the armchairs and table. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000739",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000065.jpg",
+      "Render/val/images/render_val_indoor_000057.jpg"
+    ],
+    "caption": "The white air conditioner located in the right corner of the room has been moved to the left, now positioned above the water dispenser.A smaller white thermos is placed in the center of the wooden table at the front of the scene.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000306",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000052.jpg",
+      "Render/val/images/render_val_outdoor_000039.jpg"
+    ],
+    "caption": "The lighting has faded.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000541",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000026.jpg",
+      "Render/val/images/render_val_indoor_000028.jpg"
+    ],
+    "caption": "A sofa has been placed to the left of the white coffee table at the front counter, with the white cushion on the right side of the sofa replaced by a cushion with a black-and-white pattern. A gray storage rack has been added to the left of the armchair near the rear of the scene. The chair with a round woven seat and black metal legs, previously in front of the white coffee table, is no longer present. Compared to the first image, the cushion on the armchair near the front of the scene has increased in size.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000090",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000019.jpg",
+      "Render/val/images/render_val_outdoor_000013.jpg"
+    ],
+    "caption": "The word \"Camp\" in large blue textured letters has appeared on the wooden wall above the bed, to the right of the artwork and next to the plant.The third cup from the left on the coffee table in front of the bed has disappeared.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000462",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000011.jpg",
+      "Render/val/images/render_val_indoor_000008.jpg"
+    ],
+    "caption": "A new chair with a curved red backrest and metal frame has appeared at the front of the \"L\"-shaped dining table, identical in style to the existing chairs.On the right side of the back counter in the scene, there were three bottles of red wine, and the one on the right has been moved to the center of the dining table.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000660",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000051.jpg",
+      "Render/val/images/render_val_indoor_000047.jpg"
+    ],
+    "caption": "The second stool from the left in front of the bar is no longer tilted to the right. The word \"Pub\" appears in large blue letters on the upper right section of the wall, positioned above a seating area and to the right of the bar counter.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000196",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000034.jpg",
+      "Render/val/images/render_val_outdoor_000037.jpg"
+    ],
+    "caption": "A shovel with a yellow handle appears next to the blue bucket on the right wall. The blue barrel with a hazardous material symbol that appeared in front of the closed metal garage door on the left side is no longer visible.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000012",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000003.jpg",
+      "Render/val/images/render_val_outdoor_000006.jpg"
+    ],
+    "caption": "A man wearing a black T-shirt and black pants has appeared on the left side of pillar number 74, with his hands in front of him, facing the subway. On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000583",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000034.jpg",
+      "Render/val/images/render_val_indoor_000042.jpg"
+    ],
+    "caption": "The setting is now brighter. The tabletop of the wooden table closest to the bar on the left side of the scene has disappeared.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000511",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000020.jpg",
+      "Render/val/images/render_val_indoor_000021.jpg"
+    ],
+    "caption": "The deer-shaped decoration, which was originally yellow and placed on the left side of the cabinet, has been moved to the front-right wooden platform next to a flowerpot and has changed to black. Two new gray rectangular blankets have been added to the bed, one in the middle and one at the foot. A black bird-shaped decoration is now visible on the upper shelf to the left of the TV. A white bow-back chair is visible in front of the table to the right of the bed. A black TV is now mounted on the left wall of the room.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000368",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000061.jpg",
+      "Render/val/images/render_val_outdoor_000063.jpg"
+    ],
+    "caption": "A new red sofa, slightly smaller than the original one, appears in the hallway. It is simple in design and is placed in front of the small table, next to the original red sofa along the wall. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000732",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000064.jpg",
+      "Render/val/images/render_val_indoor_000059.jpg"
+    ],
+    "caption": "The sign with white Chinese characters on a red background, located on the upper right wall near the refrigerator, has increased in size. A new illuminated sign with the text \"Serviae Holl\" has appeared on the wall above the water dispenser and microwave, to the left of the refrigerator.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000258",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000045.jpg",
+      "Render/val/images/render_val_outdoor_000049.jpg"
+    ],
+    "caption": "The white lantern with black text, which is hanging on the front upper-left side of the wooden building near some colorful cables, has increased in size. The billboard with colorful posters that was in front of the entrance of the two-story building on the right side is no longer present.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000569",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000033.jpg",
+      "Render/val/images/render_val_indoor_000026.jpg"
+    ],
+    "caption": "In the scene, a new chair with a round woven seat and black metal legs has been added in front of the white coffee table.Two white armchairs are placed to the right of the white coffee table in the front. The cushion on the armchair closer to the front of the scene has increased in size.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000117",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000022.jpg",
+      "Render/val/images/render_val_outdoor_000016.jpg"
+    ],
+    "caption": " A man wearing a black coat and black pants has appeared on the right side of the room's cradle, facing outdoors to the front left, with his body slightly tilted and his left hand raised to his mouth. The round table covered with a white cloth in front of the bed has been replaced by a wooden coffee table.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000444",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000007.jpg",
+      "Render/val/images/render_val_indoor_000009.jpg"
+    ],
+    "caption": "The wine bottle on the right side of the bar has changed from yellow to black, and the number of bottles has increased to three. The chair on the rear left side of the 'L'-shaped dining table, which has a curved red backrest and a metal frame, has become smaller. The white pendant light, composed of three circular rings and hanging above the 'L'-shaped dining table, has rotated from facing forward to facing sideways.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000686",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000055.jpg",
+      "Render/val/images/render_val_indoor_000054.jpg"
+    ],
+    "caption": "There is a row of clear glass wine glasses on the counter at the back right of the bar, and the color of the leftmost glass has changed from clear to blue.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000181",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000033.jpg",
+      "Render/val/images/render_val_outdoor_000027.jpg"
+    ],
+    "caption": "The silver ladder to the right of the white external air conditioning unit has been moved to the left, now positioned to the left of the blue barrel against the wall on the right side of the frame. A man wearing a blue T-shirt, black pants, and white shoes has appeared on the left side of the stacked boxes in the corner, in front of Door No. 5. He stands with his back to Door No. 5, his hands crossed in front of his body, and his eyes looking towards the camera.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000011",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000003.jpg",
+      "Render/val/images/render_val_outdoor_000005.jpg"
+    ],
+    "caption": "On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared. The surveillance camera located above the red box on the left side of the subway platform has turned from facing forward along the platform to facing the subway. ",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000577",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000034.jpg",
+      "Render/val/images/render_val_indoor_000036.jpg"
+    ],
+    "caption": "The setting is now brighter. The plant located near the counter on the left side of the cafe, close to the chairs and barstools, has decreased in size.The second row of tables in front of the left side of the bar has rotated clockwise.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000473",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000012.jpg",
+      "Render/val/images/render_val_indoor_000018.jpg"
+    ],
+    "caption": "The lighting has improved. The white lampshade of the desk lamp to the right of the black computer monitor on the desk to the right of the bed is missing, leaving only the bulb.The white arched-back chair in front of the desk to the right of the bed has disappeared.The black TV mounted on the wall on the left side of the room is missing.The round ornament with green decorations on top of the cabinet to the left of the TV is missing.The black television hanging on the left wall of the room turned purple.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000357",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000060.jpg",
+      "Render/val/images/render_val_outdoor_000061.jpg"
+    ],
+    "caption": "The dark brown bench below the window on the wooden board has increased in size. A round table with curved metal legs has been relocated to the area in front of the red sofa near the door from its earlier position behind the red sofa.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000707",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000056.jpg",
+      "Render/val/images/render_val_indoor_000067.jpg"
+    ],
+    "caption": "The scene has become more illuminated. A microwave with a more aged, gray-and-white appearance has replaced the microwave that was originally placed on the wooden cabinet between the water dispenser and the refrigerator.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000284",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000048.jpg",
+      "Render/val/images/render_val_outdoor_000044.jpg"
+    ],
+    "caption": "The concrete slab that was previously leaning against the wall on the left side of the house has moved to the left and is now leaning against a stack of concrete slabs. A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He holds a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the right side of the screen.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000548",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000027.jpg",
+      "Render/val/images/render_val_indoor_000029.jpg"
+    ],
+    "caption": "A person wearing a light grey shirt and dark grey trousers, holding a black bag, appears behind the white coffee table at the front of the scene, facing the sofa to the left front. The blue letters 'repose' have appeared on the wooden wall at the left rear of the scene, above the barbecue rack and to the left of the room entrance. The cushion that was originally on the armchair at the right rear has been moved to the armchair on the left front of the scene.  The grey barbecue rack at the left rear of the scene has been rotated to the left and placed against the wall as described.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000065",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000011.jpg",
+      "Render/val/images/render_val_outdoor_000021.jpg"
+    ],
+    "caption": "The scene is now more lit up. The round structure of the hanging chair on the left side of the coffee table has changed from dark brown to purple.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000410",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000002.jpg",
+      "Render/val/images/render_val_indoor_000003.jpg"
+    ],
+    "caption": "The woman in the light-colored dress and the woman in the green top have switched positions; the woman in the light-colored dress is now on the left, and the woman in the green top is on the right. The \"Meet\" sign made of blue letters on the wooden cabinet door above the back right counter has been replaced by a \"Occur\" sign.Additionally, the cabinet above the bar has shifted upward.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000670",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000053.jpg",
+      "Render/val/images/render_val_indoor_000046.jpg"
+    ],
+    "caption": "A large blue \"Bar\" sign with bold letters has appeared on the right side of the scene, positioned on the brick wall behind the seating area. The central pendant light of the three black hanging lights above the bar now has an additional lampshade, matching the ones on the two neighboring lights.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000140",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000026.jpg",
+      "Render/val/images/render_val_outdoor_000030.jpg"
+    ],
+    "caption": "A red barrel with a yellow hazard symbol has been replaced by a blue barrel with the same symbol, located near the stacked boxes in front of the ladder on the right side of the scene. There is a newly added blue text sign with the word \"Gorege\" on the rolling shutter door located on the left side of the scene near the number \"5.\"",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000035",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000008.jpg",
+      "Render/val/images/render_val_outdoor_000009.jpg"
+    ],
+    "caption": "The glowing blue word 'subway' near the floor on the right side of the train has been replaced with 'submay.'",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000585",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000036.jpg",
+      "Render/val/images/render_val_indoor_000037.jpg"
+    ],
+    "caption": "The plant located near the counter on the left side of the cafe, close to the chairs and barstools, has increased in size. The second row of tables in front of the left side of the bar has rotated counterclockwise. A black pendant lamp, originally positioned above the large wooden table at the front of the scene, has moved toward the entrance of the room, positioning itself closer to the bar and the greenery. A black metal chair with a curved backrest has appeared at the upper left corner of the central wooden table, neatly arranged alongside other similar chairs around the table.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000487",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000017.jpg",
+      "Render/val/images/render_val_indoor_000013.jpg"
+    ],
+    "caption": "A green decorative round ornament has appeared on top of the cabinet to the left of the TV. A black TV has appeared on the left wall of the room. A gray rectangular blanket has appeared at the foot of the bed. The lampshade on the desk lamp to the right of the black computer monitor has changed color from green to white. The speaker on the cabinet to the left of the TV has been replaced by a brown dome-shaped sculpture. Additionally, a small round stool with a light gray top and black curved legs has appeared on the left side of the bed.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000400",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000066.jpg",
+      "Render/val/images/render_val_outdoor_000056.jpg"
+    ],
+    "caption": "There is an additional blue \"deerway\" sign on the side of the red chair located to the right of the door in the scene.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000689",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000057.jpg",
+      "Render/val/images/render_val_indoor_000060.jpg"
+    ],
+    "caption": "A smaller white thermos that was placed in the center of the wooden table is no longer visible. A person wearing a gray suit and black shoes is standing near the refrigerator on the right side of the scene, next to the wooden cabinet and facing the wooden table directly in front.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  },
+  {
+    "id": "render_val_pair_000276",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000047.jpg",
+      "Render/val/images/render_val_outdoor_000048.jpg"
+    ],
+    "caption": "A cement slab that was previously leaning against a pile of cement slabs on the ground on the left side of the house has moved to the front right and is now leaning against the wall on the left side of the house.The first colorful poster sign from the left, located to the right of the entrance leading to the second floor, has disappeared.",
+    "image_component": "Render/val/images/render_val_outdoor_000039.jpg"
+  },
+  {
+    "id": "render_val_pair_000550",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000027.jpg",
+      "Render/val/images/render_val_indoor_000031.jpg"
+    ],
+    "caption": "A sofa has been placed to the left of the white coffee table at the front. The white cushion on the left side of the sofa has disappeared, and the white cushion on the right side has also disappeared. The two white cushions on the armchair near the back of the scene have disappeared, and an additional white cushion has been added to the armchair on the left front of the scene. Two white round seats have been placed to the left of the dining table at the back of the scene, with the color of the front seat changing from white to blue. The grey barbecue rack at the left rear of the scene has been rotated to the left and is placed against the wall.",
+    "image_component": "Render/val/images/render_val_indoor_000024.jpg"
+  },
+  {
+    "id": "render_val_pair_000108",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000021.jpg",
+      "Render/val/images/render_val_outdoor_000014.jpg"
+    ],
+    "caption": "The round structure of the hanging chair on the left side of the coffee table has changed from purple to dark brown. A new illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration.",
+    "image_component": "Render/val/images/render_val_outdoor_000011.jpg"
+  },
+  {
+    "id": "render_val_pair_000427",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000004.jpg",
+      "Render/val/images/render_val_indoor_000010.jpg"
+    ],
+    "caption": "A chair with a curved red backrest and a metal frame has appeared on the front left side of the 'L'-shaped dining table. The chair on the front right side of the table has changed from fully purple to a chair with a curved red backrest and a gray metal frame. A dark glass bottle with a gold cap has replaced the original bottle in the far-right corner of the kitchen counter, and a new short-necked bottle with a brown label has appeared in the middle. Additionally, a hamburger has appeared at the center of the 'L'-shaped dining table.",
+    "image_component": "Render/val/images/render_val_indoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000664",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000052.jpg",
+      "Render/val/images/render_val_indoor_000045.jpg"
+    ],
+    "caption": "A person wearing an orange hoodie, blue jeans, and black shoes has appeared in front of the bar, standing facing the bar. The hamburger on the left side of the counter has disappeared.",
+    "image_component": "Render/val/images/render_val_indoor_000044.jpg"
+  },
+  {
+    "id": "render_val_pair_000212",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000037.jpg",
+      "Render/val/images/render_val_outdoor_000028.jpg"
+    ],
+    "caption": "The shovel with a yellow handle that appears next to the blue bucket on the right wall is no longer visible. A man wearing a blue T-shirt, black pants, and white shoes has appeared on the left side of the stacked boxes in the corner, in front of door number 5. The man is facing the stacked boxes with his hands crossed in front of his body.",
+    "image_component": "Render/val/images/render_val_outdoor_000025.jpg"
+  },
+  {
+    "id": "render_val_pair_000028",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000006.jpg",
+      "Render/val/images/render_val_outdoor_000007.jpg"
+    ],
+    "caption": "The man wearing a black T-shirt and black pants, who was on the left side of pillar number 74, has changed his position from directly facing the subway to standing sideways facing the front of the subway.",
+    "image_component": "Render/val/images/render_val_outdoor_000001.jpg"
+  },
+  {
+    "id": "render_val_pair_000588",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000036.jpg",
+      "Render/val/images/render_val_indoor_000040.jpg"
+    ],
+    "caption": "A person wearing a black top, red pants, and a black hat has appeared in the center of the scene, positioned between the bar and the wooden table, facing the brick wall on the right side of the room. A glowing blue 'coffee' sign has appeared on the brick wall opposite the bar on the right side of the cafe. The plant near the left counter of the cafe, next to the chair and bar stool, has increased in size. The second row of tables in front of the left side of the bar has rotated to align with the other tables.",
+    "image_component": "Render/val/images/render_val_indoor_000034.jpg"
+  },
+  {
+    "id": "render_val_pair_000477",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000012.jpg",
+      "Render/val/images/render_val_indoor_000022.jpg"
+    ],
+    "caption": "The scene has become more illuminated. The white office chair in front of the desk on the right side of the room has turned from facing the desk to facing the door on the left side of the room.The black television hanging on the left wall of the room has increased in size.",
+    "image_component": "Render/val/images/render_val_indoor_000012.jpg"
+  },
+  {
+    "id": "render_val_pair_000365",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_outdoor_000061.jpg",
+      "Render/val/images/render_val_outdoor_000057.jpg"
+    ],
+    "caption": "A woman with yellow hair, wearing a white top and light blue pants, appears in the front left of the pink steps. She raises her hands to her waist, with a yellow coat on her right hand. Her left leg steps forward, her right leg is behind, and her body is facing the right side of the picture. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera.",
+    "image_component": "Render/val/images/render_val_outdoor_000053.jpg"
+  },
+  {
+    "id": "render_val_pair_000713",
+    "subset": "render",
+    "split": "val",
+    "image": [
+      "Render/val/images/render_val_indoor_000062.jpg",
+      "Render/val/images/render_val_indoor_000061.jpg"
+    ],
+    "caption": "A cylindrical water barrel has appeared above the white water dispenser. A person wearing a gray suit and black shoes has appeared near the refrigerator on the right side of the scene, standing next to the wooden cabinet and facing toward the front left.",
+    "image_component": "Render/val/images/render_val_indoor_000056.jpg"
+  }
+]

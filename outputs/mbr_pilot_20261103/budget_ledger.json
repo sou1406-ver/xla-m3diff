@@ -2,5 +2,21 @@
   "period_start": "2026-11-01",
   "authorization": "User authorized new MBR pilot only; v2 remains closed.20pair benchmark <=1USD; val cap pending throughput.",
   "initial_consumption": "8.10481579",
-  "jobs": []
+  "jobs": [
+    {
+      "label": "pilot20_all_cpu_gpu",
+      "reservation": "0.98",
+      "settled": "0.77",
+      "rate": "mixed_conservative_upper",
+      "profile": "a10",
+      "seconds": 1263
+    },
+    {
+      "label": "MBR_val200_GPU",
+      "reservation": "3.49",
+      "rate": "1.70",
+      "seconds": 7200,
+      "profile": "a10"
+    }
+  ]
 }

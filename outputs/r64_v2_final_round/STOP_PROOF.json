@@ -1,0 +1,9 @@
+{
+  "train_app": "ap-iDhdDwfZ12VfuvEGX0kOQw",
+  "train_stop_cli_response": "App is already stopped. (Finished at 2026-11-03 00:19:08+07:00).",
+  "evaluation_app": "ap-qGtoiJmu0YFjsOKgD5yMnD",
+  "evaluation_stop_cli_response": "App is already stopped. (Finished at 2026-11-03 02:35:24+07:00).",
+  "final_list_file": "FINAL_APPS.json",
+  "all_entries_zero_tasks": true,
+  "no_val200_or_full1570_or_v3": true
+}

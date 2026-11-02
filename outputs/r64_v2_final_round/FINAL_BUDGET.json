@@ -1,0 +1,12 @@
+{
+  "cap_usd": 7,
+  "train_upper_including180s": "4.49",
+  "evaluation_upper_including180s": "0.67",
+  "cpu_preparation_upper": "0.15",
+  "failed_pretraining_startup_upper": "0.15",
+  "other_overhead_allowance": "0.04",
+  "whole_round_conservative_upper": "5.50",
+  "api_observed_consumption_delta": "4.58070736",
+  "api_observation_time_utc": "2026-11-02T19:36:44.438579+00:00",
+  "interpretation": "Upper bounds are not actual billed costs. API delta is a lagging workspace snapshot, not a final per-job invoice. No paid plan or credit purchase."
+}

@@ -1,0 +1,36 @@
+{
+  "gates": {
+    "camera_object_flags_le_54": true,
+    "camera_joint_ge_35": true,
+    "synth_camera_le_30": false,
+    "all_six_types_preserved_with_tolerance": false
+  },
+  "stages": {
+    "camera": {
+      "object_flags": 40,
+      "joint_type_name": 41
+    },
+    "synth": {
+      "camera_motion_flags": 124,
+      "type_counts": {
+        "add": 83,
+        "remove": 67,
+        "color": 83,
+        "move": 24,
+        "size": 25,
+        "light": 52
+      },
+      "type_floors": {
+        "add": 84,
+        "remove": 81,
+        "color": 67,
+        "move": 39,
+        "size": 21,
+        "light": 58
+      }
+    }
+  },
+  "all_gates_passed": false,
+  "full1570_run": false,
+  "decision": "STOP: failed locked gate"
+}

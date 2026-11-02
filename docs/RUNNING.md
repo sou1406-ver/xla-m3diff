@@ -4,7 +4,7 @@
 
 Repo gồm nguồn thí nghiệm và bằng chứng dạng text. Không có checkpoint base (~14GB), vision weights, adapter binary, ảnh OmniDiff, ảnh augmented, môi trường `.modal-client`, ZIP hay output notebook. Notebook root là lịch sử; baseline entrypoint được ưu tiên là `outputs/m3diff-baseline-full.ipynb` cạnh `outputs/run_baseline_modal.py`.
 
-Không cần GPU để đọc caption/metric/decision. Chưa chạy GPU lại trong lần export. Script nghiên cứu có thể chứa đường dẫn Windows cũ hoặc `/mnt/m3diff`; chúng cần sửa theo môi trường hoặc khôi phục Volume, không phải mọi script đều portable.
+Không cần GPU để đọc caption/metric/decision. Sau export ban đầu đã có các vòng mới: xem HANDOFF và kết quả v2 cuối03/11; v2 đã dừng, không có GPU đang chạy. Script nghiên cứu có thể chứa đường dẫn Windows cũ hoặc `/mnt/m3diff`; chúng cần sửa theo môi trường hoặc khôi phục Volume, không phải mọi script đều portable.
 
 ## Inference trên máy GPU khác
 
@@ -41,3 +41,6 @@ Các đường dẫn dưới đây là artifact đã ghi nhận trong tài kho�
 `docs/GIT_EXPORT_MANIFEST.json` chứa SHA256 các source/evidence đã copy. Notebook đã xóa output/execution metadata, vì vậy hash khác bản gốc là có chủ ý. Các file text khác giữ nguyên byte. Root/docs handoff mới không thuộc manifest source; Git commit định danh chúng.
 
 Không commit model/data binary; xem `.gitignore`. Không cài hoặc chạy hàng loạt mọi `.py` để kiểm tra repo: nhiều script có side effect ở top level và có thể gọi Modal. Lần export kiểm tra parse Python/JSON, schema notebook và secret patterns; đây không phải kiểm chứng end-to-end training trên fresh machine.
+
+
+V2 cuối03/11: adapter ở `r64_v2_final_round/m3diff-v2-final-lora` trên Volume `m3diff`, gồm cả `adapter_model.bin` và `non_lora_trainables.bin`. Chỉ metadata trên Git. Ứng viên trượt gate, không khuyến nghị thay base. [Kết quả và bằng chứng dừng](../outputs/r64_v2_final_round/KET_QUA.md). Các runner không phải lệnh tiếp tục được ủy quyền sau khi vòng đã đóng.

@@ -1,0 +1,15 @@
+{
+  "volume": "m3diff",
+  "path": "r64_v2_final_round/m3diff-v2-final-lora",
+  "selected_as_default": false,
+  "train_complete_steps": 450,
+  "base_revision": "d6a8880dc789b0816660278c087ac9ebdfe18dd0",
+  "upstream_revision": "4e346e52185620ec6fa17235d93b0c26a9d47a71",
+  "dataset_revision": "ed4a84cc51912c73e3d54c8643256d9469657552",
+  "files_observed_on_volume": {
+    "adapter_model.bin": 646058922,
+    "non_lora_trainables.bin": 161524428
+  },
+  "weight_sha256": "Not measured in this round; sizes verified, raw weights not downloaded into Git.",
+  "portability": "Retain adapter_model.bin AND non_lora_trainables.bin plus both configs and the matching base/loader. No retraining required for inference. Candidate rejected by gates; baseline stays default."
+}

@@ -3,5 +3,10 @@
     "file": "/mnt/m3diff/r64_v2_final_round/evaluation/camera_v2.jsonl",
     "n": 240,
     "wall_seconds": 367.30505537986755
+  },
+  {
+    "file": "/mnt/m3diff/r64_v2_final_round/evaluation/synth_v2.jsonl",
+    "n": 600,
+    "wall_seconds": 796.8591747283936
   }
 ]

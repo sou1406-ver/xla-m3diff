@@ -1,0 +1,622 @@
+[
+  {
+    "id": "add_L1_05",
+    "image_id": "add_L1_05",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "add_L1_06",
+    "image_id": "add_L1_06",
+    "caption": "The shooting perspective has changed. A cat is now present on the cradle on the right side of the scene."
+  },
+  {
+    "id": "add_L2_01",
+    "image_id": "add_L2_01",
+    "caption": "The shooting perspective has changed. A cat has appeared on the floor in the lower part of the scene."
+  },
+  {
+    "id": "add_L2_05",
+    "image_id": "add_L2_05",
+    "caption": "The shooting perspective has changed. A book has been added to the scene."
+  },
+  {
+    "id": "add_L2_22",
+    "image_id": "add_L2_22",
+    "caption": "The shooting perspective has changed. A clock has been added to the scene."
+  },
+  {
+    "id": "add_L3_03",
+    "image_id": "add_L3_03",
+    "caption": "The shooting perspective has changed. A bowl filled with food has been added to the scene."
+  },
+  {
+    "id": "add_L3_15",
+    "image_id": "add_L3_15",
+    "caption": "The shooting perspective has changed. A bowl has been added to the scene."
+  },
+  {
+    "id": "add_L3_16",
+    "image_id": "add_L3_16",
+    "caption": "The shooting perspective has changed. A bunch of green bananas has been added to the right side of the classroom, next to the school's flagpole."
+  },
+  {
+    "id": "add_L3_17",
+    "image_id": "add_L3_17",
+    "caption": "The shooting perspective has zoomed out. A large red cube has been added in the lower part of the scene."
+  },
+  {
+    "id": "add_L3_21",
+    "image_id": "add_L3_21",
+    "caption": "The shooting perspective has changed. A bowl has appeared on the central white chair."
+  },
+  {
+    "id": "add_L3_27",
+    "image_id": "add_L3_27",
+    "caption": "The shooting perspective has changed. A car has been added in the middle of the scene, positioned between two beds and facing the window at the end of the room."
+  },
+  {
+    "id": "add_L3_29",
+    "image_id": "add_L3_29",
+    "caption": "The shooting perspective has changed. A suitcase has been added to the scene."
+  },
+  {
+    "id": "remove_L1_01",
+    "image_id": "remove_L1_01",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "remove_L1_09",
+    "image_id": "remove_L1_09",
+    "caption": "The shooting perspective has changed. A new box of apples with green and yellow apples has been replaced by a rectangular pattern on the floor in front of the two beds on the right side of the scene."
+  },
+  {
+    "id": "remove_L1_13",
+    "image_id": "remove_L1_13",
+    "caption": "The shooting perspective has changed. A bottle that was in the center of the scene is no longer present."
+  },
+  {
+    "id": "remove_L1_26",
+    "image_id": "remove_L1_26",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "remove_L2_01",
+    "image_id": "remove_L2_01",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "remove_L2_04",
+    "image_id": "remove_L2_04",
+    "caption": "The shooting perspective has zoomed in. The dog has lifted the blue umbrella that was originally on its right leg."
+  },
+  {
+    "id": "remove_L2_06",
+    "image_id": "remove_L2_06",
+    "caption": "The shooting perspective has changed. A laptop that was in the center of the scene, above the beds on the right side of the room, is no longer present."
+  },
+  {
+    "id": "remove_L2_08",
+    "image_id": "remove_L2_08",
+    "caption": "The shooting perspective has changed. A cat is no longer present in the scene."
+  },
+  {
+    "id": "remove_L2_11",
+    "image_id": "remove_L2_11",
+    "caption": "The shooting perspective has zoomed out."
+  },
+  {
+    "id": "remove_L2_15",
+    "image_id": "remove_L2_15",
+    "caption": "The shooting perspective has changed. The black suitcase that was on the right side of the scene is no longer present."
+  },
+  {
+    "id": "remove_L2_19",
+    "image_id": "remove_L2_19",
+    "caption": "The shooting perspective has changed. The sign that was in the center of the scene, behind the picnic basket and bench, is no longer present."
+  },
+  {
+    "id": "remove_L2_21",
+    "image_id": "remove_L2_21",
+    "caption": "The shooting perspective has zoomed out. The wooden chair on the left side of the scene has been moved to the left edge of the flower bed in the middle of the left side."
+  },
+  {
+    "id": "remove_L2_23",
+    "image_id": "remove_L2_23",
+    "caption": "The shooting perspective has changed. A magazine with a torn edge and a rolled-up newspaper has been removed from the lower part of the scene."
+  },
+  {
+    "id": "remove_L2_26",
+    "image_id": "remove_L2_26",
+    "caption": "The shooting perspective has changed. The potted plant that was previously located in the center of the scene, positioned between two beds near the window and placed on a bedside table, is no longer present."
+  },
+  {
+    "id": "remove_L2_27",
+    "image_id": "remove_L2_27",
+    "caption": "The shooting perspective has changed. The blue and white object in the center of the road is no longer present."
+  },
+  {
+    "id": "remove_L2_28",
+    "image_id": "remove_L2_28",
+    "caption": "The shooting perspective has zoomed out."
+  },
+  {
+    "id": "remove_L3_01",
+    "image_id": "remove_L3_01",
+    "caption": "The shooting perspective has changed. A red ball that was in the lower part of the scene is no longer present."
+  },
+  {
+    "id": "remove_L3_02",
+    "image_id": "remove_L3_02",
+    "caption": "The shooting perspective has changed. The silver laptop with a Windows logo on the floor between the two beds on the left side of the scene is no longer present."
+  },
+  {
+    "id": "remove_L3_03",
+    "image_id": "remove_L3_03",
+    "caption": "The shooting perspective has changed. The black car that was previously in the center of the scene is no longer present. The sign above the circular opening has changed from \"M\" to \"\u987b\u7709\u9986.\""
+  },
+  {
+    "id": "remove_L3_09",
+    "image_id": "remove_L3_09",
+    "caption": "The shooting perspective has changed. The color of the laptop in the center of the scene has changed."
+  },
+  {
+    "id": "remove_L3_11",
+    "image_id": "remove_L3_11",
+    "caption": "The shooting perspective has zoomed out. The car in front of the woman is no longer present."
+  },
+  {
+    "id": "remove_L3_13",
+    "image_id": "remove_L3_13",
+    "caption": "The shooting perspective has changed. The banana that was in the center of the scene has disappeared."
+  },
+  {
+    "id": "remove_L3_14",
+    "image_id": "remove_L3_14",
+    "caption": "The shooting perspective has zoomed out. The teddy bear that was in the center of the scene has disappeared.The person wearing glasses, a blue jacket, and overalls, who was previously on the left side of the road, is now standing in the middle of the road, facing away from the camera, with his body turned to the right. He is holding a large backpack on his back."
+  },
+  {
+    "id": "remove_L3_15",
+    "image_id": "remove_L3_15",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "remove_L3_16",
+    "image_id": "remove_L3_16",
+    "caption": "The shooting perspective has zoomed out. The banana in the center of the scene has disappeared."
+  },
+  {
+    "id": "remove_L3_22",
+    "image_id": "remove_L3_22",
+    "caption": "The shooting perspective has zoomed out. The apple that was previously in the lower right corner of the image is no longer present."
+  },
+  {
+    "id": "remove_L3_23",
+    "image_id": "remove_L3_23",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "remove_L3_25",
+    "image_id": "remove_L3_25",
+    "caption": "The shooting perspective has changed. The vase on the left side of the scene is no longer visible."
+  },
+  {
+    "id": "remove_L3_26",
+    "image_id": "remove_L3_26",
+    "caption": "The shooting perspective has zoomed out. The black bird in the upper left corner of the image has moved to the left tree stump, and its head is facing downward. The gray clothes on the left tree stump have disappeared. The number of peanuts on the right tree stump has increased."
+  },
+  {
+    "id": "remove_L3_27",
+    "image_id": "remove_L3_27",
+    "caption": "The shooting perspective has changed. The yellow and red bottle that was in the center of the scene has been moved to the left side of the first row of desks."
+  },
+  {
+    "id": "remove_L3_29",
+    "image_id": "remove_L3_29",
+    "caption": "The shooting perspective has zoomed in. The blue and white rectangular box in the center of the image is no longer present."
+  },
+  {
+    "id": "move_L1_01",
+    "image_id": "move_L1_01",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_03",
+    "image_id": "move_L1_03",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_08",
+    "image_id": "move_L1_08",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_10",
+    "image_id": "move_L1_10",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_11",
+    "image_id": "move_L1_11",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_14",
+    "image_id": "move_L1_14",
+    "caption": "The shooting perspective has zoomed in. The black cat in the lower part of the image has moved to the right, changing its orientation from facing left to facing right."
+  },
+  {
+    "id": "move_L1_16",
+    "image_id": "move_L1_16",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L1_21",
+    "image_id": "move_L1_21",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_00",
+    "image_id": "move_L2_00",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_01",
+    "image_id": "move_L2_01",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_02",
+    "image_id": "move_L2_02",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_03",
+    "image_id": "move_L2_03",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_05",
+    "image_id": "move_L2_05",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_06",
+    "image_id": "move_L2_06",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_07",
+    "image_id": "move_L2_07",
+    "caption": "The shooting perspective has changed. The clock on the right side of the scene has been flipped, with the hour hand pointing to the upper left and the minute hand pointing to the lower right."
+  },
+  {
+    "id": "move_L2_09",
+    "image_id": "move_L2_09",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_10",
+    "image_id": "move_L2_10",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_13",
+    "image_id": "move_L2_13",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_14",
+    "image_id": "move_L2_14",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_15",
+    "image_id": "move_L2_15",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_17",
+    "image_id": "move_L2_17",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_19",
+    "image_id": "move_L2_19",
+    "caption": "The color of the bicycle on the right side of the scene has changed. The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_21",
+    "image_id": "move_L2_21",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L2_22",
+    "image_id": "move_L2_22",
+    "caption": "The shooting perspective has changed. The cat in the center of the image has moved to the left, closer to the camera."
+  },
+  {
+    "id": "move_L2_23",
+    "image_id": "move_L2_23",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_24",
+    "image_id": "move_L2_24",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_25",
+    "image_id": "move_L2_25",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L2_28",
+    "image_id": "move_L2_28",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L3_00",
+    "image_id": "move_L3_00",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_01",
+    "image_id": "move_L3_01",
+    "caption": "The shooting perspective has zoomed out."
+  },
+  {
+    "id": "move_L3_05",
+    "image_id": "move_L3_05",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_06",
+    "image_id": "move_L3_06",
+    "caption": "The shooting perspective has changed. The suitcase on the right side of the scene has been enlarged."
+  },
+  {
+    "id": "move_L3_10",
+    "image_id": "move_L3_10",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_11",
+    "image_id": "move_L3_11",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "move_L3_12",
+    "image_id": "move_L3_12",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_14",
+    "image_id": "move_L3_14",
+    "caption": "The shooting perspective has zoomed in. The bowl on the left side of the scene has moved to the right."
+  },
+  {
+    "id": "move_L3_15",
+    "image_id": "move_L3_15",
+    "caption": "The shooting perspective has changed. The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_18",
+    "image_id": "move_L3_18",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_19",
+    "image_id": "move_L3_19",
+    "caption": "The shooting perspective has zoomed in. The backpack on the left side of the scene has been moved to the right side of the scene."
+  },
+  {
+    "id": "move_L3_22",
+    "image_id": "move_L3_22",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_27",
+    "image_id": "move_L3_27",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "move_L3_28",
+    "image_id": "move_L3_28",
+    "caption": "The shooting perspective has changed. The bottle on the left side of the scene has been moved to the right."
+  },
+  {
+    "id": "size_L1_04",
+    "image_id": "size_L1_04",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_05",
+    "image_id": "size_L1_05",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_11",
+    "image_id": "size_L1_11",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_12",
+    "image_id": "size_L1_12",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_14",
+    "image_id": "size_L1_14",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_19",
+    "image_id": "size_L1_19",
+    "caption": "The shooting perspective has zoomed out."
+  },
+  {
+    "id": "size_L1_21",
+    "image_id": "size_L1_21",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_22",
+    "image_id": "size_L1_22",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L1_24",
+    "image_id": "size_L1_24",
+    "caption": "The shooting perspective has changed. The size of the white bottle on the hook in the center of the scene has been reduced."
+  },
+  {
+    "id": "size_L1_28",
+    "image_id": "size_L1_28",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L1_29",
+    "image_id": "size_L1_29",
+    "caption": "The shooting perspective has zoomed out."
+  },
+  {
+    "id": "size_L2_00",
+    "image_id": "size_L2_00",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_01",
+    "image_id": "size_L2_01",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_03",
+    "image_id": "size_L2_03",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_06",
+    "image_id": "size_L2_06",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L2_09",
+    "image_id": "size_L2_09",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_14",
+    "image_id": "size_L2_14",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_17",
+    "image_id": "size_L2_17",
+    "caption": "The shooting perspective has changed. The size of the cup on the right side of the scene has increased."
+  },
+  {
+    "id": "size_L2_20",
+    "image_id": "size_L2_20",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_22",
+    "image_id": "size_L2_22",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L2_24",
+    "image_id": "size_L2_24",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_26",
+    "image_id": "size_L2_26",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L2_29",
+    "image_id": "size_L2_29",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_01",
+    "image_id": "size_L3_01",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_04",
+    "image_id": "size_L3_04",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L3_06",
+    "image_id": "size_L3_06",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_11",
+    "image_id": "size_L3_11",
+    "caption": "The shooting perspective has zoomed in. The cat on the right side of the scene has been enlarged."
+  },
+  {
+    "id": "size_L3_21",
+    "image_id": "size_L3_21",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_22",
+    "image_id": "size_L3_22",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L3_23",
+    "image_id": "size_L3_23",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "size_L3_24",
+    "image_id": "size_L3_24",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_26",
+    "image_id": "size_L3_26",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "size_L3_29",
+    "image_id": "size_L3_29",
+    "caption": "The shooting perspective has zoomed in."
+  },
+  {
+    "id": "light_L1_17",
+    "image_id": "light_L1_17",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "light_L2_01",
+    "image_id": "light_L2_01",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "light_L2_16",
+    "image_id": "light_L2_16",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "light_L3_00",
+    "image_id": "light_L3_00",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "light_L3_13",
+    "image_id": "light_L3_13",
+    "caption": "The shooting perspective has changed."
+  },
+  {
+    "id": "jpeg_03",
+    "image_id": "jpeg_03",
+    "caption": "The shooting perspective has changed."
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "decision": "REJECT_V2_AND_STOP; keep original base as default; no v3",
+  "train_complete_steps": 450,
+  "camera": {
+    "object_flags": 40,
+    "joint_type_name": 41
+  },
+  "synth_type_counts": {
+    "add": 83,
+    "remove": 67,
+    "color": 83,
+    "move": 24,
+    "size": 25,
+    "light": 52
+  },
+  "synth_motion_detector_same_frozen_rule": {
+    "base": {
+      "frozen_camera_motion_flags": 0,
+      "by_condition": {}
+    },
+    "r64": {
+      "frozen_camera_motion_flags": 33,
+      "by_condition": {
+        "add": 1,
+        "remove": 2,
+        "size": 1,
+        "light": 19,
+        "same": 4,
+        "jpeg": 6
+      }
+    },
+    "v2": {
+      "frozen_camera_motion_flags": 124,
+      "by_condition": {
+        "add": 12,
+        "remove": 31,
+        "move": 42,
+        "size": 33,
+        "light": 5,
+        "jpeg": 1
+      }
+    }
+  },
+  "controls": {
+    "same": {
+      "n": 30,
+      "false_alarm": 0,
+      "nochange_words": 30
+    },
+    "jpeg": {
+      "n": 30,
+      "false_alarm": 0,
+      "nochange_words": 29
+    }
+  },
+  "failed_gates": [
+    "synth_camera_le_30",
+    "all_six_types_preserved_with_tolerance"
+  ],
+  "val200_run": false,
+  "full1570_run": false,
+  "gates_and_scorers_unchanged": true,
+  "raw_captions": 840,
+  "gate_is_regex_proxy": true,
+  "cost_upper_usd": "5.50"
+}

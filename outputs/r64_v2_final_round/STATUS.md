@@ -1,15 +1,13 @@
-# V2 final round — train complete, staged evaluation running
+# V2 cuối đã dừng — 03/11/2026
 
-Completed450/450updates,oneepoch,7200records on A10080GB. Parameters finite,fresh original-base LoRA initialization confirmed. Training4606.35s(76m46s); whole job4808.64s(80m9s). First logged loss.655 atstep5,last.5458 atstep450; loss does not establish model quality.
+**Không chọn V2. Train xong450/450; qua camera240, trượt synth600. GPU đã tắt; không val200/full1570/v3. Giữ base làm mặc định.**
 
-Checkpoint saved on Volume m3diff:r64_v2_final_round/m3diff-v2-final-lora (adapter_model.bin646058922bytes,non_lora_trainables.bin161524428bytes,configs and trainer state). Metadata only in Git. Original base remains default.
+Đọc [báo cáo kết quả](KET_QUA.md) và [SUMMARY.json](SUMMARY.json). Camera:40/180cờ vật thể(ngưỡng54),41/60joint(ngưỡng35). Synth:124/600cờcamera(ngưỡng30); type add83/remove67/color83/move24/size25/light52 trên90mỗiloại. Add/remove/move/light trượt sàn. Các con số là proxyregex,không phải chấmngườimọimệnhđề.
 
-A100 app ap-iDhdDwfZ12VfuvEGX0kOQw stopped2026-11-03 00:19:08+07. A10 staged evaluation dispatched2026-11-03:[app](https://modal.com/apps/sou1406-ver/main/ap-qGtoiJmu0YFjsOKgD5yMnD). Startcamera240; first failed gate stops all later stages. If camera passes,run synth600; if both pass,matchedval200base/v2. No full1570 admitted.
+Điểm dương hẹp:color69→83soBase;camera trênlight19→5so r64;đối chứng same/JPEG cờ vật/ánh sáng0/30mỗi nhóm,nhưngJPEGcòn1cờcamera. Không suy thành cải tiến tổng thể.
 
-Whole-round conservative upper after actualtrain timing plus worst-case A10evaluation is6.62USD under7USD,including CPUprep,failed pre-training launcher startup,CPU/RAMandstartupallowances. Not actual billed spend. See EVALUATION_ADMISSION.json/ROUND_BUDGET_REVISION1.json. No retraining,no v3,gates frozen.
+Train76m46s,job80m9s trênA10080GB. Camera6m7s/Synth13m17sgồmload;jobA1020m31s. Adaptervànon-LoRAweights giữ trênVolume m3diff:r64_v2_final_round/m3diff-v2-final-lora;Gitchỉmetadata. Không cần train lại để đọc/chạy weights đó;modelkhông được khuyến nghị làm mặc định.
 
-Data:5400unique ordered replay pairs(3039Real/2361Render),2621sourceimages,271imageconnectedcomponents;1115pairsoverlapoldr64 deliberately retained.1800syntheticpairs from580backgrounds. Unique pairs are not independent scenes; exactrecords notoversampled,oneepoch. No path/RGB overlap with lockedval200.
+Toànvòngupper5.50USDdướitrần7,kểcảCPU/RAMvàlỗilaunchertrướctrain. APIghi nhậnconsumptiondelta~4.58USDcóđộtrễ,không phảihóađơntừngjob. Xem FINAL_BUDGET.json. FINAL_APPS.json/STOP_PROOF.json xácnhậnđãdừng.
 
-Pretrain assistant review32syntheticexamples; pretrain colour/location caption corrections logged and hashed. Assistant review12Real camera claims:2correct/plausible,6incorrect,4uncertain; not independent human annotation or a gate. See manifests,audits and originalfrozengates in this folder.
-
-Camera240 completed: objectflags40/180<=54; jointtype+name41/60>=35. Both camera gates PASS. Frozen regex proxies, not human verified semantic rates. Zoom direction only11/90; generic camera descriptions common. Camera240367.31s includingload,~345s generation. Synth600 now running; overall gates not decided, no fulltest.
+Một ứng viên từbasegốc,khôngSCST/LocateAnything. Gate/scorernguyênhashkhóabanđầu;khôngchỉnhgatehaythêmv3saukếtquả. Prerequisites Volume trong báo cáo;cloneGitkhôngchứamodel/ảnh/môitrường.

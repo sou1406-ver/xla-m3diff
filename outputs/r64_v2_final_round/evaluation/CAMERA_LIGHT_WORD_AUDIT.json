@@ -1,0 +1,11 @@
+{
+  "base": {
+    "n": 180,
+    "lighting_word_flags": 44
+  },
+  "ft": {
+    "n": 180,
+    "lighting_word_flags": 26
+  },
+  "interpretation": "Descriptive use of unchanged frozen light regex, not an extra gate or proof that every lighting description is false. Camera-only transforms can change pixel statistics; semantic judgement requires image review."
+}

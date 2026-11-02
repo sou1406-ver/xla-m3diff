@@ -1,4 +1,6 @@
-# Context bàn giao — 02/11/2026
+# Context bàn giao — cập nhật03/11/2026
+
+**Kết quả cuối03/11:** [V2 bị loại và đã dừng GPU](../outputs/r64_v2_final_round/KET_QUA.md). Train đủ450/450từbasegốc;camera240qua(40/180cờvật,41/60joint). Synth600trượt:124/600cờcamera;typeadd83/remove67/color83/move24/size25/light52 trên90mỗiloại. Khôngval200/full1570/v3,khôngchọnV2làmmặcđịnh. Toànvòngupper5.50USDdướitrần7;APIobserveddelta~4.58USDcóđộtrễ. A100dừng00:19:08,A10dừng02:35:24GMT+7;0task. Gate/scorernguyênhash;840rawcaptionvàCSVđãgiữ. Các snapshot “đang chạy” bên dưới là lịch sử, không phải trạng thái hiện tại.
 
 **Mới nhất03/11 02:15:** v2[trainxong450/450](../outputs/r64_v2_final_round/STATUS.md),tham sốfinite,76m46strain/80m9sjob,A100đãtắt00:19. ĐangchạyA10camera240[app](https://modal.com/apps/sou1406-ver/main/ap-qGtoiJmu0YFjsOKgD5yMnD);trượtgateđầuthìdừng,khôngv3. Toànvòngupper6.62USDkểcảworstcaseeval,còntrần7USD. Chưacóđiểmv2/khôngtuyênbốcảithiện.
 

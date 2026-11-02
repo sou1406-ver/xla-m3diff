@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "stages_run": [
+    "camera",
+    "synth"
+  ],
+  "failed_gates": [
+    "synth_camera_le_30",
+    "all_six_types_preserved_with_tolerance"
+  ],
+  "full1570_run": false
+}

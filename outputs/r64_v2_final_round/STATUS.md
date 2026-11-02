@@ -11,3 +11,5 @@ Whole-round conservative upper after actualtrain timing plus worst-case A10evalu
 Data:5400unique ordered replay pairs(3039Real/2361Render),2621sourceimages,271imageconnectedcomponents;1115pairsoverlapoldr64 deliberately retained.1800syntheticpairs from580backgrounds. Unique pairs are not independent scenes; exactrecords notoversampled,oneepoch. No path/RGB overlap with lockedval200.
 
 Pretrain assistant review32syntheticexamples; pretrain colour/location caption corrections logged and hashed. Assistant review12Real camera claims:2correct/plausible,6incorrect,4uncertain; not independent human annotation or a gate. See manifests,audits and originalfrozengates in this folder.
+
+Camera240 completed: objectflags40/180<=54; jointtype+name41/60>=35. Both camera gates PASS. Frozen regex proxies, not human verified semantic rates. Zoom direction only11/90; generic camera descriptions common. Camera240367.31s includingload,~345s generation. Synth600 now running; overall gates not decided, no fulltest.

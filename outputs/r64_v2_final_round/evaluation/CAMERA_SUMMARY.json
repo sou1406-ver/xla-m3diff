@@ -1,0 +1,65 @@
+{
+  "base": {
+    "pure_n": 180,
+    "object_flags": 134,
+    "camera_mentions": 0,
+    "object_joint": 35,
+    "zoom_n": 90,
+    "zoom_direction_correct": 0,
+    "unique_pure_captions": 172,
+    "top_pure_captions": [
+      [
+        "The brightness of the scene has decreased.",
+        3
+      ],
+      [
+        "The area has grown darker.",
+        2
+      ],
+      [
+        "The polar bear on the right side of the image has changed its head orientation from facing left to facing forward.",
+        2
+      ],
+      [
+        "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward with its head slightly raised.",
+        2
+      ],
+      [
+        "The box of N95 masks on the left side of the table has changed its orientation from being placed vertically to being placed horizontally.",
+        2
+      ]
+    ]
+  },
+  "v2": {
+    "pure_n": 180,
+    "object_flags": 40,
+    "camera_mentions": 115,
+    "object_joint": 41,
+    "zoom_n": 90,
+    "zoom_direction_correct": 11,
+    "unique_pure_captions": 66,
+    "top_pure_captions": [
+      [
+        "The shooting perspective has changed.",
+        79
+      ],
+      [
+        "The shooting perspective has zoomed in.",
+        21
+      ],
+      [
+        "The shooting perspective has zoomed out.",
+        10
+      ],
+      [
+        "The scene has become darker.",
+        4
+      ],
+      [
+        "The ambient lighting has brightened.",
+        2
+      ]
+    ]
+  },
+  "interpretation": "Frozen regex proxies, not human-verified semantic error rates. Rotate/pan use generic camera labels by design; zoom direction is reported separately and is not an additional gate."
+}

@@ -1,0 +1,32 @@
+{
+  "selection_file": "../r64_val_precheck_20261102/SELECTION_LOCK.json",
+  "selection_sha256": "b82e03807f3d2bf93ae4abbd417bedd24c78e9f2f14d0e3287c6d0f9480f20e2",
+  "questions_sha256": "a62d24103c8a4db453e8ac9c4d3eef7d47ad9c7b91b16f2d55982be3f646f3ae",
+  "precheck_metrics": {
+    "real": {
+      "base": {
+        "n": 100,
+        "CIDEr_x100": 94.41462229133819
+      },
+      "r64": {
+        "n": 100,
+        "CIDEr_x100": 84.82575475480945
+      },
+      "delta_r64_minus_base": -9.588867536528738
+    },
+    "render": {
+      "base": {
+        "n": 100,
+        "CIDEr_x100": 203.1658847419526
+      },
+      "r64": {
+        "n": 100,
+        "CIDEr_x100": 163.91294183798095
+      },
+      "delta_r64_minus_base": -39.25294290397164
+    }
+  },
+  "reference_only": "Future v2 gate must compare to base re-run in the same v2 evaluation session, on these same200pairs. Do not treat cached precheck baseline scores as same-GPU with v2.",
+  "replay_increase_flag": true,
+  "v2_trained": false
+}

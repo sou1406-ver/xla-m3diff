@@ -1,5 +1,7 @@
 # M3Diff: dựng lại và nghiên cứu cải thiện
 
+**Cập nhật21:43 ngày02/11:** [matched val200 cho r64](outputs/r64_val_precheck_20261102/KET_QUA.md) giảmCIDErở cảhai miền:Real94.41→84.83,Render203.17→163.91. Đây là cohortval, không so điểm với test. Đã tắtGPU; chưa trainv2. [Caption camera v2](outputs/r64_v2_final_round/CAPTION_POLICY.json) và200valđã khóa; exactrecipe/steps/trainbudget vẫn cần chốt.
+
 **Mới nhất20:38 ngày02/11:** [r64 synth600 đã đánh giá xong](outputs/r64_synth_eval_20261102/KET_QUA.md), **trượt gate**: camera sai33/600=5.5% và color69→61/90. Các loại khác có tăng. Có [chấm ảnh40cặp camera bởi trợ lý](outputs/r64_synth_eval_20261102/ASSISTANT_REVIEW.md), không phải nhãn người. App stopped/0task; không full1570, không có điểm OmniDiff r64. Đọc kết quả này trước khi diễn giải tín hiệu camera240 bên dưới.
 
 **Cập nhật19:57 ngày02/11:** [r64 camera240 đã chạy xong](outputs/r64_camera_eval_20261102/KET_QUA.md), GPUđã tắt. Chờ chấm gate semantic; chưa chạy full1570. [Đọc240caption](outputs/r64_camera_eval_20261102/CAPTIONS_240.md) hoặc [CSVđể chấm](outputs/r64_camera_eval_20261102/REVIEW_240.csv). Các kết luận về hai adapterr16 bên dưới vẫn là kết quả riêng, không gán cho r64.

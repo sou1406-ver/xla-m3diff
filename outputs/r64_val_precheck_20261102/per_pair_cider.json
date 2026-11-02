@@ -1,0 +1,2402 @@
+[
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000409",
+    "CIDEr_x100": 5.819105180534807
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000321",
+    "CIDEr_x100": 6.095479087695982e-38
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000385",
+    "CIDEr_x100": 141.90398614206123
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000030",
+    "CIDEr_x100": 0.0002645505893555849
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000534",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000765",
+    "CIDEr_x100": 54.57420489366035
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000678",
+    "CIDEr_x100": 6.752896742251417e-23
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000240",
+    "CIDEr_x100": 1.5945801921958178
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000189",
+    "CIDEr_x100": 31.67178827161449
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000052",
+    "CIDEr_x100": 1.6342446115621243e-11
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000140",
+    "CIDEr_x100": 6.905990420453044e-69
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000627",
+    "CIDEr_x100": 1.8690810574646293e-15
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000368",
+    "CIDEr_x100": 0.00034906184056675716
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000518",
+    "CIDEr_x100": 0.0033536816838814613
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000613",
+    "CIDEr_x100": 999.9999999999998
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000282",
+    "CIDEr_x100": 9.882458378619201e-05
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000590",
+    "CIDEr_x100": 86.67124029356704
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000106",
+    "CIDEr_x100": 4.384453141093891
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000464",
+    "CIDEr_x100": 7.484441247694401e-09
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000724",
+    "CIDEr_x100": 193.2407569384381
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000425",
+    "CIDEr_x100": 0.00123164066042989
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000339",
+    "CIDEr_x100": 162.11139165807342
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000374",
+    "CIDEr_x100": 0.00014053314073716645
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000019",
+    "CIDEr_x100": 427.9168325362617
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000543",
+    "CIDEr_x100": 4.143833075999731
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000764",
+    "CIDEr_x100": 2.8545935388787793
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000690",
+    "CIDEr_x100": 14.09815070854184
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000229",
+    "CIDEr_x100": 3.6007583110827373
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000180",
+    "CIDEr_x100": 36.55708994974901
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000079",
+    "CIDEr_x100": 79.63642386737288
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000154",
+    "CIDEr_x100": 117.55128464297772
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000647",
+    "CIDEr_x100": 1.0553819324533492e-11
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000346",
+    "CIDEr_x100": 3.6969415813265677e-06
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000525",
+    "CIDEr_x100": 142.58380558603923
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000608",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000260",
+    "CIDEr_x100": 73.6494950722896
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000575",
+    "CIDEr_x100": 376.25925435085827
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000096",
+    "CIDEr_x100": 4.932972521490672
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000465",
+    "CIDEr_x100": 1.1100117704786705
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000712",
+    "CIDEr_x100": 5.083837607385371
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000423",
+    "CIDEr_x100": 176.67111758434336
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000290",
+    "CIDEr_x100": 17.917364191123106
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000393",
+    "CIDEr_x100": 0.05302629484062419
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000043",
+    "CIDEr_x100": 1.082162655853752e-05
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000544",
+    "CIDEr_x100": 4.585090035203351e-08
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000782",
+    "CIDEr_x100": 0.16030275170342473
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000671",
+    "CIDEr_x100": 2.4398572511399967e-13
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000248",
+    "CIDEr_x100": 0.17378559759288234
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000186",
+    "CIDEr_x100": 19.86972090482897
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000064",
+    "CIDEr_x100": 3.682382325182251e-09
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000129",
+    "CIDEr_x100": 300.5406804046935
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000629",
+    "CIDEr_x100": 169.29673782136658
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000354",
+    "CIDEr_x100": 0.0034388639618829287
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000506",
+    "CIDEr_x100": 220.24704986908608
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000603",
+    "CIDEr_x100": 4.3862355930087186e-07
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000274",
+    "CIDEr_x100": 72.6834169442714
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000588",
+    "CIDEr_x100": 33.97117114024809
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000123",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000459",
+    "CIDEr_x100": 4.005523415009905e-14
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000737",
+    "CIDEr_x100": 60.078438393309405
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000399",
+    "CIDEr_x100": 211.63677280113382
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000299",
+    "CIDEr_x100": 2.4718878106652387e-09
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000373",
+    "CIDEr_x100": 0.029659568536859665
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000040",
+    "CIDEr_x100": 0.013784034239237264
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000562",
+    "CIDEr_x100": 0.020008566801914127
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000759",
+    "CIDEr_x100": 2.9683485647953756
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000704",
+    "CIDEr_x100": 0.22355848221723268
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000235",
+    "CIDEr_x100": 78.98024797929561
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000222",
+    "CIDEr_x100": 5.615024084514538
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000080",
+    "CIDEr_x100": 3.111555238675278
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000127",
+    "CIDEr_x100": 487.08358082446176
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000632",
+    "CIDEr_x100": 26.8183191227119
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000343",
+    "CIDEr_x100": 3.645053296657235e-10
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000522",
+    "CIDEr_x100": 0.00021798507863216452
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000595",
+    "CIDEr_x100": 160.8150829630809
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000263",
+    "CIDEr_x100": 0.460372935586952
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000578",
+    "CIDEr_x100": 1.6610072397483115
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000117",
+    "CIDEr_x100": 1.2679463116281233
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000451",
+    "CIDEr_x100": 2.4599001233528073
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000718",
+    "CIDEr_x100": 34.742179056124044
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000408",
+    "CIDEr_x100": 20.881195344408106
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000338",
+    "CIDEr_x100": 5.359920252285675e-10
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000376",
+    "CIDEr_x100": 0.3689673028021915
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000020",
+    "CIDEr_x100": 47.28543774716387
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000560",
+    "CIDEr_x100": 6.745842482522768e-06
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000763",
+    "CIDEr_x100": 190.37445077599224
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000675",
+    "CIDEr_x100": 54.99175015670667
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000258",
+    "CIDEr_x100": 3.2517486125584085e-08
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000220",
+    "CIDEr_x100": 18.331118711354897
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000084",
+    "CIDEr_x100": 269.3445298192725
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000138",
+    "CIDEr_x100": 4.353685406810403e-30
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000650",
+    "CIDEr_x100": 303.1711820707263
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000361",
+    "CIDEr_x100": 118.77101819669808
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000498",
+    "CIDEr_x100": 49.35519977641098
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000601",
+    "CIDEr_x100": 31.518120392698844
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000264",
+    "CIDEr_x100": 3.56895575041588
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000584",
+    "CIDEr_x100": 1.999328361881388
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000116",
+    "CIDEr_x100": 130.57853020393134
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000479",
+    "CIDEr_x100": 0.06702744792046647
+  },
+  {
+    "domain": "real",
+    "arm": "base",
+    "id": "real_val_pair_000738",
+    "CIDEr_x100": 139.32629009297042
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000409",
+    "CIDEr_x100": 65.06420072496682
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000321",
+    "CIDEr_x100": 3.3734678869647313e-19
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000385",
+    "CIDEr_x100": 7.498712424058325e-10
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000030",
+    "CIDEr_x100": 1.5652790172946086e-05
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000534",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000765",
+    "CIDEr_x100": 105.83457086239798
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000678",
+    "CIDEr_x100": 1.50409344426145e-14
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000240",
+    "CIDEr_x100": 0.0016400145645935347
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000189",
+    "CIDEr_x100": 42.30913285353106
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000052",
+    "CIDEr_x100": 3.1206851614903096e-26
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000140",
+    "CIDEr_x100": 9.685391750007086e-168
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000627",
+    "CIDEr_x100": 0.0012878453978651307
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000368",
+    "CIDEr_x100": 2.2939612748865023e-45
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000518",
+    "CIDEr_x100": 0.007110277555483292
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000613",
+    "CIDEr_x100": 999.9999999999998
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000282",
+    "CIDEr_x100": 0.0012466344246424412
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000590",
+    "CIDEr_x100": 36.52509052105085
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000106",
+    "CIDEr_x100": 3.2438130336420983
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000464",
+    "CIDEr_x100": 1.268204321514787e-63
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000724",
+    "CIDEr_x100": 19.257361285399913
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000425",
+    "CIDEr_x100": 7.316662998139981e-34
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000339",
+    "CIDEr_x100": 21.827975527654814
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000374",
+    "CIDEr_x100": 3.446014766806452e-24
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000019",
+    "CIDEr_x100": 3.647084365862683
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000543",
+    "CIDEr_x100": 0.00014272334307132334
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000764",
+    "CIDEr_x100": 8.562822141051129
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000690",
+    "CIDEr_x100": 5.91295684274178e-13
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000229",
+    "CIDEr_x100": 3.6007583110827373
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000180",
+    "CIDEr_x100": 33.119453195870705
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000079",
+    "CIDEr_x100": 229.1516072718708
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000154",
+    "CIDEr_x100": 117.73814315740216
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000647",
+    "CIDEr_x100": 5.173563830596156e-09
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000346",
+    "CIDEr_x100": 3.092182491739624e-32
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000525",
+    "CIDEr_x100": 5.9459710434188615
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000608",
+    "CIDEr_x100": 859.9460292338607
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000260",
+    "CIDEr_x100": 116.82278416913907
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000575",
+    "CIDEr_x100": 200.5227697363981
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000096",
+    "CIDEr_x100": 107.43958014578068
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000465",
+    "CIDEr_x100": 3.207399250478001e-44
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000712",
+    "CIDEr_x100": 3.474930507687689
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000423",
+    "CIDEr_x100": 158.5408983628643
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000290",
+    "CIDEr_x100": 11.358732505346044
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000393",
+    "CIDEr_x100": 3.2743257559064817e-19
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000043",
+    "CIDEr_x100": 1.1986868747480114e-05
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000544",
+    "CIDEr_x100": 4.3468898814193123e-16
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000782",
+    "CIDEr_x100": 1.8942201076237077e-13
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000671",
+    "CIDEr_x100": 3.4652979998399894e-17
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000248",
+    "CIDEr_x100": 1.5566883983630864
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000186",
+    "CIDEr_x100": 177.58718968455457
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000064",
+    "CIDEr_x100": 5.787922928444207e-11
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000129",
+    "CIDEr_x100": 75.01121721711529
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000629",
+    "CIDEr_x100": 606.2896938698681
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000354",
+    "CIDEr_x100": 1.4539629436388497e-21
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000506",
+    "CIDEr_x100": 229.32058377135795
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000603",
+    "CIDEr_x100": 0.9943822557724046
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000274",
+    "CIDEr_x100": 27.901231928127217
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000588",
+    "CIDEr_x100": 33.97117114024809
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000123",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000459",
+    "CIDEr_x100": 1.1563304808482171e-51
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000737",
+    "CIDEr_x100": 38.713366314348754
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000399",
+    "CIDEr_x100": 116.9219229275377
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000299",
+    "CIDEr_x100": 2.474478536921571e-09
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000373",
+    "CIDEr_x100": 5.0713289284782195e-06
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000040",
+    "CIDEr_x100": 1.5848935091681246e-08
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000562",
+    "CIDEr_x100": 3.1194269358220387e-12
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000759",
+    "CIDEr_x100": 0.2031275579575675
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000704",
+    "CIDEr_x100": 7.431060622219244
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000235",
+    "CIDEr_x100": 3.093364271930774e-06
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000222",
+    "CIDEr_x100": 6.186497649288045
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000080",
+    "CIDEr_x100": 8.29673986354247
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000127",
+    "CIDEr_x100": 422.5406663638051
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000632",
+    "CIDEr_x100": 131.12035906066478
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000343",
+    "CIDEr_x100": 50.821477038234974
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000522",
+    "CIDEr_x100": 0.00029691838050073413
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000595",
+    "CIDEr_x100": 59.16961277220176
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000263",
+    "CIDEr_x100": 0.13413914158888227
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000578",
+    "CIDEr_x100": 364.14553544098527
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000117",
+    "CIDEr_x100": 1.2679463116281233
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000451",
+    "CIDEr_x100": 2.4599001233528073
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000718",
+    "CIDEr_x100": 34.742179056124044
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000408",
+    "CIDEr_x100": 12.230214222866952
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000338",
+    "CIDEr_x100": 0.0018690063427216244
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000376",
+    "CIDEr_x100": 0.019611283354389615
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000020",
+    "CIDEr_x100": 74.10999737051158
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000560",
+    "CIDEr_x100": 0.0024722739157439413
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000763",
+    "CIDEr_x100": 20.426890344171284
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000675",
+    "CIDEr_x100": 212.27605215128693
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000258",
+    "CIDEr_x100": 8.208879247346534e-07
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000220",
+    "CIDEr_x100": 139.8949891366422
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000084",
+    "CIDEr_x100": 1.0786414518800883e-20
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000138",
+    "CIDEr_x100": 2.359739281806055e-28
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000650",
+    "CIDEr_x100": 120.76230756313157
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000361",
+    "CIDEr_x100": 3.4410579287987257
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000498",
+    "CIDEr_x100": 11.939044518248359
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000601",
+    "CIDEr_x100": 291.8356293492811
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000264",
+    "CIDEr_x100": 1.040237791500003e-37
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000584",
+    "CIDEr_x100": 1.1770993480713556
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000116",
+    "CIDEr_x100": 0.026785033804094985
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000479",
+    "CIDEr_x100": 2.782678668010962e-35
+  },
+  {
+    "domain": "real",
+    "arm": "r64",
+    "id": "real_val_pair_000738",
+    "CIDEr_x100": 43.69929742213801
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000760",
+    "CIDEr_x100": 0.009472054479731047
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000243",
+    "CIDEr_x100": 2.963299310327515e-11
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000547",
+    "CIDEr_x100": 1.1466762911368188e-08
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000136",
+    "CIDEr_x100": 349.0540886664978
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000433",
+    "CIDEr_x100": 5.904730885102123
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000669",
+    "CIDEr_x100": 153.19431911381827
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000160",
+    "CIDEr_x100": 326.78118228294244
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000002",
+    "CIDEr_x100": 36.34252369608878
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000616",
+    "CIDEr_x100": 98.49506679147186
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000506",
+    "CIDEr_x100": 52.35127894578764
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000346",
+    "CIDEr_x100": 155.2239514566606
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000768",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000235",
+    "CIDEr_x100": 863.6941006824659
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000562",
+    "CIDEr_x100": 5.952371506455927e-09
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000127",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000418",
+    "CIDEr_x100": 0.0
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000652",
+    "CIDEr_x100": 288.4215367514686
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000207",
+    "CIDEr_x100": 404.7392015492118
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000036",
+    "CIDEr_x100": 380.4318069789921
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000606",
+    "CIDEr_x100": 19.601967503903996
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000515",
+    "CIDEr_x100": 418.9842312194478
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000381",
+    "CIDEr_x100": 74.73954192709996
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000777",
+    "CIDEr_x100": 22.697212819612204
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000268",
+    "CIDEr_x100": 95.69449126441059
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000534",
+    "CIDEr_x100": 0.00036352241056466963
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000085",
+    "CIDEr_x100": 887.9450255319457
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000445",
+    "CIDEr_x100": 20.009401979368896
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000633",
+    "CIDEr_x100": 0.6441187218004966
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000214",
+    "CIDEr_x100": 175.2932045903426
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000015",
+    "CIDEr_x100": 0.002061174766863207
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000594",
+    "CIDEr_x100": 5.339223673073027e-10
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000480",
+    "CIDEr_x100": 0.2551115227852126
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000340",
+    "CIDEr_x100": 7.406060105153545
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000736",
+    "CIDEr_x100": 890.162987357602
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000229",
+    "CIDEr_x100": 690.3445120481415
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000543",
+    "CIDEr_x100": 244.17625732353181
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000071",
+    "CIDEr_x100": 446.56992132658326
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000416",
+    "CIDEr_x100": 0.0
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000653",
+    "CIDEr_x100": 418.4524467229056
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000217",
+    "CIDEr_x100": 19.936838458992344
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000008",
+    "CIDEr_x100": 172.07107788852704
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000596",
+    "CIDEr_x100": 60.1065901716487
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000520",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000390",
+    "CIDEr_x100": 292.3159250262911
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000693",
+    "CIDEr_x100": 133.92703547947139
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000305",
+    "CIDEr_x100": 0.0009276050589095774
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000558",
+    "CIDEr_x100": 5.90540016408304e-07
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000116",
+    "CIDEr_x100": 568.4943028482328
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000456",
+    "CIDEr_x100": 212.4170580049682
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000679",
+    "CIDEr_x100": 63.74939783210125
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000223",
+    "CIDEr_x100": 0.04835514251859123
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000045",
+    "CIDEr_x100": 239.71014951671415
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000597",
+    "CIDEr_x100": 0.013685700329960665
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000529",
+    "CIDEr_x100": 1.2629494921092613e-15
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000369",
+    "CIDEr_x100": 7.980420802507481
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000739",
+    "CIDEr_x100": 639.2256756374084
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000306",
+    "CIDEr_x100": 1.509262044489839e-06
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000541",
+    "CIDEr_x100": 0.00038680692143508525
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000090",
+    "CIDEr_x100": 8.21715003118341
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000462",
+    "CIDEr_x100": 0.08596586865352278
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000660",
+    "CIDEr_x100": 221.71769261341808
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000196",
+    "CIDEr_x100": 5.546207929527342
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000012",
+    "CIDEr_x100": 280.1764027363729
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000583",
+    "CIDEr_x100": 0.00037575618527553367
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000511",
+    "CIDEr_x100": 8.732192081684974e-05
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000368",
+    "CIDEr_x100": 92.85574679813917
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000732",
+    "CIDEr_x100": 433.10771689796167
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000258",
+    "CIDEr_x100": 6.935102879723084
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000569",
+    "CIDEr_x100": 125.54670552508354
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000117",
+    "CIDEr_x100": 597.9485479239162
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000444",
+    "CIDEr_x100": 0.00014141515540802807
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000686",
+    "CIDEr_x100": 79.74085989002846
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000181",
+    "CIDEr_x100": 1.5539610659653562
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000011",
+    "CIDEr_x100": 0.0015110280199193598
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000577",
+    "CIDEr_x100": 31.14875019570024
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000473",
+    "CIDEr_x100": 99.69776494852461
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000357",
+    "CIDEr_x100": 1.1270174135386175
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000707",
+    "CIDEr_x100": 101.40791597309024
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000284",
+    "CIDEr_x100": 700.0732901154612
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000548",
+    "CIDEr_x100": 3.6262340605475197e-07
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000065",
+    "CIDEr_x100": 310.8364810268644
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000410",
+    "CIDEr_x100": 0.001057211873122762
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000670",
+    "CIDEr_x100": 0.050779006969189175
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000140",
+    "CIDEr_x100": 141.2262249442765
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000035",
+    "CIDEr_x100": 3.3795250425319416
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000585",
+    "CIDEr_x100": 1.465588172895796e-17
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000487",
+    "CIDEr_x100": 154.6346986068298
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000400",
+    "CIDEr_x100": 168.1028882481399
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000689",
+    "CIDEr_x100": 738.0004443748893
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000276",
+    "CIDEr_x100": 0.007440680261967205
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000550",
+    "CIDEr_x100": 2.0713778786913713e-17
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000108",
+    "CIDEr_x100": 668.3641835694912
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000427",
+    "CIDEr_x100": 260.915041070452
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000664",
+    "CIDEr_x100": 450.1435429450754
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000212",
+    "CIDEr_x100": 419.67254071837976
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000028",
+    "CIDEr_x100": 56.46590109077345
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000588",
+    "CIDEr_x100": 121.84707049909133
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000477",
+    "CIDEr_x100": 4.183873711658603
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000365",
+    "CIDEr_x100": 279.2044860055631
+  },
+  {
+    "domain": "render",
+    "arm": "base",
+    "id": "render_val_pair_000713",
+    "CIDEr_x100": 815.0433751956651
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000760",
+    "CIDEr_x100": 3.7279869543565054
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000243",
+    "CIDEr_x100": 278.1230489820006
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000547",
+    "CIDEr_x100": 1.2150198753669866e-07
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000136",
+    "CIDEr_x100": 615.2325013260194
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000433",
+    "CIDEr_x100": 0.1384389630989832
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000669",
+    "CIDEr_x100": 2.0384646904368706
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000160",
+    "CIDEr_x100": 66.00286700138223
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000002",
+    "CIDEr_x100": 38.49948782480537
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000616",
+    "CIDEr_x100": 17.025759927754176
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000506",
+    "CIDEr_x100": 4.559206428415166e-07
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000346",
+    "CIDEr_x100": 64.7173907516146
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000768",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000235",
+    "CIDEr_x100": 867.0485444437099
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000562",
+    "CIDEr_x100": 2.882292463133006e-26
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000127",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000418",
+    "CIDEr_x100": 0.0
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000652",
+    "CIDEr_x100": 279.06933833488233
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000207",
+    "CIDEr_x100": 209.7801015853026
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000036",
+    "CIDEr_x100": 288.8048585076675
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000606",
+    "CIDEr_x100": 249.9394140372952
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000515",
+    "CIDEr_x100": 206.9698158297633
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000381",
+    "CIDEr_x100": 10.949131852077423
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000777",
+    "CIDEr_x100": 0.23529503877109081
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000268",
+    "CIDEr_x100": 1.6071879319279458e-06
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000534",
+    "CIDEr_x100": 3.191965637894631
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000085",
+    "CIDEr_x100": 802.485546425518
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000445",
+    "CIDEr_x100": 81.00239385019115
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000633",
+    "CIDEr_x100": 19.58517265109391
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000214",
+    "CIDEr_x100": 3.6174934037497235
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000015",
+    "CIDEr_x100": 1.4127129069049704
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000594",
+    "CIDEr_x100": 1.2835306344043494e-06
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000480",
+    "CIDEr_x100": 25.23506846801761
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000340",
+    "CIDEr_x100": 6.340739703595956
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000736",
+    "CIDEr_x100": 890.162987357602
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000229",
+    "CIDEr_x100": 300.9592362039424
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000543",
+    "CIDEr_x100": 0.031863773185422724
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000071",
+    "CIDEr_x100": 305.67104291781493
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000416",
+    "CIDEr_x100": 1.6904080841858374e-22
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000653",
+    "CIDEr_x100": 158.34375649253062
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000217",
+    "CIDEr_x100": 141.61508340180998
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000008",
+    "CIDEr_x100": 336.99956212357665
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000596",
+    "CIDEr_x100": 2.3799987490999957e-06
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000520",
+    "CIDEr_x100": 1000.0
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000390",
+    "CIDEr_x100": 681.6298361002796
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000693",
+    "CIDEr_x100": 397.4203249635917
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000305",
+    "CIDEr_x100": 19.6439862204355
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000558",
+    "CIDEr_x100": 2.594777107432985
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000116",
+    "CIDEr_x100": 80.73808130718665
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000456",
+    "CIDEr_x100": 1.2276164423185603
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000679",
+    "CIDEr_x100": 156.91780869055646
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000223",
+    "CIDEr_x100": 13.851116398245027
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000045",
+    "CIDEr_x100": 322.08787862740127
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000597",
+    "CIDEr_x100": 0.031164583668544542
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000529",
+    "CIDEr_x100": 153.55429305096538
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000369",
+    "CIDEr_x100": 0.003366283834522402
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000739",
+    "CIDEr_x100": 634.892539392856
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000306",
+    "CIDEr_x100": 0.039846591758552
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000541",
+    "CIDEr_x100": 0.6929014019929121
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000090",
+    "CIDEr_x100": 8.21715003118341
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000462",
+    "CIDEr_x100": 0.18753486648222958
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000660",
+    "CIDEr_x100": 1.7932362942148112
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000196",
+    "CIDEr_x100": 62.80292569066177
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000012",
+    "CIDEr_x100": 11.956766996832354
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000583",
+    "CIDEr_x100": 2.115329545440136
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000511",
+    "CIDEr_x100": 0.09328613705386532
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000368",
+    "CIDEr_x100": 0.06346806535931439
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000732",
+    "CIDEr_x100": 436.5405688886916
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000258",
+    "CIDEr_x100": 4.5107600528710195e-05
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000569",
+    "CIDEr_x100": 121.21881674860808
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000117",
+    "CIDEr_x100": 685.7690346042142
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000444",
+    "CIDEr_x100": 5.761806104018352e-28
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000686",
+    "CIDEr_x100": 13.773782661797968
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000181",
+    "CIDEr_x100": 4.296257891593818
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000011",
+    "CIDEr_x100": 15.570628684207339
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000577",
+    "CIDEr_x100": 97.64625431707171
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000473",
+    "CIDEr_x100": 156.23457281822044
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000357",
+    "CIDEr_x100": 1.253363270693358
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000707",
+    "CIDEr_x100": 12.944466675341696
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000284",
+    "CIDEr_x100": 338.3767206286711
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000548",
+    "CIDEr_x100": 0.0006300097550567324
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000065",
+    "CIDEr_x100": 31.552628225196617
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000410",
+    "CIDEr_x100": 1.7213269186885207e-25
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000670",
+    "CIDEr_x100": 0.23158808863854088
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000140",
+    "CIDEr_x100": 1.7931811550771775
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000035",
+    "CIDEr_x100": 88.17406269413483
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000585",
+    "CIDEr_x100": 5.055928111089945
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000487",
+    "CIDEr_x100": 0.0005800379368494824
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000400",
+    "CIDEr_x100": 275.04686983926024
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000689",
+    "CIDEr_x100": 447.7328980541778
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000276",
+    "CIDEr_x100": 0.0003218554958004221
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000550",
+    "CIDEr_x100": 5.739504075656195e-29
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000108",
+    "CIDEr_x100": 6.196418232860516
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000427",
+    "CIDEr_x100": 29.26886319367193
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000664",
+    "CIDEr_x100": 8.466496748312103
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000212",
+    "CIDEr_x100": 329.535571909844
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000028",
+    "CIDEr_x100": 111.20902770086603
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000588",
+    "CIDEr_x100": 199.1997948477457
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000477",
+    "CIDEr_x100": 1.5822231882262298e-05
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000365",
+    "CIDEr_x100": 331.64910777316686
+  },
+  {
+    "domain": "render",
+    "arm": "r64",
+    "id": "render_val_pair_000713",
+    "CIDEr_x100": 815.0433751956651
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "pairs": 200,
+  "arms": [
+    "base",
+    "r64"
+  ],
+  "same_container": true,
+  "v2_trained": false,
+  "full_test_run": false
+}

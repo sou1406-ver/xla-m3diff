@@ -1,0 +1,17 @@
+{
+  "n_pairs_each_arm": 200,
+  "same_generation_overrides": true,
+  "same_mdp_projector_dtypes": true,
+  "caption_lengths": {
+    "base": {
+      "mean_words": 61.21,
+      "over_500_words": 2
+    },
+    "r64": {
+      "mean_words": 54.185,
+      "over_500_words": 1
+    }
+  },
+  "replay_increase_flag": true,
+  "note": "Precheck for recipe design, not proof of equivalence or an independent final validation."
+}

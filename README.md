@@ -1,5 +1,7 @@
 # M3Diff: dựng lại và nghiên cứu cải thiện
 
+**Cập nhật19:57 ngày02/11:** [r64 camera240 đã chạy xong](outputs/r64_camera_eval_20261102/KET_QUA.md), GPUđã tắt. Chờ chấm gate semantic; chưa chạy full1570. [Đọc240caption](outputs/r64_camera_eval_20261102/CAPTIONS_240.md) hoặc [CSVđể chấm](outputs/r64_camera_eval_20261102/REVIEW_240.csv). Các kết luận về hai adapterr16 bên dưới vẫn là kết quả riêng, không gán cho r64.
+
 **Đọc đầu tiên:** [Bàn giao context](docs/HANDOFF.md) → [Bản đồ thí nghiệm](docs/EXPERIMENTS.md) → [Kết quả mới nhất, 02/11/2026](outputs/invariance_v2_20261102/KET_QUA.md).
 
 Repo này tập hợp **code thí nghiệm, notebook, caption dự đoán, metric và tài liệu** của nhóm. Đây không phải repo SCST của `ducmanh202005/xla`, cũng không phải bản sao đầy đủ source/weights M3Diff upstream.

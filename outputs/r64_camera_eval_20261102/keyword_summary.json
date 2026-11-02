@@ -1,0 +1,32 @@
+{
+  "camera_only": {
+    "n": 180,
+    "base": {
+      "mentions_camera": 0,
+      "direction_keyword_correct": 0,
+      "object_change_keyword_flag": 134
+    },
+    "ft": {
+      "mentions_camera": 149,
+      "direction_keyword_correct": 45,
+      "object_change_keyword_flag": 43
+    }
+  },
+  "camera_object": {
+    "n": 60,
+    "base": {
+      "mentions_camera": 0,
+      "direction_keyword_correct": 0,
+      "object_type_keyword": 55,
+      "object_name_keyword": 38,
+      "object_type_and_name_keywords": 35
+    },
+    "ft": {
+      "mentions_camera": 24,
+      "direction_keyword_correct": 6,
+      "object_type_keyword": 57,
+      "object_name_keyword": 43,
+      "object_type_and_name_keywords": 43
+    }
+  }
+}

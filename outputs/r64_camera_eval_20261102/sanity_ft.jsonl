@@ -1,0 +1,8 @@
+{"id": "add_L2_00", "image_id": "add_L2_00", "caption": "A yellow bowl has been added in the lower right part of the scene."}
+{"id": "remove_L2_00", "image_id": "remove_L2_00", "caption": "The orange cup in the center of the scene is no longer present."}
+{"id": "color_L2_00", "image_id": "color_L2_00", "caption": "The color of the apple in the center of the scene has changed from orange to green."}
+{"id": "move_L2_00", "image_id": "move_L2_00", "caption": "The yellow cup in the center of the scene has become larger."}
+{"id": "size_L2_00", "image_id": "size_L2_00", "caption": "The gray car in the lower right part of the scene has become larger."}
+{"id": "light_L2_00", "image_id": "light_L2_00", "caption": "The lighting in the scene has increased."}
+{"id": "same_00", "image_id": "same_00", "caption": "The black cat in the lower part of the scene has become smaller."}
+{"id": "jpeg_00", "image_id": "jpeg_00", "caption": "The camera has rotated slightly clockwise."}

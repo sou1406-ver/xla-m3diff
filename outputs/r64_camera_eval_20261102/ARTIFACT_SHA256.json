@@ -1,0 +1,22 @@
+{
+  "camtest_base.jsonl": "d329a7af87fe7806a2df0f3001560b37288a8a6ca4086d6bb86377bc3f2b260d",
+  "camtest_compare.csv": "a7a8d165998a72117020b99de6b1a6a1f9c58a2ae2724938eb5344417fd54cc9",
+  "camtest_ft.jsonl": "36aadf0d9d20112983715eefd93dafea4345836a9ceb1c40779ece36085f268c",
+  "CAPTIONS_240.md": "76f264b007781469a0422f77d5e401f5796b401efef6ac5f3d03bcfa069f3260",
+  "download_results.py": "9f28d2f784a17ce131dc54129f58a2a92d3bdc90845ea09078652cb576efa189",
+  "executed.ipynb": "5a7beacfb4cfe3739ea1f5d9e7d66ba39a64e2ddecd278deed64d0a3932a6813",
+  "FINAL_APPS.json": "31b6c3bf31ea595cd36fd0da65b2549c3ac2c5fee52b2cd3bc4146ec4a545657",
+  "job_timing.json": "38dda35519f84669cd137218c2cb6f5f658262e9d7abea6f0127277318d05987",
+  "KET_QUA.md": "e47ab6d3fe9ed57faba745de3abe79d0e4e71297cc36ce00fdf66fd0bb4f1182",
+  "keyword_summary.json": "9329a7acc666df359f4002b75f12683356d45c802abbb4551f13fc2b9556bc43",
+  "manifest.jsonl": "b15467803c7af9758b5b97ca0353767fdc50573608670b1280dd35d8b941d738",
+  "questions.json": "ba122bb3c9cf3f802595de410e4fb48f3095fab858f071e60aed59451b6e3da4",
+  "r64-camera-only.ipynb": "e7b5d2ba1c1c05b8eb7ceb1ed4212e581874f4a37dc9fce1ef3c34d7856bdff4",
+  "REVIEW_240.csv": "028eaf3541dd0daf32ae5b45f0f6cce0690f502d872cafdda20a54eed897abfb",
+  "run_modal.py": "94b88cf0c68ab9b6e6133aec08a0eb792db3b186eebce407f6a10f6d696766a6",
+  "sanity_ft.jsonl": "525af20c5bbbbed4c77bb28a7f47025c6461da01430a8508f3346d1d51a269a1",
+  "score_captions.py": "3e09865fa5253ba1912252e9cd9da67fd09b77cd8793a135764a333c8e2eca5e",
+  "SUCCESS.json": "8fee5675b21037c62778ecc608f2e46a91fd1c7b784267d117804a4a72e95a1c",
+  "summarize.py": "923e658a19e592260a34f272e957a70412748713fe69cc788cdaaad13f1604df",
+  "timings.json": "fe12d63f44699850df7cdb9e10b1a592c57f999d3fa38cb59bd5e3d78a9f22f3"
+}

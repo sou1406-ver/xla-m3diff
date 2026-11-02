@@ -1,0 +1,18 @@
+{
+  "gpu": "NVIDIA A10, 23028",
+  "source": "m3diff-nb-finetune.ipynb",
+  "evals": [
+    {
+      "questions": "/mnt/m3diff/synth/sanity/questions.json",
+      "answers": "/mnt/m3diff/ft/eval/sanity_ft.jsonl",
+      "count": 8,
+      "wall_seconds": 53.34067344665527
+    },
+    {
+      "questions": "/mnt/m3diff/ft/camtest/questions.json",
+      "answers": "/mnt/m3diff/ft/eval/camtest_ft.jsonl",
+      "count": 240,
+      "wall_seconds": 415.6669912338257
+    }
+  ]
+}

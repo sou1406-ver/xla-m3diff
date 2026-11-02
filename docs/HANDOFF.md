@@ -1,5 +1,7 @@
 # Context bàn giao — 02/11/2026
 
+**Mới nhất19:57:** đã đánh giá checkpoint r64 trên A10, sanity8+camera240, chưa full. [Kết quả](../outputs/r64_camera_eval_20261102/KET_QUA.md): regex camera-only134/180→43/180cờ vật thể; camera+object đúng cả loại+tên35/60→43/60. Đây là proxy, **chờ người dùng chấm gate semantic**; chưa tự mở full. Camera6phút56giây gồm load, job thành công9phút. Hai app đã stopped/0task; xem FINAL_APPS.json. Các dòng lịch sử dưới đây nói r64 chưa đánh giá đã được cập nhật bởi kết quả này.
+
 **Bổ sung sau bàn giao:** đọc [audit config/checkpoint](CONFIG_AUDIT_20261102.md) và [audit hai baseline + development SCST](BASELINE_SOURCE_AUDIT_20261102.md). Đã xác nhận checkpoint r64 `/ft` riêng chưa có output fine-tune trong `ft/eval`; SCST B từng `development_failed` do CIDEr Real giảm. Hai baseline Real khác456/803caption, Render trùng767/767; nguyên nhân Real chưa được xác định. Phân công đề xuất mới: SCST trên Colab người giữ weights, Modal ưu tiên đánh giá r64 qua gate nhỏ trước.
 
 ## Người dùng đang muốn gì?

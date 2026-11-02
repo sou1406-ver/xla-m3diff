@@ -43,7 +43,7 @@ Mean Render bị ảnh hưởng mạnh bởi caption dài; không quy mọi chê
 - Tái dùng embedding vision/MDP một lần mỗi cặp. Native Qwen2generate xử lý `inputs_embeds`; xác nhận greedy cặp đầu khớp wrapper LLaVA. **Chưa chia sẻ KV prefix của LLM.** `num_return_sequences`/expandembeds không tự cho prefix sharing. Không suy từ ước tính KV rằng toàn bộ batch8 phải vừa24GB.
 - Selector: CIDEr-D trung bình với8caption còn lại, bỏself,giữmultiplicitycủacâutrùng,tieưu tiêngreedy. Greedy nằm trong pool tham chiếu giả theo đề xuất; đây là consensus MBR xấp xỉ, không tuyên bố estimator posterior risk không chệch.
 - IDF chỉ từ12.452trainpair,248.504n-gram,PTBtokenizer,sigma6,4gram. Numeric utility cross-check3ca với scorer benchmark sai số tối đa2,22e−16. Có một lỗi format ca kiểm chứng CPU đã sửa trước GPU/candidate; lưu lịch sử lock.
-- Generation không đọc reference. Selector không đọc referenceval/test. Referenceval chỉ mở trong scorer sau khi hoàn tất lựa chọn.
+- Generation chỉ dùng question/image làm đầu vào model; sidecar selection có caption tham chiếu cũ nhưng mã sinh chỉ truy cập id/subset, không dùng caption. Không mô tả process là chưa từng mở file có nhãn. Selector chỉ nhận caption sinh và IDF train; COCO referenceval dùng để chấm sau lựa chọn. Xem DATAFLOW_AUDIT.json.
 - Cohort200đã được dùng làm development ở các vòng trước, không phải một tập hoàn toàn chưa từng xem. Fulltest cũng có lịch sử baseline; không tuyên bố blind test.
 
 Val200 chốt một cấu hình trên cùng GPU/phiên cho greedy+MBR, gate mỗi miền `delta CIDEr×100>=1,0`, trần3,60USD(hard2hGPU,reserve3,57USDgồmscoring). Chỉ sau gate và xem mẫu caption được thay thế mới xét ngân sách full. Không có loss đặc trưng hoặc training trong hướng này; vòng V2 vẫn đóng.

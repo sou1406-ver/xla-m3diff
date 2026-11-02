@@ -1,0 +1,25 @@
+{
+  "generation_source_sha256": "ba620f8ea365382ef89ed682b51bbaf0b4ff6887ef47037755cf34aff890e293",
+  "questions_fields": [
+    "id",
+    "image",
+    "conversations(human only)"
+  ],
+  "metadata_file": "selection200.json / selection20.json",
+  "metadata_contains_unused_reference_caption": true,
+  "metadata_consumed_fields_in_generator": [
+    "id",
+    "subset"
+  ],
+  "model_conditioning_fields": [
+    "question.conversations[0].value",
+    "question.image"
+  ],
+  "selector_inputs": [
+    "generated candidate strings",
+    "frozen training-reference DF cache"
+  ],
+  "selector_has_no_validation_or_test_reference_input": true,
+  "evidence": "Generator selection map is used only in domain=selection[qid][subset] when writing output; no caption field is accessed. Score modules perform consensus selection before opening COCO evaluation references.",
+  "documentation_correction": "Do not claim that inference process never opens any file containing labels. It does not USE labels in prompts, generation or selection. Unused sidecar labels do not affect candidates; existing frozen runs retained unchanged. Future generation metadata should omit caption fields."
+}

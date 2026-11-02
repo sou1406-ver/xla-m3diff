@@ -1,0 +1,51 @@
+{
+  "domains": {
+    "real": {
+      "n": 100,
+      "image_components": 20,
+      "greedy_CIDEr_x100": 85.61963978340388,
+      "MBR_CIDEr_x100": 106.52549197525487,
+      "delta": 20.905852191850972,
+      "oracle_CIDEr_x100": 204.42889882718518,
+      "oracle_delta": 118.8092590437813,
+      "gate_pass": true,
+      "descriptive_cluster_bootstrap_fixedDF_CI95": [
+        5.6532951155672375,
+        38.27290809923871
+      ],
+      "greedy_mean_words": 53.62,
+      "MBR_mean_words": 51.72,
+      "greedy_median_words": 47.0,
+      "MBR_median_words": 44.5,
+      "mean_unique_captions": 8.48,
+      "changed_from_greedy": 73
+    },
+    "render": {
+      "n": 100,
+      "image_components": 11,
+      "greedy_CIDEr_x100": 201.46983435860952,
+      "MBR_CIDEr_x100": 206.70221967229315,
+      "delta": 5.232385313683648,
+      "oracle_CIDEr_x100": 352.4379598836266,
+      "oracle_delta": 150.9681255250171,
+      "gate_pass": true,
+      "descriptive_cluster_bootstrap_fixedDF_CI95": [
+        -38.94856194679678,
+        45.338201464591776
+      ],
+      "greedy_mean_words": 57.88,
+      "MBR_mean_words": 51.25,
+      "greedy_median_words": 48.5,
+      "MBR_median_words": 49.0,
+      "mean_unique_captions": 8.58,
+      "changed_from_greedy": 67
+    }
+  },
+  "all_gates_passed": true,
+  "gate": "delta>=1.0CIDEr_x100 in BOTHdomains,unrounded",
+  "oracle_diagnostic_only": true,
+  "selector_trainIDF_only": true,
+  "CI_interpretation": "Descriptive cluster bootstrap over image-connected groups, conditional on fixed100-reference DF; not a full re-tokenization/recomputation of CIDEr DF per bootstrap sample. Gate uses prelocked point thresholds, not CI.",
+  "full_test_run": false,
+  "qualitative_review_complete": false
+}

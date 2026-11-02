@@ -1,0 +1,20 @@
+{
+  "purpose": "Canonical-greedy parity and inference-cost audit only. No oracle/reference score, no new training or sampling hyperparameters.",
+  "cap_usd": 0.6,
+  "hard_seconds": 480,
+  "soft_seconds": 420,
+  "cpu_hard": 4,
+  "ram_gib_hard": 32,
+  "gpu": "A100-80GB",
+  "rate_upper_hour": "3.24",
+  "gpu_bound_including180startup": ".60",
+  "within_existing_val_stage_cap": 3.6,
+  "prior_val_gpu_upper": "1.93",
+  "prior_val_cpu_and_misc_upper": ".10",
+  "with_this_audit_upper": "2.63",
+  "requires_no_reference_score_to_choose_hardware": true,
+  "files": {
+    "a100_audit.py": "245f51a3f5d6fa8e0a3b457c0d4ef84d1edfaef91c5447d0a7632b489f793f59",
+    "a100_audit.ipynb": "f50889fc45bafa04c9005334fc843e1961bbbac9b5199a9f6b75b4c8c9b289be"
+  }
+}

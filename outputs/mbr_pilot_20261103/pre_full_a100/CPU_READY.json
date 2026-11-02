@@ -1,0 +1,12 @@
+{
+  "train_documents": 12452,
+  "train_reference_captions": 12452,
+  "unique_ngrams": 248504,
+  "train_idf_sha256": "e9497a9226a39a2519965001de2c93e6e08ff58c6dc2507cd83a52a02784aa99",
+  "source_annotation_sha256": "f4ad845995fd3a2ace34cc1343b79df4526be52bfb5b255e7876b4a2259746aa",
+  "tokenizer": "PTBTokenizer from pycocoevalcap",
+  "utility_numeric_validation_max_abs_error": 2.220446049250313e-16,
+  "validation_cases": 3,
+  "wall_seconds": 3.447540283203125,
+  "no_val_or_test_labels_used_for_idf": true
+}

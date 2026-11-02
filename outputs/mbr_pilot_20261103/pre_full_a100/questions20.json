@@ -1,0 +1,262 @@
+[
+  {
+    "id": "real_val_pair_000690",
+    "image": [
+      "Real/val/images/real_val_000164.jpg",
+      "Real/val/images/real_val_000165.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000343",
+    "image": [
+      "Real/val/images/real_val_000078.jpg",
+      "Real/val/images/real_val_000080.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000588",
+    "image": [
+      "Real/val/images/real_val_000140.jpg",
+      "Real/val/images/real_val_000137.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000525",
+    "image": [
+      "Real/val/images/real_val_000119.jpg",
+      "Real/val/images/real_val_000121.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000374",
+    "image": [
+      "Real/val/images/real_val_000086.jpg",
+      "Real/val/images/real_val_000092.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000040",
+    "image": [
+      "Real/val/images/real_val_000006.jpg",
+      "Real/val/images/real_val_000008.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000064",
+    "image": [
+      "Real/val/images/real_val_000012.jpg",
+      "Real/val/images/real_val_000015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000479",
+    "image": [
+      "Real/val/images/real_val_000108.jpg",
+      "Real/val/images/real_val_000110.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000608",
+    "image": [
+      "Real/val/images/real_val_000142.jpg",
+      "Real/val/images/real_val_000145.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "real_val_pair_000290",
+    "image": [
+      "Real/val/images/real_val_000067.jpg",
+      "Real/val/images/real_val_000071.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000520",
+    "image": [
+      "Render/val/images/render_val_indoor_000023.jpg",
+      "Render/val/images/render_val_indoor_000012.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000390",
+    "image": [
+      "Render/val/images/render_val_outdoor_000064.jpg",
+      "Render/val/images/render_val_outdoor_000058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000558",
+    "image": [
+      "Render/val/images/render_val_indoor_000029.jpg",
+      "Render/val/images/render_val_indoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000596",
+    "image": [
+      "Render/val/images/render_val_indoor_000037.jpg",
+      "Render/val/images/render_val_indoor_000042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000243",
+    "image": [
+      "Render/val/images/render_val_outdoor_000039.jpg",
+      "Render/val/images/render_val_outdoor_000045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000713",
+    "image": [
+      "Render/val/images/render_val_indoor_000062.jpg",
+      "Render/val/images/render_val_indoor_000061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000416",
+    "image": [
+      "Render/val/images/render_val_indoor_000001.jpg",
+      "Render/val/images/render_val_indoor_000007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000012",
+    "image": [
+      "Render/val/images/render_val_outdoor_000003.jpg",
+      "Render/val/images/render_val_outdoor_000006.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000140",
+    "image": [
+      "Render/val/images/render_val_outdoor_000026.jpg",
+      "Render/val/images/render_val_outdoor_000030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  },
+  {
+    "id": "render_val_pair_000686",
+    "image": [
+      "Render/val/images/render_val_indoor_000055.jpg",
+      "Render/val/images/render_val_indoor_000054.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+      }
+    ]
+  }
+]

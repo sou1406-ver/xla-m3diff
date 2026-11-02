@@ -1,0 +1,27 @@
+{
+  "cap_usd": 7,
+  "train": {
+    "gpu": "A100-80GB",
+    "cpu_request_and_limit": 4,
+    "memory_request_and_limit_gib": 32,
+    "timeout_seconds": 5280,
+    "rate_upper_hour": "3.24",
+    "reservation": "4.92"
+  },
+  "evaluation": {
+    "gpu": "A10",
+    "cpu_request_and_limit": 4,
+    "memory_request_and_limit_gib": 32,
+    "timeout_seconds": 3600,
+    "rate_upper_hour": "1.70",
+    "reservation": "1.79"
+  },
+  "cpu_preparation_reservation": "0.25",
+  "startup_allowance_each_seconds": 180,
+  "precheck_costs_before_this_round": "Excluded: already completed historical evaluations. No actual-spend claim from reservations.",
+  "training_must_not_start_until_data_audit_approved": true,
+  "no_automatic_retry_of_training": true,
+  "full_test": "Requires all gates AND remaining7USD admission, not guaranteed by these reservations.",
+  "reserved_total": "6.96",
+  "reason_for_cpu_reserve": "Includes initial failed cache check and bounded preparation repairs before any training; source cache/hashes now persisted."
+}

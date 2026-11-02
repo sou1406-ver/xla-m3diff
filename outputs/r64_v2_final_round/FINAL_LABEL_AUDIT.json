@@ -1,0 +1,3009 @@
+{
+  "stage": "BEFORE_FIRST_TRAINING_ATTEMPT",
+  "utc": "2026-11-02T15:51:41.578135+00:00",
+  "reason": "Assistant visual audit found coarse HSV colour names sometimes disagree with perceived colours. Retain grounded colour-change/category/location claims; remove coarse colour adjectives from generated multi-object claims. Original official replay untouched. This is a package of data changes, not an isolated colour ablation.",
+  "before_train_sha256": "00ee3d7a8c394cd2a9cda1856de1b70f7c2fb3661bffa6bf542a35c9128d1847",
+  "after_train_sha256": "353afb4a47161fabe7128dc4c0c42deaeb1ea67ea0867861932a6ad9ae2713a8",
+  "changes": [
+    {
+      "id": "v2_single_color_0000",
+      "before": "The color of the chair on the right side of the scene has changed from red to blue.",
+      "after": "The color of the chair on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0001",
+      "before": "The vase in the center of the scene has changed from brown to purple.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0002",
+      "before": "The chair in the center of the scene has changed from brown to cyan.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0003",
+      "before": "The color of the dog in the lower left part of the scene has changed from orange to yellow.",
+      "after": "The color of the dog in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0004",
+      "before": "The teddy bear on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the teddy bear on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0005",
+      "before": "The color of the clock on the right side of the scene has changed from blue to cyan.",
+      "after": "The color of the clock on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0006",
+      "before": "The chair on the left side of the scene has changed from orange to green.",
+      "after": "The color of the chair on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0007",
+      "before": "The teddy bear in the center of the scene has changed from brown to pink.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0008",
+      "before": "The color of the vase in the center of the scene has changed from yellow to green.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0009",
+      "before": "The blue laptop on the left side of the scene has turned green.",
+      "after": "The color of the laptop on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0010",
+      "before": "The vase on the left side of the scene has changed from yellow to brown.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0011",
+      "before": "The color of the car in the center of the scene has changed from red to blue.",
+      "after": "The color of the car in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0012",
+      "before": "The color of the teddy bear in the center of the scene has changed from orange to red.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0013",
+      "before": "The laptop in the lower right part of the scene has changed from yellow to pink.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0014",
+      "before": "The color of the car in the center of the scene has changed from red to blue.",
+      "after": "The color of the car in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0015",
+      "before": "The color of the laptop in the lower part of the scene has changed from cyan to blue.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0016",
+      "before": "The color of the vase in the lower part of the scene has changed from green to cyan.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0017",
+      "before": "The bowl in the center of the scene has changed from yellow to purple.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0018",
+      "before": "The blue car on the right side of the scene has turned pink.",
+      "after": "The color of the car on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0019",
+      "before": "The banana in the lower part of the scene has changed from yellow to purple.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0020",
+      "before": "The bowl on the left side of the scene has changed from red to yellow.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0021",
+      "before": "The green cup on the right side of the scene has turned cyan.",
+      "after": "The color of the cup on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0022",
+      "before": "The vase in the lower part of the scene has changed from orange to purple.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0023",
+      "before": "The green suitcase in the lower right part of the scene has turned cyan.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0024",
+      "before": "The bottle in the center of the scene has changed from orange to green.",
+      "after": "The color of the bottle in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0025",
+      "before": "The banana in the lower part of the scene has changed from orange to green.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0026",
+      "before": "The suitcase on the left side of the scene has changed from orange to pink.",
+      "after": "The color of the suitcase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0027",
+      "before": "The bowl in the lower right part of the scene has changed from yellow to purple.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0028",
+      "before": "The brown dog in the center of the scene has turned purple.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0029",
+      "before": "The teddy bear on the left side of the scene has changed from orange to purple.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0030",
+      "before": "The color of the banana in the lower left part of the scene has changed from yellow to pink.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0031",
+      "before": "The color of the banana on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the banana on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0032",
+      "before": "The brown teddy bear in the center of the scene has turned purple.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0033",
+      "before": "The color of the chair in the center of the scene has changed from yellow to purple.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0034",
+      "before": "The orange dog on the right side of the scene has turned green.",
+      "after": "The color of the dog on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0035",
+      "before": "The brown book on the right side of the scene has turned pink.",
+      "after": "The color of the book on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0036",
+      "before": "The vase on the right side of the scene has changed from green to red.",
+      "after": "The color of the vase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0037",
+      "before": "The color of the dog in the center of the scene has changed from brown to green.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0038",
+      "before": "The chair in the center of the scene has changed from yellow to red.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0039",
+      "before": "The vase on the left side of the scene has changed from yellow to pink.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0040",
+      "before": "The brown dog on the left side of the scene has turned pink.",
+      "after": "The color of the dog on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0041",
+      "before": "The vase on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the vase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0042",
+      "before": "The color of the potted plant in the center of the scene has changed from red to blue.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0043",
+      "before": "The orange bowl on the left side of the scene has turned red.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0044",
+      "before": "The vase in the center of the scene has changed from green to brown.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0045",
+      "before": "The cup on the left side of the scene has changed from brown to green.",
+      "after": "The color of the cup on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0046",
+      "before": "The bowl on the right side of the scene has changed from yellow to red.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0047",
+      "before": "The color of the chair in the lower right part of the scene has changed from orange to purple.",
+      "after": "The color of the chair in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0048",
+      "before": "The dog on the left side of the scene has changed from orange to cyan.",
+      "after": "The color of the dog on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0049",
+      "before": "The color of the bowl in the center of the scene has changed from orange to green.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0050",
+      "before": "The blue car in the center of the scene has turned pink.",
+      "after": "The color of the car in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0051",
+      "before": "The potted plant in the lower part of the scene has changed from yellow to green.",
+      "after": "The color of the potted plant in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0052",
+      "before": "The color of the bicycle in the center of the scene has changed from cyan to pink.",
+      "after": "The color of the bicycle in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0053",
+      "before": "The red book in the center of the scene has turned pink.",
+      "after": "The color of the book in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0054",
+      "before": "The clock in the lower part of the scene has changed from orange to purple.",
+      "after": "The color of the clock in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0055",
+      "before": "The vase on the left side of the scene has changed from brown to pink.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0056",
+      "before": "The red vase in the center of the scene has turned yellow.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0057",
+      "before": "The color of the cat in the center of the scene has changed from brown to yellow.",
+      "after": "The color of the cat in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0058",
+      "before": "The color of the teddy bear in the center of the scene has changed from brown to green.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0059",
+      "before": "The color of the clock in the lower part of the scene has changed from orange to cyan.",
+      "after": "The color of the clock in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0060",
+      "before": "The color of the vase on the right side of the scene has changed from brown to pink.",
+      "after": "The color of the vase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0061",
+      "before": "The vase in the lower left part of the scene has changed from red to yellow.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0062",
+      "before": "The chair in the lower part of the scene has changed from red to blue.",
+      "after": "The color of the chair in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0063",
+      "before": "The brown teddy bear in the center of the scene has turned yellow.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0064",
+      "before": "The clock in the lower right part of the scene has changed from yellow to pink.",
+      "after": "The color of the clock in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0065",
+      "before": "The color of the bowl on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0066",
+      "before": "The red teddy bear on the left side of the scene has turned pink.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0067",
+      "before": "The color of the chair in the center of the scene has changed from brown to pink.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0068",
+      "before": "The chair on the right side of the scene has changed from orange to green.",
+      "after": "The color of the chair on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0069",
+      "before": "The orange teddy bear in the center of the scene has turned green.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0070",
+      "before": "The color of the vase in the lower right part of the scene has changed from yellow to purple.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0071",
+      "before": "The vase on the left side of the scene has changed from green to pink.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0072",
+      "before": "The suitcase in the lower left part of the scene has changed from red to yellow.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0073",
+      "before": "The red potted plant on the right side of the scene has turned green.",
+      "after": "The color of the potted plant on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0074",
+      "before": "The banana on the right side of the scene has changed from orange to purple.",
+      "after": "The color of the banana on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0075",
+      "before": "The red cup on the right side of the scene has turned yellow.",
+      "after": "The color of the cup on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0076",
+      "before": "The color of the banana in the lower right part of the scene has changed from yellow to green.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0077",
+      "before": "The apple on the left side of the scene has changed from red to purple.",
+      "after": "The color of the apple on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0078",
+      "before": "The chair in the center of the scene has changed from yellow to purple.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0079",
+      "before": "The book in the center of the scene has changed from red to green.",
+      "after": "The color of the book in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0080",
+      "before": "The vase in the lower part of the scene has changed from green to blue.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0081",
+      "before": "The red umbrella in the lower part of the scene has turned yellow.",
+      "after": "The color of the umbrella in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0082",
+      "before": "The chair in the center of the scene has changed from brown to purple.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0083",
+      "before": "The color of the potted plant on the left side of the scene has changed from yellow to blue.",
+      "after": "The color of the potted plant on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0084",
+      "before": "The teddy bear on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the teddy bear on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0085",
+      "before": "The color of the suitcase in the lower right part of the scene has changed from cyan to green.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0086",
+      "before": "The potted plant in the center of the scene has changed from green to cyan.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0087",
+      "before": "The teddy bear in the lower part of the scene has changed from brown to red.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0088",
+      "before": "The color of the vase in the center of the scene has changed from red to pink.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0089",
+      "before": "The color of the car in the lower left part of the scene has changed from red to green.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0090",
+      "before": "The yellow potted plant in the lower part of the scene has turned red.",
+      "after": "The color of the potted plant in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0091",
+      "before": "The color of the clock in the center of the scene has changed from pink to blue.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0092",
+      "before": "The cup in the lower part of the scene has changed from purple to blue.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0093",
+      "before": "The cat in the lower right part of the scene has changed from brown to cyan.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0094",
+      "before": "The brown cup on the left side of the scene has turned blue.",
+      "after": "The color of the cup on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0095",
+      "before": "The chair on the right side of the scene has changed from orange to green.",
+      "after": "The color of the chair on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0096",
+      "before": "The potted plant on the left side of the scene has changed from yellow to purple.",
+      "after": "The color of the potted plant on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0097",
+      "before": "The color of the clock in the lower part of the scene has changed from yellow to pink.",
+      "after": "The color of the clock in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0098",
+      "before": "The car in the lower right part of the scene has changed from cyan to pink.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0099",
+      "before": "The color of the car in the center of the scene has changed from blue to green.",
+      "after": "The color of the car in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0100",
+      "before": "The blue suitcase on the left side of the scene has turned pink.",
+      "after": "The color of the suitcase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0101",
+      "before": "The potted plant in the center of the scene has changed from brown to pink.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0102",
+      "before": "The orange cup in the lower part of the scene has turned cyan.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0103",
+      "before": "The blue laptop in the center of the scene has turned pink.",
+      "after": "The color of the laptop in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0104",
+      "before": "The bottle on the right side of the scene has changed from red to yellow.",
+      "after": "The color of the bottle on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0105",
+      "before": "The blue laptop on the left side of the scene has turned green.",
+      "after": "The color of the laptop on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0106",
+      "before": "The yellow suitcase on the left side of the scene has turned red.",
+      "after": "The color of the suitcase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0107",
+      "before": "The cat in the center of the scene has changed from brown to cyan.",
+      "after": "The color of the cat in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0108",
+      "before": "The potted plant in the center of the scene has changed from yellow to brown.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0109",
+      "before": "The brown dog in the lower left part of the scene has turned yellow.",
+      "after": "The color of the dog in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0110",
+      "before": "The color of the vase in the lower right part of the scene has changed from red to green.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0111",
+      "before": "The color of the chair in the center of the scene has changed from red to green.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0112",
+      "before": "The vase in the center of the scene has changed from brown to purple.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0113",
+      "before": "The color of the book in the lower part of the scene has changed from brown to purple.",
+      "after": "The color of the book in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0114",
+      "before": "The brown umbrella in the lower part of the scene has turned pink.",
+      "after": "The color of the umbrella in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0115",
+      "before": "The color of the umbrella on the right side of the scene has changed from brown to pink.",
+      "after": "The color of the umbrella on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0116",
+      "before": "The orange suitcase in the center of the scene has turned red.",
+      "after": "The color of the suitcase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0117",
+      "before": "The yellow banana on the right side of the scene has turned green.",
+      "after": "The color of the banana on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0118",
+      "before": "The yellow clock in the center of the scene has turned cyan.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0119",
+      "before": "The color of the clock in the center of the scene has changed from yellow to green.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0120",
+      "before": "The color of the banana in the center of the scene has changed from yellow to pink.",
+      "after": "The color of the banana in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0121",
+      "before": "The color of the potted plant on the left side of the scene has changed from yellow to pink.",
+      "after": "The color of the potted plant on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0122",
+      "before": "The brown dog on the right side of the scene has turned green.",
+      "after": "The color of the dog on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0123",
+      "before": "The vase in the lower right part of the scene has changed from brown to pink.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0124",
+      "before": "The color of the cat in the lower part of the scene has changed from brown to pink.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0125",
+      "before": "The suitcase on the left side of the scene has changed from orange to pink.",
+      "after": "The color of the suitcase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0126",
+      "before": "The teddy bear in the lower left part of the scene has changed from green to pink.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0127",
+      "before": "The color of the bowl in the lower part of the scene has changed from orange to green.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0128",
+      "before": "The dog in the lower right part of the scene has changed from brown to yellow.",
+      "after": "The color of the dog in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0129",
+      "before": "The cup on the right side of the scene has changed from yellow to green.",
+      "after": "The color of the cup on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0130",
+      "before": "The yellow chair in the center of the scene has turned red.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0131",
+      "before": "The orange dog in the center of the scene has turned blue.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0132",
+      "before": "The color of the cat on the right side of the scene has changed from brown to green.",
+      "after": "The color of the cat on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0133",
+      "before": "The brown chair in the center of the scene has turned pink.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0134",
+      "before": "The dog in the center of the scene has changed from brown to green.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0135",
+      "before": "The orange teddy bear on the left side of the scene has turned yellow.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0136",
+      "before": "The color of the suitcase on the right side of the scene has changed from red to green.",
+      "after": "The color of the suitcase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0137",
+      "before": "The color of the bicycle in the center of the scene has changed from cyan to purple.",
+      "after": "The color of the bicycle in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0138",
+      "before": "The yellow potted plant in the center of the scene has turned purple.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0139",
+      "before": "The brown cat in the lower right part of the scene has turned purple.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0140",
+      "before": "The brown cat in the lower left part of the scene has turned pink.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0141",
+      "before": "The color of the cup in the center of the scene has changed from yellow to blue.",
+      "after": "The color of the cup in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0142",
+      "before": "The color of the dog in the center of the scene has changed from orange to pink.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0143",
+      "before": "The cat in the lower part of the scene has changed from yellow to red.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0144",
+      "before": "The bottle on the right side of the scene has changed from red to blue.",
+      "after": "The color of the bottle on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0145",
+      "before": "The blue clock in the center of the scene has turned cyan.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0146",
+      "before": "The bowl on the right side of the scene has changed from yellow to red.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0147",
+      "before": "The orange bottle in the lower part of the scene has turned pink.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0148",
+      "before": "The color of the teddy bear in the center of the scene has changed from brown to pink.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0149",
+      "before": "The color of the banana in the center of the scene has changed from yellow to cyan.",
+      "after": "The color of the banana in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0150",
+      "before": "The cup on the left side of the scene has changed from orange to green.",
+      "after": "The color of the cup on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0151",
+      "before": "The laptop in the lower part of the scene has changed from blue to green.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0152",
+      "before": "The color of the cup in the lower part of the scene has changed from orange to green.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0153",
+      "before": "The color of the cat on the left side of the scene has changed from brown to green.",
+      "after": "The color of the cat on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0154",
+      "before": "The blue laptop in the lower part of the scene has turned pink.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0155",
+      "before": "The color of the potted plant in the center of the scene has changed from yellow to red.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0156",
+      "before": "The color of the cup on the right side of the scene has changed from brown to red.",
+      "after": "The color of the cup on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0157",
+      "before": "The orange bowl on the left side of the scene has turned purple.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0158",
+      "before": "The color of the teddy bear on the right side of the scene has changed from yellow to red.",
+      "after": "The color of the teddy bear on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0159",
+      "before": "The blue cup in the lower left part of the scene has turned red.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0160",
+      "before": "The bowl on the left side of the scene has changed from orange to green.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0161",
+      "before": "The vase in the center of the scene has changed from yellow to red.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0162",
+      "before": "The orange teddy bear in the lower part of the scene has turned pink.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0163",
+      "before": "The teddy bear in the lower right part of the scene has changed from brown to green.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0164",
+      "before": "The color of the umbrella in the lower part of the scene has changed from red to blue.",
+      "after": "The color of the umbrella in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0165",
+      "before": "The yellow cat in the lower right part of the scene has turned green.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0166",
+      "before": "The color of the cup in the lower part of the scene has changed from pink to cyan.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0167",
+      "before": "The orange dog on the left side of the scene has turned green.",
+      "after": "The color of the dog on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0168",
+      "before": "The orange teddy bear on the left side of the scene has turned green.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0169",
+      "before": "The banana in the lower left part of the scene has changed from yellow to blue.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0170",
+      "before": "The color of the bowl in the lower left part of the scene has changed from red to green.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0171",
+      "before": "The bowl in the lower right part of the scene has changed from orange to green.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0172",
+      "before": "The yellow cat in the lower left part of the scene has turned red.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0173",
+      "before": "The color of the vase in the lower part of the scene has changed from red to pink.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0174",
+      "before": "The color of the clock in the center of the scene has changed from yellow to cyan.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0175",
+      "before": "The bottle on the left side of the scene has changed from blue to cyan.",
+      "after": "The color of the bottle on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0176",
+      "before": "The color of the dog on the right side of the scene has changed from brown to pink.",
+      "after": "The color of the dog on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0177",
+      "before": "The banana in the lower left part of the scene has changed from orange to purple.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0178",
+      "before": "The color of the bottle on the right side of the scene has changed from red to purple.",
+      "after": "The color of the bottle on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0179",
+      "before": "The color of the chair in the center of the scene has changed from red to pink.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0180",
+      "before": "The banana on the right side of the scene has changed from orange to cyan.",
+      "after": "The color of the banana on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0181",
+      "before": "The bottle in the lower left part of the scene has changed from red to green.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0182",
+      "before": "The color of the cat in the center of the scene has changed from yellow to purple.",
+      "after": "The color of the cat in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0183",
+      "before": "The bowl in the center of the scene has changed from red to orange.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0184",
+      "before": "The vase in the lower part of the scene has changed from green to blue.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0185",
+      "before": "The bowl in the lower left part of the scene has changed from yellow to green.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0186",
+      "before": "The color of the suitcase in the center of the scene has changed from orange to cyan.",
+      "after": "The color of the suitcase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0187",
+      "before": "The blue car in the center of the scene has turned cyan.",
+      "after": "The color of the car in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0188",
+      "before": "The laptop on the right side of the scene has changed from blue to green.",
+      "after": "The color of the laptop on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0189",
+      "before": "The potted plant in the center of the scene has changed from red to yellow.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0190",
+      "before": "The color of the cat on the left side of the scene has changed from brown to cyan.",
+      "after": "The color of the cat on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0191",
+      "before": "The blue clock in the center of the scene has turned green.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0192",
+      "before": "The potted plant on the left side of the scene has changed from brown to red.",
+      "after": "The color of the potted plant on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0193",
+      "before": "The color of the bottle in the center of the scene has changed from brown to green.",
+      "after": "The color of the bottle in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0194",
+      "before": "The brown vase in the lower part of the scene has turned green.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0195",
+      "before": "The orange bowl in the center of the scene has turned green.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0196",
+      "before": "The color of the suitcase in the lower right part of the scene has changed from green to blue.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0197",
+      "before": "The yellow banana in the center of the scene has turned brown.",
+      "after": "The color of the banana in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0198",
+      "before": "The potted plant on the right side of the scene has changed from brown to cyan.",
+      "after": "The color of the potted plant on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0199",
+      "before": "The blue laptop in the center of the scene has turned pink.",
+      "after": "The color of the laptop in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0200",
+      "before": "The vase in the lower left part of the scene has changed from green to brown.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0201",
+      "before": "The color of the bottle in the lower part of the scene has changed from blue to red.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0202",
+      "before": "The yellow banana in the lower left part of the scene has turned purple.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0203",
+      "before": "The red car on the right side of the scene has turned green.",
+      "after": "The color of the car on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0204",
+      "before": "The yellow bowl in the center of the scene has turned cyan.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0205",
+      "before": "The color of the bowl on the right side of the scene has changed from orange to red.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0206",
+      "before": "The blue suitcase in the lower right part of the scene has turned pink.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0207",
+      "before": "The blue laptop in the center of the scene has turned red.",
+      "after": "The color of the laptop in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0208",
+      "before": "The color of the teddy bear in the lower right part of the scene has changed from brown to pink.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0209",
+      "before": "The yellow dog in the center of the scene has turned purple.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0210",
+      "before": "The yellow bowl in the center of the scene has turned pink.",
+      "after": "The color of the bowl in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0211",
+      "before": "The brown cat in the center of the scene has turned green.",
+      "after": "The color of the cat in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0212",
+      "before": "The potted plant in the center of the scene has changed from yellow to pink.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0213",
+      "before": "The dog in the lower right part of the scene has changed from brown to red.",
+      "after": "The color of the dog in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0214",
+      "before": "The brown dog in the center of the scene has turned pink.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0215",
+      "before": "The color of the teddy bear in the lower right part of the scene has changed from orange to purple.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0216",
+      "before": "The color of the umbrella in the lower right part of the scene has changed from green to cyan.",
+      "after": "The color of the umbrella in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0217",
+      "before": "The brown vase on the right side of the scene has turned purple.",
+      "after": "The color of the vase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0218",
+      "before": "The brown book in the center of the scene has turned cyan.",
+      "after": "The color of the book in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0219",
+      "before": "The vase in the lower right part of the scene has changed from yellow to pink.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0220",
+      "before": "The blue laptop in the center of the scene has turned red.",
+      "after": "The color of the laptop in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0221",
+      "before": "The orange cat in the lower part of the scene has turned pink.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0222",
+      "before": "The chair in the center of the scene has changed from red to blue.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0223",
+      "before": "The color of the laptop on the left side of the scene has changed from blue to yellow.",
+      "after": "The color of the laptop on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0224",
+      "before": "The brown chair in the center of the scene has turned red.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0225",
+      "before": "The brown chair on the right side of the scene has turned green.",
+      "after": "The color of the chair on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0226",
+      "before": "The color of the car on the left side of the scene has changed from cyan to pink.",
+      "after": "The color of the car on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0227",
+      "before": "The color of the teddy bear on the right side of the scene has changed from orange to purple.",
+      "after": "The color of the teddy bear on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0228",
+      "before": "The color of the car in the lower part of the scene has changed from red to green.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0229",
+      "before": "The yellow cat in the center of the scene has turned pink.",
+      "after": "The color of the cat in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0230",
+      "before": "The vase in the lower right part of the scene has changed from green to red.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0231",
+      "before": "The color of the suitcase on the right side of the scene has changed from red to green.",
+      "after": "The color of the suitcase on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0232",
+      "before": "The teddy bear on the left side of the scene has changed from orange to yellow.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0233",
+      "before": "The yellow umbrella on the left side of the scene has turned green.",
+      "after": "The color of the umbrella on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0234",
+      "before": "The bowl in the lower left part of the scene has changed from red to pink.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0235",
+      "before": "The orange bowl in the lower part of the scene has turned pink.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0236",
+      "before": "The bottle in the center of the scene has changed from red to green.",
+      "after": "The color of the bottle in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0237",
+      "before": "The orange cup in the lower part of the scene has turned green.",
+      "after": "The color of the cup in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0238",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to blue.",
+      "after": "The color of the banana on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0239",
+      "before": "The color of the teddy bear in the lower part of the scene has changed from yellow to pink.",
+      "after": "The color of the teddy bear in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0240",
+      "before": "The color of the car in the lower left part of the scene has changed from red to yellow.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0241",
+      "before": "The color of the cup in the center of the scene has changed from orange to pink.",
+      "after": "The color of the cup in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0242",
+      "before": "The clock in the center of the scene has changed from orange to green.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0243",
+      "before": "The color of the suitcase in the lower right part of the scene has changed from orange to green.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0244",
+      "before": "The bottle in the lower part of the scene has changed from purple to blue.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0245",
+      "before": "The gray laptop in the lower part of the scene has turned orange.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0246",
+      "before": "The color of the cup on the left side of the scene has changed from red to green.",
+      "after": "The color of the cup on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0247",
+      "before": "The car on the right side of the scene has changed from red to pink.",
+      "after": "The color of the car on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0248",
+      "before": "The yellow cat on the left side of the scene has turned purple.",
+      "after": "The color of the cat on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0249",
+      "before": "The color of the bowl on the left side of the scene has changed from orange to cyan.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0250",
+      "before": "The color of the bottle in the lower right part of the scene has changed from yellow to green.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0251",
+      "before": "The brown chair in the center of the scene has turned green.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0252",
+      "before": "The clock on the right side of the scene has changed from orange to green.",
+      "after": "The color of the clock on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0253",
+      "before": "The umbrella in the center of the scene has changed from red to green.",
+      "after": "The color of the umbrella in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0254",
+      "before": "The potted plant in the lower right part of the scene has changed from yellow to green.",
+      "after": "The color of the potted plant in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0255",
+      "before": "The color of the clock in the center of the scene has changed from blue to green.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0256",
+      "before": "The clock in the center of the scene has changed from orange to cyan.",
+      "after": "The color of the clock in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0257",
+      "before": "The yellow cup on the right side of the scene has turned pink.",
+      "after": "The color of the cup on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0258",
+      "before": "The brown vase on the left side of the scene has turned green.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0259",
+      "before": "The red apple in the center of the scene has turned pink.",
+      "after": "The color of the apple in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0260",
+      "before": "The car in the lower left part of the scene has changed from red to green.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0261",
+      "before": "The red car in the lower part of the scene has turned yellow.",
+      "after": "The color of the car in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0262",
+      "before": "The color of the cat in the lower part of the scene has changed from brown to red.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0263",
+      "before": "The suitcase in the lower right part of the scene has changed from yellow to green.",
+      "after": "The color of the suitcase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0264",
+      "before": "The cat in the lower part of the scene has changed from orange to purple.",
+      "after": "The color of the cat in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0265",
+      "before": "The color of the teddy bear in the center of the scene has changed from green to red.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0266",
+      "before": "The clock on the right side of the scene has changed from blue to green.",
+      "after": "The color of the clock on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0267",
+      "before": "The laptop in the lower right part of the scene has changed from yellow to red.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0268",
+      "before": "The green vase in the center of the scene has turned pink.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0269",
+      "before": "The cup in the center of the scene has changed from yellow to cyan.",
+      "after": "The color of the cup in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0270",
+      "before": "The red potted plant in the center of the scene has turned pink.",
+      "after": "The color of the potted plant in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0271",
+      "before": "The color of the chair in the center of the scene has changed from orange to green.",
+      "after": "The color of the chair in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0272",
+      "before": "The green banana in the lower part of the scene has turned pink.",
+      "after": "The color of the banana in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0273",
+      "before": "The color of the cup in the center of the scene has changed from yellow to cyan.",
+      "after": "The color of the cup in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0274",
+      "before": "The laptop in the lower right part of the scene has changed from gray to green.",
+      "after": "The color of the laptop in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0275",
+      "before": "The orange teddy bear in the center of the scene has turned pink.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0276",
+      "before": "The dog on the left side of the scene has changed from brown to purple.",
+      "after": "The color of the dog on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0277",
+      "before": "The color of the potted plant in the lower left part of the scene has changed from red to purple.",
+      "after": "The color of the potted plant in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0278",
+      "before": "The orange vase in the lower part of the scene has turned green.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0279",
+      "before": "The yellow dog in the center of the scene has turned cyan.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0280",
+      "before": "The teddy bear on the right side of the scene has changed from orange to purple.",
+      "after": "The color of the teddy bear on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0281",
+      "before": "The brown book in the center of the scene has turned green.",
+      "after": "The color of the book in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0282",
+      "before": "The brown teddy bear on the left side of the scene has turned green.",
+      "after": "The color of the teddy bear on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0283",
+      "before": "The color of the bowl on the left side of the scene has changed from red to green.",
+      "after": "The color of the bowl on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0284",
+      "before": "The vase in the center of the scene has changed from yellow to red.",
+      "after": "The color of the vase in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0285",
+      "before": "The book on the left side of the scene has changed from red to pink.",
+      "after": "The color of the book on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0286",
+      "before": "The brown dog in the center of the scene has turned purple.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0287",
+      "before": "The suitcase on the left side of the scene has changed from red to blue.",
+      "after": "The color of the suitcase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0288",
+      "before": "The teddy bear in the center of the scene has changed from brown to pink.",
+      "after": "The color of the teddy bear in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0289",
+      "before": "The yellow banana on the right side of the scene has turned pink.",
+      "after": "The color of the banana on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0290",
+      "before": "The color of the bottle in the lower right part of the scene has changed from yellow to pink.",
+      "after": "The color of the bottle in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0291",
+      "before": "The yellow banana on the left side of the scene has turned green.",
+      "after": "The color of the banana on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0292",
+      "before": "The dog in the center of the scene has changed from yellow to green.",
+      "after": "The color of the dog in the center of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0293",
+      "before": "The bowl on the right side of the scene has changed from orange to pink.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0294",
+      "before": "The color of the bowl in the lower part of the scene has changed from orange to green.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0295",
+      "before": "The bowl on the right side of the scene has changed from yellow to red.",
+      "after": "The color of the bowl on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0296",
+      "before": "The color of the laptop on the right side of the scene has changed from cyan to yellow.",
+      "after": "The color of the laptop on the right side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0297",
+      "before": "The red bowl in the lower part of the scene has turned pink.",
+      "after": "The color of the bowl in the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0298",
+      "before": "The green vase on the left side of the scene has turned pink.",
+      "after": "The color of the vase on the left side of the scene has changed."
+    },
+    {
+      "id": "v2_single_color_0299",
+      "before": "The color of the vase in the lower right part of the scene has changed from orange to green.",
+      "after": "The color of the vase in the scene has changed."
+    },
+    {
+      "id": "v2_multi_object_0000",
+      "before": "The color of the cat on the left side of the scene has changed from brown to pink. A new black chair is now present on the right side of the scene. A black suitcase has appeared in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. A new chair is now present on the right side of the scene. A suitcase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0001",
+      "before": "The yellow potted plant on the left side of the scene has turned green. The white cup that was on the right side of the scene has been removed.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The cup that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0002",
+      "before": "The color of the cup on the left side of the scene has changed from green to red. The gray clock on the right side of the scene has moved to the right. A black cat has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. The clock on the right side of the scene has moved to the right. A cat has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0003",
+      "before": "The yellow cup on the left side of the scene has turned green. The orange teddy bear on the right side of the scene has become larger.",
+      "after": "The color of the cup on the left side of the scene has changed. The teddy bear on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0004",
+      "before": "The car on the left side of the scene has changed from cyan to yellow. A new gray clock is now present on the right side of the scene. A white book has appeared in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A new clock is now present on the right side of the scene. A book has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0005",
+      "before": "The green bowl on the left side of the scene has turned blue. The orange cup on the right side of the scene is no longer present.",
+      "after": "The color of the bowl on the left side of the scene has changed. The cup on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0006",
+      "before": "The clock on the left side of the scene has changed from yellow to cyan. The brown bowl on the right side of the scene has shifted toward the right side of the scene. A new white cup is now present in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. The bowl on the right side of the scene has shifted toward the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0007",
+      "before": "The color of the cup on the left side of the scene has changed from blue to pink. The blue car on the right side of the scene has become larger.",
+      "after": "The color of the cup on the left side of the scene has changed. The car on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0008",
+      "before": "The brown cup on the left side of the scene has turned purple. A new yellow banana is now present on the right side of the scene. A gray cat has appeared in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A new banana is now present on the right side of the scene. A cat has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0009",
+      "before": "The orange teddy bear on the left side of the scene has turned blue. The black suitcase on the right side of the scene has disappeared.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The suitcase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0010",
+      "before": "The pink clock on the left side of the scene has turned cyan. The brown vase on the right side of the scene has shifted toward the right side of the scene. A yellow bowl has been added in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. The vase on the right side of the scene has shifted toward the right side of the scene. A bowl has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0011",
+      "before": "The orange bowl on the left side of the scene has turned green. The black suitcase on the right side of the scene has become larger.",
+      "after": "The color of the bowl on the left side of the scene has changed. The suitcase on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0012",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to cyan. A blue car has been added on the right side of the scene. A gray suitcase has been added in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A car has been added on the right side of the scene. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0013",
+      "before": "The yellow banana on the left side of the scene has turned purple. The pink book on the right side of the scene is no longer present.",
+      "after": "The color of the banana on the left side of the scene has changed. The book on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0014",
+      "before": "The cyan car on the left side of the scene has turned yellow. The red potted plant on the right side of the scene has shifted toward the right side of the scene. A new yellow cup is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. The potted plant on the right side of the scene has shifted toward the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0015",
+      "before": "The color of the bowl on the left side of the scene has changed from orange to cyan. The gray clock on the right side of the scene has been enlarged.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0016",
+      "before": "The vase on the left side of the scene has changed from brown to green. A white cup has been added on the right side of the scene. A white dog has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A cup has been added on the right side of the scene. A dog has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0017",
+      "before": "The pink clock on the left side of the scene has turned yellow. The gray laptop that was on the right side of the scene has been removed.",
+      "after": "The color of the clock on the left side of the scene has changed. The laptop that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0018",
+      "before": "The yellow potted plant on the left side of the scene has turned pink. The blue chair that was on the right side of the scene has been moved to the right. A yellow banana has appeared in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The chair that was on the right side of the scene has been moved to the right. A banana has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0019",
+      "before": "The color of the umbrella on the left side of the scene has changed from yellow to pink. The blue bottle on the right side of the scene has become larger.",
+      "after": "The color of the umbrella on the left side of the scene has changed. The bottle on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0020",
+      "before": "The color of the car on the left side of the scene has changed from red to blue. A yellow vase has appeared on the right side of the scene. A white bowl has appeared in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A vase has appeared on the right side of the scene. A bowl has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0021",
+      "before": "The bottle on the left side of the scene has changed from red to purple. The gray clock that was on the right side of the scene has been removed.",
+      "after": "The color of the bottle on the left side of the scene has changed. The clock that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0022",
+      "before": "The green cup on the left side of the scene has turned blue. The orange chair that was on the right side of the scene has been moved to the right. A black potted plant has appeared in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. The chair that was on the right side of the scene has been moved to the right. A potted plant has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0023",
+      "before": "The color of the cup on the left side of the scene has changed from blue to green. The brown cat on the right side of the scene has become larger.",
+      "after": "The color of the cup on the left side of the scene has changed. The cat on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0024",
+      "before": "The yellow banana on the left side of the scene has turned purple. A yellow potted plant has appeared on the right side of the scene. A gray clock has been added in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A potted plant has appeared on the right side of the scene. A clock has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0025",
+      "before": "The yellow bowl on the left side of the scene has turned green. The yellow vase on the right side of the scene has disappeared.",
+      "after": "The color of the bowl on the left side of the scene has changed. The vase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0026",
+      "before": "The color of the chair on the left side of the scene has changed from yellow to purple. The yellow banana on the right side of the scene has moved to the right. A new orange bottle is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The banana on the right side of the scene has moved to the right. A new bottle is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0027",
+      "before": "The car on the left side of the scene has changed from cyan to pink. The orange dog on the right side of the scene has become larger.",
+      "after": "The color of the car on the left side of the scene has changed. The dog on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0028",
+      "before": "The orange teddy bear on the left side of the scene has turned pink. A gray laptop has been added on the right side of the scene. A gray car has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A laptop has been added on the right side of the scene. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0029",
+      "before": "The color of the apple on the left side of the scene has changed from red to blue. The gray clock on the right side of the scene is no longer present.",
+      "after": "The color of the apple on the left side of the scene has changed. The clock on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0030",
+      "before": "The chair on the left side of the scene has changed from orange to blue. The yellow umbrella on the right side of the scene has moved to the right. A new black dog is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The umbrella on the right side of the scene has moved to the right. A new dog is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0031",
+      "before": "The brown vase on the left side of the scene has turned blue. The brown bowl on the right side of the scene has become larger.",
+      "after": "The color of the vase on the left side of the scene has changed. The bowl on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0032",
+      "before": "The yellow suitcase on the left side of the scene has turned pink. A white clock has been added on the right side of the scene. A brown bowl has been added in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. A clock has been added on the right side of the scene. A bowl has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0033",
+      "before": "The blue suitcase on the left side of the scene has turned green. The blue laptop on the right side of the scene has disappeared.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The laptop on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0034",
+      "before": "The color of the bottle on the left side of the scene has changed from red to green. The gray clock on the right side of the scene has moved to the right. A brown teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. The clock on the right side of the scene has moved to the right. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0035",
+      "before": "The color of the dog on the left side of the scene has changed from brown to green. The size of the brown cup on the right side of the scene has increased.",
+      "after": "The color of the dog on the left side of the scene has changed. The size of the cup on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0036",
+      "before": "The cyan laptop on the left side of the scene has turned brown. A brown teddy bear has been added on the right side of the scene. An orange suitcase has been added in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. A teddy bear has been added on the right side of the scene. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0037",
+      "before": "The brown dog on the left side of the scene has turned pink. The gray suitcase on the right side of the scene has disappeared.",
+      "after": "The color of the dog on the left side of the scene has changed. The suitcase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0038",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to cyan. The orange cup on the right side of the scene has shifted toward the right side of the scene. A new black cat is now present in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The cup on the right side of the scene has shifted toward the right side of the scene. A new cat is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0039",
+      "before": "The color of the dog on the left side of the scene has changed from orange to pink. The orange bowl on the right side of the scene has become larger.",
+      "after": "The color of the dog on the left side of the scene has changed. The bowl on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0040",
+      "before": "The color of the teddy bear on the left side of the scene has changed from green to pink. A new blue cup is now present on the right side of the scene. A blue car has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A new cup is now present on the right side of the scene. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0041",
+      "before": "The red teddy bear on the left side of the scene has turned green. The white clock that was on the right side of the scene has been removed.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The clock that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0042",
+      "before": "The brown vase on the left side of the scene has turned green. The brown teddy bear on the right side of the scene has moved to the right. A brown dog has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The teddy bear on the right side of the scene has moved to the right. A dog has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0043",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to green. The orange teddy bear on the right side of the scene has become larger.",
+      "after": "The color of the banana on the left side of the scene has changed. The teddy bear on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0044",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to pink. A new brown teddy bear is now present on the right side of the scene. A new purple bottle is now present in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A new teddy bear is now present on the right side of the scene. A new bottle is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0045",
+      "before": "The color of the bowl on the left side of the scene has changed from brown to purple. The gray clock on the right side of the scene has disappeared.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0046",
+      "before": "The brown vase on the left side of the scene has turned blue. The white cup on the right side of the scene has moved to the right. A brown bowl has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The cup on the right side of the scene has moved to the right. A bowl has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0047",
+      "before": "The clock on the left side of the scene has changed from yellow to purple. The yellow cat on the right side of the scene has been enlarged.",
+      "after": "The color of the clock on the left side of the scene has changed. The cat on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0048",
+      "before": "The brown teddy bear on the left side of the scene has turned purple. A black vase has appeared on the right side of the scene. A blue clock has appeared in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A vase has appeared on the right side of the scene. A clock has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0049",
+      "before": "The color of the clock on the left side of the scene has changed from orange to purple. The yellow chair on the right side of the scene has disappeared.",
+      "after": "The color of the clock on the left side of the scene has changed. The chair on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0050",
+      "before": "The bowl on the left side of the scene has changed from red to purple. The gray cup on the right side of the scene has shifted toward the right side of the scene. A yellow vase has been added in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The cup on the right side of the scene has shifted toward the right side of the scene. A vase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0051",
+      "before": "The red potted plant on the left side of the scene has turned green. The size of the orange bowl on the right side of the scene has increased.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The size of the bowl on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0052",
+      "before": "The color of the chair on the left side of the scene has changed from brown to green. A black umbrella has been added on the right side of the scene. A new brown vase is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. An umbrella has been added on the right side of the scene. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0053",
+      "before": "The color of the bowl on the left side of the scene has changed from red to green. The yellow clock on the right side of the scene has disappeared.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0054",
+      "before": "The laptop on the left side of the scene has changed from blue to red. The yellow vase on the right side of the scene has shifted toward the right side of the scene. A black chair has been added in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. The vase on the right side of the scene has shifted toward the right side of the scene. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0055",
+      "before": "The teddy bear on the left side of the scene has changed from brown to pink. The size of the white cup on the right side of the scene has increased.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The size of the cup on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0056",
+      "before": "The brown bowl on the left side of the scene has turned purple. An orange laptop has been added on the right side of the scene. A new yellow banana is now present in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. An laptop has been added on the right side of the scene. A new banana is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0057",
+      "before": "The chair on the left side of the scene has changed from orange to pink. The white bowl on the right side of the scene has disappeared.",
+      "after": "The color of the chair on the left side of the scene has changed. The bowl on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0058",
+      "before": "The chair on the left side of the scene has changed from brown to green. The gray dog that was on the right side of the scene has been moved to the right. A black suitcase has been added in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The dog that was on the right side of the scene has been moved to the right. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0059",
+      "before": "The teddy bear on the left side of the scene has changed from brown to green. The orange bowl on the right side of the scene has been enlarged.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The bowl on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0060",
+      "before": "The color of the bottle on the left side of the scene has changed from orange to green. A yellow bowl has been added on the right side of the scene. A new green clock is now present in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. A bowl has been added on the right side of the scene. A new clock is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0061",
+      "before": "The color of the cup on the left side of the scene has changed from brown to green. The gray suitcase on the right side of the scene has disappeared.",
+      "after": "The color of the cup on the left side of the scene has changed. The suitcase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0062",
+      "before": "The orange chair on the left side of the scene has turned green. The blue car on the right side of the scene has shifted toward the right side of the scene. A new brown vase is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The car on the right side of the scene has shifted toward the right side of the scene. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0063",
+      "before": "The color of the teddy bear on the left side of the scene has changed from yellow to cyan. The size of the yellow vase on the right side of the scene has increased.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The size of the vase on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0064",
+      "before": "The potted plant on the left side of the scene has changed from yellow to green. A brown bowl has appeared on the right side of the scene. A black book has appeared in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. A bowl has appeared on the right side of the scene. A book has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0065",
+      "before": "The green cup on the left side of the scene has turned red. The red suitcase on the right side of the scene is no longer present.",
+      "after": "The color of the cup on the left side of the scene has changed. The suitcase on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0066",
+      "before": "The brown cat on the left side of the scene has turned cyan. The black clock on the right side of the scene has moved to the right. A new brown vase is now present in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. The clock on the right side of the scene has moved to the right. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0067",
+      "before": "The color of the car on the left side of the scene has changed from cyan to green. The size of the orange dog on the right side of the scene has increased.",
+      "after": "The color of the car on the left side of the scene has changed. The size of the dog on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0068",
+      "before": "The cup on the left side of the scene has changed from brown to green. A black chair has appeared on the right side of the scene. A red potted plant has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A chair has appeared on the right side of the scene. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0069",
+      "before": "The blue chair on the left side of the scene has turned pink. The red suitcase on the right side of the scene is no longer present.",
+      "after": "The color of the chair on the left side of the scene has changed. The suitcase on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0070",
+      "before": "The brown book on the left side of the scene has turned blue. The gray teddy bear that was on the right side of the scene has been moved to the right. A black potted plant has appeared in the lower part of the scene.",
+      "after": "The color of the book on the left side of the scene has changed. The teddy bear that was on the right side of the scene has been moved to the right. A potted plant has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0071",
+      "before": "The clock on the left side of the scene has changed from blue to cyan. The size of the orange dog on the right side of the scene has increased.",
+      "after": "The color of the clock on the left side of the scene has changed. The size of the dog on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0072",
+      "before": "The orange cup on the left side of the scene has turned green. A gray clock has appeared on the right side of the scene. A black chair has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A clock has appeared on the right side of the scene. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0073",
+      "before": "The teddy bear on the left side of the scene has changed from green to pink. The yellow bowl on the right side of the scene is no longer present.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The bowl on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0074",
+      "before": "The yellow banana on the left side of the scene has turned pink. The orange chair on the right side of the scene has moved to the right. A green clock has appeared in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The chair on the right side of the scene has moved to the right. A clock has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0075",
+      "before": "The color of the potted plant on the left side of the scene has changed from red to green. The white cup on the right side of the scene has been enlarged.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The cup on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0076",
+      "before": "The color of the apple on the left side of the scene has changed from red to blue. A brown potted plant has appeared on the right side of the scene. A white cup has been added in the lower part of the scene.",
+      "after": "The color of the apple on the left side of the scene has changed. A potted plant has appeared on the right side of the scene. A cup has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0077",
+      "before": "The green banana on the left side of the scene has turned blue. The yellow potted plant on the right side of the scene has disappeared.",
+      "after": "The color of the banana on the left side of the scene has changed. The potted plant on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0078",
+      "before": "The brown teddy bear on the left side of the scene has turned green. The yellow vase that was on the right side of the scene has been moved to the right. A yellow bowl has appeared in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The vase that was on the right side of the scene has been moved to the right. A bowl has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0079",
+      "before": "The yellow banana on the left side of the scene has turned green. The gray vase on the right side of the scene has become larger.",
+      "after": "The color of the banana on the left side of the scene has changed. The vase on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0080",
+      "before": "The banana on the left side of the scene has changed from yellow to green. A new gray clock is now present on the right side of the scene. An orange vase has appeared in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A new clock is now present on the right side of the scene. A vase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0081",
+      "before": "The color of the chair on the left side of the scene has changed from blue to green. The black laptop on the right side of the scene has disappeared.",
+      "after": "The color of the chair on the left side of the scene has changed. The laptop on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0082",
+      "before": "The clock on the left side of the scene has changed from blue to pink. The black car on the right side of the scene has shifted toward the right side of the scene. A yellow vase has appeared in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. The car on the right side of the scene has shifted toward the right side of the scene. A vase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0083",
+      "before": "The chair on the left side of the scene has changed from orange to purple. The size of the gray cup on the right side of the scene has increased.",
+      "after": "The color of the chair on the left side of the scene has changed. The size of the cup on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0084",
+      "before": "The orange dog on the left side of the scene has turned cyan. A yellow vase has been added on the right side of the scene. A yellow clock has appeared in the lower part of the scene.",
+      "after": "The color of the dog on the left side of the scene has changed. A vase has been added on the right side of the scene. A clock has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0085",
+      "before": "The color of the suitcase on the left side of the scene has changed from orange to cyan. The green teddy bear on the right side of the scene is no longer present.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The teddy bear on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0086",
+      "before": "The color of the car on the left side of the scene has changed from cyan to pink. The white cup on the right side of the scene has moved to the right. A new brown bowl is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. The cup on the right side of the scene has moved to the right. A new bowl is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0087",
+      "before": "The color of the bowl on the left side of the scene has changed from brown to cyan. The orange dog on the right side of the scene has been enlarged.",
+      "after": "The color of the bowl on the left side of the scene has changed. The dog on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0088",
+      "before": "The color of the chair on the left side of the scene has changed from brown to cyan. A white bowl has appeared on the right side of the scene. A red suitcase has been added in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. A bowl has appeared on the right side of the scene. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0089",
+      "before": "The suitcase on the left side of the scene has changed from cyan to green. The black chair that was on the right side of the scene has been removed.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The chair that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0090",
+      "before": "The chair on the left side of the scene has changed from red to yellow. The gray teddy bear on the right side of the scene has moved to the right. A black car has been added in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The teddy bear on the right side of the scene has moved to the right. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0091",
+      "before": "The color of the dog on the left side of the scene has changed from brown to purple. The orange cup on the right side of the scene has become larger.",
+      "after": "The color of the dog on the left side of the scene has changed. The cup on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0092",
+      "before": "The bottle on the left side of the scene has changed from orange to pink. A new orange teddy bear is now present on the right side of the scene. A black book has appeared in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. A new teddy bear is now present on the right side of the scene. A book has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0093",
+      "before": "The orange teddy bear on the left side of the scene has turned purple. The red apple on the right side of the scene has disappeared.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The apple on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0094",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to cyan. The blue laptop on the right side of the scene has moved to the right. A green teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The laptop on the right side of the scene has moved to the right. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0095",
+      "before": "The color of the dog on the left side of the scene has changed from orange to blue. The blue laptop on the right side of the scene has been enlarged.",
+      "after": "The color of the dog on the left side of the scene has changed. The laptop on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0096",
+      "before": "The red apple on the left side of the scene has turned green. A new gray laptop is now present on the right side of the scene. A gray dog has been added in the lower part of the scene.",
+      "after": "The color of the apple on the left side of the scene has changed. A new laptop is now present on the right side of the scene. A dog has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0097",
+      "before": "The brown cat on the left side of the scene has turned green. The yellow vase that was on the right side of the scene has been removed.",
+      "after": "The color of the cat on the left side of the scene has changed. The vase that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0098",
+      "before": "The chair on the left side of the scene has changed from red to green. The yellow bottle on the right side of the scene has moved to the right. An orange teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The bottle on the right side of the scene has moved to the right. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0099",
+      "before": "The orange chair on the left side of the scene has turned green. The gray clock on the right side of the scene has become larger.",
+      "after": "The color of the chair on the left side of the scene has changed. The clock on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0100",
+      "before": "The yellow cup on the left side of the scene has turned purple. A red vase has been added on the right side of the scene. A black book has appeared in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A vase has been added on the right side of the scene. A book has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0101",
+      "before": "The green bowl on the left side of the scene has turned blue. The brown cat on the right side of the scene is no longer present.",
+      "after": "The color of the bowl on the left side of the scene has changed. The cat on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0102",
+      "before": "The color of the bowl on the left side of the scene has changed from brown to pink. The black bottle that was on the right side of the scene has been moved to the right. A new orange teddy bear is now present in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The bottle that was on the right side of the scene has been moved to the right. A new teddy bear is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0103",
+      "before": "The brown cup on the left side of the scene has turned green. The white laptop on the right side of the scene has been enlarged.",
+      "after": "The color of the cup on the left side of the scene has changed. The laptop on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0104",
+      "before": "The color of the suitcase on the left side of the scene has changed from red to blue. A new yellow cup is now present on the right side of the scene. A blue laptop has been added in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. A new cup is now present on the right side of the scene. A laptop has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0105",
+      "before": "The color of the cat on the left side of the scene has changed from yellow to cyan. The gray laptop on the right side of the scene has disappeared.",
+      "after": "The color of the cat on the left side of the scene has changed. The laptop on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0106",
+      "before": "The banana on the left side of the scene has changed from yellow to purple. The cyan suitcase that was on the right side of the scene has been moved to the right. A new brown potted plant is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The suitcase that was on the right side of the scene has been moved to the right. A new potted plant is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0107",
+      "before": "The dog on the left side of the scene has changed from orange to blue. The size of the black chair on the right side of the scene has increased.",
+      "after": "The color of the dog on the left side of the scene has changed. The size of the chair on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0108",
+      "before": "The blue laptop on the left side of the scene has turned red. A black suitcase has been added on the right side of the scene. An orange potted plant has been added in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. A suitcase has been added on the right side of the scene. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0109",
+      "before": "The color of the dog on the left side of the scene has changed from orange to pink. The blue cup on the right side of the scene is no longer present.",
+      "after": "The color of the dog on the left side of the scene has changed. The cup on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0110",
+      "before": "The color of the book on the left side of the scene has changed from red to blue. The brown bowl that was on the right side of the scene has been moved to the right. A new brown dog is now present in the lower part of the scene.",
+      "after": "The color of the book on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A new dog is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0111",
+      "before": "The bowl on the left side of the scene has changed from red to green. The red book on the right side of the scene has become larger.",
+      "after": "The color of the bowl on the left side of the scene has changed. The book on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0112",
+      "before": "The car on the left side of the scene has changed from blue to pink. A blue cup has been added on the right side of the scene. A yellow bottle has appeared in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A cup has been added on the right side of the scene. A bottle has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0113",
+      "before": "The color of the teddy bear on the left side of the scene has changed from yellow to green. The gray chair on the right side of the scene has disappeared.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The chair on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0114",
+      "before": "The green suitcase on the left side of the scene has turned blue. The blue chair on the right side of the scene has shifted toward the right side of the scene. A black cat has been added in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The chair on the right side of the scene has shifted toward the right side of the scene. A cat has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0115",
+      "before": "The laptop on the left side of the scene has changed from blue to green. The yellow banana on the right side of the scene has become larger.",
+      "after": "The color of the laptop on the left side of the scene has changed. The banana on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0116",
+      "before": "The cyan car on the left side of the scene has turned brown. An orange teddy bear has appeared on the right side of the scene. A new yellow chair is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A teddy bear has appeared on the right side of the scene. A new chair is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0117",
+      "before": "The cup on the left side of the scene has changed from yellow to purple. The white dog on the right side of the scene has disappeared.",
+      "after": "The color of the cup on the left side of the scene has changed. The dog on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0118",
+      "before": "The yellow teddy bear on the left side of the scene has turned purple. The green clock on the right side of the scene has moved to the right. A gray laptop has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The clock on the right side of the scene has moved to the right. A laptop has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0119",
+      "before": "The banana on the left side of the scene has changed from yellow to cyan. The size of the white bowl on the right side of the scene has increased.",
+      "after": "The color of the banana on the left side of the scene has changed. The size of the bowl on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0120",
+      "before": "The yellow banana on the left side of the scene has turned purple. A white dog has appeared on the right side of the scene. A new yellow bowl is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A dog has appeared on the right side of the scene. A new bowl is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0121",
+      "before": "The color of the bowl on the left side of the scene has changed from orange to purple. The green clock on the right side of the scene is no longer present.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0122",
+      "before": "The teddy bear on the left side of the scene has changed from orange to green. The orange bowl that was on the right side of the scene has been moved to the right. A new purple cup is now present in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0123",
+      "before": "The orange dog on the left side of the scene has turned cyan. The yellow vase on the right side of the scene has become larger.",
+      "after": "The color of the dog on the left side of the scene has changed. The vase on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0124",
+      "before": "The brown cat on the left side of the scene has turned purple. A yellow vase has appeared on the right side of the scene. A yellow bowl has appeared in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. A vase has appeared on the right side of the scene. A bowl has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0125",
+      "before": "The vase on the left side of the scene has changed from brown to green. The brown potted plant on the right side of the scene is no longer present.",
+      "after": "The color of the vase on the left side of the scene has changed. The potted plant on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0126",
+      "before": "The color of the suitcase on the left side of the scene has changed from red to blue. The gray cat that was on the right side of the scene has been moved to the right. A white teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The cat that was on the right side of the scene has been moved to the right. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0127",
+      "before": "The red bottle on the left side of the scene has turned green. The white teddy bear on the right side of the scene has been enlarged.",
+      "after": "The color of the bottle on the left side of the scene has changed. The teddy bear on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0128",
+      "before": "The blue suitcase on the left side of the scene has turned green. A new yellow teddy bear is now present on the right side of the scene. A green vase has appeared in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. A new teddy bear is now present on the right side of the scene. A vase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0129",
+      "before": "The clock on the left side of the scene has changed from yellow to green. The yellow umbrella on the right side of the scene has disappeared.",
+      "after": "The color of the clock on the left side of the scene has changed. The umbrella on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0130",
+      "before": "The color of the vase on the left side of the scene has changed from brown to purple. The brown bowl that was on the right side of the scene has been moved to the right. A gray car has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A car has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0131",
+      "before": "The color of the vase on the left side of the scene has changed from brown to green. The size of the orange cat on the right side of the scene has increased.",
+      "after": "The color of the vase on the left side of the scene has changed. The size of the cat on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0132",
+      "before": "The orange bowl on the left side of the scene has turned pink. A gray potted plant has been added on the right side of the scene. A yellow cat has appeared in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. A potted plant has been added on the right side of the scene. A cat has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0133",
+      "before": "The color of the chair on the left side of the scene has changed from yellow to green. The gray car that was on the right side of the scene has been removed.",
+      "after": "The color of the chair on the left side of the scene has changed. The car that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0134",
+      "before": "The yellow bottle on the left side of the scene has turned cyan. The yellow vase on the right side of the scene has moved to the right. A gray teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. The vase on the right side of the scene has moved to the right. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0135",
+      "before": "The orange chair on the left side of the scene has turned pink. The orange teddy bear on the right side of the scene has been enlarged.",
+      "after": "The color of the chair on the left side of the scene has changed. The teddy bear on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0136",
+      "before": "The vase on the left side of the scene has changed from brown to purple. A new black clock is now present on the right side of the scene. A brown umbrella has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A new clock is now present on the right side of the scene. An umbrella has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0137",
+      "before": "The orange bowl on the left side of the scene has turned pink. The red bottle that was on the right side of the scene has been removed.",
+      "after": "The color of the bowl on the left side of the scene has changed. The bottle that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0138",
+      "before": "The purple bottle on the left side of the scene has turned orange. The yellow teddy bear on the right side of the scene has shifted toward the right side of the scene. A gray clock has been added in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. The teddy bear on the right side of the scene has shifted toward the right side of the scene. A clock has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0139",
+      "before": "The brown teddy bear on the left side of the scene has turned blue. The orange bowl on the right side of the scene has been enlarged.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The bowl on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0140",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to pink. A new green cup is now present on the right side of the scene. A brown chair has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A new cup is now present on the right side of the scene. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0141",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to pink. The black cup that was on the right side of the scene has been removed.",
+      "after": "The color of the banana on the left side of the scene has changed. The cup that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0142",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to blue. The yellow vase on the right side of the scene has moved to the right. A green cup has appeared in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The vase on the right side of the scene has moved to the right. A cup has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0143",
+      "before": "The bowl on the left side of the scene has changed from yellow to purple. The green vase on the right side of the scene has become larger.",
+      "after": "The color of the bowl on the left side of the scene has changed. The vase on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0144",
+      "before": "The purple bottle on the left side of the scene has turned cyan. A gray teddy bear has appeared on the right side of the scene. A yellow bowl has appeared in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. A teddy bear has appeared on the right side of the scene. A bowl has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0145",
+      "before": "The cup on the left side of the scene has changed from red to purple. The blue bottle on the right side of the scene is no longer present.",
+      "after": "The color of the cup on the left side of the scene has changed. The bottle on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0146",
+      "before": "The brown bowl on the left side of the scene has turned green. The pink clock that was on the right side of the scene has been moved to the right. A gray cup has been added in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock that was on the right side of the scene has been moved to the right. A cup has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0147",
+      "before": "The bowl on the left side of the scene has changed from brown to green. The orange banana on the right side of the scene has been enlarged.",
+      "after": "The color of the bowl on the left side of the scene has changed. The banana on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0148",
+      "before": "The color of the book on the left side of the scene has changed from red to purple. A blue suitcase has appeared on the right side of the scene. A white clock has been added in the lower part of the scene.",
+      "after": "The color of the book on the left side of the scene has changed. A suitcase has appeared on the right side of the scene. A clock has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0149",
+      "before": "The color of the cup on the left side of the scene has changed from yellow to green. The green vase on the right side of the scene has disappeared.",
+      "after": "The color of the cup on the left side of the scene has changed. The vase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0150",
+      "before": "The bottle on the left side of the scene has changed from brown to purple. The yellow teddy bear that was on the right side of the scene has been moved to the right. A gray dog has been added in the lower part of the scene.",
+      "after": "The color of the bottle on the left side of the scene has changed. The teddy bear that was on the right side of the scene has been moved to the right. A dog has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0151",
+      "before": "The laptop on the left side of the scene has changed from orange to cyan. The gray clock on the right side of the scene has become larger.",
+      "after": "The color of the laptop on the left side of the scene has changed. The clock on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0152",
+      "before": "The chair on the left side of the scene has changed from blue to red. An orange cat has been added on the right side of the scene. A new white vase is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. A cat has been added on the right side of the scene. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0153",
+      "before": "The vase on the left side of the scene has changed from red to pink. The brown umbrella that was on the right side of the scene has been removed.",
+      "after": "The color of the vase on the left side of the scene has changed. The umbrella that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0154",
+      "before": "The brown teddy bear on the left side of the scene has turned green. The black suitcase on the right side of the scene has moved to the right. A yellow bowl has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The suitcase on the right side of the scene has moved to the right. A bowl has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0155",
+      "before": "The potted plant on the left side of the scene has changed from yellow to purple. The yellow clock on the right side of the scene has become larger.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The clock on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0156",
+      "before": "The green vase on the left side of the scene has turned cyan. A red apple has been added on the right side of the scene. A new blue clock is now present in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A apple has been added on the right side of the scene. A new clock is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0157",
+      "before": "The vase on the left side of the scene has changed from yellow to pink. The yellow bowl on the right side of the scene is no longer present.",
+      "after": "The color of the vase on the left side of the scene has changed. The bowl on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0158",
+      "before": "The red potted plant on the left side of the scene has turned pink. The orange bowl on the right side of the scene has moved to the right. A new orange suitcase is now present in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The bowl on the right side of the scene has moved to the right. A new suitcase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0159",
+      "before": "The color of the teddy bear on the left side of the scene has changed from brown to cyan. The black car on the right side of the scene has become larger.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The car on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0160",
+      "before": "The yellow potted plant on the left side of the scene has turned cyan. An orange teddy bear has appeared on the right side of the scene. A new white laptop is now present in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. A teddy bear has appeared on the right side of the scene. A new laptop is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0161",
+      "before": "The color of the bottle on the left side of the scene has changed from orange to pink. The gray dog on the right side of the scene has disappeared.",
+      "after": "The color of the bottle on the left side of the scene has changed. The dog on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0162",
+      "before": "The dog on the left side of the scene has changed from brown to green. The purple cup on the right side of the scene has shifted toward the right side of the scene. A black bottle has appeared in the lower part of the scene.",
+      "after": "The color of the dog on the left side of the scene has changed. The cup on the right side of the scene has shifted toward the right side of the scene. A bottle has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0163",
+      "before": "The orange cup on the left side of the scene has turned cyan. The size of the white bowl on the right side of the scene has increased.",
+      "after": "The color of the cup on the left side of the scene has changed. The size of the bowl on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0164",
+      "before": "The yellow vase on the left side of the scene has turned green. A new gray clock is now present on the right side of the scene. A red umbrella has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A new clock is now present on the right side of the scene. An umbrella has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0165",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to green. The brown cat on the right side of the scene has disappeared.",
+      "after": "The color of the vase on the left side of the scene has changed. The cat on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0166",
+      "before": "The yellow chair on the left side of the scene has turned green. The yellow bowl that was on the right side of the scene has been moved to the right. A red car has been added in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0167",
+      "before": "The bowl on the left side of the scene has changed from orange to green. The size of the white vase on the right side of the scene has increased.",
+      "after": "The color of the bowl on the left side of the scene has changed. The size of the vase on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0168",
+      "before": "The color of the vase on the left side of the scene has changed from brown to blue. A gray suitcase has appeared on the right side of the scene. A brown umbrella has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A suitcase has appeared on the right side of the scene. An umbrella has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0169",
+      "before": "The brown vase on the left side of the scene has turned purple. The brown teddy bear on the right side of the scene has disappeared.",
+      "after": "The color of the vase on the left side of the scene has changed. The teddy bear on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0170",
+      "before": "The cyan car on the left side of the scene has turned green. The gray vase on the right side of the scene has moved to the right. A brown teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. The vase on the right side of the scene has moved to the right. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0171",
+      "before": "The color of the bowl on the left side of the scene has changed from orange to green. The orange clock on the right side of the scene has become larger.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0172",
+      "before": "The cat on the left side of the scene has changed from brown to cyan. A black clock has been added on the right side of the scene. A blue car has been added in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. A clock has been added on the right side of the scene. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0173",
+      "before": "The vase on the left side of the scene has changed from green to pink. The gray laptop on the right side of the scene has disappeared.",
+      "after": "The color of the vase on the left side of the scene has changed. The laptop on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0174",
+      "before": "The color of the vase on the left side of the scene has changed from brown to pink. The red book that was on the right side of the scene has been moved to the right. A gray laptop has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The book that was on the right side of the scene has been moved to the right. A laptop has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0175",
+      "before": "The color of the teddy bear on the left side of the scene has changed from orange to green. The size of the brown bowl on the right side of the scene has increased.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The size of the bowl on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0176",
+      "before": "The color of the cup on the left side of the scene has changed from purple to green. A yellow banana has been added on the right side of the scene. A black suitcase has appeared in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A banana has been added on the right side of the scene. A suitcase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0177",
+      "before": "The color of the bowl on the left side of the scene has changed from yellow to cyan. The white clock on the right side of the scene is no longer present.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0178",
+      "before": "The color of the clock on the left side of the scene has changed from blue to pink. The red vase that was on the right side of the scene has been moved to the right. An orange suitcase has been added in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. The vase that was on the right side of the scene has been moved to the right. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0179",
+      "before": "The vase on the left side of the scene has changed from brown to purple. The size of the gray teddy bear on the right side of the scene has increased.",
+      "after": "The color of the vase on the left side of the scene has changed. The size of the teddy bear on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0180",
+      "before": "The dog on the left side of the scene has changed from brown to pink. An orange teddy bear has appeared on the right side of the scene. A brown vase has appeared in the lower part of the scene.",
+      "after": "The color of the dog on the left side of the scene has changed. A teddy bear has appeared on the right side of the scene. A vase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0181",
+      "before": "The orange bowl on the left side of the scene has turned green. The yellow potted plant on the right side of the scene has disappeared.",
+      "after": "The color of the bowl on the left side of the scene has changed. The potted plant on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0182",
+      "before": "The color of the chair on the left side of the scene has changed from brown to green. The green bowl that was on the right side of the scene has been moved to the right. A new yellow vase is now present in the lower part of the scene.",
+      "after": "The color of the chair on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0183",
+      "before": "The color of the cat on the left side of the scene has changed from brown to pink. The cyan bicycle on the right side of the scene has become larger.",
+      "after": "The color of the cat on the left side of the scene has changed. The bicycle on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0184",
+      "before": "The yellow banana on the left side of the scene has turned pink. A gray suitcase has been added on the right side of the scene. A new orange potted plant is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A suitcase has been added on the right side of the scene. A new potted plant is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0185",
+      "before": "The banana on the left side of the scene has changed from yellow to blue. The red vase that was on the right side of the scene has been removed.",
+      "after": "The color of the banana on the left side of the scene has changed. The vase that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0186",
+      "before": "The color of the potted plant on the left side of the scene has changed from yellow to green. The brown dog on the right side of the scene has shifted toward the right side of the scene. A yellow cup has been added in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The dog on the right side of the scene has shifted toward the right side of the scene. A cup has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0187",
+      "before": "The clock on the left side of the scene has changed from yellow to purple. The size of the white dog on the right side of the scene has increased.",
+      "after": "The color of the clock on the left side of the scene has changed. The size of the dog on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0188",
+      "before": "The yellow cat on the left side of the scene has turned green. A new white cup is now present on the right side of the scene. A new gray laptop is now present in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. A new cup is now present on the right side of the scene. A new laptop is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0189",
+      "before": "The color of the chair on the left side of the scene has changed from brown to green. The orange bowl on the right side of the scene is no longer present.",
+      "after": "The color of the chair on the left side of the scene has changed. The bowl on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0190",
+      "before": "The color of the potted plant on the left side of the scene has changed from red to purple. The white bowl on the right side of the scene has shifted toward the right side of the scene. An orange vase has been added in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The bowl on the right side of the scene has shifted toward the right side of the scene. A vase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0191",
+      "before": "The vase on the left side of the scene has changed from green to red. The yellow banana on the right side of the scene has been enlarged.",
+      "after": "The color of the vase on the left side of the scene has changed. The banana on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0192",
+      "before": "The brown vase on the left side of the scene has turned cyan. An orange bowl has appeared on the right side of the scene. A brown cup has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A bowl has appeared on the right side of the scene. A cup has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0193",
+      "before": "The pink clock on the left side of the scene has turned cyan. The yellow teddy bear on the right side of the scene has disappeared.",
+      "after": "The color of the clock on the left side of the scene has changed. The teddy bear on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0194",
+      "before": "The brown teddy bear on the left side of the scene has turned blue. The orange suitcase on the right side of the scene has shifted toward the right side of the scene. A new blue laptop is now present in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The suitcase on the right side of the scene has shifted toward the right side of the scene. A new laptop is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0195",
+      "before": "The book on the left side of the scene has changed from pink to blue. The black cat on the right side of the scene has become larger.",
+      "after": "The color of the book on the left side of the scene has changed. The cat on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0196",
+      "before": "The brown teddy bear on the left side of the scene has turned cyan. A brown dog has appeared on the right side of the scene. A gray vase has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A dog has appeared on the right side of the scene. A vase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0197",
+      "before": "The color of the suitcase on the left side of the scene has changed from yellow to green. The gray cup on the right side of the scene is no longer present.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The cup on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0198",
+      "before": "The brown book on the left side of the scene has turned blue. The white bowl on the right side of the scene has shifted toward the right side of the scene. A brown potted plant has appeared in the lower part of the scene.",
+      "after": "The color of the book on the left side of the scene has changed. The bowl on the right side of the scene has shifted toward the right side of the scene. A potted plant has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0199",
+      "before": "The yellow suitcase on the left side of the scene has turned cyan. The black chair on the right side of the scene has been enlarged.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The chair on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0200",
+      "before": "The color of the cup on the left side of the scene has changed from blue to pink. An orange suitcase has appeared on the right side of the scene. A red potted plant has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A suitcase has appeared on the right side of the scene. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0201",
+      "before": "The suitcase on the left side of the scene has changed from orange to green. The gray laptop on the right side of the scene is no longer present.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The laptop on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0202",
+      "before": "The car on the left side of the scene has changed from red to blue. The orange laptop on the right side of the scene has moved to the right. A brown bowl has been added in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. The laptop on the right side of the scene has moved to the right. A bowl has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0203",
+      "before": "The red chair on the left side of the scene has turned purple. The cyan laptop on the right side of the scene has been enlarged.",
+      "after": "The color of the chair on the left side of the scene has changed. The laptop on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0204",
+      "before": "The bowl on the left side of the scene has changed from brown to purple. A new orange chair is now present on the right side of the scene. A black car has been added in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. A new chair is now present on the right side of the scene. A car has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0205",
+      "before": "The orange banana on the left side of the scene has turned pink. The brown teddy bear on the right side of the scene has disappeared.",
+      "after": "The color of the banana on the left side of the scene has changed. The teddy bear on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0206",
+      "before": "The yellow teddy bear on the left side of the scene has turned purple. The gray cat that was on the right side of the scene has been moved to the right. A gray laptop has appeared in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The cat that was on the right side of the scene has been moved to the right. A laptop has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0207",
+      "before": "The clock on the left side of the scene has changed from blue to red. The size of the black chair on the right side of the scene has increased.",
+      "after": "The color of the clock on the left side of the scene has changed. The size of the chair on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0208",
+      "before": "The color of the cat on the left side of the scene has changed from yellow to pink. A purple cup has appeared on the right side of the scene. A gray dog has been added in the lower part of the scene.",
+      "after": "The color of the cat on the left side of the scene has changed. A cup has appeared on the right side of the scene. A dog has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0209",
+      "before": "The color of the banana on the left side of the scene has changed from orange to purple. The brown cat on the right side of the scene has disappeared.",
+      "after": "The color of the banana on the left side of the scene has changed. The cat on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0210",
+      "before": "The banana on the left side of the scene has changed from yellow to green. The black cat on the right side of the scene has moved to the right. A black chair has been added in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The cat on the right side of the scene has moved to the right. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0211",
+      "before": "The dog on the left side of the scene has changed from orange to green. The size of the brown umbrella on the right side of the scene has increased.",
+      "after": "The color of the dog on the left side of the scene has changed. The size of the umbrella on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0212",
+      "before": "The color of the car on the left side of the scene has changed from blue to purple. A gray laptop has been added on the right side of the scene. A brown potted plant has been added in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A laptop has been added on the right side of the scene. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0213",
+      "before": "The color of the clock on the left side of the scene has changed from yellow to purple. The black chair that was on the right side of the scene has been removed.",
+      "after": "The color of the clock on the left side of the scene has changed. The chair that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0214",
+      "before": "The color of the suitcase on the left side of the scene has changed from red to blue. The yellow vase on the right side of the scene has shifted toward the right side of the scene. A new orange dog is now present in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The vase on the right side of the scene has shifted toward the right side of the scene. A new dog is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0215",
+      "before": "The cup on the left side of the scene has changed from yellow to pink. The size of the gray clock on the right side of the scene has increased.",
+      "after": "The color of the cup on the left side of the scene has changed. The size of the clock on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0216",
+      "before": "The suitcase on the left side of the scene has changed from red to green. A green laptop has appeared on the right side of the scene. A new orange chair is now present in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. A laptop has appeared on the right side of the scene. A new chair is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0217",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to blue. The red suitcase on the right side of the scene has disappeared.",
+      "after": "The color of the banana on the left side of the scene has changed. The suitcase on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0218",
+      "before": "The color of the suitcase on the left side of the scene has changed from orange to green. The red umbrella that was on the right side of the scene has been moved to the right. A new gray dog is now present in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The umbrella that was on the right side of the scene has been moved to the right. A new dog is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0219",
+      "before": "The orange bottle on the left side of the scene has turned blue. The blue cup on the right side of the scene has become larger.",
+      "after": "The color of the bottle on the left side of the scene has changed. The cup on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0220",
+      "before": "The color of the cup on the left side of the scene has changed from orange to purple. An orange teddy bear has been added on the right side of the scene. A new gray suitcase is now present in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A teddy bear has been added on the right side of the scene. A new suitcase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0221",
+      "before": "The brown teddy bear on the left side of the scene has turned pink. The brown dog that was on the right side of the scene has been removed.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The dog that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0222",
+      "before": "The bowl on the left side of the scene has changed from orange to cyan. The blue laptop on the right side of the scene has shifted toward the right side of the scene. A new orange dog is now present in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The laptop on the right side of the scene has shifted toward the right side of the scene. A new dog is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0223",
+      "before": "The car on the left side of the scene has changed from cyan to yellow. The gray clock on the right side of the scene has been enlarged.",
+      "after": "The color of the car on the left side of the scene has changed. The clock on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0224",
+      "before": "The red suitcase on the left side of the scene has turned yellow. A gray cup has been added on the right side of the scene. A new brown cat is now present in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. A cup has been added on the right side of the scene. A new cat is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0225",
+      "before": "The color of the teddy bear on the left side of the scene has changed from brown to purple. The black clock on the right side of the scene has disappeared.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The clock on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0226",
+      "before": "The orange cup on the left side of the scene has turned green. The gray dog that was on the right side of the scene has been moved to the right. A new orange chair is now present in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. The dog that was on the right side of the scene has been moved to the right. A new chair is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0227",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to green. The gray teddy bear on the right side of the scene has become larger.",
+      "after": "The color of the vase on the left side of the scene has changed. The teddy bear on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0228",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to cyan. A new orange bowl is now present on the right side of the scene. A new black car is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A new bowl is now present on the right side of the scene. A new car is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0229",
+      "before": "The color of the cup on the left side of the scene has changed from yellow to green. The blue bottle on the right side of the scene has disappeared.",
+      "after": "The color of the cup on the left side of the scene has changed. The bottle on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0230",
+      "before": "The brown vase on the left side of the scene has turned green. The brown laptop on the right side of the scene has moved to the right. A black teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The laptop on the right side of the scene has moved to the right. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0231",
+      "before": "The color of the vase on the left side of the scene has changed from red to purple. The orange teddy bear on the right side of the scene has become larger.",
+      "after": "The color of the vase on the left side of the scene has changed. The teddy bear on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0232",
+      "before": "The orange clock on the left side of the scene has turned green. An orange bowl has appeared on the right side of the scene. A yellow banana has been added in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. A bowl has appeared on the right side of the scene. A banana has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0233",
+      "before": "The vase on the left side of the scene has changed from yellow to blue. The brown laptop on the right side of the scene has disappeared.",
+      "after": "The color of the vase on the left side of the scene has changed. The laptop on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0234",
+      "before": "The car on the left side of the scene has changed from cyan to green. The red suitcase on the right side of the scene has moved to the right. A new yellow clock is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. The suitcase on the right side of the scene has moved to the right. A new clock is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0235",
+      "before": "The color of the bowl on the left side of the scene has changed from yellow to green. The white cup on the right side of the scene has become larger.",
+      "after": "The color of the bowl on the left side of the scene has changed. The cup on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0236",
+      "before": "The color of the cup on the left side of the scene has changed from blue to pink. A new black clock is now present on the right side of the scene. An orange teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A new clock is now present on the right side of the scene. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0237",
+      "before": "The brown potted plant on the left side of the scene has turned cyan. The orange cat that was on the right side of the scene has been removed.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The cat that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0238",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to green. The yellow bowl on the right side of the scene has moved to the right. A new black book is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The bowl on the right side of the scene has moved to the right. A new book is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0239",
+      "before": "The pink clock on the left side of the scene has turned cyan. The orange potted plant on the right side of the scene has become larger.",
+      "after": "The color of the clock on the left side of the scene has changed. The potted plant on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0240",
+      "before": "The teddy bear on the left side of the scene has changed from yellow to green. A white clock has been added on the right side of the scene. A brown potted plant has been added in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A clock has been added on the right side of the scene. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0241",
+      "before": "The blue laptop on the left side of the scene has turned pink. The yellow vase on the right side of the scene is no longer present.",
+      "after": "The color of the laptop on the left side of the scene has changed. The vase on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0242",
+      "before": "The color of the cup on the left side of the scene has changed from green to orange. The gray teddy bear on the right side of the scene has moved to the right. A yellow clock has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. The teddy bear on the right side of the scene has moved to the right. A clock has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0243",
+      "before": "The color of the teddy bear on the left side of the scene has changed from brown to cyan. The brown dog on the right side of the scene has been enlarged.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The dog on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0244",
+      "before": "The color of the car on the left side of the scene has changed from blue to yellow. A new brown vase is now present on the right side of the scene. A new gray cup is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A new vase is now present on the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0245",
+      "before": "The color of the car on the left side of the scene has changed from red to purple. The blue clock that was on the right side of the scene has been removed.",
+      "after": "The color of the car on the left side of the scene has changed. The clock that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0246",
+      "before": "The orange clock on the left side of the scene has turned green. The white bowl that was on the right side of the scene has been moved to the right. A black chair has been added in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0247",
+      "before": "The orange cup on the left side of the scene has turned pink. The size of the orange vase on the right side of the scene has increased.",
+      "after": "The color of the cup on the left side of the scene has changed. The size of the vase on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0248",
+      "before": "The potted plant on the left side of the scene has changed from brown to purple. A yellow banana has been added on the right side of the scene. A black suitcase has been added in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. A banana has been added on the right side of the scene. A suitcase has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0249",
+      "before": "The orange bowl on the left side of the scene has turned cyan. The black chair that was on the right side of the scene has been removed.",
+      "after": "The color of the bowl on the left side of the scene has changed. The chair that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0250",
+      "before": "The color of the bowl on the left side of the scene has changed from orange to purple. The black dog that was on the right side of the scene has been moved to the right. A white cup has been added in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The dog that was on the right side of the scene has been moved to the right. A cup has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0251",
+      "before": "The orange suitcase on the left side of the scene has turned blue. The red potted plant on the right side of the scene has been enlarged.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The potted plant on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0252",
+      "before": "The yellow vase on the left side of the scene has turned pink. A white cup has been added on the right side of the scene. A brown teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. A cup has been added on the right side of the scene. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0253",
+      "before": "The brown dog on the left side of the scene has turned green. The orange chair that was on the right side of the scene has been removed.",
+      "after": "The color of the dog on the left side of the scene has changed. The chair that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0254",
+      "before": "The red vase on the left side of the scene has turned green. The black cat on the right side of the scene has moved to the right. An orange teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The cat on the right side of the scene has moved to the right. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0255",
+      "before": "The color of the teddy bear on the left side of the scene has changed from brown to pink. The black car on the right side of the scene has become larger.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The car on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0256",
+      "before": "The green teddy bear on the left side of the scene has turned blue. A new black chair is now present on the right side of the scene. A new green cup is now present in the lower part of the scene.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. A new chair is now present on the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0257",
+      "before": "The red teddy bear on the left side of the scene has turned green. The gray dog on the right side of the scene is no longer present.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The dog on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0258",
+      "before": "The brown dog on the left side of the scene has turned green. The black vase on the right side of the scene has moved to the right. A black clock has appeared in the lower part of the scene.",
+      "after": "The color of the dog on the left side of the scene has changed. The vase on the right side of the scene has moved to the right. A clock has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0259",
+      "before": "The color of the vase on the left side of the scene has changed from orange to cyan. The size of the red book on the right side of the scene has increased.",
+      "after": "The color of the vase on the left side of the scene has changed. The size of the book on the right side of the scene has increased."
+    },
+    {
+      "id": "v2_multi_object_0260",
+      "before": "The color of the cup on the left side of the scene has changed from red to green. A new yellow chair is now present on the right side of the scene. A gray dog has been added in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A new chair is now present on the right side of the scene. A dog has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0261",
+      "before": "The color of the book on the left side of the scene has changed from red to green. The white cup that was on the right side of the scene has been removed.",
+      "after": "The color of the book on the left side of the scene has changed. The cup that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0262",
+      "before": "The color of the cup on the left side of the scene has changed from purple to green. The white bowl on the right side of the scene has moved to the right. A black suitcase has appeared in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. The bowl on the right side of the scene has moved to the right. A suitcase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0263",
+      "before": "The vase on the left side of the scene has changed from orange to green. The black laptop on the right side of the scene has been enlarged.",
+      "after": "The color of the vase on the left side of the scene has changed. The laptop on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0264",
+      "before": "The car on the left side of the scene has changed from blue to green. A new green vase is now present on the right side of the scene. A new green cup is now present in the lower part of the scene.",
+      "after": "The color of the car on the left side of the scene has changed. A new vase is now present on the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0265",
+      "before": "The color of the umbrella on the left side of the scene has changed from brown to green. The yellow banana on the right side of the scene has disappeared.",
+      "after": "The color of the umbrella on the left side of the scene has changed. The banana on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0266",
+      "before": "The color of the vase on the left side of the scene has changed from yellow to pink. The orange bottle on the right side of the scene has moved to the right. A new brown book is now present in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The bottle on the right side of the scene has moved to the right. A new book is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0267",
+      "before": "The book on the left side of the scene has changed from brown to cyan. The white clock on the right side of the scene has become larger.",
+      "after": "The color of the book on the left side of the scene has changed. The clock on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0268",
+      "before": "The color of the laptop on the left side of the scene has changed from blue to green. A brown vase has appeared on the right side of the scene. A new yellow cup is now present in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. A vase has appeared on the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0269",
+      "before": "The color of the vase on the left side of the scene has changed from brown to purple. The yellow banana on the right side of the scene has disappeared.",
+      "after": "The color of the vase on the left side of the scene has changed. The banana on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0270",
+      "before": "The brown potted plant on the left side of the scene has turned cyan. The brown cup that was on the right side of the scene has been moved to the right. A new yellow vase is now present in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The cup that was on the right side of the scene has been moved to the right. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0271",
+      "before": "The yellow vase on the left side of the scene has turned cyan. The yellow bowl on the right side of the scene has been enlarged.",
+      "after": "The color of the vase on the left side of the scene has changed. The bowl on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0272",
+      "before": "The yellow bowl on the left side of the scene has turned red. An orange vase has been added on the right side of the scene. A gray dog has appeared in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. A vase has been added on the right side of the scene. A dog has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0273",
+      "before": "The yellow banana on the left side of the scene has turned cyan. The gray cat that was on the right side of the scene has been removed.",
+      "after": "The color of the banana on the left side of the scene has changed. The cat that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0274",
+      "before": "The color of the dog on the left side of the scene has changed from brown to green. The gray teddy bear that was on the right side of the scene has been moved to the right. An orange chair has appeared in the lower part of the scene.",
+      "after": "The color of the dog on the left side of the scene has changed. The teddy bear that was on the right side of the scene has been moved to the right. A chair has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0275",
+      "before": "The color of the chair on the left side of the scene has changed from red to green. The cyan car on the right side of the scene has been enlarged.",
+      "after": "The color of the chair on the left side of the scene has changed. The car on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0276",
+      "before": "The purple cup on the left side of the scene has turned brown. A red chair has appeared on the right side of the scene. A new brown vase is now present in the lower part of the scene.",
+      "after": "The color of the cup on the left side of the scene has changed. A chair has appeared on the right side of the scene. A new vase is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0277",
+      "before": "The yellow bowl on the left side of the scene has turned cyan. The green vase that was on the right side of the scene has been removed.",
+      "after": "The color of the bowl on the left side of the scene has changed. The vase that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0278",
+      "before": "The brown potted plant on the left side of the scene has turned green. The white laptop on the right side of the scene has shifted toward the right side of the scene. A brown book has been added in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. The laptop on the right side of the scene has shifted toward the right side of the scene. A book has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0279",
+      "before": "The color of the bowl on the left side of the scene has changed from red to cyan. The gray clock on the right side of the scene has been enlarged.",
+      "after": "The color of the bowl on the left side of the scene has changed. The clock on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0280",
+      "before": "The yellow banana on the left side of the scene has turned green. A brown chair has been added on the right side of the scene. An orange teddy bear has been added in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. A chair has been added on the right side of the scene. A teddy bear has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0281",
+      "before": "The color of the clock on the left side of the scene has changed from yellow to green. The yellow potted plant that was on the right side of the scene has been removed.",
+      "after": "The color of the clock on the left side of the scene has changed. The potted plant that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0282",
+      "before": "The vase on the left side of the scene has changed from red to green. The orange suitcase that was on the right side of the scene has been moved to the right. A black potted plant has been added in the lower part of the scene.",
+      "after": "The color of the vase on the left side of the scene has changed. The suitcase that was on the right side of the scene has been moved to the right. A potted plant has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0283",
+      "before": "The yellow suitcase on the left side of the scene has turned red. The gray laptop on the right side of the scene has been enlarged.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The laptop on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0284",
+      "before": "The color of the laptop on the left side of the scene has changed from cyan to pink. A brown umbrella has appeared on the right side of the scene. A yellow vase has appeared in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. An umbrella has appeared on the right side of the scene. A vase has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0285",
+      "before": "The vase on the left side of the scene has changed from green to red. The gray potted plant on the right side of the scene is no longer present.",
+      "after": "The color of the vase on the left side of the scene has changed. The potted plant on the right side of the scene is no longer present."
+    },
+    {
+      "id": "v2_multi_object_0286",
+      "before": "The color of the suitcase on the left side of the scene has changed from yellow to blue. The white bowl that was on the right side of the scene has been moved to the right. A blue chair has been added in the lower part of the scene.",
+      "after": "The color of the suitcase on the left side of the scene has changed. The bowl that was on the right side of the scene has been moved to the right. A chair has been added in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0287",
+      "before": "The brown teddy bear on the left side of the scene has turned green. The green bowl on the right side of the scene has become larger.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The bowl on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0288",
+      "before": "The orange clock on the left side of the scene has turned cyan. A red bottle has appeared on the right side of the scene. A gray laptop has appeared in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. A bottle has appeared on the right side of the scene. A laptop has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0289",
+      "before": "The color of the chair on the left side of the scene has changed from brown to cyan. The green vase that was on the right side of the scene has been removed.",
+      "after": "The color of the chair on the left side of the scene has changed. The vase that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0290",
+      "before": "The bowl on the left side of the scene has changed from green to pink. The black book on the right side of the scene has shifted toward the right side of the scene. A new blue cup is now present in the lower part of the scene.",
+      "after": "The color of the bowl on the left side of the scene has changed. The book on the right side of the scene has shifted toward the right side of the scene. A new cup is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0291",
+      "before": "The brown teddy bear on the left side of the scene has turned blue. The white vase on the right side of the scene has been enlarged.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The vase on the right side of the scene has been enlarged."
+    },
+    {
+      "id": "v2_multi_object_0292",
+      "before": "The color of the potted plant on the left side of the scene has changed from yellow to pink. A yellow clock has been added on the right side of the scene. A red teddy bear has appeared in the lower part of the scene.",
+      "after": "The color of the potted plant on the left side of the scene has changed. A clock has been added on the right side of the scene. A teddy bear has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0293",
+      "before": "The chair on the left side of the scene has changed from orange to green. The gray dog on the right side of the scene has disappeared.",
+      "after": "The color of the chair on the left side of the scene has changed. The dog on the right side of the scene has disappeared."
+    },
+    {
+      "id": "v2_multi_object_0294",
+      "before": "The color of the banana on the left side of the scene has changed from yellow to pink. The yellow clock that was on the right side of the scene has been moved to the right. A new black book is now present in the lower part of the scene.",
+      "after": "The color of the banana on the left side of the scene has changed. The clock that was on the right side of the scene has been moved to the right. A new book is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0295",
+      "before": "The orange teddy bear on the left side of the scene has turned cyan. The orange suitcase on the right side of the scene has become larger.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The suitcase on the right side of the scene has become larger."
+    },
+    {
+      "id": "v2_multi_object_0296",
+      "before": "The clock on the left side of the scene has changed from pink to blue. An orange teddy bear has appeared on the right side of the scene. A gray cup has appeared in the lower part of the scene.",
+      "after": "The color of the clock on the left side of the scene has changed. A teddy bear has appeared on the right side of the scene. A cup has appeared in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0297",
+      "before": "The orange teddy bear on the left side of the scene has turned purple. The orange dog that was on the right side of the scene has been removed.",
+      "after": "The color of the teddy bear on the left side of the scene has changed. The dog that was on the right side of the scene has been removed."
+    },
+    {
+      "id": "v2_multi_object_0298",
+      "before": "The color of the laptop on the left side of the scene has changed from blue to red. The gray bicycle that was on the right side of the scene has been moved to the right. A new yellow banana is now present in the lower part of the scene.",
+      "after": "The color of the laptop on the left side of the scene has changed. The bicycle that was on the right side of the scene has been moved to the right. A new banana is now present in the lower part of the scene."
+    },
+    {
+      "id": "v2_multi_object_0299",
+      "before": "The brown book on the left side of the scene has turned cyan. The gray cup on the right side of the scene has become larger.",
+      "after": "The color of the book on the left side of the scene has changed. The cup on the right side of the scene has become larger."
+    }
+  ]
+}

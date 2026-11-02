@@ -1,0 +1,155 @@
+{
+  "n": 12,
+  "counts": {
+    "uncertain": 4,
+    "correct": 2,
+    "incorrect": 6
+  },
+  "rubric": "Judge the specific camera claim including direction using visible global background/framing, not reference silence. Keep uncertainty for confounded subject/camera motion. Correct camera claim does not imply correct complete caption.",
+  "rows": [
+    {
+      "id": "real_val_pair_000385",
+      "reference": "The house in the distance on the right side of the image is now obscured.A white swing has appeared in the back right of the image.The dog's right leg is lowered while its left leg is lifted, and its right ear is slightly bent.The dog's mouth is open, revealing its tongue.",
+      "r64": "The camera has zoomed out, so more of the scene is visible.",
+      "image": [
+        "Real/val/images/real_val_000088.jpg",
+        "Real/val/images/real_val_000091.jpg"
+      ],
+      "assistant_camera_claim": "uncertain",
+      "assistant_note": "Dog becomes smaller and field/framing shifts; cannot distinguish animal distance, zoom and camera translation reliably from this pair. Camera-only caption still omits posture/mouth changes.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000140",
+      "reference": "The color of the bandage to the left of the brown 100 chip changes from black to white. The white bandage on the stool to the left of the chip rack moves to the left front of the chip rack, and a white bandage appears in its original position. The row of brown 100 chips on the far left of the weight rack swaps places with the row of yellow 10 chips on the far right. The small pack of wet wipes at the back left of the weight rack moves to the front right where a single pack of wet wipes was, and the single pack of wet wipes disappears. A single pack of wet toilet paper with a cartoon pattern appears at the back left of the weight rack. The second row of green 50 chips from left to right on the weight rack disappears. The number of blue small packs of tissues increases from two to three. The clothing draped on the stool changes from white to disappear.",
+      "r64": "The shooting perspective has zoomed out.",
+      "image": [
+        "Real/val/images/real_val_000030.jpg",
+        "Real/val/images/real_val_000038.jpg"
+      ],
+      "assistant_camera_claim": "uncertain",
+      "assistant_note": "Camera orientation/framing visibly differs, but claimed zoom-out is not clearly established; many object changes omitted.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000627",
+      "reference": "the scene remains the same.",
+      "r64": "The camera has rotated counterclockwise.",
+      "image": [
+        "Real/val/images/real_val_000159.jpg",
+        "Real/val/images/real_val_000150.jpg"
+      ],
+      "assistant_camera_claim": "correct",
+      "assistant_note": "Shoe rack and room undergo global roll/perspective change consistent with camera counterclockwise roll (image clockwise). Reference same refers to semantic scene, not pixel identity.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000368",
+      "reference": "The panda's posture has changed from leaning against a piece of wood, with its body slightly tilted, holding a bamboo stick, and its head slightly tilted upward, to having its head slightly lowered, with its gaze focused on the bamboo in its hands, and its right front paw tightly gripping the bamboo. The once intact and straight bamboo has been peeled open in the panda's paw, revealing the tender green inner layer, with the bamboo fibers clearly visible. There are noticeable bite marks on the upper part of the bamboo.",
+      "r64": "The shooting perspective has zoomed in.",
+      "image": [
+        "Real/val/images/real_val_000085.jpg",
+        "Real/val/images/real_val_000083.jpg"
+      ],
+      "assistant_camera_claim": "uncertain",
+      "assistant_note": "Panda and wooden background scale/framing differ; possible zoom mixed with posture/position. Claim type not certain; misses bamboo changes.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000425",
+      "reference": "The green watering can toy on the right has moved to the lower left corner. The bucket openings of the green toy bucket in the upper left corner, the red bucket resembling a strawberry, and the orange bucket with white stripes, which were previously facing downward, have now rotated to face upward. The turquoise caterpillar toy in the upper right corner has moved to the lower right corner. The cylindrical toy with a small yellow duck on top has disappeared.",
+      "r64": "The shooting perspective has zoomed out.",
+      "image": [
+        "Real/val/images/real_val_000096.jpg",
+        "Real/val/images/real_val_000100.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Tub rim/background scale stays similar; toys relocate/rotate/disappear. Claimed zoom-out unsupported by global frame.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000374",
+      "reference": "The brightness of the scene has increased. The black-and-yellow dog's right leg has transitioned from being lowered to stepping forward, while its left leg has moved from being lifted to stretching backward. The dog's tail is raised. Its head has turned to the left, revealing a green collar around its neck. The house in the distance on the right side of the image has been obscured. A white swing has appeared in the back right. A new gray-and-white dog has appeared on the left side of the image.",
+      "r64": "The camera has zoomed out, so more of the scene is visible. The dog's head has moved to the right side of the image.",
+      "image": [
+        "Real/val/images/real_val_000086.jpg",
+        "Real/val/images/real_val_000092.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Dog retreats/turns while background car/tree scale remains similar; no convincing global zoom-out. Also misses most semantic changes.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000346",
+      "reference": "The panda's posture shifts from walking with its left foot forward, body leaning forward, and biting the bamboo, to a sitting position with its head slightly lowered, eyes focused on the bamboo in its hands, and its right front paw tightly gripping the bamboo. The previously intact bamboo has been peeled open in the panda's paw, revealing the tender green inner layer, with bamboo fibers clearly visible. There are noticeable bite marks on the upper part of the bamboo.",
+      "r64": "The camera has zoomed in, making objects appear larger.",
+      "image": [
+        "Real/val/images/real_val_000078.jpg",
+        "Real/val/images/real_val_000083.jpg"
+      ],
+      "assistant_camera_claim": "uncertain",
+      "assistant_note": "Panda pose and background framing both change; cannot confidently separate camera zoom from subject distance and viewpoint change.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000096",
+      "reference": "The hands have moved from away from the desk to towards the chest. The green and white striped water cup at the edge of the table in the lower right corner has moved to the middle of the table. A red sticky note has appeared on the table.",
+      "r64": "The camera has zoomed in, making objects appear larger. The person's right hand is now holding a pen and writing on the table. A red sticky note has appeared to the right of the book at the front of the scene.",
+      "image": [
+        "Real/val/images/real_val_000022.jpg",
+        "Real/val/images/real_val_000023.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Desk/phone/background remain similarly framed while hands/cup move. Global zoom-in unsupported.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000354",
+      "reference": "The panda's head is tilted back. The left front paw no longer grips one end of the bamboo, and the right front paw is no longer stretched upward. Both front limbs are now tightly gripping part of the bamboo. The bamboo, which was previously intact with the right side higher and the left side lower, has now been torn apart, revealing its fibers and inner structure",
+      "r64": "The camera has zoomed in, making objects appear larger.",
+      "image": [
+        "Real/val/images/real_val_000080.jpg",
+        "Real/val/images/real_val_000082.jpg"
+      ],
+      "assistant_camera_claim": "correct",
+      "assistant_note": "The wooden backdrop as well as panda is enlarged/cropped, supporting zoom-in even though reference focuses on posture/bamboo. Caption still omits semantic changes.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000373",
+      "reference": "The brightness of the scene has increased. The dog's body has turned towards the left side of the frame, its ears are slightly bent, and its mouth is open, revealing its tongue. A white swing has appeared in the back right of the image.",
+      "r64": "The camera has zoomed out, so more of the scene is visible.",
+      "image": [
+        "Real/val/images/real_val_000086.jpg",
+        "Real/val/images/real_val_000091.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Dog position/head/lighting change; stable background scale does not support asserted zoom-out.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000376",
+      "reference": "The ambient lighting has brightened. The dog has moved backward, and its ears have drooped. The dog's right leg is lowered while its left leg is lifted. The house in the distance on the right side of the image has disappeared.",
+      "r64": "The ambient lighting has brightened. The camera has zoomed out, so more of the scene is visible.",
+      "image": [
+        "Real/val/images/real_val_000087.jpg",
+        "Real/val/images/real_val_000089.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Dog retreats and lighting changes while background scale is comparable; zoom-out not supported.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    },
+    {
+      "id": "real_val_pair_000584",
+      "reference": "no change has occurred.",
+      "r64": "The shooting perspective has zoomed in.",
+      "image": [
+        "Real/val/images/real_val_000140.jpg",
+        "Real/val/images/real_val_000133.jpg"
+      ],
+      "assistant_camera_claim": "incorrect",
+      "assistant_note": "Image goes from close view to wider framing, opposite to claimed zoom-in. Reference no change does not mean no camera nuisance.",
+      "rater": "assistant; images+reference visible; not independent human; not a gate"
+    }
+  ]
+}

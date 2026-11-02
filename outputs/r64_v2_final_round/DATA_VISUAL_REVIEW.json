@@ -1,0 +1,27 @@
+{
+  "rater": "Codex assistant, visual inspection; not independent human annotation",
+  "sample_size": 32,
+  "selection_sha256": "5a14c01faf9e461ac60df4804ae8dee197f423809a0fb5a0e2ceae05b350b6a1",
+  "boards_reviewed": [
+    "data_review_00.jpg",
+    "data_review_01.jpg",
+    "data_review_02.jpg",
+    "data_review_03.jpg",
+    "data_review_04.jpg",
+    "data_review_05.jpg",
+    "data_review_06.jpg",
+    "data_review_07.jpg"
+  ],
+  "observations": {
+    "light_same_jpeg": "Observed effects match selected labels; same identity separately pixel-validated.",
+    "single_color_multi": "Selected examples show actual colour/other object edits. Coarse HSV colour-name disagreements corrected in all600 generated colour captions before training.",
+    "camera_only": "Selected zoom in/out and rotate/pan effects agree with canonical prefixes.",
+    "camera_object": "Selected object add/remove and camera edits present. Hardcoded center location removed from all100 labels before training."
+  },
+  "limitations": [
+    "Only32 of1800 synthetic pairs visually inspected, not a full human audit.",
+    "Boards retain original pre-cleanup text; final text changes logged in PRETRAIN_CAPTION_FIX.json and FINAL_LABEL_AUDIT.json.",
+    "Cutout compositing and 2D camera transformations do not establish real3D robustness."
+  ],
+  "final_train_sha256": "353afb4a47161fabe7128dc4c0c42deaeb1ea67ea0867861932a6ad9ae2713a8"
+}

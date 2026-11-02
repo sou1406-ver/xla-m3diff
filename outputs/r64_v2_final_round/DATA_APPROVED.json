@@ -1,0 +1,21 @@
+{
+  "stage": "APPROVED_BEFORE_FIRST_TRAIN_ATTEMPT",
+  "utc": "2026-11-02T15:52:30.655285+00:00",
+  "train_json_sha256": "353afb4a47161fabe7128dc4c0c42deaeb1ea67ea0867861932a6ad9ae2713a8",
+  "records": 7200,
+  "optimizer_steps": 450,
+  "no_training_started": true,
+  "files": {
+    "DATA_RECIPE.json": "276bbae7d533cae68809e6b8e5515574c57c9e2809a9ad1cad7389c18d250bc6",
+    "ROUND_BUDGET.json": "6a6798c12b09f8a47efcb8cedea1f647c96d1cf478bea41c28a52b0c79c0abcd",
+    "CAPTION_POLICY.json": "f3b805812c5cee7f3676c4c217e80237b65fcceb27bcc263b6dc5a053a820fe3",
+    "DATA_AUDIT.json": "9b14e7bea9587c48cfa7f28eb7f09486495271863b8af194ebb722492cdee645",
+    "VALIDATED_DATA.json": "bc1740c3f22e6b0b987d7541a27d666c509b1ba13ee4ef10689dc7f3355f89dd",
+    "DATA_VISUAL_REVIEW.json": "36bd6bf965b3512d66e1fa88416765b69aae1a3e0f98b09a37708cd0c2c969fc",
+    "FINAL_LABEL_AUDIT.json": "b53fe76492ae7c8f72ef5c6370d2f8da14c9cfa2adff44a78aa78bf983b70a97",
+    "PRETRAIN_CAPTION_FIX.json": "b5a1ef4ebaca1cd158e132c794aff6b31f2918cc412c08fccb27a6c40e54d98f",
+    "LOCK.json": "3dc4fddf48e9faf5ba5fae166406e3db7b6bb4e16e345eaacb65372a1c869328",
+    "data/synthetic_manifest.jsonl": "957da8611e77459e8d74b06795024a9f72bc43699a4ae3102ca9b6ebf06ce998",
+    "data/replay_manifest.json": "adbdf1cc7f43375825dc512373d85d43b027415b8e1658051888c5335b860c08"
+  }
+}

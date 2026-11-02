@@ -1,0 +1,14 @@
+{
+  "records": 7200,
+  "unique_replay_pairs": 5400,
+  "unique_synthetic_rgb_pairs": 1800,
+  "selected_val_path_matches": 0,
+  "selected_val_raw_rgb_matches": 0,
+  "selected_val_generated_rgb_matches": 0,
+  "multi_records": 300,
+  "multi_3_edits": 150,
+  "multi_mean_words": 33.623333333333335,
+  "camera_templates_valid": true,
+  "train_json_sha256": "353afb4a47161fabe7128dc4c0c42deaeb1ea67ea0867861932a6ad9ae2713a8",
+  "image_review": "Completed assistant visual check32 stratified examples, see DATA_VISUAL_REVIEW.json; not independent human labels."
+}

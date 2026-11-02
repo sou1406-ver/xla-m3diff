@@ -1,0 +1,620 @@
+{
+  "before_train_json_sha256": "8701dfbc4c6447dc1b6f42766b1471d32523105085362f74f0e27467226562d7",
+  "after_train_json_sha256": "00ee3d7a8c394cd2a9cda1856de1b70f7c2fb3661bffa6bf542a35c9128d1847",
+  "changes": [
+    {
+      "id": "v2_camera_object_0000",
+      "before": "The shooting perspective has zoomed out. A gray cat has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A cat has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0001",
+      "before": "The shooting perspective has changed. A new gray dog is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A dog has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0002",
+      "before": "The shooting perspective has zoomed out. A gray car has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A car has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0003",
+      "before": "The shooting perspective has changed. A green suitcase has been added in the center of the scene.",
+      "after": "The shooting perspective has changed. A suitcase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0004",
+      "before": "The shooting perspective has changed. A new black chair is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A chair has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0005",
+      "before": "The shooting perspective has changed. A new black chair is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A chair has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0006",
+      "before": "The shooting perspective has zoomed out. A black book has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A book has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0007",
+      "before": "The shooting perspective has zoomed out. A red bottle has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A bottle has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0008",
+      "before": "The shooting perspective has changed. A white clock has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A clock has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0009",
+      "before": "The shooting perspective has zoomed out. A new black car is now present in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A car has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0010",
+      "before": "The shooting perspective has zoomed out. A black chair has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A chair has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0011",
+      "before": "The shooting perspective has changed. A black chair has been added in the center of the scene.",
+      "after": "The shooting perspective has changed. A chair has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0012",
+      "before": "The shooting perspective has changed. An orange bottle has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A bottle has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0013",
+      "before": "The shooting perspective has changed. A brown dog has been added in the center of the scene.",
+      "after": "The shooting perspective has changed. A dog has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0014",
+      "before": "The shooting perspective has changed. A gray cat has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A cat has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0015",
+      "before": "The shooting perspective has changed. A new yellow cat is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A cat has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0016",
+      "before": "The shooting perspective has zoomed in. A new orange bowl is now present in the center of the scene.",
+      "after": "The shooting perspective has zoomed in. A bowl has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0017",
+      "before": "The shooting perspective has changed. A new black teddy bear is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A teddy bear has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0018",
+      "before": "The shooting perspective has changed. A black vase has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A vase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0019",
+      "before": "The shooting perspective has zoomed out. A yellow banana has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A banana has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0020",
+      "before": "The shooting perspective has changed. A new white teddy bear is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A teddy bear has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0021",
+      "before": "The shooting perspective has changed. A new gray clock is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A clock has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0022",
+      "before": "The shooting perspective has changed. A white cup has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A cup has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0023",
+      "before": "The shooting perspective has zoomed in. A black chair has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed in. A chair has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0024",
+      "before": "The shooting perspective has changed. A black cat has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A cat has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0025",
+      "before": "The shooting perspective has changed. A new yellow bottle is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A bottle has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0026",
+      "before": "The shooting perspective has zoomed out. A new gray laptop is now present in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A laptop has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0027",
+      "before": "The shooting perspective has changed. A blue laptop has been added in the center of the scene.",
+      "after": "The shooting perspective has changed. A laptop has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0028",
+      "before": "The shooting perspective has changed. A blue cup has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A cup has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0029",
+      "before": "The shooting perspective has changed. A new gray car is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A car has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0030",
+      "before": "The shooting perspective has changed. A blue cup has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A cup has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0031",
+      "before": "The shooting perspective has changed. A brown bowl has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A bowl has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0032",
+      "before": "The shooting perspective has zoomed in. A black umbrella has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed in. An umbrella has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0033",
+      "before": "The shooting perspective has changed. A new brown bottle is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A bottle has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0034",
+      "before": "The shooting perspective has zoomed in. A blue umbrella has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed in. An umbrella has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0035",
+      "before": "The shooting perspective has changed. A new yellow banana is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A banana has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0036",
+      "before": "The shooting perspective has changed. A new yellow cup is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A cup has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0037",
+      "before": "The shooting perspective has changed. A brown teddy bear has been added in the center of the scene.",
+      "after": "The shooting perspective has changed. A teddy bear has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0038",
+      "before": "The shooting perspective has changed. An orange vase has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A vase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0039",
+      "before": "The shooting perspective has zoomed out. A black suitcase has been added in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A suitcase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0040",
+      "before": "The shooting perspective has changed. A new gray car is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A car has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0041",
+      "before": "The shooting perspective has changed. A gray teddy bear has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A teddy bear has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0042",
+      "before": "The shooting perspective has zoomed out. A black bicycle has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A bicycle has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0043",
+      "before": "The shooting perspective has zoomed in. A yellow clock has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed in. A clock has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0044",
+      "before": "The shooting perspective has zoomed out. A yellow cat has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A cat has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0045",
+      "before": "The shooting perspective has changed. A new green banana is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A banana has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0046",
+      "before": "The shooting perspective has zoomed out. A new brown umbrella is now present in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. An umbrella has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0047",
+      "before": "The shooting perspective has zoomed out. A green teddy bear has appeared in the center of the scene.",
+      "after": "The shooting perspective has zoomed out. A teddy bear has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0048",
+      "before": "The shooting perspective has changed. A red vase has appeared in the center of the scene.",
+      "after": "The shooting perspective has changed. A vase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0049",
+      "before": "The shooting perspective has changed. A new yellow suitcase is now present in the center of the scene.",
+      "after": "The shooting perspective has changed. A suitcase has been added to the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0050",
+      "before": "The shooting perspective has changed. The red bottle in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The bottle has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0051",
+      "before": "The shooting perspective has changed. The black clock in the center of the scene is no longer present.",
+      "after": "The shooting perspective has changed. The clock has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0052",
+      "before": "The shooting perspective has changed. The brown bowl in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0053",
+      "before": "The shooting perspective has changed. The gray clock in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The clock has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0054",
+      "before": "The shooting perspective has changed. The gray cup that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The cup has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0055",
+      "before": "The shooting perspective has changed. The blue clock that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The clock has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0056",
+      "before": "The shooting perspective has zoomed out. The yellow banana that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed out. The banana has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0057",
+      "before": "The shooting perspective has zoomed out. The gray laptop in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed out. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0058",
+      "before": "The shooting perspective has changed. The black potted plant in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The potted plant has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0059",
+      "before": "The shooting perspective has zoomed in. The orange suitcase in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed in. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0060",
+      "before": "The shooting perspective has zoomed out. The gray suitcase in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0061",
+      "before": "The shooting perspective has changed. The green bowl in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0062",
+      "before": "The shooting perspective has zoomed in. The blue laptop that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed in. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0063",
+      "before": "The shooting perspective has changed. The gray car in the center of the scene is no longer present.",
+      "after": "The shooting perspective has changed. The car has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0064",
+      "before": "The shooting perspective has changed. The black chair that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The chair has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0065",
+      "before": "The shooting perspective has zoomed in. The yellow clock that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed in. The clock has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0066",
+      "before": "The shooting perspective has changed. The red suitcase that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0067",
+      "before": "The shooting perspective has changed. The brown umbrella in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The umbrella has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0068",
+      "before": "The shooting perspective has zoomed out. The orange bottle that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed out. The bottle has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0069",
+      "before": "The shooting perspective has zoomed out. The white laptop in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0070",
+      "before": "The shooting perspective has changed. The red apple in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The apple has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0071",
+      "before": "The shooting perspective has zoomed in. The blue car in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed in. The car has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0072",
+      "before": "The shooting perspective has zoomed out. The black umbrella in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed out. The umbrella has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0073",
+      "before": "The shooting perspective has changed. The blue car in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The car has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0074",
+      "before": "The shooting perspective has changed. The orange suitcase in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0075",
+      "before": "The shooting perspective has changed. The black teddy bear that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The teddy bear has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0076",
+      "before": "The shooting perspective has zoomed in. The yellow vase that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed in. The vase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0077",
+      "before": "The shooting perspective has zoomed out. The gray banana in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The banana has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0078",
+      "before": "The shooting perspective has changed. The blue cup that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The cup has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0079",
+      "before": "The shooting perspective has zoomed out. The gray vase in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The vase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0080",
+      "before": "The shooting perspective has changed. The red bowl that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0081",
+      "before": "The shooting perspective has zoomed in. The brown book in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed in. The book has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0082",
+      "before": "The shooting perspective has zoomed in. The blue laptop that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed in. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0083",
+      "before": "The shooting perspective has changed. The white bowl in the center of the scene is no longer present.",
+      "after": "The shooting perspective has changed. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0084",
+      "before": "The shooting perspective has changed. The blue clock in the center of the scene is no longer present.",
+      "after": "The shooting perspective has changed. The clock has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0085",
+      "before": "The shooting perspective has changed. The purple bottle that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The bottle has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0086",
+      "before": "The shooting perspective has changed. The blue chair that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The chair has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0087",
+      "before": "The shooting perspective has zoomed out. The brown cat in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The cat has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0088",
+      "before": "The shooting perspective has changed. The black dog in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The dog has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0089",
+      "before": "The shooting perspective has changed. The white dog in the center of the scene is no longer present.",
+      "after": "The shooting perspective has changed. The dog has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0090",
+      "before": "The shooting perspective has zoomed out. The white bowl in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed out. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0091",
+      "before": "The shooting perspective has changed. The gray suitcase that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has changed. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0092",
+      "before": "The shooting perspective has zoomed out. The white laptop in the center of the scene has disappeared.",
+      "after": "The shooting perspective has zoomed out. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0093",
+      "before": "The shooting perspective has zoomed in. The yellow banana in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed in. The banana has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0094",
+      "before": "The shooting perspective has zoomed in. The yellow chair that was in the center of the scene has been removed.",
+      "after": "The shooting perspective has zoomed in. The chair has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0095",
+      "before": "The shooting perspective has changed. The black dog in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The dog has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0096",
+      "before": "The shooting perspective has zoomed in. The blue laptop in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed in. The laptop has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0097",
+      "before": "The shooting perspective has changed. The orange suitcase in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The suitcase has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0098",
+      "before": "The shooting perspective has changed. The green umbrella in the center of the scene has disappeared.",
+      "after": "The shooting perspective has changed. The umbrella has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    },
+    {
+      "id": "v2_camera_object_0099",
+      "before": "The shooting perspective has zoomed out. The orange bowl in the center of the scene is no longer present.",
+      "after": "The shooting perspective has zoomed out. The bowl has been removed from the scene.",
+      "reason": "Original generator hardcodes center despite variable placement; neutral scene location is grounded."
+    }
+  ],
+  "grammar_fix_ids": [
+    "v2_multi_object_0026",
+    "v2_multi_object_0092",
+    "v2_multi_object_0102",
+    "v2_multi_object_0158",
+    "v2_multi_object_0184",
+    "v2_multi_object_0204",
+    "v2_multi_object_0214",
+    "v2_multi_object_0216",
+    "v2_multi_object_0222",
+    "v2_multi_object_0226",
+    "v2_multi_object_0228",
+    "v2_camera_object_0016"
+  ]
+}

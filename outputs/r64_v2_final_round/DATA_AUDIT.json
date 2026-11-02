@@ -1,0 +1,45 @@
+{
+  "records": 7200,
+  "synthetic_records": 1800,
+  "replay_records": 5400,
+  "replay_domains": {
+    "real": 3039,
+    "render": 2361
+  },
+  "unique_replay_ids": 5400,
+  "unique_replay_ordered_pairs": 5400,
+  "overlap_r64_replay": 1115,
+  "selected_val_path_matches": 0,
+  "selected_val_rgb_matches": 0,
+  "train_source_images_hashed": 2649,
+  "train_images_rejected_rgb_val_overlap": 0,
+  "synthetic_plan": {
+    "light": 300,
+    "same": 300,
+    "jpeg": 300,
+    "single_color": 300,
+    "multi_object": 300,
+    "camera_only": 200,
+    "camera_object": 100
+  },
+  "multi_operations": {
+    "color": 300,
+    "add": 225,
+    "remove": 75,
+    "move": 75,
+    "size": 75
+  },
+  "multi_unique_records": 300,
+  "unique_synthetic_rgb_pairs": 1800,
+  "source_backgrounds": 580,
+  "objects_test_overlap": 0,
+  "train_json_sha256": "353afb4a47161fabe7128dc4c0c42deaeb1ea67ea0867861932a6ad9ae2713a8",
+  "recipe_sha256": "276bbae7d533cae68809e6b8e5515574c57c9e2809a9ad1cad7389c18d250bc6",
+  "caption_policy_sha256": "f3b805812c5cee7f3676c4c217e80237b65fcceb27bcc263b6dc5a053a820fe3",
+  "replay_camera_wording_audit": "Original official replay labels retained. Camera-like text not standardized; report detector counts separately.",
+  "replay_camera_detector_count": 8,
+  "camera_object_neutral_location_fix_count": 100,
+  "grammar_An_new_fix_count": 12,
+  "postprocess_source_sha256": "4c2eea01e5803b140322b0049a5b76516b31ad862b86e56ba7ff47e6757caf2b",
+  "coarse_color_label_cleanup_records": 600
+}

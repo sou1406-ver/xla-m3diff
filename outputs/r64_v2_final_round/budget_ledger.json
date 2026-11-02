@@ -1,0 +1,14 @@
+{
+  "period_start": "2026-11-01",
+  "authorization": "User renewed $30 credit; one final v2 round,7USD maximum, no purchases.",
+  "initial_consumption": "3.52410843",
+  "jobs": [
+    {
+      "label": "data_preparation",
+      "reservation": "0.09",
+      "rate": "0.28",
+      "seconds": 900,
+      "profile": "cpu"
+    }
+  ]
+}

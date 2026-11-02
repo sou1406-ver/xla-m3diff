@@ -1,0 +1,798 @@
+[
+  {
+    "id": "v2_light_0046",
+    "image": [
+      "r64_v2_final_round/data/images/v2_light_0046_A.png",
+      "r64_v2_final_round/data/images/v2_light_0046_B.png"
+    ],
+    "caption": "The ambient lighting has brightened.",
+    "word_count": 5,
+    "kind": "light",
+    "source_image_rgb_sha256": "755d772ec469a7db9a5f8b902b716c162402a7c906ef7d27d3d0c9982b32f972",
+    "rgb_sha256": [
+      "fab715196b209d0149f0cba49618901df43cb2f24e57e33e59e637369dc25d5a",
+      "1bc6e5e1f395eac7ad27cacf39a46c86833db8738e089d5f9a0997003d6fbb96"
+    ],
+    "metadata": {
+      "cond": "light",
+      "bg_source": "Render/train/images/render_train_indoor_000153.jpg",
+      "gamma": 0.7563683649946236
+    }
+  },
+  {
+    "id": "v2_light_0134",
+    "image": [
+      "r64_v2_final_round/data/images/v2_light_0134_A.png",
+      "r64_v2_final_round/data/images/v2_light_0134_B.png"
+    ],
+    "caption": "The lighting in the scene has increased.",
+    "word_count": 7,
+    "kind": "light",
+    "source_image_rgb_sha256": "e8bfc400bf30263b086cf6c8004ecdb29fb03678b5e0ec803c6bae932b0fbfd2",
+    "rgb_sha256": [
+      "d6aa4714fa062fab67bc29a030b66a044a3b3e37aa7abf2f0c560b30de2f9967",
+      "5bb5e6a9ac7a8e74bd6fbf638e2b32aba8efa657f4376ff9c545a5f31b433db3"
+    ],
+    "metadata": {
+      "cond": "light",
+      "bg_source": "Real/train/images/real_train_001521.jpg",
+      "gamma": 0.6826491711418754
+    }
+  },
+  {
+    "id": "v2_light_0118",
+    "image": [
+      "r64_v2_final_round/data/images/v2_light_0118_A.png",
+      "r64_v2_final_round/data/images/v2_light_0118_B.png"
+    ],
+    "caption": "The scene has become darker.",
+    "word_count": 5,
+    "kind": "light",
+    "source_image_rgb_sha256": "3dd28a78a5eb97c7a4888429a3d4bc640d25d0fe114145dde8e32b29e5d4723a",
+    "rgb_sha256": [
+      "57cb199c8bd336ffe648c98a07671a78d6df43b13306b79a2dd8b3f707bd181a",
+      "c01ce09a5e3921a15849fe839efdb1cd60457082519d43ab6bef419178c75887"
+    ],
+    "metadata": {
+      "cond": "light",
+      "bg_source": "Real/train/images/real_train_000426.jpg",
+      "gamma": 1.8055982739861307
+    }
+  },
+  {
+    "id": "v2_light_0206",
+    "image": [
+      "r64_v2_final_round/data/images/v2_light_0206_A.png",
+      "r64_v2_final_round/data/images/v2_light_0206_B.png"
+    ],
+    "caption": "The ambient lighting has dimmed.",
+    "word_count": 5,
+    "kind": "light",
+    "source_image_rgb_sha256": "0156831ecd5936c7642dad32b30ade8e446a0588ecf89ae0e9e872f8dfda91d9",
+    "rgb_sha256": [
+      "3b1872babf50067ee57509060d989a39deb15c87a3c57ade9f34913021406a9a",
+      "48dd35e04230887c1d3eb2c45dd6d69b5d02fe163d9bc7f0a7511e5104cd81ec"
+    ],
+    "metadata": {
+      "cond": "light",
+      "bg_source": "Render/train/images/render_train_indoor_000150.jpg",
+      "gamma": 1.7369410816758712
+    }
+  },
+  {
+    "id": "v2_same_0176",
+    "image": [
+      "r64_v2_final_round/data/images/v2_same_0176_A.png",
+      "r64_v2_final_round/data/images/v2_same_0176_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "same",
+    "source_image_rgb_sha256": "229e34f2acbbece4001cff8c912fb391d57fdf28bcdba61f627e48d959f6e36d",
+    "rgb_sha256": [
+      "2d3187a9fa33f68e6f593922e5d23a062c476e5645b27eed329e888139df8028",
+      "2d3187a9fa33f68e6f593922e5d23a062c476e5645b27eed329e888139df8028"
+    ],
+    "metadata": {
+      "cond": "same",
+      "bg_source": "Render/train/images/render_train_indoor_000315.jpg"
+    }
+  },
+  {
+    "id": "v2_same_0227",
+    "image": [
+      "r64_v2_final_round/data/images/v2_same_0227_A.png",
+      "r64_v2_final_round/data/images/v2_same_0227_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "same",
+    "source_image_rgb_sha256": "ce08f191b467b64650e9d554239721da1491bc3815d4bed97d1dabe78602ba26",
+    "rgb_sha256": [
+      "0eeeda09b647e0ac0265910efadfccd2171f9b497577c9412c38a9f50ae61611",
+      "0eeeda09b647e0ac0265910efadfccd2171f9b497577c9412c38a9f50ae61611"
+    ],
+    "metadata": {
+      "cond": "same",
+      "bg_source": "Real/train/images/real_train_000221.jpg"
+    }
+  },
+  {
+    "id": "v2_same_0187",
+    "image": [
+      "r64_v2_final_round/data/images/v2_same_0187_A.png",
+      "r64_v2_final_round/data/images/v2_same_0187_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "same",
+    "source_image_rgb_sha256": "ac030a40bfcb569efabd1757f842710bd325498734c58d7f7c6ac7a4b1c6e3da",
+    "rgb_sha256": [
+      "25314d909d5d1d882c7470d05f9dd2f300019df831d85e230b1f189a008d1e59",
+      "25314d909d5d1d882c7470d05f9dd2f300019df831d85e230b1f189a008d1e59"
+    ],
+    "metadata": {
+      "cond": "same",
+      "bg_source": "Real/train/images/real_train_000496.jpg"
+    }
+  },
+  {
+    "id": "v2_same_0135",
+    "image": [
+      "r64_v2_final_round/data/images/v2_same_0135_A.png",
+      "r64_v2_final_round/data/images/v2_same_0135_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "same",
+    "source_image_rgb_sha256": "e54905a1bd7eb2aed2134ebc574d0d24e152d3347456853abf112afe641dda21",
+    "rgb_sha256": [
+      "51a838b90004e9e13c816b97c758798394eadd67bb53088a6b2b28b53452af64",
+      "51a838b90004e9e13c816b97c758798394eadd67bb53088a6b2b28b53452af64"
+    ],
+    "metadata": {
+      "cond": "same",
+      "bg_source": "Render/train/images/render_train_outdoor_000194.jpg"
+    }
+  },
+  {
+    "id": "v2_jpeg_0205",
+    "image": [
+      "r64_v2_final_round/data/images/v2_jpeg_0205_A.png",
+      "r64_v2_final_round/data/images/v2_jpeg_0205_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "jpeg",
+    "source_image_rgb_sha256": "c2aa9af245080e683aa57990664a4c3f67087f2ac15a2a0e0fc41fb739732d34",
+    "rgb_sha256": [
+      "9e98c285365eebdc50f6a102d3fd1e46bc436ff8e8244d787f1f930a7fd40290",
+      "374fb39c8b01b1a94269d54b6ff0aefe2733d93b0577859a59c99e5a1439d495"
+    ],
+    "metadata": {
+      "cond": "jpeg",
+      "bg_source": "Real/train/images/real_train_000699.jpg",
+      "jpeg_quality": 54
+    }
+  },
+  {
+    "id": "v2_jpeg_0060",
+    "image": [
+      "r64_v2_final_round/data/images/v2_jpeg_0060_A.png",
+      "r64_v2_final_round/data/images/v2_jpeg_0060_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "jpeg",
+    "source_image_rgb_sha256": "f19edae991d7171dad6e112f9d3645e3611cb24417609bc961f7cb20684c6748",
+    "rgb_sha256": [
+      "a6b87cea83ee890d726fded286bdd7acfb9cf947f82d9f655eb13599a2e8b226",
+      "47dd398fe0835f52741955ff0368dd6a4c1c7a9c368c14f039dddd839140aa88"
+    ],
+    "metadata": {
+      "cond": "jpeg",
+      "bg_source": "Real/train/images/real_train_001485.png",
+      "jpeg_quality": 54
+    }
+  },
+  {
+    "id": "v2_jpeg_0259",
+    "image": [
+      "r64_v2_final_round/data/images/v2_jpeg_0259_A.png",
+      "r64_v2_final_round/data/images/v2_jpeg_0259_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "jpeg",
+    "source_image_rgb_sha256": "e69a28766647a9d8a07cd9a12d2e9c0337111123d8caa43294b603b297345499",
+    "rgb_sha256": [
+      "d6507fccf913a47848190666ba57c209b2e18641e6e019451a640eeb6c80b52d",
+      "608b00e6e699a0af0d8caaef59e1da71b8d8fbb93d59c84b68709898ae43a79d"
+    ],
+    "metadata": {
+      "cond": "jpeg",
+      "bg_source": "Real/train/images/real_train_000549.jpg",
+      "jpeg_quality": 60
+    }
+  },
+  {
+    "id": "v2_jpeg_0180",
+    "image": [
+      "r64_v2_final_round/data/images/v2_jpeg_0180_A.png",
+      "r64_v2_final_round/data/images/v2_jpeg_0180_B.png"
+    ],
+    "caption": "There is no difference between the two images.",
+    "word_count": 8,
+    "kind": "jpeg",
+    "source_image_rgb_sha256": "bd37a803abef8bfcb8d06964c4092899e3497a868bfd0511e8a082c6f18ad739",
+    "rgb_sha256": [
+      "bb7da329295768c400308879c24f55530816660dd3c03099da81dd470ea1847f",
+      "46004f560e2e3e8fdb8dc57357bad1e0d3f3feebc0336b69cc7526836b6dc89d"
+    ],
+    "metadata": {
+      "cond": "jpeg",
+      "bg_source": "Render/train/images/render_train_indoor_000347.jpg",
+      "jpeg_quality": 70
+    }
+  },
+  {
+    "id": "v2_single_color_0132",
+    "image": [
+      "r64_v2_final_round/data/images/v2_single_color_0132_A.png",
+      "r64_v2_final_round/data/images/v2_single_color_0132_B.png"
+    ],
+    "caption": "The color of the cat on the right side of the scene has changed from brown to green.",
+    "word_count": 18,
+    "kind": "single_color",
+    "source_image_rgb_sha256": "735b3954c66e5c60ae01f0386ee2b8ae62bc923b12d16b5374e5b23d52ed2a83",
+    "rgb_sha256": [
+      "ddc3dc8e67410c780ca57484d74a020090a47991d9a35cfe9dcf4cff2e5f1650",
+      "1d449ec1c2256b1390451cfb94c15c4f5b23a347f2ec89424d489d6d2bd76707"
+    ],
+    "metadata": {
+      "bg_source": "Real/train/images/real_train_001432.jpg",
+      "cond": "color",
+      "category": "cat",
+      "obj_id": 51987,
+      "hue_shift": 54.3
+    }
+  },
+  {
+    "id": "v2_single_color_0236",
+    "image": [
+      "r64_v2_final_round/data/images/v2_single_color_0236_A.png",
+      "r64_v2_final_round/data/images/v2_single_color_0236_B.png"
+    ],
+    "caption": "The bottle in the center of the scene has changed from red to green.",
+    "word_count": 14,
+    "kind": "single_color",
+    "source_image_rgb_sha256": "38e6a12567e4c538081e79438a64d83349667179836330cdf4fee3084b98ba6f",
+    "rgb_sha256": [
+      "37c33c7a07e65e721bfef9b4634e15ee4645b2c08514ddc03d6a9442d1014073",
+      "ee2e1e3346a526e4dca15ef199f083388e2c06c4bb95e6d8f2e86b1d27c8cf5c"
+    ],
+    "metadata": {
+      "bg_source": "Real/train/images/real_train_000961.jpg",
+      "cond": "color",
+      "category": "bottle",
+      "obj_id": 78676,
+      "hue_shift": 82.4
+    }
+  },
+  {
+    "id": "v2_single_color_0176",
+    "image": [
+      "r64_v2_final_round/data/images/v2_single_color_0176_A.png",
+      "r64_v2_final_round/data/images/v2_single_color_0176_B.png"
+    ],
+    "caption": "The color of the dog on the right side of the scene has changed from brown to pink.",
+    "word_count": 18,
+    "kind": "single_color",
+    "source_image_rgb_sha256": "14e5ab0b4a118c2ff9825874f0d265e60b5f3542cd52628bbc2a113e55c0a405",
+    "rgb_sha256": [
+      "275eb3500da0cd0b2798b06919ede453fab0d97d1585450cfd7cd507a60345cc",
+      "703f591812da63502f56962076cc03b80f2dcc7816c58073ebf6f694238a685a"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_indoor_000116.jpg",
+      "cond": "color",
+      "category": "dog",
+      "obj_id": 6263,
+      "hue_shift": -104.9
+    }
+  },
+  {
+    "id": "v2_single_color_0067",
+    "image": [
+      "r64_v2_final_round/data/images/v2_single_color_0067_A.png",
+      "r64_v2_final_round/data/images/v2_single_color_0067_B.png"
+    ],
+    "caption": "The color of the chair in the center of the scene has changed from brown to pink.",
+    "word_count": 17,
+    "kind": "single_color",
+    "source_image_rgb_sha256": "92062c3930a9fce0c4e7b9982acaf4a1df108eeceac5589399ab5f8f1dc402c7",
+    "rgb_sha256": [
+      "590dc70e90ac24da957c9c25804d22f09d88a2d58e00b62d967d722cc0caebc6",
+      "8fe9a37e3fa7c3dc9adc55ca4fb76e55b8ee91b3977c2fc80764db058497f00f"
+    ],
+    "metadata": {
+      "bg_source": "Real/train/images/real_train_001458.jpg",
+      "cond": "color",
+      "category": "chair",
+      "obj_id": 1583575,
+      "hue_shift": -78.5
+    }
+  },
+  {
+    "id": "v2_multi_object_0168",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0168_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0168_B.png"
+    ],
+    "caption": "The color of the vase on the left side of the scene has changed from brown to blue. A gray suitcase has appeared on the right side of the scene. A brown umbrella has appeared in the lower part of the scene.",
+    "word_count": 42,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "98fe8443cbcab6ea5a7859574fb59a994c92afb4b2eb69583e292cf03d3dc448",
+    "rgb_sha256": [
+      "f7aadeeb972d1eb52310a8eafd3dbb9d2a0d6af40f4e56aeb6eb095216b86edd",
+      "aed6c66ed71c1eb85d48ecc6e1a5d72b491583307d7d02d3b2838ce5af58cc8e"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Real/train/images/real_train_001427.jpg",
+      "operations": [
+        "color",
+        "add",
+        "add"
+      ],
+      "obj_ids": [
+        1156416,
+        1183559,
+        283786
+      ],
+      "categories": [
+        "vase",
+        "suitcase",
+        "umbrella"
+      ],
+      "color_from": "brown",
+      "color_to": "blue"
+    }
+  },
+  {
+    "id": "v2_multi_object_0232",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0232_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0232_B.png"
+    ],
+    "caption": "The orange clock on the left side of the scene has turned green. An orange bowl has appeared on the right side of the scene. A yellow banana has been added in the lower part of the scene.",
+    "word_count": 38,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "e1cfad2a98e7299928cc3cacc9a31a9413350f4b4222c996ba437131e191e847",
+    "rgb_sha256": [
+      "a3f1c6c553881d1c94474d3f332cea5ade0afc1b68f3fbc9587f87c45c8481ee",
+      "a8719194f20c51f7b257a0e00f75fd172c5f3f8d46a93d7a0ddbddaf869d03b5"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Real/train/images/real_train_000960.jpg",
+      "operations": [
+        "color",
+        "add",
+        "add"
+      ],
+      "obj_ids": [
+        1663871,
+        1901631,
+        1543901
+      ],
+      "categories": [
+        "clock",
+        "bowl",
+        "banana"
+      ],
+      "color_from": "orange",
+      "color_to": "green"
+    }
+  },
+  {
+    "id": "v2_multi_object_0193",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0193_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0193_B.png"
+    ],
+    "caption": "The pink clock on the left side of the scene has turned cyan. The yellow teddy bear on the right side of the scene has disappeared.",
+    "word_count": 26,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "20cc731afc7c560d056fe933d2b51c969e396ebb1ccf97f1d6ef317c275b6485",
+    "rgb_sha256": [
+      "e23d339d24f81f7b4705b6c9ddf116c0a68ce8dcd86ebc6d480dafd358ae8640",
+      "d56c261e92335cbe49646dfa2689b6968310240b72559b09d743c9a88fc70a27"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Real/train/images/real_train_000262.jpg",
+      "operations": [
+        "color",
+        "remove"
+      ],
+      "obj_ids": [
+        2197085,
+        1673202
+      ],
+      "categories": [
+        "clock",
+        "teddy bear"
+      ],
+      "color_from": "pink",
+      "color_to": "cyan"
+    }
+  },
+  {
+    "id": "v2_multi_object_0265",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0265_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0265_B.png"
+    ],
+    "caption": "The color of the umbrella on the left side of the scene has changed from brown to green. The yellow banana on the right side of the scene has disappeared.",
+    "word_count": 30,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "4ea9ef4d18a2adfbedc73181dc06e74adf21effb458ebd6069bd8dbb40fa5068",
+    "rgb_sha256": [
+      "8921277f98fad2aed63f781285f90635fe3597f776af0ababb938f7134a9a093",
+      "e96db1aabf2291862b6d3fb6fff5dd77c04aff89c595980459daeef0c3224fb7"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Render/train/images/render_train_indoor_000014.jpg",
+      "operations": [
+        "color",
+        "remove"
+      ],
+      "obj_ids": [
+        283786,
+        1547752
+      ],
+      "categories": [
+        "umbrella",
+        "banana"
+      ],
+      "color_from": "brown",
+      "color_to": "green"
+    }
+  },
+  {
+    "id": "v2_multi_object_0046",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0046_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0046_B.png"
+    ],
+    "caption": "The brown vase on the left side of the scene has turned blue. The white cup on the right side of the scene has moved to the right. A brown bowl has appeared in the lower part of the scene.",
+    "word_count": 40,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "2877ddba7e565e21bd30936ef11a397622906cf0d706e24c0d9d13686a64d220",
+    "rgb_sha256": [
+      "80b831ce59074ec5cfd96afc2b15994448fde164415798203fd30d5cc0347509",
+      "f0218d450d2ad6294b40d60f64eeb65895653fa655a5fcea017ba40da0f30668"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Real/train/images/real_train_001098.jpg",
+      "operations": [
+        "color",
+        "move",
+        "add"
+      ],
+      "obj_ids": [
+        1151441,
+        1877869,
+        1040830
+      ],
+      "categories": [
+        "vase",
+        "cup",
+        "bowl"
+      ],
+      "color_from": "brown",
+      "color_to": "blue"
+    }
+  },
+  {
+    "id": "v2_multi_object_0114",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0114_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0114_B.png"
+    ],
+    "caption": "The green suitcase on the left side of the scene has turned blue. The blue chair on the right side of the scene has shifted toward the right side of the scene. A black cat has been added in the lower part of the scene.",
+    "word_count": 45,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "ec0a96d41e34c4abd05b6ef161cd6de38432259a0191cd0330aa15417db56e15",
+    "rgb_sha256": [
+      "c36b157681f4ea90ea6a88dda56fb8d150d535f7a4a5f10699c02e816e0652fa",
+      "d44adae61705d860b29bef5ca85e6d0607dae633f3ee6d5cc0b92d4f033992b2"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Real/train/images/real_train_000708.jpg",
+      "operations": [
+        "color",
+        "move",
+        "add"
+      ],
+      "obj_ids": [
+        1445317,
+        374026,
+        51091
+      ],
+      "categories": [
+        "suitcase",
+        "chair",
+        "cat"
+      ],
+      "color_from": "green",
+      "color_to": "blue"
+    }
+  },
+  {
+    "id": "v2_multi_object_0199",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0199_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0199_B.png"
+    ],
+    "caption": "The yellow suitcase on the left side of the scene has turned cyan. The black chair on the right side of the scene has been enlarged.",
+    "word_count": 26,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "b6853392a2c349b5e481f434b5a27e064f76626218b35bf50d65c0b781fbcfbc",
+    "rgb_sha256": [
+      "b9549fdec1277c175eddea1f6121076ab3edf45ec1b629b843fb4a3fb4bdfa18",
+      "3ba96e801ecc3aad36824a5f4b4f0db1b91f8c0b357071a682d8db386c1d818e"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Render/train/images/render_train_indoor_000381.jpg",
+      "operations": [
+        "color",
+        "size"
+      ],
+      "obj_ids": [
+        1842951,
+        289814
+      ],
+      "categories": [
+        "suitcase",
+        "chair"
+      ],
+      "color_from": "yellow",
+      "color_to": "cyan"
+    }
+  },
+  {
+    "id": "v2_multi_object_0227",
+    "image": [
+      "r64_v2_final_round/data/images/v2_multi_object_0227_A.png",
+      "r64_v2_final_round/data/images/v2_multi_object_0227_B.png"
+    ],
+    "caption": "The color of the vase on the left side of the scene has changed from yellow to green. The gray teddy bear on the right side of the scene has become larger.",
+    "word_count": 32,
+    "kind": "multi_object",
+    "source_image_rgb_sha256": "1d596a09631d445598551559b2c8707d858eb471a9fa33d2a5474e5785310c1b",
+    "rgb_sha256": [
+      "e854c219d3d02f8f58c1503f39be3634cca9cff757d5557e4044b6825d218967",
+      "7529a35432d41af143cfb77802eb3f54a9edbb6cd1ec1f0d14973596bf7f71e7"
+    ],
+    "metadata": {
+      "cond": "multi_object",
+      "bg_source": "Render/train/images/render_train_outdoor_000349.jpg",
+      "operations": [
+        "color",
+        "size"
+      ],
+      "obj_ids": [
+        1154809,
+        1159291
+      ],
+      "categories": [
+        "vase",
+        "teddy bear"
+      ],
+      "color_from": "yellow",
+      "color_to": "green"
+    }
+  },
+  {
+    "id": "v2_camera_only_0032",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_only_0032_A.png",
+      "r64_v2_final_round/data/images/v2_camera_only_0032_B.png"
+    ],
+    "caption": "The shooting perspective has zoomed in.",
+    "word_count": 6,
+    "kind": "camera_only",
+    "source_image_rgb_sha256": "f180d79b182252f282c22ba84d3bb7b277209ce2f2fac3b67f54670021b408d3",
+    "rgb_sha256": [
+      "c3ef78ed2e681ba2c3c38d9509d69e0c4e05d3c3b2fd5d41222bcd4ae6834aa8",
+      "283ff4bd545fde7448e41910903b590630c6127bb3370cb32a6722d9a0b01d1a"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_indoor_000358.jpg",
+      "cond": "zoom_in",
+      "camera": "zoom",
+      "camera_value": 1.2295,
+      "camera_dir": "in",
+      "camera_prefix": "The shooting perspective has zoomed in."
+    }
+  },
+  {
+    "id": "v2_camera_only_0084",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_only_0084_A.png",
+      "r64_v2_final_round/data/images/v2_camera_only_0084_B.png"
+    ],
+    "caption": "The shooting perspective has zoomed out.",
+    "word_count": 6,
+    "kind": "camera_only",
+    "source_image_rgb_sha256": "a72511abeab5f28cce2664dde78668b51aee8230607125a6483e1cd9e06d9020",
+    "rgb_sha256": [
+      "063e2295458c42c70af1d05bcde47cadba92375915a99b56f4277fb2da3988fe",
+      "eccc09fa3141ff436f14220cdeff24770908db8d54653661712f923cb88cbbc7"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_outdoor_000012.jpg",
+      "cond": "zoom_out",
+      "camera": "zoom",
+      "camera_value": 0.8305,
+      "camera_dir": "out",
+      "camera_prefix": "The shooting perspective has zoomed out."
+    }
+  },
+  {
+    "id": "v2_camera_only_0149",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_only_0149_A.png",
+      "r64_v2_final_round/data/images/v2_camera_only_0149_B.png"
+    ],
+    "caption": "The shooting perspective has changed.",
+    "word_count": 5,
+    "kind": "camera_only",
+    "source_image_rgb_sha256": "79a6f849520c782e7425ff3d554da858c390dae4d3c52ca3ad6eb5313721a3b2",
+    "rgb_sha256": [
+      "df9ae1e3a55f5e2f5521a950d80e92997e656546ce572026fa1ee5fe76ded534",
+      "5ad6b39ec4cea167b182dd4ec225b6aec3b85430313e3a2c1512aa9b12372a2f"
+    ],
+    "metadata": {
+      "bg_source": "Real/train/images/real_train_001308.jpg",
+      "cond": "rotate",
+      "camera": "rotate",
+      "camera_value": -5.3802,
+      "camera_dir": "counterclockwise",
+      "camera_prefix": "The shooting perspective has changed."
+    }
+  },
+  {
+    "id": "v2_camera_only_0173",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_only_0173_A.png",
+      "r64_v2_final_round/data/images/v2_camera_only_0173_B.png"
+    ],
+    "caption": "The shooting perspective has changed.",
+    "word_count": 5,
+    "kind": "camera_only",
+    "source_image_rgb_sha256": "11031d3b6162b71b860fd4c8a38c48d0aeb14d4da5c93aee74c966de654c442f",
+    "rgb_sha256": [
+      "ad81877b52cc3cd47327958e10d94ec4950e6153d7d4f149c20b27d73fa4e906",
+      "1a3ecdf705fa98d355f52de126cba6ae7f7b30dbe9e15efc8ccdb6904baf2a3b"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_outdoor_000239.jpg",
+      "cond": "pan",
+      "camera": "pan",
+      "camera_value": 0.1537,
+      "camera_dir": "right",
+      "camera_prefix": "The shooting perspective has changed."
+    }
+  },
+  {
+    "id": "v2_camera_object_0033",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_object_0033_A.png",
+      "r64_v2_final_round/data/images/v2_camera_object_0033_B.png"
+    ],
+    "caption": "The shooting perspective has changed. A new brown bottle is now present in the center of the scene.",
+    "word_count": 18,
+    "kind": "camera_object",
+    "source_image_rgb_sha256": "9c27194a5b4b810cd483cc8266f1c1177079e9a4c85b8bc9639702663440ad48",
+    "rgb_sha256": [
+      "cbaa236435978eda5cc3025da007369e0100ba2460b371695f681ca678e8c4ac",
+      "f51efa18bcf6764196e5e00180a287494c97f13dd08c8b7e539dcbc971032aec"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_outdoor_000477.jpg",
+      "cond": "cam_add",
+      "category": "bottle",
+      "obj_id": 83858,
+      "obj_change": "add",
+      "camera": "rotate",
+      "camera_value": -14.0994,
+      "camera_dir": "counterclockwise",
+      "camera_prefix": "The shooting perspective has changed."
+    }
+  },
+  {
+    "id": "v2_camera_object_0037",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_object_0037_A.png",
+      "r64_v2_final_round/data/images/v2_camera_object_0037_B.png"
+    ],
+    "caption": "The shooting perspective has changed. A brown teddy bear has been added in the center of the scene.",
+    "word_count": 18,
+    "kind": "camera_object",
+    "source_image_rgb_sha256": "ac1756952ef1741833dead90e455e3eaf42814325de3abb3c6cc296f1889a492",
+    "rgb_sha256": [
+      "e22321da040ebbc9b18244d3fe5cde75cc068d405891f1becb94c671a9883e5d",
+      "f505a5f634edf9f8e22189a41e6db80271df1639e657a4744e0294f1062a5833"
+    ],
+    "metadata": {
+      "bg_source": "Real/train/images/real_train_000109.jpg",
+      "cond": "cam_add",
+      "category": "teddy bear",
+      "obj_id": 1162321,
+      "obj_change": "add",
+      "camera": "pan",
+      "camera_value": 0.0872,
+      "camera_dir": "right",
+      "camera_prefix": "The shooting perspective has changed."
+    }
+  },
+  {
+    "id": "v2_camera_object_0096",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_object_0096_A.png",
+      "r64_v2_final_round/data/images/v2_camera_object_0096_B.png"
+    ],
+    "caption": "The shooting perspective has zoomed in. The blue laptop in the center of the scene is no longer present.",
+    "word_count": 19,
+    "kind": "camera_object",
+    "source_image_rgb_sha256": "f432d2d6ce57519566feb643bee8f0cd3335b69e97618177efebf56c672a70fa",
+    "rgb_sha256": [
+      "ad2534d78ec0751f6e33e91eb0ddea4cf2aef002942ba3ae2d0fcbf66e515d8c",
+      "a8fb337ed1c3094bd3e0f13447cc3642c1dbc96d6742da92a738bab14797dbd2"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_outdoor_000016.jpg",
+      "cond": "cam_remove",
+      "category": "laptop",
+      "obj_id": 1099681,
+      "obj_change": "remove",
+      "camera": "zoom",
+      "camera_value": 1.2111,
+      "camera_dir": "in",
+      "camera_prefix": "The shooting perspective has zoomed in."
+    }
+  },
+  {
+    "id": "v2_camera_object_0098",
+    "image": [
+      "r64_v2_final_round/data/images/v2_camera_object_0098_A.png",
+      "r64_v2_final_round/data/images/v2_camera_object_0098_B.png"
+    ],
+    "caption": "The shooting perspective has changed. The green umbrella in the center of the scene has disappeared.",
+    "word_count": 16,
+    "kind": "camera_object",
+    "source_image_rgb_sha256": "aca934f60ffd400f9b2568122d5aba007fdfc471231da6cfffca27a169eac99b",
+    "rgb_sha256": [
+      "2da94d1b7984b22738f576cce7bb782e278c5df93a017c79ee9a811eff7c0430",
+      "25d2e1f6631b9dca270c001c1f50ba6487f5ebd527bfb6e0f81142e41038c09d"
+    ],
+    "metadata": {
+      "bg_source": "Render/train/images/render_train_outdoor_000187.jpg",
+      "cond": "cam_remove",
+      "category": "umbrella",
+      "obj_id": 280732,
+      "obj_change": "remove",
+      "camera": "rotate",
+      "camera_value": 11.9767,
+      "camera_dir": "clockwise",
+      "camera_prefix": "The shooting perspective has changed."
+    }
+  }
+]

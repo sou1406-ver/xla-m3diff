@@ -1,0 +1,12 @@
+{
+  "external_scst_training_notebook.ipynb": "aa35cd20f6e09f8435b8285de486317d7e0e8a1dcfda347c419a67f4664775dd",
+  "Real_comparison.json": "8e20b9caac75816cc01b883bff9442c17a8534cd070e00bb8c85321c2c171b54",
+  "Render_comparison.json": "7e5ab6b14e76e6eb786ff06f33293087e768b6e9e345977b3c8713afac8f8814",
+  "sources.json": "e5353016583a33cf7ca159b92441f18f3a19184574c0dcf8e84addb9042d917f",
+  "baseline_reproduction_v1/repo/data/evaluation/prompt/OmniDiff_Real_test.json": "18121da4442bdb35647f4b4c3bb792c7a127f60c19d39226d844bc08f53ba4bf",
+  "baseline_reproduction_v1/repo/data/evaluation/prompt/OmniDiff_Render_test.json": "3d024e0fe0a99b0a4099f0bf147f4546058ee56b92f31a8f0504c3a3e4b0ab31",
+  "baseline_reproduction_v1/repo/data/evaluation/reference/OmniDiff_Real.json": "54b401bb3c544db457754eabf90bd67aa2910ab071f64c513cf2b9a14e88735d",
+  "baseline_reproduction_v1/repo/data/evaluation/reference/OmniDiff_Render.json": "a1442b55fb6f059ec7e50f34a338e6468b820266c161848ab5a065ae54ebba45",
+  "results/OmniDiff_Real/OmniDiff_Real.jsonl": "867550737d2c352ca7dd1ccd14e609053d29225d9d0d182fa5b006e193416207",
+  "results/OmniDiff_Render/OmniDiff_Render.jsonl": "41235c9fa230905892f0453b3377b108ce531b721fc79ca824c3b60e91095d9c"
+}

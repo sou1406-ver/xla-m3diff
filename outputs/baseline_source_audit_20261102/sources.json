@@ -1,0 +1,50 @@
+{
+  "results/OmniDiff_Real/OmniDiff_Real.jsonl": {
+    "bytes": 303502,
+    "sha256": "867550737d2c352ca7dd1ccd14e609053d29225d9d0d182fa5b006e193416207"
+  },
+  "results/OmniDiff_Render/OmniDiff_Render.jsonl": {
+    "bytes": 320018,
+    "sha256": "41235c9fa230905892f0453b3377b108ce531b721fc79ca824c3b60e91095d9c"
+  },
+  "repo/data/evaluation/prompt/OmniDiff_Real_test.json": {
+    "error": "path \"/repo/data/evaluation/prompt/OmniDiff_Real_test.json\" does not exist"
+  },
+  "repo/data/evaluation/reference/OmniDiff_Real.json": {
+    "error": "path \"/repo/data/evaluation/reference/OmniDiff_Real.json\" does not exist"
+  },
+  "repo/data/evaluation/prompt/OmniDiff_Render_test.json": {
+    "error": "path \"/repo/data/evaluation/prompt/OmniDiff_Render_test.json\" does not exist"
+  },
+  "repo/data/evaluation/reference/OmniDiff_Render.json": {
+    "error": "path \"/repo/data/evaluation/reference/OmniDiff_Render.json\" does not exist"
+  },
+  "M3Diff/data/evaluation/prompt/OmniDiff_Real_test.json": {
+    "error": "path \"/M3Diff/data/evaluation/prompt/OmniDiff_Real_test.json\" does not exist"
+  },
+  "M3Diff/data/evaluation/reference/OmniDiff_Real.json": {
+    "error": "path \"/M3Diff/data/evaluation/reference/OmniDiff_Real.json\" does not exist"
+  },
+  "M3Diff/data/evaluation/prompt/OmniDiff_Render_test.json": {
+    "error": "path \"/M3Diff/data/evaluation/prompt/OmniDiff_Render_test.json\" does not exist"
+  },
+  "M3Diff/data/evaluation/reference/OmniDiff_Render.json": {
+    "error": "path \"/M3Diff/data/evaluation/reference/OmniDiff_Render.json\" does not exist"
+  },
+  "baseline_reproduction_v1/repo/data/evaluation/prompt/OmniDiff_Real_test.json": {
+    "bytes": 263176,
+    "sha256": "18121da4442bdb35647f4b4c3bb792c7a127f60c19d39226d844bc08f53ba4bf"
+  },
+  "baseline_reproduction_v1/repo/data/evaluation/reference/OmniDiff_Real.json": {
+    "bytes": 412011,
+    "sha256": "54b401bb3c544db457754eabf90bd67aa2910ab071f64c513cf2b9a14e88735d"
+  },
+  "baseline_reproduction_v1/repo/data/evaluation/prompt/OmniDiff_Render_test.json": {
+    "bytes": 270582,
+    "sha256": "3d024e0fe0a99b0a4099f0bf147f4546058ee56b92f31a8f0504c3a3e4b0ab31"
+  },
+  "baseline_reproduction_v1/repo/data/evaluation/reference/OmniDiff_Render.json": {
+    "bytes": 387551,
+    "sha256": "a1442b55fb6f059ec7e50f34a338e6468b820266c161848ab5a065ae54ebba45"
+  }
+}

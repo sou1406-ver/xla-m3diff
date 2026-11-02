@@ -1,5 +1,7 @@
 # Context bàn giao — 02/11/2026
 
+**Bổ sung sau bàn giao:** đọc [audit config/checkpoint](CONFIG_AUDIT_20261102.md) và [audit hai baseline + development SCST](BASELINE_SOURCE_AUDIT_20261102.md). Đã xác nhận checkpoint r64 `/ft` riêng chưa có output fine-tune trong `ft/eval`; SCST B từng `development_failed` do CIDEr Real giảm. Hai baseline Real khác456/803caption, Render trùng767/767; nguyên nhân Real chưa được xác định. Phân công đề xuất mới: SCST trên Colab người giữ weights, Modal ưu tiên đánh giá r64 qua gate nhỏ trước.
+
 ## Người dùng đang muốn gì?
 
 Nhóm làm đề tài dựng lại M3Diff rồi cải thiện caption mô tả khác biệt giữa hai ảnh, đặc biệt khi có zoom/xoay/góc nhìn. Đã có nhiều vòng thực nghiệm trên Modal. Người dùng cần kết quả thật, không muốn gọi giảm một loại lỗi là cải thiện tổng thể khi model bỏ sót thay đổi thật. Yêu cầu mới nhất là gom repo để Claude hiểu context. **Chưa chọn hướng tiếp theo và không có job mới được khởi chạy trong việc đóng gói này.**

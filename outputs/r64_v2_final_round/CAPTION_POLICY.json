@@ -1,0 +1,14 @@
+{
+  "status": "LOCKED_BEFORE_V2_DATA_GENERATION_OR_TRAINING",
+  "camera_prefixes": {
+    "rotate": ["The shooting perspective has changed."],
+    "pan": ["The shooting perspective has changed."],
+    "zoom_in": ["The shooting perspective has zoomed in."],
+    "zoom_out": ["The shooting perspective has zoomed out."]
+  },
+  "camera_object": "Use exactly one prefix above, followed by the object-change caption. No additional camera paraphrases.",
+  "training_manifest_requirements": ["camera_prefix verbatim", "camera_transform", "object_caption separate from camera prefix", "source_pair_id", "source_image_hashes", "unique_pair_count and repetition_count", "caption policy hash", "detector hash"],
+  "prohibited_new_camera_wording": ["The image is taken from a different angle.", "any camera paraphrase outside the allowed list"],
+  "scope": "Caption generation policy only. Base official OmniDiff replay captions remain official and are audited for wording; do not rewrite replay labels to force this policy. Record any camera wording outside this list in official replay separately.",
+  "limitation": "The model can still generate unseen camera paraphrases. Restricting train templates does not establish detector recall. Keep raw captions and semantic spot checks; do not expand detector after v2 results."
+}

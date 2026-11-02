@@ -1,0 +1,11 @@
+{
+  "templates_verified": [
+    "The shooting perspective has changed.",
+    "The shooting perspective has zoomed in.",
+    "The shooting perspective has zoomed out."
+  ],
+  "all_detected": true,
+  "policy_sha256": "f3b805812c5cee7f3676c4c217e80237b65fcceb27bcc263b6dc5a053a820fe3",
+  "detector_sha256": "793a30563c6e11d4ab4d0ce2ba4c0d1bbcfc7a4623be4ccdd76a9599c86c2d07",
+  "scorer_changed": false
+}

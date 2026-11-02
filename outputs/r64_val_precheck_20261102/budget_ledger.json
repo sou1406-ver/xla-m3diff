@@ -1,0 +1,14 @@
+{
+  "period_start": "2026-11-01",
+  "authorization": "User renewed $30 credit; bounded matched val200 precheck, no purchases.",
+  "initial_consumption": "2.84271703",
+  "jobs": [
+    {
+      "label": "matched_val200",
+      "reservation": "1.51",
+      "rate": "1.70",
+      "seconds": 3000,
+      "profile": "a10"
+    }
+  ]
+}

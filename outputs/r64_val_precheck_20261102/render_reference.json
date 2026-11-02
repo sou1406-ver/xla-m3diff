@@ -1,0 +1,806 @@
+{
+  "images": [
+    {
+      "id": "render_val_pair_000760"
+    },
+    {
+      "id": "render_val_pair_000243"
+    },
+    {
+      "id": "render_val_pair_000547"
+    },
+    {
+      "id": "render_val_pair_000136"
+    },
+    {
+      "id": "render_val_pair_000433"
+    },
+    {
+      "id": "render_val_pair_000669"
+    },
+    {
+      "id": "render_val_pair_000160"
+    },
+    {
+      "id": "render_val_pair_000002"
+    },
+    {
+      "id": "render_val_pair_000616"
+    },
+    {
+      "id": "render_val_pair_000506"
+    },
+    {
+      "id": "render_val_pair_000346"
+    },
+    {
+      "id": "render_val_pair_000768"
+    },
+    {
+      "id": "render_val_pair_000235"
+    },
+    {
+      "id": "render_val_pair_000562"
+    },
+    {
+      "id": "render_val_pair_000127"
+    },
+    {
+      "id": "render_val_pair_000418"
+    },
+    {
+      "id": "render_val_pair_000652"
+    },
+    {
+      "id": "render_val_pair_000207"
+    },
+    {
+      "id": "render_val_pair_000036"
+    },
+    {
+      "id": "render_val_pair_000606"
+    },
+    {
+      "id": "render_val_pair_000515"
+    },
+    {
+      "id": "render_val_pair_000381"
+    },
+    {
+      "id": "render_val_pair_000777"
+    },
+    {
+      "id": "render_val_pair_000268"
+    },
+    {
+      "id": "render_val_pair_000534"
+    },
+    {
+      "id": "render_val_pair_000085"
+    },
+    {
+      "id": "render_val_pair_000445"
+    },
+    {
+      "id": "render_val_pair_000633"
+    },
+    {
+      "id": "render_val_pair_000214"
+    },
+    {
+      "id": "render_val_pair_000015"
+    },
+    {
+      "id": "render_val_pair_000594"
+    },
+    {
+      "id": "render_val_pair_000480"
+    },
+    {
+      "id": "render_val_pair_000340"
+    },
+    {
+      "id": "render_val_pair_000736"
+    },
+    {
+      "id": "render_val_pair_000229"
+    },
+    {
+      "id": "render_val_pair_000543"
+    },
+    {
+      "id": "render_val_pair_000071"
+    },
+    {
+      "id": "render_val_pair_000416"
+    },
+    {
+      "id": "render_val_pair_000653"
+    },
+    {
+      "id": "render_val_pair_000217"
+    },
+    {
+      "id": "render_val_pair_000008"
+    },
+    {
+      "id": "render_val_pair_000596"
+    },
+    {
+      "id": "render_val_pair_000520"
+    },
+    {
+      "id": "render_val_pair_000390"
+    },
+    {
+      "id": "render_val_pair_000693"
+    },
+    {
+      "id": "render_val_pair_000305"
+    },
+    {
+      "id": "render_val_pair_000558"
+    },
+    {
+      "id": "render_val_pair_000116"
+    },
+    {
+      "id": "render_val_pair_000456"
+    },
+    {
+      "id": "render_val_pair_000679"
+    },
+    {
+      "id": "render_val_pair_000223"
+    },
+    {
+      "id": "render_val_pair_000045"
+    },
+    {
+      "id": "render_val_pair_000597"
+    },
+    {
+      "id": "render_val_pair_000529"
+    },
+    {
+      "id": "render_val_pair_000369"
+    },
+    {
+      "id": "render_val_pair_000739"
+    },
+    {
+      "id": "render_val_pair_000306"
+    },
+    {
+      "id": "render_val_pair_000541"
+    },
+    {
+      "id": "render_val_pair_000090"
+    },
+    {
+      "id": "render_val_pair_000462"
+    },
+    {
+      "id": "render_val_pair_000660"
+    },
+    {
+      "id": "render_val_pair_000196"
+    },
+    {
+      "id": "render_val_pair_000012"
+    },
+    {
+      "id": "render_val_pair_000583"
+    },
+    {
+      "id": "render_val_pair_000511"
+    },
+    {
+      "id": "render_val_pair_000368"
+    },
+    {
+      "id": "render_val_pair_000732"
+    },
+    {
+      "id": "render_val_pair_000258"
+    },
+    {
+      "id": "render_val_pair_000569"
+    },
+    {
+      "id": "render_val_pair_000117"
+    },
+    {
+      "id": "render_val_pair_000444"
+    },
+    {
+      "id": "render_val_pair_000686"
+    },
+    {
+      "id": "render_val_pair_000181"
+    },
+    {
+      "id": "render_val_pair_000011"
+    },
+    {
+      "id": "render_val_pair_000577"
+    },
+    {
+      "id": "render_val_pair_000473"
+    },
+    {
+      "id": "render_val_pair_000357"
+    },
+    {
+      "id": "render_val_pair_000707"
+    },
+    {
+      "id": "render_val_pair_000284"
+    },
+    {
+      "id": "render_val_pair_000548"
+    },
+    {
+      "id": "render_val_pair_000065"
+    },
+    {
+      "id": "render_val_pair_000410"
+    },
+    {
+      "id": "render_val_pair_000670"
+    },
+    {
+      "id": "render_val_pair_000140"
+    },
+    {
+      "id": "render_val_pair_000035"
+    },
+    {
+      "id": "render_val_pair_000585"
+    },
+    {
+      "id": "render_val_pair_000487"
+    },
+    {
+      "id": "render_val_pair_000400"
+    },
+    {
+      "id": "render_val_pair_000689"
+    },
+    {
+      "id": "render_val_pair_000276"
+    },
+    {
+      "id": "render_val_pair_000550"
+    },
+    {
+      "id": "render_val_pair_000108"
+    },
+    {
+      "id": "render_val_pair_000427"
+    },
+    {
+      "id": "render_val_pair_000664"
+    },
+    {
+      "id": "render_val_pair_000212"
+    },
+    {
+      "id": "render_val_pair_000028"
+    },
+    {
+      "id": "render_val_pair_000588"
+    },
+    {
+      "id": "render_val_pair_000477"
+    },
+    {
+      "id": "render_val_pair_000365"
+    },
+    {
+      "id": "render_val_pair_000713"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "render_val_pair_000760",
+      "image_id": "render_val_pair_000760",
+      "caption": "A smaller white thermos has been placed in the center of the wooden table at the front of the scene. The painting hanging on the white wall above the microwave has disappeared."
+    },
+    {
+      "id": "render_val_pair_000243",
+      "image_id": "render_val_pair_000243",
+      "caption": "The environment has become brighter. The white lantern with black text, which is hanging on the front upper-left side of the wooden building near some colorful cables, has decreased in size."
+    },
+    {
+      "id": "render_val_pair_000547",
+      "image_id": "render_val_pair_000547",
+      "caption": "A sofa has been placed to the left of the white coffee table at the front, and the cushion on the right has turned into a black and white patterned cushion. One of the cushions from the armchair on the right rear side has been moved to the armchair on the right front side of the scene. A gray storage rack has been added to the left of the armchair near the back of the scene. The gray barbecue rack in the left rear of the scene remains unchanged and is rotated to the left, placed against the wall."
+    },
+    {
+      "id": "render_val_pair_000136",
+      "image_id": "render_val_pair_000136",
+      "caption": "A green armchair has appeared in the right corner of the room, next to a small side table with items on it, to the right of the bed."
+    },
+    {
+      "id": "render_val_pair_000433",
+      "image_id": "render_val_pair_000433",
+      "caption": "The pendant light, composed of three circular rings, has now appeared above the 'L'-shaped dining table and is facing sideways. The white vase with pampas grass in the far corner of the 'L'-shaped dining table has also appeared. The fully yellow chair on the front right side of the 'L'-shaped dining table has changed to a chair with a curved red backrest and a gray metal frame. The chair on the rear left side of the 'L'-shaped dining table, which has a curved red backrest and a metal frame, has become smaller."
+    },
+    {
+      "id": "render_val_pair_000669",
+      "image_id": "render_val_pair_000669",
+      "caption": "A person wearing an orange hoodie, blue jeans, and black shoes has appeared in front of the bar, standing facing the bar. The central pendant light of the three black hanging lights above the bar now has an additional lampshade, matching the ones on the two neighboring lights."
+    },
+    {
+      "id": "render_val_pair_000160",
+      "image_id": "render_val_pair_000160",
+      "caption": "A man wearing a blue T-shirt, black pants, and white shoes has appeared in front of door number 5, to the left of the stacked boxes in the corner. He is facing away from door number 5, with his arms crossed in front of his body and his eyes looking at the camera.Black spray-painted graffiti has appeared on the wall above the stacked boxes in the lower right corner of the scene."
+    },
+    {
+      "id": "render_val_pair_000002",
+      "image_id": "render_val_pair_000002",
+      "caption": "The yellow cone next to the green pillar on the left side of the subway car has disappeared. The black sign with the text '74th Street' that was fixed to the green pillar on the platform is no longer visible."
+    },
+    {
+      "id": "render_val_pair_000616",
+      "image_id": "render_val_pair_000616",
+      "caption": "The rectangular wooden table on the right side of the brick wall opposite the bar counter has been replaced with a round wooden table.A new coffee machine with a white body is placed on a large wooden table near the center of the right side of the scene."
+    },
+    {
+      "id": "render_val_pair_000506",
+      "image_id": "render_val_pair_000506",
+      "caption": "A light brown rug has been added at the foot of the bed. A green decorative round ornament has appeared on top of the cabinet to the left of the TV. A black bird-shaped decoration is now visible on the upper shelf to the left of the TV. A black computer monitor displaying '8:31' in white is now visible on the table to the right of the bed. The purple TV mounted on the left wall of the room has changed to black. The deer-shaped decoration has been moved to the front-right wooden platform next to a flowerpot. Additionally, two new gray rectangular blankets have been added to the bed, one in the middle and one at the foot."
+    },
+    {
+      "id": "render_val_pair_000346",
+      "image_id": "render_val_pair_000346",
+      "caption": "The white door handle on the middle right side of the door is visible. The dark brown bench below the window on the wooden board has decreased in size."
+    },
+    {
+      "id": "render_val_pair_000768",
+      "image_id": "render_val_pair_000768",
+      "caption": "A new illuminated sign with the text \"Serviae Holl\" has appeared on the wall above the water dispenser and microwave, to the left of the refrigerator."
+    },
+    {
+      "id": "render_val_pair_000235",
+      "image_id": "render_val_pair_000235",
+      "caption": "The sign with the word 'Shep' that appeared on the building's roof has disappeared.A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He is holding a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the left side of the picture."
+    },
+    {
+      "id": "render_val_pair_000562",
+      "image_id": "render_val_pair_000562",
+      "caption": "The person wearing a light gray shirt and dark gray pants, holding a black bag, who appeared behind the white coffee table, is no longer visible. The blue letters \"repase\" on the wooden wall at the back left of the scene have disappeared. A sofa, placed to the left of the white coffee table, has appeared. The white cushion on the left side of this sofa is missing. The white cushion on the right side of the sofa is also missing. Two white armchairs have appeared to the right of the white coffee table. The white cushion on the armchair closer to the back of the scene is missing. Two white round-seated stools have appeared to the left of the dining table at the back of the scene. The seat of the front stool has changed from white to blue."
+    },
+    {
+      "id": "render_val_pair_000127",
+      "image_id": "render_val_pair_000127",
+      "caption": "A new illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration."
+    },
+    {
+      "id": "render_val_pair_000418",
+      "image_id": "render_val_pair_000418",
+      "caption": "The surroundings have brightened. The chair with a curved red backrest and metal frame at the back left of the \"L\"-shaped dining table has decreased in size.The white chandelier composed of three rings, hanging above the \"L\"-shaped dining table, has rotated from facing forward to facing sideways."
+    },
+    {
+      "id": "render_val_pair_000652",
+      "image_id": "render_val_pair_000652",
+      "caption": "A large blue \"Bar\" sign with bold letters has appeared on the right side of the scene, positioned on the brick wall behind the seating area. An orange glass bottle that was on the bar counter is no longer present."
+    },
+    {
+      "id": "render_val_pair_000207",
+      "image_id": "render_val_pair_000207",
+      "caption": " The stacked cardboard boxes and the trash can on the ground in the lower right corner of the scene have rotated from facing the camera to facing forward. The word \"Garage\" in blue letters has appeared on the closed shutter door positioned on the left side of the scene, under the number \"5\" and next to the stacked boxes."
+    },
+    {
+      "id": "render_val_pair_000036",
+      "image_id": "render_val_pair_000036",
+      "caption": "A glowing blue text object displaying the word \"submay\" has disappeared from the floor near the bottom center of the scene. A new, thin black pole is now leaning against the post labeled '74 Street'."
+    },
+    {
+      "id": "render_val_pair_000606",
+      "image_id": "render_val_pair_000606",
+      "caption": "The person wearing a black top, red pants, and a black hat, positioned between the bar counter and a wooden table, facing the brick wall on the right side of the room, no longer appears in the scene. The blue glowing \"coffee\" sign on the brick wall opposite the bar counter has disappeared. The central pendant light among the three black ones above the large wooden table in the middle of the scene has changed from black to green."
+    },
+    {
+      "id": "render_val_pair_000515",
+      "image_id": "render_val_pair_000515",
+      "caption": "A person wearing a denim jacket, black shirt, red pants, and black shoes has appeared in the lower-left corner of the room, facing the black TV on the left wall and holding a brown bag in their left hand. A shiny blue 'garderobe' letter sign has appeared on the floor to the left of the bed. The deer-shaped decoration has disappeared from the front-right wooden platform next to the flowerpot. The new gray rectangular blanket in the center of the bed has been removed."
+    },
+    {
+      "id": "render_val_pair_000381",
+      "image_id": "render_val_pair_000381",
+      "caption": "The smaller red sofa that was previously placed in front of the small table, right next to the wall, is no longer there. An additional blue \"deerway\" sign has appeared on the side of the red chair that is against the wall to the right of the door in the scene."
+    },
+    {
+      "id": "render_val_pair_000777",
+      "image_id": "render_val_pair_000777",
+      "caption": "A mural identical to the one on the wall above the power bank box on the left appeared on the white wall above the microwave."
+    },
+    {
+      "id": "render_val_pair_000268",
+      "image_id": "render_val_pair_000268",
+      "caption": "The vertical sign attached to the right side of the building has rotated, changing from a blank backside to a front side with content. The colorful billboard in front of the entrance to the two-story building on the right has been reduced from two panels to one."
+    },
+    {
+      "id": "render_val_pair_000534",
+      "image_id": "render_val_pair_000534",
+      "caption": "The scene is now more lit up. A sofa is placed to the left of the white coffee table in the front, and the white cushion on the right side of the sofa has been replaced with a black-and-white patterned cushion.Two white armchairs are placed to the right of the white coffee table in the front. A new gray storage rack has been added to the left of the armchair closer to the back of the scene."
+    },
+    {
+      "id": "render_val_pair_000085",
+      "image_id": "render_val_pair_000085",
+      "caption": "The black chair on the right side of the bed has turned from facing the camera to facing the wall. The white rug under the coffee table in front of the white double bed has been reduced in size."
+    },
+    {
+      "id": "render_val_pair_000445",
+      "image_id": "render_val_pair_000445",
+      "caption": "The yellow bottle on the far-right side of the bar has disappeared, and a dark glass bottle with a gold cap has appeared in its place on the far-right side of the kitchen counter. Additionally, a hamburger has appeared at the center of the 'L'-shaped dining table."
+    },
+    {
+      "id": "render_val_pair_000633",
+      "image_id": "render_val_pair_000633",
+      "caption": "The light in the scene has increased. There is a row of clear glass wine glasses on the counter at the back right of the bar, and the color of the leftmost glass has changed from clear to blue."
+    },
+    {
+      "id": "render_val_pair_000214",
+      "image_id": "render_val_pair_000214",
+      "caption": "The shovel with a yellow handle that appears next to the blue bucket on the right wall is no longer visible. A blue text sign with the word \"Gorege\" appears on the rolling shutter door located on the left side of the scene near the number \"5\"."
+    },
+    {
+      "id": "render_val_pair_000015",
+      "image_id": "render_val_pair_000015",
+      "caption": "On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared.A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train."
+    },
+    {
+      "id": "render_val_pair_000594",
+      "image_id": "render_val_pair_000594",
+      "caption": "A person wearing a black top, red pants, and a black hat has appeared in the center of the scene, positioned between the bar and the wooden table, facing the brick wall on the right side of the room. On the right side of the cafe scene, a glowing blue 'coffee' sign has appeared on the brick wall opposite the bar. The black pendant light, previously located above the bar and near the plant, has been moved back to above the large wooden table at the front of the scene, positioned next to other similar lights. The black metal chair with a curved backrest, originally located at the top-left corner of the central wooden table, is no longer present."
+    },
+    {
+      "id": "render_val_pair_000480",
+      "image_id": "render_val_pair_000480",
+      "caption": "A black bird-shaped decoration has appeared on the upper shelf to the left of the TV. A black computer monitor displaying '8:31' in white has appeared on the table to the right of the bed. The yellow blanket at the foot of the bed has changed to gray. A person wearing a denim jacket, black shirt, red pants, and black shoes has appeared in the lower left corner of the room, facing the black TV on the left side, holding a brown bag in their left hand. A shiny blue 'garderobe' letter sign has appeared on the floor to the left of the bed."
+    },
+    {
+      "id": "render_val_pair_000340",
+      "image_id": "render_val_pair_000340",
+      "caption": "The area is now brighter. The tabletop of the small round table to the right of the sofa, near the edge of the porch, has changed from brown to green."
+    },
+    {
+      "id": "render_val_pair_000736",
+      "image_id": "render_val_pair_000736",
+      "caption": "The sign with white Chinese characters on a red background, located on the upper right wall near the refrigerator and above the text on the wall, has become larger. The color of the left door panel of the wooden cabinet below the water dispenser changed from brown to red."
+    },
+    {
+      "id": "render_val_pair_000229",
+      "image_id": "render_val_pair_000229",
+      "caption": "A new sign with the text \"Shep\" has appeared on the roof of the building, located near the top center of the scene above the second-story window and adjacent to the white lantern on the left. The ceiling above the entrance of the two-story dark brown building has changed from green  to black."
+    },
+    {
+      "id": "render_val_pair_000543",
+      "image_id": "render_val_pair_000543",
+      "caption": "A person wearing a light gray shirt and dark gray pants, holding a black bag, has appeared behind the white coffee table at the front of the scene, facing the entrance door at the back of the room. A blue 'repase' letter sign has appeared on the wooden wall in the rear-left part of the scene, positioned above the grill and to the left of the room's entrance. The chair with a round woven seat and black metal legs, previously added in front of the white coffee table, is no longer present. The cushion on the armchair behind the person has increased in size."
+    },
+    {
+      "id": "render_val_pair_000071",
+      "image_id": "render_val_pair_000071",
+      "caption": "A black rectangular pendant light has appeared in the center of the room, above the bed, and to the right of the hanging chair.A man in a black coat and black pants appeared on the right side of the cradle in the room. He is facing outdoors, his body slightly tilted, with his left hand raised to his mouth."
+    },
+    {
+      "id": "render_val_pair_000416",
+      "image_id": "render_val_pair_000416",
+      "caption": "The ambiance has brightened. On the right side of the back counter in the scene, there were three bottles of red wine, and the middle one has disappeared.On the right side of the back counter in the scene, there were three bottles of red wine, and the one on the right has changed from black to yellow."
+    },
+    {
+      "id": "render_val_pair_000653",
+      "image_id": "render_val_pair_000653",
+      "caption": "An orange glass bottle is no longer present on the bar counter. The word \"Pub\" in large blue letters has been added to the upper right section of the wall, positioned above a seating area and to the right of the bar counter."
+    },
+    {
+      "id": "render_val_pair_000217",
+      "image_id": "render_val_pair_000217",
+      "caption": "On the left side of the stacked boxes in the corner, in front of Door No. 5, a man wearing a blue T-shirt, black pants, and white shoes appeared. He had his back to Door No. 5, his hands crossed in front of his body, and his eyes looking towards the camera."
+    },
+    {
+      "id": "render_val_pair_000008",
+      "image_id": "render_val_pair_000008",
+      "caption": "A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train.The yellow cone next to the green pillar with the '74 Street' text on the left side of the subway car has disappeared."
+    },
+    {
+      "id": "render_val_pair_000596",
+      "image_id": "render_val_pair_000596",
+      "caption": "The black pendant lamp, which was positioned closer to the entrance and near the bar, has moved back to its previous position hanging above the large wooden table at the front of the scene, adjacent to other similar lamps. The black metal chair with a curved backrest, which was present at the upper left corner of the central wooden table, is no longer visible. The tabletop of the wooden table closest to the bar on the left side of the scene has disappeared."
+    },
+    {
+      "id": "render_val_pair_000520",
+      "image_id": "render_val_pair_000520",
+      "caption": "The scene has become darker."
+    },
+    {
+      "id": "render_val_pair_000390",
+      "image_id": "render_val_pair_000390",
+      "caption": "A woman with yellow hair, wearing a white top and light blue pants, appears in front of the left side of the pink steps. She raises her hands to her waist, with a coat on her right hand. Her left leg steps forward, with her right leg behind, and her body faces the red sofa in the picture. The brown cylindrical flower pot with decorative patterns, which was located between the staircase and the sofa, has disappeared."
+    },
+    {
+      "id": "render_val_pair_000693",
+      "image_id": "render_val_pair_000693",
+      "caption": "A person wearing a gray suit and black shoes has appeared near the refrigerator on the right side of the scene, standing next to the wooden cabinet and facing toward the front left.The glowing 'Service Hall' sign on the wall above the water dispenser has disappeared."
+    },
+    {
+      "id": "render_val_pair_000305",
+      "image_id": "render_val_pair_000305",
+      "caption": "A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He holds a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the right side of the screen. The small-sized gray switch box with a white label on the door of the second-floor wooden building has been replaced with a larger white switch box that features a yellow warning sign."
+    },
+    {
+      "id": "render_val_pair_000558",
+      "image_id": "render_val_pair_000558",
+      "caption": "The person behind the white coffee table has shifted their orientation from facing the armchair to facing the entrance door. The blue letters on the wooden wall have changed from spelling \"repose\" to \"repase.\""
+    },
+    {
+      "id": "render_val_pair_000116",
+      "image_id": "render_val_pair_000116",
+      "caption": "A man in a black coat and black pants appeared on the right side of the cradle in the room. He was facing outdoors, his body slightly tilted, and his left hand raised to his mouth.The round table covered with a white cloth in front of the bed has been replaced by a wooden coffee table."
+    },
+    {
+      "id": "render_val_pair_000456",
+      "image_id": "render_val_pair_000456",
+      "caption": "Two women have appeared at the front right of the \"L\"-shaped dining table, embracing each other. The woman in the light-colored dress is on the right, while the woman in the green top is on the left.A \"Meet\" sign, made of blue letters, has appeared on the wooden cabinet door above the back right counter."
+    },
+    {
+      "id": "render_val_pair_000679",
+      "image_id": "render_val_pair_000679",
+      "caption": "The word \"Pub,\" which appears in large blue letters, has been newly added to the upper right section of the wall, positioned above a seating area and to the right of the bar counter."
+    },
+    {
+      "id": "render_val_pair_000223",
+      "image_id": "render_val_pair_000223",
+      "caption": "A silver ladder was originally placed vertically on the wall to the left of the blue barrel, but has now been moved to lean against the roller shutter door on the right."
+    },
+    {
+      "id": "render_val_pair_000045",
+      "image_id": "render_val_pair_000045",
+      "caption": "A glowing blue text object displaying the word \"submay\" has newly appeared on the floor near the bottom center of the scene, directly in front of and to the right of the green pillar labeled \"74 Street,\" in close proximity to the subway train."
+    },
+    {
+      "id": "render_val_pair_000597",
+      "image_id": "render_val_pair_000597",
+      "caption": "The round wooden table on the right side of the brick wall opposite the bar has been replaced with a rectangular wooden table. The white-bodied coffee machine, previously placed on the large wooden table near the center of the right side of the scene, has disappeared. The central pendant light of the three hanging lights above the large wooden table in the center of the scene has changed color from black to green."
+    },
+    {
+      "id": "render_val_pair_000529",
+      "image_id": "render_val_pair_000529",
+      "caption": "The deer-shaped ornament on the left side of the cabinet below the black television has been moved next to the flower pot on the wooden platform at the front right of the scene.A new black rectangular blanket has been added on the bed, laid in the center, matching the style of the blanket at the foot of the bed."
+    },
+    {
+      "id": "render_val_pair_000369",
+      "image_id": "render_val_pair_000369",
+      "caption": "A brown cylindrical flower pot with a decorative pattern has newly appeared on the wooden floor in front of the steps near the door, positioned to the left side of the armchairs and table. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera."
+    },
+    {
+      "id": "render_val_pair_000739",
+      "image_id": "render_val_pair_000739",
+      "caption": "The white air conditioner located in the right corner of the room has been moved to the left, now positioned above the water dispenser.A smaller white thermos is placed in the center of the wooden table at the front of the scene."
+    },
+    {
+      "id": "render_val_pair_000306",
+      "image_id": "render_val_pair_000306",
+      "caption": "The lighting has faded."
+    },
+    {
+      "id": "render_val_pair_000541",
+      "image_id": "render_val_pair_000541",
+      "caption": "A sofa has been placed to the left of the white coffee table at the front counter, with the white cushion on the right side of the sofa replaced by a cushion with a black-and-white pattern. A gray storage rack has been added to the left of the armchair near the rear of the scene. The chair with a round woven seat and black metal legs, previously in front of the white coffee table, is no longer present. Compared to the first image, the cushion on the armchair near the front of the scene has increased in size."
+    },
+    {
+      "id": "render_val_pair_000090",
+      "image_id": "render_val_pair_000090",
+      "caption": "The word \"Camp\" in large blue textured letters has appeared on the wooden wall above the bed, to the right of the artwork and next to the plant.The third cup from the left on the coffee table in front of the bed has disappeared."
+    },
+    {
+      "id": "render_val_pair_000462",
+      "image_id": "render_val_pair_000462",
+      "caption": "A new chair with a curved red backrest and metal frame has appeared at the front of the \"L\"-shaped dining table, identical in style to the existing chairs.On the right side of the back counter in the scene, there were three bottles of red wine, and the one on the right has been moved to the center of the dining table."
+    },
+    {
+      "id": "render_val_pair_000660",
+      "image_id": "render_val_pair_000660",
+      "caption": "The second stool from the left in front of the bar is no longer tilted to the right. The word \"Pub\" appears in large blue letters on the upper right section of the wall, positioned above a seating area and to the right of the bar counter."
+    },
+    {
+      "id": "render_val_pair_000196",
+      "image_id": "render_val_pair_000196",
+      "caption": "A shovel with a yellow handle appears next to the blue bucket on the right wall. The blue barrel with a hazardous material symbol that appeared in front of the closed metal garage door on the left side is no longer visible."
+    },
+    {
+      "id": "render_val_pair_000012",
+      "image_id": "render_val_pair_000012",
+      "caption": "A man wearing a black T-shirt and black pants has appeared on the left side of pillar number 74, with his hands in front of him, facing the subway. On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared."
+    },
+    {
+      "id": "render_val_pair_000583",
+      "image_id": "render_val_pair_000583",
+      "caption": "The setting is now brighter. The tabletop of the wooden table closest to the bar on the left side of the scene has disappeared."
+    },
+    {
+      "id": "render_val_pair_000511",
+      "image_id": "render_val_pair_000511",
+      "caption": "The deer-shaped decoration, which was originally yellow and placed on the left side of the cabinet, has been moved to the front-right wooden platform next to a flowerpot and has changed to black. Two new gray rectangular blankets have been added to the bed, one in the middle and one at the foot. A black bird-shaped decoration is now visible on the upper shelf to the left of the TV. A white bow-back chair is visible in front of the table to the right of the bed. A black TV is now mounted on the left wall of the room."
+    },
+    {
+      "id": "render_val_pair_000368",
+      "image_id": "render_val_pair_000368",
+      "caption": "A new red sofa, slightly smaller than the original one, appears in the hallway. It is simple in design and is placed in front of the small table, next to the original red sofa along the wall. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera."
+    },
+    {
+      "id": "render_val_pair_000732",
+      "image_id": "render_val_pair_000732",
+      "caption": "The sign with white Chinese characters on a red background, located on the upper right wall near the refrigerator, has increased in size. A new illuminated sign with the text \"Serviae Holl\" has appeared on the wall above the water dispenser and microwave, to the left of the refrigerator."
+    },
+    {
+      "id": "render_val_pair_000258",
+      "image_id": "render_val_pair_000258",
+      "caption": "The white lantern with black text, which is hanging on the front upper-left side of the wooden building near some colorful cables, has increased in size. The billboard with colorful posters that was in front of the entrance of the two-story building on the right side is no longer present."
+    },
+    {
+      "id": "render_val_pair_000569",
+      "image_id": "render_val_pair_000569",
+      "caption": "In the scene, a new chair with a round woven seat and black metal legs has been added in front of the white coffee table.Two white armchairs are placed to the right of the white coffee table in the front. The cushion on the armchair closer to the front of the scene has increased in size."
+    },
+    {
+      "id": "render_val_pair_000117",
+      "image_id": "render_val_pair_000117",
+      "caption": " A man wearing a black coat and black pants has appeared on the right side of the room's cradle, facing outdoors to the front left, with his body slightly tilted and his left hand raised to his mouth. The round table covered with a white cloth in front of the bed has been replaced by a wooden coffee table."
+    },
+    {
+      "id": "render_val_pair_000444",
+      "image_id": "render_val_pair_000444",
+      "caption": "The wine bottle on the right side of the bar has changed from yellow to black, and the number of bottles has increased to three. The chair on the rear left side of the 'L'-shaped dining table, which has a curved red backrest and a metal frame, has become smaller. The white pendant light, composed of three circular rings and hanging above the 'L'-shaped dining table, has rotated from facing forward to facing sideways."
+    },
+    {
+      "id": "render_val_pair_000686",
+      "image_id": "render_val_pair_000686",
+      "caption": "There is a row of clear glass wine glasses on the counter at the back right of the bar, and the color of the leftmost glass has changed from clear to blue."
+    },
+    {
+      "id": "render_val_pair_000181",
+      "image_id": "render_val_pair_000181",
+      "caption": "The silver ladder to the right of the white external air conditioning unit has been moved to the left, now positioned to the left of the blue barrel against the wall on the right side of the frame. A man wearing a blue T-shirt, black pants, and white shoes has appeared on the left side of the stacked boxes in the corner, in front of Door No. 5. He stands with his back to Door No. 5, his hands crossed in front of his body, and his eyes looking towards the camera."
+    },
+    {
+      "id": "render_val_pair_000011",
+      "image_id": "render_val_pair_000011",
+      "caption": "On the green pillar closest to the camera on the left side of the subway car, a '74 Street' sign has appeared. The surveillance camera located above the red box on the left side of the subway platform has turned from facing forward along the platform to facing the subway. "
+    },
+    {
+      "id": "render_val_pair_000577",
+      "image_id": "render_val_pair_000577",
+      "caption": "The setting is now brighter. The plant located near the counter on the left side of the cafe, close to the chairs and barstools, has decreased in size.The second row of tables in front of the left side of the bar has rotated clockwise."
+    },
+    {
+      "id": "render_val_pair_000473",
+      "image_id": "render_val_pair_000473",
+      "caption": "The lighting has improved. The white lampshade of the desk lamp to the right of the black computer monitor on the desk to the right of the bed is missing, leaving only the bulb.The white arched-back chair in front of the desk to the right of the bed has disappeared.The black TV mounted on the wall on the left side of the room is missing.The round ornament with green decorations on top of the cabinet to the left of the TV is missing.The black television hanging on the left wall of the room turned purple."
+    },
+    {
+      "id": "render_val_pair_000357",
+      "image_id": "render_val_pair_000357",
+      "caption": "The dark brown bench below the window on the wooden board has increased in size. A round table with curved metal legs has been relocated to the area in front of the red sofa near the door from its earlier position behind the red sofa."
+    },
+    {
+      "id": "render_val_pair_000707",
+      "image_id": "render_val_pair_000707",
+      "caption": "The scene has become more illuminated. A microwave with a more aged, gray-and-white appearance has replaced the microwave that was originally placed on the wooden cabinet between the water dispenser and the refrigerator."
+    },
+    {
+      "id": "render_val_pair_000284",
+      "image_id": "render_val_pair_000284",
+      "caption": "The concrete slab that was previously leaning against the wall on the left side of the house has moved to the left and is now leaning against a stack of concrete slabs. A man wearing a red hat, a brown and white striped jacket, and light blue pants appears in front of the house. He holds a black box in his right hand, with his right leg in front and his left leg behind. His body is facing the right side of the screen."
+    },
+    {
+      "id": "render_val_pair_000548",
+      "image_id": "render_val_pair_000548",
+      "caption": "A person wearing a light grey shirt and dark grey trousers, holding a black bag, appears behind the white coffee table at the front of the scene, facing the sofa to the left front. The blue letters 'repose' have appeared on the wooden wall at the left rear of the scene, above the barbecue rack and to the left of the room entrance. The cushion that was originally on the armchair at the right rear has been moved to the armchair on the left front of the scene.  The grey barbecue rack at the left rear of the scene has been rotated to the left and placed against the wall as described."
+    },
+    {
+      "id": "render_val_pair_000065",
+      "image_id": "render_val_pair_000065",
+      "caption": "The scene is now more lit up. The round structure of the hanging chair on the left side of the coffee table has changed from dark brown to purple."
+    },
+    {
+      "id": "render_val_pair_000410",
+      "image_id": "render_val_pair_000410",
+      "caption": "The woman in the light-colored dress and the woman in the green top have switched positions; the woman in the light-colored dress is now on the left, and the woman in the green top is on the right. The \"Meet\" sign made of blue letters on the wooden cabinet door above the back right counter has been replaced by a \"Occur\" sign.Additionally, the cabinet above the bar has shifted upward."
+    },
+    {
+      "id": "render_val_pair_000670",
+      "image_id": "render_val_pair_000670",
+      "caption": "A large blue \"Bar\" sign with bold letters has appeared on the right side of the scene, positioned on the brick wall behind the seating area. The central pendant light of the three black hanging lights above the bar now has an additional lampshade, matching the ones on the two neighboring lights."
+    },
+    {
+      "id": "render_val_pair_000140",
+      "image_id": "render_val_pair_000140",
+      "caption": "A red barrel with a yellow hazard symbol has been replaced by a blue barrel with the same symbol, located near the stacked boxes in front of the ladder on the right side of the scene. There is a newly added blue text sign with the word \"Gorege\" on the rolling shutter door located on the left side of the scene near the number \"5.\""
+    },
+    {
+      "id": "render_val_pair_000035",
+      "image_id": "render_val_pair_000035",
+      "caption": "The glowing blue word 'subway' near the floor on the right side of the train has been replaced with 'submay.'"
+    },
+    {
+      "id": "render_val_pair_000585",
+      "image_id": "render_val_pair_000585",
+      "caption": "The plant located near the counter on the left side of the cafe, close to the chairs and barstools, has increased in size. The second row of tables in front of the left side of the bar has rotated counterclockwise. A black pendant lamp, originally positioned above the large wooden table at the front of the scene, has moved toward the entrance of the room, positioning itself closer to the bar and the greenery. A black metal chair with a curved backrest has appeared at the upper left corner of the central wooden table, neatly arranged alongside other similar chairs around the table."
+    },
+    {
+      "id": "render_val_pair_000487",
+      "image_id": "render_val_pair_000487",
+      "caption": "A green decorative round ornament has appeared on top of the cabinet to the left of the TV. A black TV has appeared on the left wall of the room. A gray rectangular blanket has appeared at the foot of the bed. The lampshade on the desk lamp to the right of the black computer monitor has changed color from green to white. The speaker on the cabinet to the left of the TV has been replaced by a brown dome-shaped sculpture. Additionally, a small round stool with a light gray top and black curved legs has appeared on the left side of the bed."
+    },
+    {
+      "id": "render_val_pair_000400",
+      "image_id": "render_val_pair_000400",
+      "caption": "There is an additional blue \"deerway\" sign on the side of the red chair located to the right of the door in the scene."
+    },
+    {
+      "id": "render_val_pair_000689",
+      "image_id": "render_val_pair_000689",
+      "caption": "A smaller white thermos that was placed in the center of the wooden table is no longer visible. A person wearing a gray suit and black shoes is standing near the refrigerator on the right side of the scene, next to the wooden cabinet and facing the wooden table directly in front."
+    },
+    {
+      "id": "render_val_pair_000276",
+      "image_id": "render_val_pair_000276",
+      "caption": "A cement slab that was previously leaning against a pile of cement slabs on the ground on the left side of the house has moved to the front right and is now leaning against the wall on the left side of the house.The first colorful poster sign from the left, located to the right of the entrance leading to the second floor, has disappeared."
+    },
+    {
+      "id": "render_val_pair_000550",
+      "image_id": "render_val_pair_000550",
+      "caption": "A sofa has been placed to the left of the white coffee table at the front. The white cushion on the left side of the sofa has disappeared, and the white cushion on the right side has also disappeared. The two white cushions on the armchair near the back of the scene have disappeared, and an additional white cushion has been added to the armchair on the left front of the scene. Two white round seats have been placed to the left of the dining table at the back of the scene, with the color of the front seat changing from white to blue. The grey barbecue rack at the left rear of the scene has been rotated to the left and is placed against the wall."
+    },
+    {
+      "id": "render_val_pair_000108",
+      "image_id": "render_val_pair_000108",
+      "caption": "The round structure of the hanging chair on the left side of the coffee table has changed from purple to dark brown. A new illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration."
+    },
+    {
+      "id": "render_val_pair_000427",
+      "image_id": "render_val_pair_000427",
+      "caption": "A chair with a curved red backrest and a metal frame has appeared on the front left side of the 'L'-shaped dining table. The chair on the front right side of the table has changed from fully purple to a chair with a curved red backrest and a gray metal frame. A dark glass bottle with a gold cap has replaced the original bottle in the far-right corner of the kitchen counter, and a new short-necked bottle with a brown label has appeared in the middle. Additionally, a hamburger has appeared at the center of the 'L'-shaped dining table."
+    },
+    {
+      "id": "render_val_pair_000664",
+      "image_id": "render_val_pair_000664",
+      "caption": "A person wearing an orange hoodie, blue jeans, and black shoes has appeared in front of the bar, standing facing the bar. The hamburger on the left side of the counter has disappeared."
+    },
+    {
+      "id": "render_val_pair_000212",
+      "image_id": "render_val_pair_000212",
+      "caption": "The shovel with a yellow handle that appears next to the blue bucket on the right wall is no longer visible. A man wearing a blue T-shirt, black pants, and white shoes has appeared on the left side of the stacked boxes in the corner, in front of door number 5. The man is facing the stacked boxes with his hands crossed in front of his body."
+    },
+    {
+      "id": "render_val_pair_000028",
+      "image_id": "render_val_pair_000028",
+      "caption": "The man wearing a black T-shirt and black pants, who was on the left side of pillar number 74, has changed his position from directly facing the subway to standing sideways facing the front of the subway."
+    },
+    {
+      "id": "render_val_pair_000588",
+      "image_id": "render_val_pair_000588",
+      "caption": "A person wearing a black top, red pants, and a black hat has appeared in the center of the scene, positioned between the bar and the wooden table, facing the brick wall on the right side of the room. A glowing blue 'coffee' sign has appeared on the brick wall opposite the bar on the right side of the cafe. The plant near the left counter of the cafe, next to the chair and bar stool, has increased in size. The second row of tables in front of the left side of the bar has rotated to align with the other tables."
+    },
+    {
+      "id": "render_val_pair_000477",
+      "image_id": "render_val_pair_000477",
+      "caption": "The scene has become more illuminated. The white office chair in front of the desk on the right side of the room has turned from facing the desk to facing the door on the left side of the room.The black television hanging on the left wall of the room has increased in size."
+    },
+    {
+      "id": "render_val_pair_000365",
+      "image_id": "render_val_pair_000365",
+      "caption": "A woman with yellow hair, wearing a white top and light blue pants, appears in the front left of the pink steps. She raises her hands to her waist, with a yellow coat on her right hand. Her left leg steps forward, her right leg is behind, and her body is facing the right side of the picture. A round table with curved metal legs has been moved from near the door in front of the red sofa to a position behind the red sofa, away from the camera."
+    },
+    {
+      "id": "render_val_pair_000713",
+      "image_id": "render_val_pair_000713",
+      "caption": "A cylindrical water barrel has appeared above the white water dispenser. A person wearing a gray suit and black shoes has appeared near the refrigerator on the right side of the scene, standing next to the wooden cabinet and facing toward the front left."
+    }
+  ]
+}

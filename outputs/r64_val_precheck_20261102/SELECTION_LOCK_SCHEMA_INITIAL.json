@@ -1,0 +1,34 @@
+{
+  "selection_locked_before_inference": true,
+  "seed": 20261103,
+  "dataset_revision": "ed4a84cc51912c73e3d54c8643256d9469657552",
+  "sampling": "round robin shuffled connected image components per domain",
+  "groups": {
+    "real": {
+      "available_pairs": 799,
+      "available_image_components": 20,
+      "selected_pairs": 100,
+      "selected_image_components": 20
+    },
+    "render": {
+      "available_pairs": 777,
+      "available_image_components": 11,
+      "selected_pairs": 100,
+      "selected_image_components": 11
+    }
+  },
+  "path_overlap": {
+    "train": 0,
+    "test": 0
+  },
+  "unique_image_files": 259,
+  "prompt": "What modifications can be observed between these two pictures?  <image><image>Difference:",
+  "exposure": "No val IDs found in locally searched prior artifacts before selection; not a guarantee of no prior exposure elsewhere. Full test already exposed. RGB overlap pending image download; do not call independent unseen-scene validation.",
+  "hashes": {
+    "SOURCE_annotation.jsonl": "f4ad845995fd3a2ace34cc1343b79df4526be52bfb5b255e7876b4a2259746aa",
+    "selected_rows.json": "1e56ccbaf907a1880aa1e2cbcb0efae264f45ab27a88e647ddd694e5527799cb",
+    "questions.json": "c7bdcc80eec0d8fc7066047dd81467c11dc37e757d86db4112a0dd904e60fbb4",
+    "real_reference.json": "cdcd4ee6179cd2ce885582d5aedf3e7cd8ff0fc54a5590cd20c27599bb868373",
+    "render_reference.json": "9a497ef1ee49a636b54a4d54a54297aa1756f4f09c9425d97bac532cd689a52a"
+  }
+}

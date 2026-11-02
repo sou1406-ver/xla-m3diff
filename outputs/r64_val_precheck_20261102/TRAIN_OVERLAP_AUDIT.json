@@ -1,0 +1,8 @@
+{
+  "train_mix_bytes": 2635891,
+  "train_mix_sha256": "41df5af59932ba4e0030356f76de9f48ef6ca68304884c3e08ee09f32d93e198",
+  "train_records": 5420,
+  "image_references": 10840,
+  "selected_val_path_matches": [],
+  "val_path_in_mix": 0
+}

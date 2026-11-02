@@ -15,3 +15,5 @@ Evaluate camera240 first, stop on failure; otherwise synth600, then matchedval20
 Remote Volume prerequisites:existing m3diff baseline checkpoint/pinned source, synth test600, ft camera240, cached objects and val200. Checkpoints and images intentionally excluded from Git.
 
 Launcher correction before training: first app failed remote module import before TRAIN_ATTEMPT/optimizer. Stopped22:57:02. See ROUND_BUDGET_REVISION1.json: train87min hard/84min soft; conservative total upper6.99USD including failed startup. Same data/candidate, no training retry.
+
+Training started on corrected app ap-iDhdDwfZ12VfuvEGX0kOQw. Fresh LoRA B-zero audit passed;242227201 trainable parameters (LoRA plus MDP/projector),450 planned steps. No evaluation results yet.

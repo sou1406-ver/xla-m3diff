@@ -1,0 +1,1 @@
+{"started": 1793635135.3081007, "gpu": "NVIDIA A100-SXM4-80GB, 81920", "timeout_seconds": 5220, "soft_stop_seconds": 5040, "cpu_limit": 4, "memory_limit_mib": 32768}

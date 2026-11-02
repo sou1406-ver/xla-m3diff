@@ -1,0 +1,31 @@
+{
+  "replay": {
+    "n": 5400,
+    "mean_words": 59.41203703703704,
+    "median_words": 52.0,
+    "min_words": 4,
+    "max_words": 447
+  },
+  "synthetic": {
+    "n": 1800,
+    "mean_words": 12.673333333333334,
+    "median_words": 8.0,
+    "min_words": 5,
+    "max_words": 46
+  },
+  "all": {
+    "n": 7200,
+    "mean_words": 47.72736111111111,
+    "median_words": 42.0,
+    "min_words": 4,
+    "max_words": 447
+  },
+  "multi_synthetic": {
+    "n": 300,
+    "mean_words": 33.623333333333335,
+    "median_words": 32.5,
+    "min_words": 25,
+    "max_words": 46
+  },
+  "interpretation": "Descriptive data audit only; does not establish caption length as a causal explanation of prior degradation. Final label cleanup before training preserved actual claims rather than adding filler."
+}

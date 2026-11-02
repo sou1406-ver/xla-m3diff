@@ -1,0 +1,62 @@
+{
+  "rater": "assistant; not human, not blind; images and model names visible",
+  "sample": "stratified40,24camera-only+16camera-object; not population estimate",
+  "camera_only": {
+    "base": {
+      "yes": 22,
+      "no": 1,
+      "uncertain": 1,
+      "keyword_disagreements": [
+        {
+          "id": "rotate_L3_08",
+          "keyword": false,
+          "semantic": "yes",
+          "note": "Base invents people changing facing direction. R64 objects appear larger is image appearance, not a physical size claim; camera type still wrong."
+        },
+        {
+          "id": "zoom_out_L1_12",
+          "keyword": false,
+          "semantic": "yes",
+          "note": "Base invents monitor/chair replacements; r64 wrong camera type only."
+        },
+        {
+          "id": "rotate_L1_12",
+          "keyword": false,
+          "semantic": "yes",
+          "note": "Base invents keyboard replacement and chair turning; r64 wrong camera type only."
+        },
+        {
+          "id": "zoom_in_L1_10",
+          "keyword": false,
+          "semantic": "yes",
+          "note": "Both invent flower color change; r64 does not acknowledge camera. Both also say darker."
+        }
+      ]
+    },
+    "r64": {
+      "no": 22,
+      "yes": 2,
+      "keyword_disagreements": [
+        {
+          "id": "rotate_L3_08",
+          "keyword": true,
+          "semantic": "no",
+          "note": "Base invents people changing facing direction. R64 objects appear larger is image appearance, not a physical size claim; camera type still wrong."
+        }
+      ]
+    }
+  },
+  "camera_object": {
+    "base": {
+      "correct": 12,
+      "partial": 2,
+      "incorrect": 2
+    },
+    "r64": {
+      "correct": 12,
+      "incorrect": 3,
+      "partial": 1
+    }
+  },
+  "rubric": "Object hallucination excludes camera/lighting errors and image-appearance size language. Camera-only physical event claims unsupported by transform count yes. Cropped-out disappearance without clear physical implication may be uncertain. Object-event requires correct operation and category or unique grounded referent; partial wrong close category not forced to correct. Additional errors remain in notes."
+}

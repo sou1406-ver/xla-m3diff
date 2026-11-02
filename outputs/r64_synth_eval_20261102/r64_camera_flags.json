@@ -1,0 +1,247 @@
+[
+  {
+    "id": "add_L3_07",
+    "condition": "add",
+    "caption": "The camera has zoomed in, making objects appear larger. A pink book has appeared in the center of the scene.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "remove_L1_15",
+    "condition": "remove",
+    "caption": "The shooting perspective has slightly shifted to the left.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "remove_L3_14",
+    "condition": "remove",
+    "caption": "The camera has zoomed out, so more of the scene is visible. The gray teddy bear in the center of the scene is no longer present.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "color_L1_12",
+    "condition": "color",
+    "caption": "The camera in the center of the scene has become larger.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L3_29",
+    "condition": "move",
+    "caption": "The black camera on the left side of the table has moved to the right. The blue cup in the center of the table has moved to the left.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L3_19",
+    "condition": "size",
+    "caption": "The camera has zoomed in, making objects appear larger. The black cat in the center of the scene has become bigger.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_04",
+    "condition": "light",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_05",
+    "condition": "light",
+    "caption": "The camera has rotated clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_06",
+    "condition": "light",
+    "caption": "The camera has rotated counterclockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_08",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly zoomed out.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_09",
+    "condition": "light",
+    "caption": "The camera has rotated clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_10",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly zoomed out.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_17",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly zoomed in.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_19",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly zoomed in.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_28",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly shifted to the right.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_03",
+    "condition": "light",
+    "caption": "The camera has rotated counterclockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_04",
+    "condition": "light",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_05",
+    "condition": "light",
+    "caption": "The camera has slightly zoomed out, so more of the scene is visible.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_06",
+    "condition": "light",
+    "caption": "The shooting perspective has slightly zoomed in.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_10",
+    "condition": "light",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_16",
+    "condition": "light",
+    "caption": "The camera has rotated clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_24",
+    "condition": "light",
+    "caption": "The camera has slightly zoomed out, so more of the scene is visible.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L2_28",
+    "condition": "light",
+    "caption": "The camera has slightly zoomed in, making objects appear larger.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L3_00",
+    "condition": "light",
+    "caption": "The shooting perspective has zoomed in.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "light_L3_13",
+    "condition": "light",
+    "caption": "The shooting perspective has shifted to the left.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "same_05",
+    "condition": "same",
+    "caption": "The shooting perspective has slightly shifted to the right.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "same_09",
+    "condition": "same",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "same_12",
+    "condition": "same",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "same_16",
+    "condition": "same",
+    "caption": "The shooting perspective has slightly shifted to the left.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_01",
+    "condition": "jpeg",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_05",
+    "condition": "jpeg",
+    "caption": "The shooting perspective has slightly shifted to the right.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_12",
+    "condition": "jpeg",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_15",
+    "condition": "jpeg",
+    "caption": "The camera has rotated slightly clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_17",
+    "condition": "jpeg",
+    "caption": "The camera has rotated clockwise.",
+    "CAM": true,
+    "m_view": true
+  },
+  {
+    "id": "jpeg_21",
+    "condition": "jpeg",
+    "caption": "The camera has zoomed in, making objects appear larger.",
+    "CAM": true,
+    "m_view": true
+  }
+]

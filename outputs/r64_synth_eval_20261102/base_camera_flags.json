@@ -1,0 +1,198 @@
+[
+  {
+    "id": "add_L2_05",
+    "condition": "add",
+    "caption": "A large book with the cover \"Genghis Khan and the Making of Modern China\" has appeared on the picnic blanket, leaning against the picnic basket. The blue-and-white beach chair on the right side of the picnic mat has turned from facing the camera to facing the waterfall in the distance.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "add_L2_09",
+    "condition": "add",
+    "caption": "A white car has appeared in the lower-left corner of the scene, positioned on the brick ground near the yellow bicycle and close to the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "add_L2_19",
+    "condition": "add",
+    "caption": "A black car has appeared in the left rear of the scene. The white pickup truck that was previously facing the front of the scene is now facing away from the camera. A large cat has appeared in the air in the center of the scene, with its body oriented toward the back right.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "add_L3_21",
+    "condition": "add",
+    "caption": "The yellow glass goblet on the round table in the center of the room has disappeared. The black oven at the back right of the kitchen scene is no longer visible. The white chair behind the wooden table has turned from facing the camera to facing the left side of the scene. The white teapot on the black countertop at the back right of the scene has disappeared. The two plates on the wooden table have disappeared. The red handle on the black handbag on the round table in the center of the scene has changed to orange.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "add_L3_23",
+    "condition": "add",
+    "caption": "A gray clock with a white face and black numbers has appeared in the foreground, floating in the middle of the scene, positioned to the left of the central beds and facing the camera. The wooden table at the foot of the bed on the right side of the room is no longer present.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L1_09",
+    "condition": "remove",
+    "caption": "The rectangular light on the ceiling at the front of the scene, located directly above the center of the room and to the left of the two beds on the right side of the scene, has disappeared. The green apples that appeared on the floor near the center of the scene, positioned between two beds facing the camera, have disappeared.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L1_24",
+    "condition": "remove",
+    "caption": "A book with a cover featuring a cartoon bear has disappeared from the lower left corner of the scene, positioned on the ground to the left of the picnic mat and in front of the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L2_05",
+    "condition": "remove",
+    "caption": "The open laptop on the right side of the desk has been rotated to the left, changing its orientation from facing the left side of the screen to facing the camera. The colorful umbrella toy that was previously placed above the keyboard and mouse has disappeared.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L2_09",
+    "condition": "remove",
+    "caption": "A piece of paper with a pattern that was previously placed on the desktop to the left of the camera has disappeared. A circular object with colorful patterns has newly appeared on the mouse pad.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L2_12",
+    "condition": "remove",
+    "caption": "The wooden chair on the left side of the scene has rotated clockwise by a certain angle, changing its orientation.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L3_02",
+    "condition": "remove",
+    "caption": "The white laptop with a blue Windows logo on the center of the floor between two beds, which was previously open and facing the camera, is no longer present. The table next to the bed on the left side of the room has turned from brown to gray.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "remove_L3_05",
+    "condition": "remove",
+    "caption": "The red tiger that appeared in the center of the scene, facing away from the camera and positioned between two desks, is no longer present. The white teacup on the left side of the first row of desks has been moved to the far right side of the first row of desks.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "color_L2_19",
+    "condition": "color",
+    "caption": "A large green dragon has replaced the brown dog that was previously in the middle of the road, positioned between two buildings and facing the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L2_03",
+    "condition": "move",
+    "caption": "The person wearing a red shirt and blue pants, who was previously standing on the left side of the screen with their back to the camera, is now lying on the ground facing the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L2_08",
+    "condition": "move",
+    "caption": "The person on the right side of the image, who was previously facing the camera with their back to the bicycle, is now facing the left side of the image. The front wheel of the bicycle in the center of the image has changed from being turned to the right to being turned to the left.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L2_14",
+    "condition": "move",
+    "caption": "The blue and white striped folding chair on the right side of the picnic mat has turned its back to the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L2_15",
+    "condition": "move",
+    "caption": "The computer monitor on the far right of the second row of desks, which was previously facing away from the camera, is now facing forward. The keyboard in front of the computer on the left side of the first row of desks has disappeared. The black office chair in front of the computer on the far right of the first row of desks has turned from facing the window to facing the second row of desks. The wooden laptop with a colorful screen that was originally placed on the desk at the front of the scene is now located on the desk at the back center of the scene.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L3_15",
+    "condition": "move",
+    "caption": "The orientation of the rectangular hanging lamp located in the upper left corner of the image has changed from facing the camera to facing away from it.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "move_L3_27",
+    "condition": "move",
+    "caption": "The black laptop that was previously placed on the road at the front of the picture has moved to the right side of the screen, closer to the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L1_09",
+    "condition": "size",
+    "caption": "The painting depicting a person holding a fruit on the wall above the right bed has been moved to the left wall above the left bed. The brown beer bottle with a red label, which was previously located in the middle of the room between two beds and facing the camera, is now positioned on the bedside table to the right of the room.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L1_10",
+    "condition": "size",
+    "caption": "The black and white backpack has moved from the center of the first row of desks to the left side of the first row. The chair at a 45° angle in front of the left side of the first-row desk has been replaced by a yellow chair.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L1_12",
+    "condition": "size",
+    "caption": "The gray mouse has moved to the left side of the hole in the wooden box, facing the camera. The brown mouse that was previously inside the hole is now looking out at the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L1_13",
+    "condition": "size",
+    "caption": "The glasses that were on the computer keyboard stand have moved to the laptop stand. The black camera lens that was previously placed vertically on the left side of the table has disappeared.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L1_20",
+    "condition": "size",
+    "caption": "The green and white spherical decorative object on the center of the conference table has decreased in size. The computer monitor on the second row of desks on the right side of the scene, which was previously facing away from the camera, is now facing forward.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L2_12",
+    "condition": "size",
+    "caption": "The polar bear's head, which was previously facing right, is now facing left. The orange toy bear wearing a black jacket has changed its orientation from facing the camera to facing the back of the image.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L2_29",
+    "condition": "size",
+    "caption": "The black dog has moved from the front of the chair on the right side to the front of the chair on the left side. The white chair at the back left of the scene has turned from facing the table to facing the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "size_L3_15",
+    "condition": "size",
+    "caption": "The person in a black jacket and black pants is no longer visible. The person in a green shirt and blue pants, who was previously on the left side of the road crossing, is now located near the street corner on the left side of the scene, walking towards the camera.",
+    "CAM": false,
+    "m_view": true
+  },
+  {
+    "id": "light_L1_22",
+    "condition": "light",
+    "caption": "The white chair at the back left of the scene has turned from facing the camera to facing the wooden table.",
+    "CAM": false,
+    "m_view": true
+  }
+]

@@ -1,0 +1,7802 @@
+[
+ {
+  "id": "add_L1_00",
+  "image": [
+   "images/add_L1_00_A.png",
+   "images/add_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_01",
+  "image": [
+   "images/add_L1_01_A.png",
+   "images/add_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_02",
+  "image": [
+   "images/add_L1_02_A.png",
+   "images/add_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_03",
+  "image": [
+   "images/add_L1_03_A.png",
+   "images/add_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_04",
+  "image": [
+   "images/add_L1_04_A.png",
+   "images/add_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_05",
+  "image": [
+   "images/add_L1_05_A.png",
+   "images/add_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_06",
+  "image": [
+   "images/add_L1_06_A.png",
+   "images/add_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_07",
+  "image": [
+   "images/add_L1_07_A.png",
+   "images/add_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_08",
+  "image": [
+   "images/add_L1_08_A.png",
+   "images/add_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_09",
+  "image": [
+   "images/add_L1_09_A.png",
+   "images/add_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_10",
+  "image": [
+   "images/add_L1_10_A.png",
+   "images/add_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_11",
+  "image": [
+   "images/add_L1_11_A.png",
+   "images/add_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_12",
+  "image": [
+   "images/add_L1_12_A.png",
+   "images/add_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_13",
+  "image": [
+   "images/add_L1_13_A.png",
+   "images/add_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_14",
+  "image": [
+   "images/add_L1_14_A.png",
+   "images/add_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_15",
+  "image": [
+   "images/add_L1_15_A.png",
+   "images/add_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_16",
+  "image": [
+   "images/add_L1_16_A.png",
+   "images/add_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_17",
+  "image": [
+   "images/add_L1_17_A.png",
+   "images/add_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_18",
+  "image": [
+   "images/add_L1_18_A.png",
+   "images/add_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_19",
+  "image": [
+   "images/add_L1_19_A.png",
+   "images/add_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_20",
+  "image": [
+   "images/add_L1_20_A.png",
+   "images/add_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_21",
+  "image": [
+   "images/add_L1_21_A.png",
+   "images/add_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_22",
+  "image": [
+   "images/add_L1_22_A.png",
+   "images/add_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_23",
+  "image": [
+   "images/add_L1_23_A.png",
+   "images/add_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_24",
+  "image": [
+   "images/add_L1_24_A.png",
+   "images/add_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_25",
+  "image": [
+   "images/add_L1_25_A.png",
+   "images/add_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_26",
+  "image": [
+   "images/add_L1_26_A.png",
+   "images/add_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_27",
+  "image": [
+   "images/add_L1_27_A.png",
+   "images/add_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_28",
+  "image": [
+   "images/add_L1_28_A.png",
+   "images/add_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L1_29",
+  "image": [
+   "images/add_L1_29_A.png",
+   "images/add_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_00",
+  "image": [
+   "images/add_L2_00_A.png",
+   "images/add_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_01",
+  "image": [
+   "images/add_L2_01_A.png",
+   "images/add_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_02",
+  "image": [
+   "images/add_L2_02_A.png",
+   "images/add_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_03",
+  "image": [
+   "images/add_L2_03_A.png",
+   "images/add_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_04",
+  "image": [
+   "images/add_L2_04_A.png",
+   "images/add_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_05",
+  "image": [
+   "images/add_L2_05_A.png",
+   "images/add_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_06",
+  "image": [
+   "images/add_L2_06_A.png",
+   "images/add_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_07",
+  "image": [
+   "images/add_L2_07_A.png",
+   "images/add_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_08",
+  "image": [
+   "images/add_L2_08_A.png",
+   "images/add_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_09",
+  "image": [
+   "images/add_L2_09_A.png",
+   "images/add_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_10",
+  "image": [
+   "images/add_L2_10_A.png",
+   "images/add_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_11",
+  "image": [
+   "images/add_L2_11_A.png",
+   "images/add_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_12",
+  "image": [
+   "images/add_L2_12_A.png",
+   "images/add_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_13",
+  "image": [
+   "images/add_L2_13_A.png",
+   "images/add_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_14",
+  "image": [
+   "images/add_L2_14_A.png",
+   "images/add_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_15",
+  "image": [
+   "images/add_L2_15_A.png",
+   "images/add_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_16",
+  "image": [
+   "images/add_L2_16_A.png",
+   "images/add_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_17",
+  "image": [
+   "images/add_L2_17_A.png",
+   "images/add_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_18",
+  "image": [
+   "images/add_L2_18_A.png",
+   "images/add_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_19",
+  "image": [
+   "images/add_L2_19_A.png",
+   "images/add_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_20",
+  "image": [
+   "images/add_L2_20_A.png",
+   "images/add_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_21",
+  "image": [
+   "images/add_L2_21_A.png",
+   "images/add_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_22",
+  "image": [
+   "images/add_L2_22_A.png",
+   "images/add_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_23",
+  "image": [
+   "images/add_L2_23_A.png",
+   "images/add_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_24",
+  "image": [
+   "images/add_L2_24_A.png",
+   "images/add_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_25",
+  "image": [
+   "images/add_L2_25_A.png",
+   "images/add_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_26",
+  "image": [
+   "images/add_L2_26_A.png",
+   "images/add_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_27",
+  "image": [
+   "images/add_L2_27_A.png",
+   "images/add_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_28",
+  "image": [
+   "images/add_L2_28_A.png",
+   "images/add_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L2_29",
+  "image": [
+   "images/add_L2_29_A.png",
+   "images/add_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_00",
+  "image": [
+   "images/add_L3_00_A.png",
+   "images/add_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_01",
+  "image": [
+   "images/add_L3_01_A.png",
+   "images/add_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_02",
+  "image": [
+   "images/add_L3_02_A.png",
+   "images/add_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_03",
+  "image": [
+   "images/add_L3_03_A.png",
+   "images/add_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_04",
+  "image": [
+   "images/add_L3_04_A.png",
+   "images/add_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_05",
+  "image": [
+   "images/add_L3_05_A.png",
+   "images/add_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_06",
+  "image": [
+   "images/add_L3_06_A.png",
+   "images/add_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_07",
+  "image": [
+   "images/add_L3_07_A.png",
+   "images/add_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_08",
+  "image": [
+   "images/add_L3_08_A.png",
+   "images/add_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_09",
+  "image": [
+   "images/add_L3_09_A.png",
+   "images/add_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_10",
+  "image": [
+   "images/add_L3_10_A.png",
+   "images/add_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_11",
+  "image": [
+   "images/add_L3_11_A.png",
+   "images/add_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_12",
+  "image": [
+   "images/add_L3_12_A.png",
+   "images/add_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_13",
+  "image": [
+   "images/add_L3_13_A.png",
+   "images/add_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_14",
+  "image": [
+   "images/add_L3_14_A.png",
+   "images/add_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_15",
+  "image": [
+   "images/add_L3_15_A.png",
+   "images/add_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_16",
+  "image": [
+   "images/add_L3_16_A.png",
+   "images/add_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_17",
+  "image": [
+   "images/add_L3_17_A.png",
+   "images/add_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_18",
+  "image": [
+   "images/add_L3_18_A.png",
+   "images/add_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_19",
+  "image": [
+   "images/add_L3_19_A.png",
+   "images/add_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_20",
+  "image": [
+   "images/add_L3_20_A.png",
+   "images/add_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_21",
+  "image": [
+   "images/add_L3_21_A.png",
+   "images/add_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_22",
+  "image": [
+   "images/add_L3_22_A.png",
+   "images/add_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_23",
+  "image": [
+   "images/add_L3_23_A.png",
+   "images/add_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_24",
+  "image": [
+   "images/add_L3_24_A.png",
+   "images/add_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_25",
+  "image": [
+   "images/add_L3_25_A.png",
+   "images/add_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_26",
+  "image": [
+   "images/add_L3_26_A.png",
+   "images/add_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_27",
+  "image": [
+   "images/add_L3_27_A.png",
+   "images/add_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_28",
+  "image": [
+   "images/add_L3_28_A.png",
+   "images/add_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "add_L3_29",
+  "image": [
+   "images/add_L3_29_A.png",
+   "images/add_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_00",
+  "image": [
+   "images/remove_L1_00_A.png",
+   "images/remove_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_01",
+  "image": [
+   "images/remove_L1_01_A.png",
+   "images/remove_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_02",
+  "image": [
+   "images/remove_L1_02_A.png",
+   "images/remove_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_03",
+  "image": [
+   "images/remove_L1_03_A.png",
+   "images/remove_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_04",
+  "image": [
+   "images/remove_L1_04_A.png",
+   "images/remove_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_05",
+  "image": [
+   "images/remove_L1_05_A.png",
+   "images/remove_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_06",
+  "image": [
+   "images/remove_L1_06_A.png",
+   "images/remove_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_07",
+  "image": [
+   "images/remove_L1_07_A.png",
+   "images/remove_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_08",
+  "image": [
+   "images/remove_L1_08_A.png",
+   "images/remove_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_09",
+  "image": [
+   "images/remove_L1_09_A.png",
+   "images/remove_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_10",
+  "image": [
+   "images/remove_L1_10_A.png",
+   "images/remove_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_11",
+  "image": [
+   "images/remove_L1_11_A.png",
+   "images/remove_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_12",
+  "image": [
+   "images/remove_L1_12_A.png",
+   "images/remove_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_13",
+  "image": [
+   "images/remove_L1_13_A.png",
+   "images/remove_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_14",
+  "image": [
+   "images/remove_L1_14_A.png",
+   "images/remove_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_15",
+  "image": [
+   "images/remove_L1_15_A.png",
+   "images/remove_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_16",
+  "image": [
+   "images/remove_L1_16_A.png",
+   "images/remove_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_17",
+  "image": [
+   "images/remove_L1_17_A.png",
+   "images/remove_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_18",
+  "image": [
+   "images/remove_L1_18_A.png",
+   "images/remove_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_19",
+  "image": [
+   "images/remove_L1_19_A.png",
+   "images/remove_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_20",
+  "image": [
+   "images/remove_L1_20_A.png",
+   "images/remove_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_21",
+  "image": [
+   "images/remove_L1_21_A.png",
+   "images/remove_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_22",
+  "image": [
+   "images/remove_L1_22_A.png",
+   "images/remove_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_23",
+  "image": [
+   "images/remove_L1_23_A.png",
+   "images/remove_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_24",
+  "image": [
+   "images/remove_L1_24_A.png",
+   "images/remove_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_25",
+  "image": [
+   "images/remove_L1_25_A.png",
+   "images/remove_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_26",
+  "image": [
+   "images/remove_L1_26_A.png",
+   "images/remove_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_27",
+  "image": [
+   "images/remove_L1_27_A.png",
+   "images/remove_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_28",
+  "image": [
+   "images/remove_L1_28_A.png",
+   "images/remove_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L1_29",
+  "image": [
+   "images/remove_L1_29_A.png",
+   "images/remove_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_00",
+  "image": [
+   "images/remove_L2_00_A.png",
+   "images/remove_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_01",
+  "image": [
+   "images/remove_L2_01_A.png",
+   "images/remove_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_02",
+  "image": [
+   "images/remove_L2_02_A.png",
+   "images/remove_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_03",
+  "image": [
+   "images/remove_L2_03_A.png",
+   "images/remove_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_04",
+  "image": [
+   "images/remove_L2_04_A.png",
+   "images/remove_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_05",
+  "image": [
+   "images/remove_L2_05_A.png",
+   "images/remove_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_06",
+  "image": [
+   "images/remove_L2_06_A.png",
+   "images/remove_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_07",
+  "image": [
+   "images/remove_L2_07_A.png",
+   "images/remove_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_08",
+  "image": [
+   "images/remove_L2_08_A.png",
+   "images/remove_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_09",
+  "image": [
+   "images/remove_L2_09_A.png",
+   "images/remove_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_10",
+  "image": [
+   "images/remove_L2_10_A.png",
+   "images/remove_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_11",
+  "image": [
+   "images/remove_L2_11_A.png",
+   "images/remove_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_12",
+  "image": [
+   "images/remove_L2_12_A.png",
+   "images/remove_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_13",
+  "image": [
+   "images/remove_L2_13_A.png",
+   "images/remove_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_14",
+  "image": [
+   "images/remove_L2_14_A.png",
+   "images/remove_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_15",
+  "image": [
+   "images/remove_L2_15_A.png",
+   "images/remove_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_16",
+  "image": [
+   "images/remove_L2_16_A.png",
+   "images/remove_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_17",
+  "image": [
+   "images/remove_L2_17_A.png",
+   "images/remove_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_18",
+  "image": [
+   "images/remove_L2_18_A.png",
+   "images/remove_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_19",
+  "image": [
+   "images/remove_L2_19_A.png",
+   "images/remove_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_20",
+  "image": [
+   "images/remove_L2_20_A.png",
+   "images/remove_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_21",
+  "image": [
+   "images/remove_L2_21_A.png",
+   "images/remove_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_22",
+  "image": [
+   "images/remove_L2_22_A.png",
+   "images/remove_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_23",
+  "image": [
+   "images/remove_L2_23_A.png",
+   "images/remove_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_24",
+  "image": [
+   "images/remove_L2_24_A.png",
+   "images/remove_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_25",
+  "image": [
+   "images/remove_L2_25_A.png",
+   "images/remove_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_26",
+  "image": [
+   "images/remove_L2_26_A.png",
+   "images/remove_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_27",
+  "image": [
+   "images/remove_L2_27_A.png",
+   "images/remove_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_28",
+  "image": [
+   "images/remove_L2_28_A.png",
+   "images/remove_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L2_29",
+  "image": [
+   "images/remove_L2_29_A.png",
+   "images/remove_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_00",
+  "image": [
+   "images/remove_L3_00_A.png",
+   "images/remove_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_01",
+  "image": [
+   "images/remove_L3_01_A.png",
+   "images/remove_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_02",
+  "image": [
+   "images/remove_L3_02_A.png",
+   "images/remove_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_03",
+  "image": [
+   "images/remove_L3_03_A.png",
+   "images/remove_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_04",
+  "image": [
+   "images/remove_L3_04_A.png",
+   "images/remove_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_05",
+  "image": [
+   "images/remove_L3_05_A.png",
+   "images/remove_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_06",
+  "image": [
+   "images/remove_L3_06_A.png",
+   "images/remove_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_07",
+  "image": [
+   "images/remove_L3_07_A.png",
+   "images/remove_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_08",
+  "image": [
+   "images/remove_L3_08_A.png",
+   "images/remove_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_09",
+  "image": [
+   "images/remove_L3_09_A.png",
+   "images/remove_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_10",
+  "image": [
+   "images/remove_L3_10_A.png",
+   "images/remove_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_11",
+  "image": [
+   "images/remove_L3_11_A.png",
+   "images/remove_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_12",
+  "image": [
+   "images/remove_L3_12_A.png",
+   "images/remove_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_13",
+  "image": [
+   "images/remove_L3_13_A.png",
+   "images/remove_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_14",
+  "image": [
+   "images/remove_L3_14_A.png",
+   "images/remove_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_15",
+  "image": [
+   "images/remove_L3_15_A.png",
+   "images/remove_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_16",
+  "image": [
+   "images/remove_L3_16_A.png",
+   "images/remove_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_17",
+  "image": [
+   "images/remove_L3_17_A.png",
+   "images/remove_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_18",
+  "image": [
+   "images/remove_L3_18_A.png",
+   "images/remove_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_19",
+  "image": [
+   "images/remove_L3_19_A.png",
+   "images/remove_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_20",
+  "image": [
+   "images/remove_L3_20_A.png",
+   "images/remove_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_21",
+  "image": [
+   "images/remove_L3_21_A.png",
+   "images/remove_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_22",
+  "image": [
+   "images/remove_L3_22_A.png",
+   "images/remove_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_23",
+  "image": [
+   "images/remove_L3_23_A.png",
+   "images/remove_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_24",
+  "image": [
+   "images/remove_L3_24_A.png",
+   "images/remove_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_25",
+  "image": [
+   "images/remove_L3_25_A.png",
+   "images/remove_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_26",
+  "image": [
+   "images/remove_L3_26_A.png",
+   "images/remove_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_27",
+  "image": [
+   "images/remove_L3_27_A.png",
+   "images/remove_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_28",
+  "image": [
+   "images/remove_L3_28_A.png",
+   "images/remove_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "remove_L3_29",
+  "image": [
+   "images/remove_L3_29_A.png",
+   "images/remove_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_00",
+  "image": [
+   "images/color_L1_00_A.png",
+   "images/color_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_01",
+  "image": [
+   "images/color_L1_01_A.png",
+   "images/color_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_02",
+  "image": [
+   "images/color_L1_02_A.png",
+   "images/color_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_03",
+  "image": [
+   "images/color_L1_03_A.png",
+   "images/color_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_04",
+  "image": [
+   "images/color_L1_04_A.png",
+   "images/color_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_05",
+  "image": [
+   "images/color_L1_05_A.png",
+   "images/color_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_06",
+  "image": [
+   "images/color_L1_06_A.png",
+   "images/color_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_07",
+  "image": [
+   "images/color_L1_07_A.png",
+   "images/color_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_08",
+  "image": [
+   "images/color_L1_08_A.png",
+   "images/color_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_09",
+  "image": [
+   "images/color_L1_09_A.png",
+   "images/color_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_10",
+  "image": [
+   "images/color_L1_10_A.png",
+   "images/color_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_11",
+  "image": [
+   "images/color_L1_11_A.png",
+   "images/color_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_12",
+  "image": [
+   "images/color_L1_12_A.png",
+   "images/color_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_13",
+  "image": [
+   "images/color_L1_13_A.png",
+   "images/color_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_14",
+  "image": [
+   "images/color_L1_14_A.png",
+   "images/color_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_15",
+  "image": [
+   "images/color_L1_15_A.png",
+   "images/color_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_16",
+  "image": [
+   "images/color_L1_16_A.png",
+   "images/color_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_17",
+  "image": [
+   "images/color_L1_17_A.png",
+   "images/color_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_18",
+  "image": [
+   "images/color_L1_18_A.png",
+   "images/color_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_19",
+  "image": [
+   "images/color_L1_19_A.png",
+   "images/color_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_20",
+  "image": [
+   "images/color_L1_20_A.png",
+   "images/color_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_21",
+  "image": [
+   "images/color_L1_21_A.png",
+   "images/color_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_22",
+  "image": [
+   "images/color_L1_22_A.png",
+   "images/color_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_23",
+  "image": [
+   "images/color_L1_23_A.png",
+   "images/color_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_24",
+  "image": [
+   "images/color_L1_24_A.png",
+   "images/color_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_25",
+  "image": [
+   "images/color_L1_25_A.png",
+   "images/color_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_26",
+  "image": [
+   "images/color_L1_26_A.png",
+   "images/color_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_27",
+  "image": [
+   "images/color_L1_27_A.png",
+   "images/color_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_28",
+  "image": [
+   "images/color_L1_28_A.png",
+   "images/color_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L1_29",
+  "image": [
+   "images/color_L1_29_A.png",
+   "images/color_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_00",
+  "image": [
+   "images/color_L2_00_A.png",
+   "images/color_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_01",
+  "image": [
+   "images/color_L2_01_A.png",
+   "images/color_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_02",
+  "image": [
+   "images/color_L2_02_A.png",
+   "images/color_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_03",
+  "image": [
+   "images/color_L2_03_A.png",
+   "images/color_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_04",
+  "image": [
+   "images/color_L2_04_A.png",
+   "images/color_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_05",
+  "image": [
+   "images/color_L2_05_A.png",
+   "images/color_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_06",
+  "image": [
+   "images/color_L2_06_A.png",
+   "images/color_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_07",
+  "image": [
+   "images/color_L2_07_A.png",
+   "images/color_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_08",
+  "image": [
+   "images/color_L2_08_A.png",
+   "images/color_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_09",
+  "image": [
+   "images/color_L2_09_A.png",
+   "images/color_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_10",
+  "image": [
+   "images/color_L2_10_A.png",
+   "images/color_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_11",
+  "image": [
+   "images/color_L2_11_A.png",
+   "images/color_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_12",
+  "image": [
+   "images/color_L2_12_A.png",
+   "images/color_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_13",
+  "image": [
+   "images/color_L2_13_A.png",
+   "images/color_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_14",
+  "image": [
+   "images/color_L2_14_A.png",
+   "images/color_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_15",
+  "image": [
+   "images/color_L2_15_A.png",
+   "images/color_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_16",
+  "image": [
+   "images/color_L2_16_A.png",
+   "images/color_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_17",
+  "image": [
+   "images/color_L2_17_A.png",
+   "images/color_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_18",
+  "image": [
+   "images/color_L2_18_A.png",
+   "images/color_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_19",
+  "image": [
+   "images/color_L2_19_A.png",
+   "images/color_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_20",
+  "image": [
+   "images/color_L2_20_A.png",
+   "images/color_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_21",
+  "image": [
+   "images/color_L2_21_A.png",
+   "images/color_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_22",
+  "image": [
+   "images/color_L2_22_A.png",
+   "images/color_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_23",
+  "image": [
+   "images/color_L2_23_A.png",
+   "images/color_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_24",
+  "image": [
+   "images/color_L2_24_A.png",
+   "images/color_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_25",
+  "image": [
+   "images/color_L2_25_A.png",
+   "images/color_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_26",
+  "image": [
+   "images/color_L2_26_A.png",
+   "images/color_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_27",
+  "image": [
+   "images/color_L2_27_A.png",
+   "images/color_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_28",
+  "image": [
+   "images/color_L2_28_A.png",
+   "images/color_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L2_29",
+  "image": [
+   "images/color_L2_29_A.png",
+   "images/color_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_00",
+  "image": [
+   "images/color_L3_00_A.png",
+   "images/color_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_01",
+  "image": [
+   "images/color_L3_01_A.png",
+   "images/color_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_02",
+  "image": [
+   "images/color_L3_02_A.png",
+   "images/color_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_03",
+  "image": [
+   "images/color_L3_03_A.png",
+   "images/color_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_04",
+  "image": [
+   "images/color_L3_04_A.png",
+   "images/color_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_05",
+  "image": [
+   "images/color_L3_05_A.png",
+   "images/color_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_06",
+  "image": [
+   "images/color_L3_06_A.png",
+   "images/color_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_07",
+  "image": [
+   "images/color_L3_07_A.png",
+   "images/color_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_08",
+  "image": [
+   "images/color_L3_08_A.png",
+   "images/color_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_09",
+  "image": [
+   "images/color_L3_09_A.png",
+   "images/color_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_10",
+  "image": [
+   "images/color_L3_10_A.png",
+   "images/color_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_11",
+  "image": [
+   "images/color_L3_11_A.png",
+   "images/color_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_12",
+  "image": [
+   "images/color_L3_12_A.png",
+   "images/color_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_13",
+  "image": [
+   "images/color_L3_13_A.png",
+   "images/color_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_14",
+  "image": [
+   "images/color_L3_14_A.png",
+   "images/color_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_15",
+  "image": [
+   "images/color_L3_15_A.png",
+   "images/color_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_16",
+  "image": [
+   "images/color_L3_16_A.png",
+   "images/color_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_17",
+  "image": [
+   "images/color_L3_17_A.png",
+   "images/color_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_18",
+  "image": [
+   "images/color_L3_18_A.png",
+   "images/color_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_19",
+  "image": [
+   "images/color_L3_19_A.png",
+   "images/color_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_20",
+  "image": [
+   "images/color_L3_20_A.png",
+   "images/color_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_21",
+  "image": [
+   "images/color_L3_21_A.png",
+   "images/color_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_22",
+  "image": [
+   "images/color_L3_22_A.png",
+   "images/color_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_23",
+  "image": [
+   "images/color_L3_23_A.png",
+   "images/color_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_24",
+  "image": [
+   "images/color_L3_24_A.png",
+   "images/color_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_25",
+  "image": [
+   "images/color_L3_25_A.png",
+   "images/color_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_26",
+  "image": [
+   "images/color_L3_26_A.png",
+   "images/color_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_27",
+  "image": [
+   "images/color_L3_27_A.png",
+   "images/color_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_28",
+  "image": [
+   "images/color_L3_28_A.png",
+   "images/color_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "color_L3_29",
+  "image": [
+   "images/color_L3_29_A.png",
+   "images/color_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_00",
+  "image": [
+   "images/move_L1_00_A.png",
+   "images/move_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_01",
+  "image": [
+   "images/move_L1_01_A.png",
+   "images/move_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_02",
+  "image": [
+   "images/move_L1_02_A.png",
+   "images/move_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_03",
+  "image": [
+   "images/move_L1_03_A.png",
+   "images/move_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_04",
+  "image": [
+   "images/move_L1_04_A.png",
+   "images/move_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_05",
+  "image": [
+   "images/move_L1_05_A.png",
+   "images/move_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_06",
+  "image": [
+   "images/move_L1_06_A.png",
+   "images/move_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_07",
+  "image": [
+   "images/move_L1_07_A.png",
+   "images/move_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_08",
+  "image": [
+   "images/move_L1_08_A.png",
+   "images/move_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_09",
+  "image": [
+   "images/move_L1_09_A.png",
+   "images/move_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_10",
+  "image": [
+   "images/move_L1_10_A.png",
+   "images/move_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_11",
+  "image": [
+   "images/move_L1_11_A.png",
+   "images/move_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_12",
+  "image": [
+   "images/move_L1_12_A.png",
+   "images/move_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_13",
+  "image": [
+   "images/move_L1_13_A.png",
+   "images/move_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_14",
+  "image": [
+   "images/move_L1_14_A.png",
+   "images/move_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_15",
+  "image": [
+   "images/move_L1_15_A.png",
+   "images/move_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_16",
+  "image": [
+   "images/move_L1_16_A.png",
+   "images/move_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_17",
+  "image": [
+   "images/move_L1_17_A.png",
+   "images/move_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_18",
+  "image": [
+   "images/move_L1_18_A.png",
+   "images/move_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_19",
+  "image": [
+   "images/move_L1_19_A.png",
+   "images/move_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_20",
+  "image": [
+   "images/move_L1_20_A.png",
+   "images/move_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_21",
+  "image": [
+   "images/move_L1_21_A.png",
+   "images/move_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_22",
+  "image": [
+   "images/move_L1_22_A.png",
+   "images/move_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_23",
+  "image": [
+   "images/move_L1_23_A.png",
+   "images/move_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_24",
+  "image": [
+   "images/move_L1_24_A.png",
+   "images/move_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_25",
+  "image": [
+   "images/move_L1_25_A.png",
+   "images/move_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_26",
+  "image": [
+   "images/move_L1_26_A.png",
+   "images/move_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_27",
+  "image": [
+   "images/move_L1_27_A.png",
+   "images/move_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_28",
+  "image": [
+   "images/move_L1_28_A.png",
+   "images/move_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L1_29",
+  "image": [
+   "images/move_L1_29_A.png",
+   "images/move_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_00",
+  "image": [
+   "images/move_L2_00_A.png",
+   "images/move_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_01",
+  "image": [
+   "images/move_L2_01_A.png",
+   "images/move_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_02",
+  "image": [
+   "images/move_L2_02_A.png",
+   "images/move_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_03",
+  "image": [
+   "images/move_L2_03_A.png",
+   "images/move_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_04",
+  "image": [
+   "images/move_L2_04_A.png",
+   "images/move_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_05",
+  "image": [
+   "images/move_L2_05_A.png",
+   "images/move_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_06",
+  "image": [
+   "images/move_L2_06_A.png",
+   "images/move_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_07",
+  "image": [
+   "images/move_L2_07_A.png",
+   "images/move_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_08",
+  "image": [
+   "images/move_L2_08_A.png",
+   "images/move_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_09",
+  "image": [
+   "images/move_L2_09_A.png",
+   "images/move_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_10",
+  "image": [
+   "images/move_L2_10_A.png",
+   "images/move_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_11",
+  "image": [
+   "images/move_L2_11_A.png",
+   "images/move_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_12",
+  "image": [
+   "images/move_L2_12_A.png",
+   "images/move_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_13",
+  "image": [
+   "images/move_L2_13_A.png",
+   "images/move_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_14",
+  "image": [
+   "images/move_L2_14_A.png",
+   "images/move_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_15",
+  "image": [
+   "images/move_L2_15_A.png",
+   "images/move_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_16",
+  "image": [
+   "images/move_L2_16_A.png",
+   "images/move_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_17",
+  "image": [
+   "images/move_L2_17_A.png",
+   "images/move_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_18",
+  "image": [
+   "images/move_L2_18_A.png",
+   "images/move_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_19",
+  "image": [
+   "images/move_L2_19_A.png",
+   "images/move_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_20",
+  "image": [
+   "images/move_L2_20_A.png",
+   "images/move_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_21",
+  "image": [
+   "images/move_L2_21_A.png",
+   "images/move_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_22",
+  "image": [
+   "images/move_L2_22_A.png",
+   "images/move_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_23",
+  "image": [
+   "images/move_L2_23_A.png",
+   "images/move_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_24",
+  "image": [
+   "images/move_L2_24_A.png",
+   "images/move_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_25",
+  "image": [
+   "images/move_L2_25_A.png",
+   "images/move_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_26",
+  "image": [
+   "images/move_L2_26_A.png",
+   "images/move_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_27",
+  "image": [
+   "images/move_L2_27_A.png",
+   "images/move_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_28",
+  "image": [
+   "images/move_L2_28_A.png",
+   "images/move_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L2_29",
+  "image": [
+   "images/move_L2_29_A.png",
+   "images/move_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_00",
+  "image": [
+   "images/move_L3_00_A.png",
+   "images/move_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_01",
+  "image": [
+   "images/move_L3_01_A.png",
+   "images/move_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_02",
+  "image": [
+   "images/move_L3_02_A.png",
+   "images/move_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_03",
+  "image": [
+   "images/move_L3_03_A.png",
+   "images/move_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_04",
+  "image": [
+   "images/move_L3_04_A.png",
+   "images/move_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_05",
+  "image": [
+   "images/move_L3_05_A.png",
+   "images/move_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_06",
+  "image": [
+   "images/move_L3_06_A.png",
+   "images/move_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_07",
+  "image": [
+   "images/move_L3_07_A.png",
+   "images/move_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_08",
+  "image": [
+   "images/move_L3_08_A.png",
+   "images/move_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_09",
+  "image": [
+   "images/move_L3_09_A.png",
+   "images/move_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_10",
+  "image": [
+   "images/move_L3_10_A.png",
+   "images/move_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_11",
+  "image": [
+   "images/move_L3_11_A.png",
+   "images/move_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_12",
+  "image": [
+   "images/move_L3_12_A.png",
+   "images/move_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_13",
+  "image": [
+   "images/move_L3_13_A.png",
+   "images/move_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_14",
+  "image": [
+   "images/move_L3_14_A.png",
+   "images/move_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_15",
+  "image": [
+   "images/move_L3_15_A.png",
+   "images/move_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_16",
+  "image": [
+   "images/move_L3_16_A.png",
+   "images/move_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_17",
+  "image": [
+   "images/move_L3_17_A.png",
+   "images/move_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_18",
+  "image": [
+   "images/move_L3_18_A.png",
+   "images/move_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_19",
+  "image": [
+   "images/move_L3_19_A.png",
+   "images/move_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_20",
+  "image": [
+   "images/move_L3_20_A.png",
+   "images/move_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_21",
+  "image": [
+   "images/move_L3_21_A.png",
+   "images/move_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_22",
+  "image": [
+   "images/move_L3_22_A.png",
+   "images/move_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_23",
+  "image": [
+   "images/move_L3_23_A.png",
+   "images/move_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_24",
+  "image": [
+   "images/move_L3_24_A.png",
+   "images/move_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_25",
+  "image": [
+   "images/move_L3_25_A.png",
+   "images/move_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_26",
+  "image": [
+   "images/move_L3_26_A.png",
+   "images/move_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_27",
+  "image": [
+   "images/move_L3_27_A.png",
+   "images/move_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_28",
+  "image": [
+   "images/move_L3_28_A.png",
+   "images/move_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "move_L3_29",
+  "image": [
+   "images/move_L3_29_A.png",
+   "images/move_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_00",
+  "image": [
+   "images/size_L1_00_A.png",
+   "images/size_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_01",
+  "image": [
+   "images/size_L1_01_A.png",
+   "images/size_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_02",
+  "image": [
+   "images/size_L1_02_A.png",
+   "images/size_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_03",
+  "image": [
+   "images/size_L1_03_A.png",
+   "images/size_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_04",
+  "image": [
+   "images/size_L1_04_A.png",
+   "images/size_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_05",
+  "image": [
+   "images/size_L1_05_A.png",
+   "images/size_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_06",
+  "image": [
+   "images/size_L1_06_A.png",
+   "images/size_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_07",
+  "image": [
+   "images/size_L1_07_A.png",
+   "images/size_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_08",
+  "image": [
+   "images/size_L1_08_A.png",
+   "images/size_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_09",
+  "image": [
+   "images/size_L1_09_A.png",
+   "images/size_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_10",
+  "image": [
+   "images/size_L1_10_A.png",
+   "images/size_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_11",
+  "image": [
+   "images/size_L1_11_A.png",
+   "images/size_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_12",
+  "image": [
+   "images/size_L1_12_A.png",
+   "images/size_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_13",
+  "image": [
+   "images/size_L1_13_A.png",
+   "images/size_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_14",
+  "image": [
+   "images/size_L1_14_A.png",
+   "images/size_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_15",
+  "image": [
+   "images/size_L1_15_A.png",
+   "images/size_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_16",
+  "image": [
+   "images/size_L1_16_A.png",
+   "images/size_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_17",
+  "image": [
+   "images/size_L1_17_A.png",
+   "images/size_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_18",
+  "image": [
+   "images/size_L1_18_A.png",
+   "images/size_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_19",
+  "image": [
+   "images/size_L1_19_A.png",
+   "images/size_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_20",
+  "image": [
+   "images/size_L1_20_A.png",
+   "images/size_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_21",
+  "image": [
+   "images/size_L1_21_A.png",
+   "images/size_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_22",
+  "image": [
+   "images/size_L1_22_A.png",
+   "images/size_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_23",
+  "image": [
+   "images/size_L1_23_A.png",
+   "images/size_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_24",
+  "image": [
+   "images/size_L1_24_A.png",
+   "images/size_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_25",
+  "image": [
+   "images/size_L1_25_A.png",
+   "images/size_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_26",
+  "image": [
+   "images/size_L1_26_A.png",
+   "images/size_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_27",
+  "image": [
+   "images/size_L1_27_A.png",
+   "images/size_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_28",
+  "image": [
+   "images/size_L1_28_A.png",
+   "images/size_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L1_29",
+  "image": [
+   "images/size_L1_29_A.png",
+   "images/size_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_00",
+  "image": [
+   "images/size_L2_00_A.png",
+   "images/size_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_01",
+  "image": [
+   "images/size_L2_01_A.png",
+   "images/size_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_02",
+  "image": [
+   "images/size_L2_02_A.png",
+   "images/size_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_03",
+  "image": [
+   "images/size_L2_03_A.png",
+   "images/size_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_04",
+  "image": [
+   "images/size_L2_04_A.png",
+   "images/size_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_05",
+  "image": [
+   "images/size_L2_05_A.png",
+   "images/size_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_06",
+  "image": [
+   "images/size_L2_06_A.png",
+   "images/size_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_07",
+  "image": [
+   "images/size_L2_07_A.png",
+   "images/size_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_08",
+  "image": [
+   "images/size_L2_08_A.png",
+   "images/size_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_09",
+  "image": [
+   "images/size_L2_09_A.png",
+   "images/size_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_10",
+  "image": [
+   "images/size_L2_10_A.png",
+   "images/size_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_11",
+  "image": [
+   "images/size_L2_11_A.png",
+   "images/size_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_12",
+  "image": [
+   "images/size_L2_12_A.png",
+   "images/size_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_13",
+  "image": [
+   "images/size_L2_13_A.png",
+   "images/size_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_14",
+  "image": [
+   "images/size_L2_14_A.png",
+   "images/size_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_15",
+  "image": [
+   "images/size_L2_15_A.png",
+   "images/size_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_16",
+  "image": [
+   "images/size_L2_16_A.png",
+   "images/size_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_17",
+  "image": [
+   "images/size_L2_17_A.png",
+   "images/size_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_18",
+  "image": [
+   "images/size_L2_18_A.png",
+   "images/size_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_19",
+  "image": [
+   "images/size_L2_19_A.png",
+   "images/size_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_20",
+  "image": [
+   "images/size_L2_20_A.png",
+   "images/size_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_21",
+  "image": [
+   "images/size_L2_21_A.png",
+   "images/size_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_22",
+  "image": [
+   "images/size_L2_22_A.png",
+   "images/size_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_23",
+  "image": [
+   "images/size_L2_23_A.png",
+   "images/size_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_24",
+  "image": [
+   "images/size_L2_24_A.png",
+   "images/size_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_25",
+  "image": [
+   "images/size_L2_25_A.png",
+   "images/size_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_26",
+  "image": [
+   "images/size_L2_26_A.png",
+   "images/size_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_27",
+  "image": [
+   "images/size_L2_27_A.png",
+   "images/size_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_28",
+  "image": [
+   "images/size_L2_28_A.png",
+   "images/size_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L2_29",
+  "image": [
+   "images/size_L2_29_A.png",
+   "images/size_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_00",
+  "image": [
+   "images/size_L3_00_A.png",
+   "images/size_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_01",
+  "image": [
+   "images/size_L3_01_A.png",
+   "images/size_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_02",
+  "image": [
+   "images/size_L3_02_A.png",
+   "images/size_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_03",
+  "image": [
+   "images/size_L3_03_A.png",
+   "images/size_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_04",
+  "image": [
+   "images/size_L3_04_A.png",
+   "images/size_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_05",
+  "image": [
+   "images/size_L3_05_A.png",
+   "images/size_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_06",
+  "image": [
+   "images/size_L3_06_A.png",
+   "images/size_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_07",
+  "image": [
+   "images/size_L3_07_A.png",
+   "images/size_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_08",
+  "image": [
+   "images/size_L3_08_A.png",
+   "images/size_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_09",
+  "image": [
+   "images/size_L3_09_A.png",
+   "images/size_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_10",
+  "image": [
+   "images/size_L3_10_A.png",
+   "images/size_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_11",
+  "image": [
+   "images/size_L3_11_A.png",
+   "images/size_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_12",
+  "image": [
+   "images/size_L3_12_A.png",
+   "images/size_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_13",
+  "image": [
+   "images/size_L3_13_A.png",
+   "images/size_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_14",
+  "image": [
+   "images/size_L3_14_A.png",
+   "images/size_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_15",
+  "image": [
+   "images/size_L3_15_A.png",
+   "images/size_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_16",
+  "image": [
+   "images/size_L3_16_A.png",
+   "images/size_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_17",
+  "image": [
+   "images/size_L3_17_A.png",
+   "images/size_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_18",
+  "image": [
+   "images/size_L3_18_A.png",
+   "images/size_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_19",
+  "image": [
+   "images/size_L3_19_A.png",
+   "images/size_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_20",
+  "image": [
+   "images/size_L3_20_A.png",
+   "images/size_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_21",
+  "image": [
+   "images/size_L3_21_A.png",
+   "images/size_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_22",
+  "image": [
+   "images/size_L3_22_A.png",
+   "images/size_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_23",
+  "image": [
+   "images/size_L3_23_A.png",
+   "images/size_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_24",
+  "image": [
+   "images/size_L3_24_A.png",
+   "images/size_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_25",
+  "image": [
+   "images/size_L3_25_A.png",
+   "images/size_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_26",
+  "image": [
+   "images/size_L3_26_A.png",
+   "images/size_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_27",
+  "image": [
+   "images/size_L3_27_A.png",
+   "images/size_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_28",
+  "image": [
+   "images/size_L3_28_A.png",
+   "images/size_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "size_L3_29",
+  "image": [
+   "images/size_L3_29_A.png",
+   "images/size_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_00",
+  "image": [
+   "images/light_L1_00_A.png",
+   "images/light_L1_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_01",
+  "image": [
+   "images/light_L1_01_A.png",
+   "images/light_L1_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_02",
+  "image": [
+   "images/light_L1_02_A.png",
+   "images/light_L1_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_03",
+  "image": [
+   "images/light_L1_03_A.png",
+   "images/light_L1_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_04",
+  "image": [
+   "images/light_L1_04_A.png",
+   "images/light_L1_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_05",
+  "image": [
+   "images/light_L1_05_A.png",
+   "images/light_L1_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_06",
+  "image": [
+   "images/light_L1_06_A.png",
+   "images/light_L1_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_07",
+  "image": [
+   "images/light_L1_07_A.png",
+   "images/light_L1_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_08",
+  "image": [
+   "images/light_L1_08_A.png",
+   "images/light_L1_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_09",
+  "image": [
+   "images/light_L1_09_A.png",
+   "images/light_L1_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_10",
+  "image": [
+   "images/light_L1_10_A.png",
+   "images/light_L1_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_11",
+  "image": [
+   "images/light_L1_11_A.png",
+   "images/light_L1_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_12",
+  "image": [
+   "images/light_L1_12_A.png",
+   "images/light_L1_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_13",
+  "image": [
+   "images/light_L1_13_A.png",
+   "images/light_L1_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_14",
+  "image": [
+   "images/light_L1_14_A.png",
+   "images/light_L1_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_15",
+  "image": [
+   "images/light_L1_15_A.png",
+   "images/light_L1_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_16",
+  "image": [
+   "images/light_L1_16_A.png",
+   "images/light_L1_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_17",
+  "image": [
+   "images/light_L1_17_A.png",
+   "images/light_L1_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_18",
+  "image": [
+   "images/light_L1_18_A.png",
+   "images/light_L1_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_19",
+  "image": [
+   "images/light_L1_19_A.png",
+   "images/light_L1_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_20",
+  "image": [
+   "images/light_L1_20_A.png",
+   "images/light_L1_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_21",
+  "image": [
+   "images/light_L1_21_A.png",
+   "images/light_L1_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_22",
+  "image": [
+   "images/light_L1_22_A.png",
+   "images/light_L1_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_23",
+  "image": [
+   "images/light_L1_23_A.png",
+   "images/light_L1_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_24",
+  "image": [
+   "images/light_L1_24_A.png",
+   "images/light_L1_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_25",
+  "image": [
+   "images/light_L1_25_A.png",
+   "images/light_L1_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_26",
+  "image": [
+   "images/light_L1_26_A.png",
+   "images/light_L1_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_27",
+  "image": [
+   "images/light_L1_27_A.png",
+   "images/light_L1_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_28",
+  "image": [
+   "images/light_L1_28_A.png",
+   "images/light_L1_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L1_29",
+  "image": [
+   "images/light_L1_29_A.png",
+   "images/light_L1_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_00",
+  "image": [
+   "images/light_L2_00_A.png",
+   "images/light_L2_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_01",
+  "image": [
+   "images/light_L2_01_A.png",
+   "images/light_L2_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_02",
+  "image": [
+   "images/light_L2_02_A.png",
+   "images/light_L2_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_03",
+  "image": [
+   "images/light_L2_03_A.png",
+   "images/light_L2_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_04",
+  "image": [
+   "images/light_L2_04_A.png",
+   "images/light_L2_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_05",
+  "image": [
+   "images/light_L2_05_A.png",
+   "images/light_L2_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_06",
+  "image": [
+   "images/light_L2_06_A.png",
+   "images/light_L2_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_07",
+  "image": [
+   "images/light_L2_07_A.png",
+   "images/light_L2_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_08",
+  "image": [
+   "images/light_L2_08_A.png",
+   "images/light_L2_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_09",
+  "image": [
+   "images/light_L2_09_A.png",
+   "images/light_L2_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_10",
+  "image": [
+   "images/light_L2_10_A.png",
+   "images/light_L2_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_11",
+  "image": [
+   "images/light_L2_11_A.png",
+   "images/light_L2_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_12",
+  "image": [
+   "images/light_L2_12_A.png",
+   "images/light_L2_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_13",
+  "image": [
+   "images/light_L2_13_A.png",
+   "images/light_L2_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_14",
+  "image": [
+   "images/light_L2_14_A.png",
+   "images/light_L2_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_15",
+  "image": [
+   "images/light_L2_15_A.png",
+   "images/light_L2_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_16",
+  "image": [
+   "images/light_L2_16_A.png",
+   "images/light_L2_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_17",
+  "image": [
+   "images/light_L2_17_A.png",
+   "images/light_L2_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_18",
+  "image": [
+   "images/light_L2_18_A.png",
+   "images/light_L2_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_19",
+  "image": [
+   "images/light_L2_19_A.png",
+   "images/light_L2_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_20",
+  "image": [
+   "images/light_L2_20_A.png",
+   "images/light_L2_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_21",
+  "image": [
+   "images/light_L2_21_A.png",
+   "images/light_L2_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_22",
+  "image": [
+   "images/light_L2_22_A.png",
+   "images/light_L2_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_23",
+  "image": [
+   "images/light_L2_23_A.png",
+   "images/light_L2_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_24",
+  "image": [
+   "images/light_L2_24_A.png",
+   "images/light_L2_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_25",
+  "image": [
+   "images/light_L2_25_A.png",
+   "images/light_L2_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_26",
+  "image": [
+   "images/light_L2_26_A.png",
+   "images/light_L2_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_27",
+  "image": [
+   "images/light_L2_27_A.png",
+   "images/light_L2_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_28",
+  "image": [
+   "images/light_L2_28_A.png",
+   "images/light_L2_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L2_29",
+  "image": [
+   "images/light_L2_29_A.png",
+   "images/light_L2_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_00",
+  "image": [
+   "images/light_L3_00_A.png",
+   "images/light_L3_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_01",
+  "image": [
+   "images/light_L3_01_A.png",
+   "images/light_L3_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_02",
+  "image": [
+   "images/light_L3_02_A.png",
+   "images/light_L3_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_03",
+  "image": [
+   "images/light_L3_03_A.png",
+   "images/light_L3_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_04",
+  "image": [
+   "images/light_L3_04_A.png",
+   "images/light_L3_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_05",
+  "image": [
+   "images/light_L3_05_A.png",
+   "images/light_L3_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_06",
+  "image": [
+   "images/light_L3_06_A.png",
+   "images/light_L3_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_07",
+  "image": [
+   "images/light_L3_07_A.png",
+   "images/light_L3_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_08",
+  "image": [
+   "images/light_L3_08_A.png",
+   "images/light_L3_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_09",
+  "image": [
+   "images/light_L3_09_A.png",
+   "images/light_L3_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_10",
+  "image": [
+   "images/light_L3_10_A.png",
+   "images/light_L3_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_11",
+  "image": [
+   "images/light_L3_11_A.png",
+   "images/light_L3_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_12",
+  "image": [
+   "images/light_L3_12_A.png",
+   "images/light_L3_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_13",
+  "image": [
+   "images/light_L3_13_A.png",
+   "images/light_L3_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_14",
+  "image": [
+   "images/light_L3_14_A.png",
+   "images/light_L3_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_15",
+  "image": [
+   "images/light_L3_15_A.png",
+   "images/light_L3_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_16",
+  "image": [
+   "images/light_L3_16_A.png",
+   "images/light_L3_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_17",
+  "image": [
+   "images/light_L3_17_A.png",
+   "images/light_L3_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_18",
+  "image": [
+   "images/light_L3_18_A.png",
+   "images/light_L3_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_19",
+  "image": [
+   "images/light_L3_19_A.png",
+   "images/light_L3_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_20",
+  "image": [
+   "images/light_L3_20_A.png",
+   "images/light_L3_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_21",
+  "image": [
+   "images/light_L3_21_A.png",
+   "images/light_L3_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_22",
+  "image": [
+   "images/light_L3_22_A.png",
+   "images/light_L3_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_23",
+  "image": [
+   "images/light_L3_23_A.png",
+   "images/light_L3_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_24",
+  "image": [
+   "images/light_L3_24_A.png",
+   "images/light_L3_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_25",
+  "image": [
+   "images/light_L3_25_A.png",
+   "images/light_L3_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_26",
+  "image": [
+   "images/light_L3_26_A.png",
+   "images/light_L3_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_27",
+  "image": [
+   "images/light_L3_27_A.png",
+   "images/light_L3_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_28",
+  "image": [
+   "images/light_L3_28_A.png",
+   "images/light_L3_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "light_L3_29",
+  "image": [
+   "images/light_L3_29_A.png",
+   "images/light_L3_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_00",
+  "image": [
+   "images/same_00_A.png",
+   "images/same_00_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_01",
+  "image": [
+   "images/same_01_A.png",
+   "images/same_01_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_02",
+  "image": [
+   "images/same_02_A.png",
+   "images/same_02_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_03",
+  "image": [
+   "images/same_03_A.png",
+   "images/same_03_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_04",
+  "image": [
+   "images/same_04_A.png",
+   "images/same_04_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_05",
+  "image": [
+   "images/same_05_A.png",
+   "images/same_05_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_06",
+  "image": [
+   "images/same_06_A.png",
+   "images/same_06_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_07",
+  "image": [
+   "images/same_07_A.png",
+   "images/same_07_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_08",
+  "image": [
+   "images/same_08_A.png",
+   "images/same_08_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_09",
+  "image": [
+   "images/same_09_A.png",
+   "images/same_09_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_10",
+  "image": [
+   "images/same_10_A.png",
+   "images/same_10_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_11",
+  "image": [
+   "images/same_11_A.png",
+   "images/same_11_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_12",
+  "image": [
+   "images/same_12_A.png",
+   "images/same_12_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_13",
+  "image": [
+   "images/same_13_A.png",
+   "images/same_13_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Can you highlight the differences in these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_14",
+  "image": [
+   "images/same_14_A.png",
+   "images/same_14_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_15",
+  "image": [
+   "images/same_15_A.png",
+   "images/same_15_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_16",
+  "image": [
+   "images/same_16_A.png",
+   "images/same_16_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_17",
+  "image": [
+   "images/same_17_A.png",
+   "images/same_17_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_18",
+  "image": [
+   "images/same_18_A.png",
+   "images/same_18_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_19",
+  "image": [
+   "images/same_19_A.png",
+   "images/same_19_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_20",
+  "image": [
+   "images/same_20_A.png",
+   "images/same_20_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_21",
+  "image": [
+   "images/same_21_A.png",
+   "images/same_21_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_22",
+  "image": [
+   "images/same_22_A.png",
+   "images/same_22_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_23",
+  "image": [
+   "images/same_23_A.png",
+   "images/same_23_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_24",
+  "image": [
+   "images/same_24_A.png",
+   "images/same_24_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Explain the disparities between the first and second image.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_25",
+  "image": [
+   "images/same_25_A.png",
+   "images/same_25_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_26",
+  "image": [
+   "images/same_26_A.png",
+   "images/same_26_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_27",
+  "image": [
+   "images/same_27_A.png",
+   "images/same_27_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_28",
+  "image": [
+   "images/same_28_A.png",
+   "images/same_28_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "same_29",
+  "image": [
+   "images/same_29_A.png",
+   "images/same_29_B.png"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_00",
+  "image": [
+   "images/jpeg_00_A.png",
+   "images/jpeg_00_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_01",
+  "image": [
+   "images/jpeg_01_A.png",
+   "images/jpeg_01_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_02",
+  "image": [
+   "images/jpeg_02_A.png",
+   "images/jpeg_02_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_03",
+  "image": [
+   "images/jpeg_03_A.png",
+   "images/jpeg_03_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_04",
+  "image": [
+   "images/jpeg_04_A.png",
+   "images/jpeg_04_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_05",
+  "image": [
+   "images/jpeg_05_A.png",
+   "images/jpeg_05_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_06",
+  "image": [
+   "images/jpeg_06_A.png",
+   "images/jpeg_06_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_07",
+  "image": [
+   "images/jpeg_07_A.png",
+   "images/jpeg_07_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_08",
+  "image": [
+   "images/jpeg_08_A.png",
+   "images/jpeg_08_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_09",
+  "image": [
+   "images/jpeg_09_A.png",
+   "images/jpeg_09_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What's the difference between 2 images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_10",
+  "image": [
+   "images/jpeg_10_A.png",
+   "images/jpeg_10_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_11",
+  "image": [
+   "images/jpeg_11_A.png",
+   "images/jpeg_11_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_12",
+  "image": [
+   "images/jpeg_12_A.png",
+   "images/jpeg_12_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_13",
+  "image": [
+   "images/jpeg_13_A.png",
+   "images/jpeg_13_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_14",
+  "image": [
+   "images/jpeg_14_A.png",
+   "images/jpeg_14_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_15",
+  "image": [
+   "images/jpeg_15_A.png",
+   "images/jpeg_15_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_16",
+  "image": [
+   "images/jpeg_16_A.png",
+   "images/jpeg_16_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_17",
+  "image": [
+   "images/jpeg_17_A.png",
+   "images/jpeg_17_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_18",
+  "image": [
+   "images/jpeg_18_A.png",
+   "images/jpeg_18_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What distinguishes these two images?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_19",
+  "image": [
+   "images/jpeg_19_A.png",
+   "images/jpeg_19_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_20",
+  "image": [
+   "images/jpeg_20_A.png",
+   "images/jpeg_20_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_21",
+  "image": [
+   "images/jpeg_21_A.png",
+   "images/jpeg_21_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Describe the contrast between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_22",
+  "image": [
+   "images/jpeg_22_A.png",
+   "images/jpeg_22_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_23",
+  "image": [
+   "images/jpeg_23_A.png",
+   "images/jpeg_23_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_24",
+  "image": [
+   "images/jpeg_24_A.png",
+   "images/jpeg_24_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What modifications can be observed between these two pictures?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_25",
+  "image": [
+   "images/jpeg_25_A.png",
+   "images/jpeg_25_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Point out the variations between the two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_26",
+  "image": [
+   "images/jpeg_26_A.png",
+   "images/jpeg_26_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "What has changed from the first image to the second?  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_27",
+  "image": [
+   "images/jpeg_27_A.png",
+   "images/jpeg_27_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_28",
+  "image": [
+   "images/jpeg_28_A.png",
+   "images/jpeg_28_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the alterations between these two images.  <image><image>Difference:"
+   }
+  ]
+ },
+ {
+  "id": "jpeg_29",
+  "image": [
+   "images/jpeg_29_A.png",
+   "images/jpeg_29_B.jpg"
+  ],
+  "conversations": [
+   {
+    "from": "human",
+    "value": "Identify the transformations in the second image compared to the first.  <image><image>Difference:"
+   }
+  ]
+ }
+]

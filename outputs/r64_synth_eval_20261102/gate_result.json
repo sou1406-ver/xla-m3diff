@@ -1,0 +1,121 @@
+{
+  "n": 600,
+  "arms": {
+    "base": {
+      "camera_union": 28,
+      "CAM": 0,
+      "m_view": 28,
+      "camera_union_by_condition": {
+        "add": 5,
+        "remove": 7,
+        "color": 1,
+        "move": 6,
+        "size": 8,
+        "light": 1
+      }
+    },
+    "r64": {
+      "camera_union": 35,
+      "CAM": 33,
+      "m_view": 35,
+      "camera_union_by_condition": {
+        "add": 1,
+        "remove": 2,
+        "color": 1,
+        "move": 1,
+        "size": 1,
+        "light": 19,
+        "same": 4,
+        "jpeg": 6
+      }
+    }
+  },
+  "types": {
+    "add": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 86,
+        "correct_type_and_name_keyword": 59
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 90,
+        "correct_type_and_name_keyword": 71
+      },
+      "pass_type_retention": true
+    },
+    "remove": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 83,
+        "correct_type_and_name_keyword": 49
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 87,
+        "correct_type_and_name_keyword": 64
+      },
+      "pass_type_retention": true
+    },
+    "color": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 69,
+        "correct_type_and_name_keyword": 50
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 61,
+        "correct_type_and_name_keyword": 47
+      },
+      "pass_type_retention": false
+    },
+    "move": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 41,
+        "correct_type_and_name_keyword": 26
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 61,
+        "correct_type_and_name_keyword": 49
+      },
+      "pass_type_retention": true
+    },
+    "size": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 23,
+        "correct_type_and_name_keyword": 14
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 60,
+        "correct_type_and_name_keyword": 50
+      },
+      "pass_type_retention": true
+    },
+    "light": {
+      "base": {
+        "n": 90,
+        "correct_type_keyword": 60,
+        "correct_type_and_name_keyword": 0
+      },
+      "r64": {
+        "n": 90,
+        "correct_type_keyword": 63,
+        "correct_type_and_name_keyword": 0
+      },
+      "pass_type_retention": true
+    }
+  },
+  "gates": {
+    "camera_union_le_30": false,
+    "all_six_types_preserved": false,
+    "passed": false
+  },
+  "full_omnidiff_run": false,
+  "gate_is_keyword_proxy": true,
+  "decision": "Failed locked gate. Stop and do not run full test."
+}

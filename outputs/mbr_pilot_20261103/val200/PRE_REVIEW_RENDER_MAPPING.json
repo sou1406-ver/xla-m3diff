@@ -1,0 +1,102 @@
+[
+  {
+    "id": "render_val_pair_000214",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000368",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000679",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000340",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000520",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000284",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000594",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000108",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000090",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000562",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000487",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000534",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000616",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000693",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000689",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000529",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000760",
+    "A": "MBR",
+    "B": "greedy"
+  },
+  {
+    "id": "render_val_pair_000585",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000085",
+    "A": "greedy",
+    "B": "MBR"
+  },
+  {
+    "id": "render_val_pair_000558",
+    "A": "MBR",
+    "B": "greedy"
+  }
+]

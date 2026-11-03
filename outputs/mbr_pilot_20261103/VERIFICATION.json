@@ -1,0 +1,15 @@
+{
+  "utc": "2026-11-03T00:22:05.639196+00:00",
+  "val_gate_pass": true,
+  "masked_review_seals_verified": true,
+  "full1570": {
+    "human_only_questions": 1570,
+    "id_domain_only_metadata": true,
+    "sampling_clean_timing_AST_unchanged": true,
+    "syntax_valid": true,
+    "GPU_not_run": true,
+    "admission_absent": true
+  },
+  "all_apps_stopped": true,
+  "no_live_containers": true
+}

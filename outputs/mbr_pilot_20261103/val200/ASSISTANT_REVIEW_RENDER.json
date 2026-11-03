@@ -1,0 +1,156 @@
+{
+  "unmasked_utc": "2026-11-02T22:07:46.643922+00:00",
+  "seal_sha256": "03d5b3ccc4169fe721d12c56b72dd92c1f0484ea58cd0a4945900a70351c7d79",
+  "sealed_git_commit": "7ffe488",
+  "rater": "Codex assistant;not independent human annotation",
+  "procedure": "A/B caption names masked;model mapping not opened before sealing. Aggregate val scores already known;no per-pair metrics/reference captions displayed. Same material factual/coverage preference rule as Real review.",
+  "counts": {
+    "uncertain": 3,
+    "similar": 7,
+    "MBR_better": 6,
+    "greedy_better": 4
+  },
+  "rows": [
+    {
+      "id": "render_val_pair_000214",
+      "preference": "uncertain",
+      "confidence": "low",
+      "notes": "Both capture new blue word on shutter. Hazard sign remains visible on barrel,with another small sign/marker near ladder possibly changing; exact targeted sign/size versus removal is unclear at displayed resolution.",
+      "result": "uncertain"
+    },
+    {
+      "id": "render_val_pair_000368",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both capture table moved toward back/right and new red chair/sofa foreground. A has doubtful before left-of-sofa wording;B has doubtful new-sofa near-left-door placement. Main events retained by both;no clear overall winner.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000679",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Both correctly identify the added blue Pub lettering at the same wall location; paraphrase only.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000340",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both identify brighter lighting and added potted plant beside the furniture; small location wording differences do not change material coverage.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000520",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Both correctly describe the reduced illumination; equivalent content.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000284",
+      "preference": "B_better",
+      "confidence": "medium",
+      "notes": "Both identify added man and moved slab. B correctly says the man faces screen right; A says left. Fine leg/hand details are hard to verify.",
+      "result": "MBR_better"
+    },
+    {
+      "id": "render_val_pair_000594",
+      "preference": "B_better",
+      "confidence": "medium",
+      "notes": "Both capture added person and blue word. B avoids A unsupported hanging-chairs location;both omit the additional pendant lamp visible in the after image.",
+      "result": "greedy_better"
+    },
+    {
+      "id": "render_val_pair_000108",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Both capture added Cowp sign and chair color change. B adds a ceiling lampshade disappearance although the center hanging fixture remains visible;A avoids that unsupported event.",
+      "result": "greedy_better"
+    },
+    {
+      "id": "render_val_pair_000090",
+      "preference": "A_better",
+      "confidence": "high",
+      "notes": "Both capture added blue Camp sign. A places it right of the framed decoration,which matches the image;B incorrectly puts it above a picture frame.",
+      "result": "MBR_better"
+    },
+    {
+      "id": "render_val_pair_000562",
+      "preference": "uncertain",
+      "confidence": "low",
+      "notes": "Both capture removed person/word and changed high chair. A says two cushions shrank;B says right cushion disappeared. Cushion geometry is hard to distinguish from removal at this resolution,so no confident overall preference.",
+      "result": "uncertain"
+    },
+    {
+      "id": "render_val_pair_000487",
+      "preference": "uncertain",
+      "confidence": "low",
+      "notes": "Both correctly capture new stool and TV. Both add questionable small decoration/cup/blanket events;fine shelf details are not clear enough for a reliable overall preference.",
+      "result": "uncertain"
+    },
+    {
+      "id": "render_val_pair_000534",
+      "preference": "A_better",
+      "confidence": "high",
+      "notes": "A captures the visible new black-white patterned cushion on left sofa. B claims an unsupported cushion relocation and right armchair shrink;both mention brightness which is subtle.",
+      "result": "MBR_better"
+    },
+    {
+      "id": "render_val_pair_000616",
+      "preference": "A_better",
+      "confidence": "high",
+      "notes": "Both capture added coffee machine. The large green plant is still visible toward the left,so A relocation description is preferable to B claim that it is absent.",
+      "result": "greedy_better"
+    },
+    {
+      "id": "render_val_pair_000693",
+      "preference": "similar",
+      "confidence": "high",
+      "notes": "Both correctly capture added suited person and removed Service Hall text;equivalent material coverage.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000689",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both correctly describe thermos removal and added suited person;minor facing-direction phrasing does not establish a material overall difference.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000529",
+      "preference": "B_better",
+      "confidence": "medium",
+      "notes": "Both identify new deer ornament but add questionable small-object claims. A additionally invents a bear and removal of a black sculpture;B has fewer plainly unsupported events,though it is not fully correct.",
+      "result": "MBR_better"
+    },
+    {
+      "id": "render_val_pair_000760",
+      "preference": "A_better",
+      "confidence": "high",
+      "notes": "Both capture added thermos and removed second picture. B additionally claims air-conditioner relocation,although it remains at the same upper wall position;A avoids this false event.",
+      "result": "MBR_better"
+    },
+    {
+      "id": "render_val_pair_000585",
+      "preference": "similar",
+      "confidence": "medium",
+      "notes": "Both capture plant growth and describe a pendant change. Their orientation words differ but the lamp also visibly changes position;neither direction description is clear enough for a confident preference.",
+      "result": "similar"
+    },
+    {
+      "id": "render_val_pair_000085",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Both capture chair turning away. A describes rug reduction,consistent with smaller visible rug remaining under the coffee table;B incorrectly says complete disappearance.",
+      "result": "greedy_better"
+    },
+    {
+      "id": "render_val_pair_000558",
+      "preference": "A_better",
+      "confidence": "medium",
+      "notes": "Both capture repose-to-repase text change and man turning. A places his new facing direction toward back door,matching visible back-facing pose;B says facing left sofa in foreground.",
+      "result": "MBR_better"
+    }
+  ],
+  "limits": "Only20 changed Render pairs,not independent scenes,not human gold labels and not population factual error rates."
+}

@@ -1,6 +1,6 @@
 {
   "period_start": "2026-11-01",
-  "authorization": "User authorized new MBR pilot only; v2 remains closed.20pair benchmark <=1USD; val cap pending throughput.",
+  "authorization": "User approved staged MBR pilot;20pair comparison,one fixed val200,qualitative review. Full1570 not yet budget-admitted. No training.",
   "initial_consumption": "8.10481579",
   "jobs": [
     {
@@ -16,7 +16,15 @@
       "reservation": "3.49",
       "rate": "1.70",
       "seconds": 7200,
-      "profile": "a10"
+      "profile": "a10",
+      "settled": "1.93",
+      "settlement_kind": "Conservative bound including180s startup;not invoice"
+    },
+    {
+      "label": "MBR_val200_CPU_misc_A100audit",
+      "reservation": ".70",
+      "settled": ".62",
+      "settlement_kind": "CPU/misc .10 plus A100 upper .52 including180startup;not invoice"
     }
   ]
 }

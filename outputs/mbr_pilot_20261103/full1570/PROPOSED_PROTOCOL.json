@@ -1,0 +1,37 @@
+{
+  "status": "PREPARED_NOT_ADMITTED_NOT_LAUNCHED",
+  "counts": {
+    "Real": 803,
+    "Render": 767
+  },
+  "source_file_hashes": {
+    "OmniDiff_Real_test.json": "18121da4442bdb35647f4b4c3bb792c7a127f60c19d39226d844bc08f53ba4bf",
+    "OmniDiff_Real.json": "54b401bb3c544db457754eabf90bd67aa2910ab071f64c513cf2b9a14e88735d",
+    "OmniDiff_Render_test.json": "3d024e0fe0a99b0a4099f0bf147f4546058ee56b92f31a8f0504c3a3e4b0ab31",
+    "OmniDiff_Render.json": "a1442b55fb6f059ec7e50f34a338e6468b820266c161848ab5a065ae54ebba45"
+  },
+  "sampling_protocol_sha256": "ccb82c650d4401cc433788aa2233dc63ad2e3c0b666de9e84299549b8c6c2cf2",
+  "questions_sha256": "f4de6cd9c33f8ad54a97ce13e99b16963ad927aa78c9e002b8a9a4bc0a457272",
+  "generator_sha256": "4527688827b619193b2672f0581ef94076d21450d3703e78ac35db78db3d7020",
+  "runner_sha256": "3c0c110586df495b27c22c9948f7ca7d8835224d0ec20d6485e70c038ca3a3cd",
+  "notebook_sha256": "4e6bfa1bd80cc01ce3de6bb5817daa0fbc80da04cfc34d420d2e8344fdcd47e6",
+  "scorer_sha256": "11a02761442601a25d1b4b9962d582abb00aef7c95369534befb5fe0e1e1b2f5",
+  "scorer_runner_sha256": "48446cfd88e257a065e7238a0afe7cf1eba276721b459dfbfff49e63c0eb66cd",
+  "same_config_as_val200": true,
+  "effective_sample_batch_size": 2,
+  "same_gpu_session_fresh_greedy_and_samples": true,
+  "train_idf_only_selection": true,
+  "no_training": true,
+  "oracle_on_full_test": false,
+  "hardware_selection": "cost and parity only; A100 candidates not scored against references",
+  "hard_timeout_seconds": 19200,
+  "soft_timeout_seconds": 18900,
+  "proposed_cap_usd": 18,
+  "gpu_rate_upper_hour": "3.24",
+  "gpu_reservation_including180startup_usd": "17.45",
+  "cpu_scoring_and_misc_allowance_usd": ".25",
+  "total_proposed_reservation_usd": "17.70",
+  "stop": "No automatic retry/resume; partial run is not a completed benchmark.",
+  "promotion": "Base remains default until full paired evidence and factual review support a change.",
+  "limitation": "Historically exposed benchmark; not claimed to be an untouched blind test."
+}

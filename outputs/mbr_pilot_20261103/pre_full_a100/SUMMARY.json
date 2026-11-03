@@ -1,0 +1,10 @@
+{
+  "n": 18,
+  "canonical_equal": 18,
+  "pixels_equal": 18,
+  "A100_work_seconds": 260.65744527500004,
+  "A10_same_pairs_work_seconds": 516.3600421940007,
+  "speed_ratio": 1.9809909578804783,
+  "cost_ratio_A100_to_A10": 0.9620853368156397,
+  "canonical_extra_seconds": 63.634201912000094
+}

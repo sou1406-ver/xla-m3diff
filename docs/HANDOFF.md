@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**Theo dõi20:30:** [monitor plan](../outputs/mbr_pilot_20261103/resume1020_v1/MONITOR_PLAN.md),heartbeatmộtlầnđãtạo. Userchophépnớideadlinecóđiềukiệntrướcchấm nếuETAkhôngkịp vàtổngcontinuation<=11USD;cầncommitrevisiontrướcápdụng. Hiệnchưanới,currentdeadline21:49:57. ChỉsửaSTATEkhôngđổitimerlive;cầnhandoffcheckpointcókiểmsoátnếucần.18:58log67cặpmới,chưaRenderthựctế.
+
 **LIVE resume03/11:** [app tiếp1020cặp](https://modal.com/apps/sou1406-ver/main/ap-2LLzTT9FpCW7OGxuFpawMc)đangchạy,A10080GB;đãquaReal551. [Protocol/README](../outputs/mbr_pilot_20261103/resume1020_v1/README.md). Usercap11USD,upper10,95. Quyếtđịnh5845554vàrunner07049dd trướcchấm550. Old550giữnguyên;resumeatomic/mốcchung21:49:57GMT+7khôngreset. Chỉchấmđủ1570 vàkhai báo nhiều phiên. Khôngtrain/tune. Các trạngthái noresume/GPUoff phía dưới là lịch sử bị userủyquyềnmới thay thế.
 
 **Quyếtđịnh mới user03/11:** [tiếp1020cặp,trần11USD](../outputs/mbr_pilot_20261103/resume1020_v1/README.md),cho phép resume theo protocol khóa trước,chưa chấm550cặp. Đây là ủy quyền mới thay no-resume cũ,chưa launch lúccommit. Giữ550rawbytes;253Real+767Rendercòn lại,cùngseed/config/selector;khai báo nhiều phiên,khôngclaimonesession. Upper10,95USD,mốcGPUchung11220s khôngreset,CPUchấm khiđủ1570.

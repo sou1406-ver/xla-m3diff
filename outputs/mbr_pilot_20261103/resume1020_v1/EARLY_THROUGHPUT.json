@@ -1,0 +1,15 @@
+{
+  "checked_utc": "2026-11-03T11:58:26.175100+00:00",
+  "n_points": 67,
+  "new_saved_last_log": 67,
+  "real_interpair_mean_seconds": 12.16491036342852,
+  "real_interpair_median_seconds": 12.44632613658905,
+  "real_recent20_mean_seconds": 15.52311178445816,
+  "remaining_real": 186,
+  "remaining_render": 767,
+  "render_actual_measured": false,
+  "illustrative_remaining_s_if_render8pct_slower": 12339.598476247356,
+  "note": "Early real-only scenario,not a reliable Render benchmark;wordlength does not uniquely predict sampling runtime. No quality metric read.",
+  "automation_id": "ki-m-tra-mbr-l-c-20-30",
+  "followup_local": "2026-11-03T20:30:00+07:00"
+}

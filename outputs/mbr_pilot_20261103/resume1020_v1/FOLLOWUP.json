@@ -1,0 +1,10 @@
+{
+  "automation_id": "ki-m-tra-mbr-l-c-20-30",
+  "scheduled_local": "2026-11-03T20:30:00+07:00",
+  "one_time": true,
+  "status": "ACTIVE",
+  "user_authorized_conditional_deadline_extension": true,
+  "cap_total_continuation_usd": 11,
+  "do_not_use_quality_scores_for_runtime_decision": true,
+  "current_deadline_unmodified": true
+}

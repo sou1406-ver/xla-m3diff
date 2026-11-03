@@ -1,0 +1,37 @@
+{
+  "verified_utc": "2026-11-03T11:19:02.412392+00:00",
+  "status": "STOP_ERROR_NO_RETRY",
+  "complete_full_benchmark": false,
+  "planned": 1570,
+  "saved_pairs": 550,
+  "saved_domains": {
+    "real": 550
+  },
+  "planned_domains": {
+    "real": 803,
+    "render": 767
+  },
+  "next_unsaved_id": "real_test_pair_000551",
+  "all_records_have_greedy_and8samples": true,
+  "IDs_exact_original_prefix": true,
+  "missing_outputs": [
+    "FULL_DONE.json",
+    "METRICS.json",
+    "PER_PAIR.json",
+    "SELECTION.json"
+  ],
+  "provider_log_confirms_preemption": true,
+  "provider_restart_blocked_by_attempt_guard": true,
+  "inference_not_resumed": true,
+  "CPU_scoring_not_run": true,
+  "pipeline_finished_utc": "2026-11-03T02:04:14.442671+00:00",
+  "pipeline_wall_seconds": 5731.46865940094,
+  "GPU_function_wall_seconds": 5711.371304035187,
+  "provider_reported_app_cost_usd": "4.70657624",
+  "completed_runtime_conservative_upper_usd": "5.39",
+  "budget_cap_usd": 18,
+  "raw_sha256": "9c2d55ad4d4cf6cb556255340c2cf2f7894d838d4eec7cf4f7d21089e4aa47fe",
+  "raw_bytes": 1895499,
+  "all_apps_stopped": true,
+  "no_live_containers": true
+}

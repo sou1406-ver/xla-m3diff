@@ -1,0 +1,48 @@
+{
+  "queried_utc": "2026-11-03T08:31:36.826226+00:00",
+  "app_id": "ap-6kENLEhpd83ypqw6H1aAC8",
+  "source": "Modal Workspace.billing.report, hourly complete intervals",
+  "items": [
+    {
+      "object_id": "ap-6kENLEhpd83ypqw6H1aAC8",
+      "description": "m3diff-mbr-full1570",
+      "environment_name": "main",
+      "interval_start": "2026-11-03T00:00:00+00:00",
+      "cost": "1.54808402",
+      "cost_by_resource": {
+        "Network Egress": "0.00012310",
+        "Memory": "0.13592169",
+        "CPU": "0.10509475",
+        "A100-80GB": "1.30694448"
+      }
+    },
+    {
+      "object_id": "ap-6kENLEhpd83ypqw6H1aAC8",
+      "description": "m3diff-mbr-full1570",
+      "environment_name": "main",
+      "interval_start": "2026-11-03T01:00:00+00:00",
+      "cost": "2.96102875",
+      "cost_by_resource": {
+        "Network Egress": "0.00000346",
+        "Memory": "0.26000003",
+        "CPU": "0.20102502",
+        "A100-80GB": "2.50000025"
+      }
+    },
+    {
+      "object_id": "ap-6kENLEhpd83ypqw6H1aAC8",
+      "description": "m3diff-mbr-full1570",
+      "environment_name": "main",
+      "interval_start": "2026-11-03T02:00:00+00:00",
+      "cost": "0.19746347",
+      "cost_by_resource": {
+        "Network Egress": "3.0E-7",
+        "Memory": "0.01734888",
+        "CPU": "0.01344765",
+        "A100-80GB": "0.16666664"
+      }
+    }
+  ],
+  "app_metered_cost_usd": "4.70657624",
+  "note": "Provider-reported app usage;not final invoice;may be reconciled."
+}

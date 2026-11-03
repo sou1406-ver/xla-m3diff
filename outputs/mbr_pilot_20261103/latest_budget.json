@@ -1,29 +1,29 @@
 {
-  "time_utc": "2026-11-03T00:25:12.582313+00:00",
+  "time_utc": "2026-11-03T11:19:13.939467+00:00",
   "billing": {
     "start_timestamp": "2026-11-01T00:00:00Z",
     "end_timestamp": "2026-12-01T00:00:00Z",
-    "metered_cost": "10.62217960",
+    "metered_cost": "15.33230645",
     "billed_cost": "0.00000000",
     "metered_cost_breakdown": {
-      "Network Egress": "0.02217960",
+      "Network Egress": "0.02230645",
       "LLM Tokens": "0.00000000",
-      "Ephemeral Apps": "10.59867430",
+      "Ephemeral Apps": "15.30512369",
       "Volumes": "0.00000000"
     },
     "adjustments": {
-      "Credits": "-10.60000000",
+      "Credits": "-15.31000000",
       "Free Storage": "-0.00000000",
-      "Network Egress Allowance": "-0.02217960",
+      "Network Egress Allowance": "-0.02230645",
       "Plan Cost": "0.00000000",
       "Reservation Adjustment": "-0.00000000"
     }
   },
-  "api_consumption": "10.60000000",
-  "local_upper": "11.42481579",
-  "remaining_guarded": "18.07518421",
-  "profile": "a10",
-  "rate_upper_hour": "1.70",
+  "api_consumption": "15.31000000",
+  "local_upper": "16.81481579",
+  "remaining_guarded": "12.68518421",
+  "profile": "cpu",
+  "rate_upper_hour": "0.28",
   "reservation": "0",
   "fits": true
 }

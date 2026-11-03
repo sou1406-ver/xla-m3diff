@@ -1,0 +1,244 @@
+2026-11-03 08:48:29+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 437, "planned": 1570, "last_id": "real_test_pair_000437", "elapsed_seconds": 4716.186266183853, "batch_size": 2}
+2026-11-03 08:48:35+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 438, "planned": 1570, "last_id": "real_test_pair_000438", "elapsed_seconds": 4721.891508579254, "batch_size": 2}
+2026-11-03 08:48:40+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 439, "planned": 1570, "last_id": "real_test_pair_000439", "elapsed_seconds": 4726.925104379654, "batch_size": 2}
+2026-11-03 08:48:49+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 440, "planned": 1570, "last_id": "real_test_pair_000440", "elapsed_seconds": 4736.117835283279, "batch_size": 2}
+2026-11-03 08:48:57+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 441, "planned": 1570, "last_id": "real_test_pair_000441", "elapsed_seconds": 4743.811084270477, "batch_size": 2}
+2026-11-03 08:48:57+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 441, "planned": 1570, "last_id": "real_test_pair_000441", "elapsed_seconds": 4743.811084270477, "batch_size": 2}
+2026-11-03 08:49:02+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 442, "planned": 1570, "last_id": "real_test_pair_000442", "elapsed_seconds": 4749.582936048508, "batch_size": 2}
+2026-11-03 08:49:14+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 443, "planned": 1570, "last_id": "real_test_pair_000443", "elapsed_seconds": 4760.90261721611, "batch_size": 2}
+2026-11-03 08:49:24+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 444, "planned": 1570, "last_id": "real_test_pair_000444", "elapsed_seconds": 4770.959443807602, "batch_size": 2}
+2026-11-03 08:49:30+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 445, "planned": 1570, "last_id": "real_test_pair_000445", "elapsed_seconds": 4777.3406894207, "batch_size": 2}
+2026-11-03 08:49:31+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 445, "planned": 1570, "last_id": "real_test_pair_000445", "elapsed_seconds": 4777.3406894207, "batch_size": 2}
+2026-11-03 08:49:40+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 446, "planned": 1570, "last_id": "real_test_pair_000446", "elapsed_seconds": 4787.546514749527, "batch_size": 2}
+2026-11-03 08:49:47+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 447, "planned": 1570, "last_id": "real_test_pair_000447", "elapsed_seconds": 4794.587904930115, "batch_size": 2}
+2026-11-03 08:49:54+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 448, "planned": 1570, "last_id": "real_test_pair_000448", "elapsed_seconds": 4801.4692924022675, "batch_size": 2}
+2026-11-03 08:50:04+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 448, "planned": 1570, "last_id": "real_test_pair_000448", "elapsed_seconds": 4801.4692924022675, "batch_size": 2}
+2026-11-03 08:50:05+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 449, "planned": 1570, "last_id": "real_test_pair_000449", "elapsed_seconds": 4812.346832036972, "batch_size": 2}
+2026-11-03 08:50:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 450, "planned": 1570, "last_id": "real_test_pair_000450", "elapsed_seconds": 4823.547194480896, "batch_size": 2}
+2026-11-03 08:50:27+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 451, "planned": 1570, "last_id": "real_test_pair_000451", "elapsed_seconds": 4834.140352010727, "batch_size": 2}
+2026-11-03 08:50:37+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 452, "planned": 1570, "last_id": "real_test_pair_000452", "elapsed_seconds": 4844.0406992435455, "batch_size": 2}
+2026-11-03 08:50:42+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 452, "planned": 1570, "last_id": "real_test_pair_000452", "elapsed_seconds": 4844.0406992435455, "batch_size": 2}
+2026-11-03 08:50:47+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 453, "planned": 1570, "last_id": "real_test_pair_000453", "elapsed_seconds": 4853.718032360077, "batch_size": 2}
+2026-11-03 08:50:58+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 454, "planned": 1570, "last_id": "real_test_pair_000454", "elapsed_seconds": 4864.958610296249, "batch_size": 2}
+2026-11-03 08:51:10+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 455, "planned": 1570, "last_id": "real_test_pair_000455", "elapsed_seconds": 4876.738307714462, "batch_size": 2}
+2026-11-03 08:51:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 455, "planned": 1570, "last_id": "real_test_pair_000455", "elapsed_seconds": 4876.738307714462, "batch_size": 2}
+2026-11-03 08:51:21+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 456, "planned": 1570, "last_id": "real_test_pair_000456", "elapsed_seconds": 4887.922888278961, "batch_size": 2}
+2026-11-03 08:51:31+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 457, "planned": 1570, "last_id": "real_test_pair_000457", "elapsed_seconds": 4898.381388425827, "batch_size": 2}
+2026-11-03 08:51:39+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 458, "planned": 1570, "last_id": "real_test_pair_000458", "elapsed_seconds": 4906.474785327911, "batch_size": 2}
+2026-11-03 08:51:49+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 458, "planned": 1570, "last_id": "real_test_pair_000458", "elapsed_seconds": 4906.474785327911, "batch_size": 2}
+2026-11-03 08:51:50+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 459, "planned": 1570, "last_id": "real_test_pair_000459", "elapsed_seconds": 4916.825158119202, "batch_size": 2}
+2026-11-03 08:52:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 460, "planned": 1570, "last_id": "real_test_pair_000460", "elapsed_seconds": 4927.365711688995, "batch_size": 2}
+2026-11-03 08:52:09+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 461, "planned": 1570, "last_id": "real_test_pair_000461", "elapsed_seconds": 4936.481792211533, "batch_size": 2}
+2026-11-03 08:52:18+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 462, "planned": 1570, "last_id": "real_test_pair_000462", "elapsed_seconds": 4945.483398914337, "batch_size": 2}
+2026-11-03 08:52:19+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 462, "planned": 1570, "last_id": "real_test_pair_000462", "elapsed_seconds": 4945.483398914337, "batch_size": 2}
+2026-11-03 08:52:30+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 463, "planned": 1570, "last_id": "real_test_pair_000463", "elapsed_seconds": 4956.946611881256, "batch_size": 2}
+2026-11-03 08:52:41+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 464, "planned": 1570, "last_id": "real_test_pair_000464", "elapsed_seconds": 4968.301867485046, "batch_size": 2}
+2026-11-03 08:52:51+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 465, "planned": 1570, "last_id": "real_test_pair_000465", "elapsed_seconds": 4978.622840166092, "batch_size": 2}
+2026-11-03 08:52:53+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 465, "planned": 1570, "last_id": "real_test_pair_000465", "elapsed_seconds": 4978.622840166092, "batch_size": 2}
+2026-11-03 08:53:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 466, "planned": 1570, "last_id": "real_test_pair_000466", "elapsed_seconds": 4987.105120182037, "batch_size": 2}
+2026-11-03 08:53:08+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 467, "planned": 1570, "last_id": "real_test_pair_000467", "elapsed_seconds": 4994.814785003662, "batch_size": 2}
+2026-11-03 08:53:15+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 468, "planned": 1570, "last_id": "real_test_pair_000468", "elapsed_seconds": 5001.9401433467865, "batch_size": 2}
+2026-11-03 08:53:23+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 469, "planned": 1570, "last_id": "real_test_pair_000469", "elapsed_seconds": 5010.183543920517, "batch_size": 2}
+2026-11-03 08:53:27+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 469, "planned": 1570, "last_id": "real_test_pair_000469", "elapsed_seconds": 5010.183543920517, "batch_size": 2}
+2026-11-03 08:53:32+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 470, "planned": 1570, "last_id": "real_test_pair_000470", "elapsed_seconds": 5018.687346935272, "batch_size": 2}
+2026-11-03 08:53:40+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 471, "planned": 1570, "last_id": "real_test_pair_000471", "elapsed_seconds": 5026.744292497635, "batch_size": 2}
+2026-11-03 08:53:49+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 472, "planned": 1570, "last_id": "real_test_pair_000472", "elapsed_seconds": 5035.775822162628, "batch_size": 2}
+2026-11-03 08:53:57+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 473, "planned": 1570, "last_id": "real_test_pair_000473", "elapsed_seconds": 5044.610302209854, "batch_size": 2}
+2026-11-03 08:54:02+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 473, "planned": 1570, "last_id": "real_test_pair_000473", "elapsed_seconds": 5044.610302209854, "batch_size": 2}
+2026-11-03 08:54:06+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 474, "planned": 1570, "last_id": "real_test_pair_000474", "elapsed_seconds": 5053.471241474152, "batch_size": 2}
+2026-11-03 08:54:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 475, "planned": 1570, "last_id": "real_test_pair_000475", "elapsed_seconds": 5063.284605026245, "batch_size": 2}
+2026-11-03 08:54:26+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 476, "planned": 1570, "last_id": "real_test_pair_000476", "elapsed_seconds": 5072.817197561264, "batch_size": 2}
+2026-11-03 08:54:36+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 476, "planned": 1570, "last_id": "real_test_pair_000476", "elapsed_seconds": 5072.817197561264, "batch_size": 2}
+2026-11-03 08:54:36+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 477, "planned": 1570, "last_id": "real_test_pair_000477", "elapsed_seconds": 5083.274269580841, "batch_size": 2}
+2026-11-03 08:54:46+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 478, "planned": 1570, "last_id": "real_test_pair_000478", "elapsed_seconds": 5092.749470710754, "batch_size": 2}
+2026-11-03 08:54:54+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 479, "planned": 1570, "last_id": "real_test_pair_000479", "elapsed_seconds": 5101.422862529755, "batch_size": 2}
+2026-11-03 08:55:01+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 480, "planned": 1570, "last_id": "real_test_pair_000480", "elapsed_seconds": 5108.162300348282, "batch_size": 2}
+2026-11-03 08:55:06+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 480, "planned": 1570, "last_id": "real_test_pair_000480", "elapsed_seconds": 5108.162300348282, "batch_size": 2}
+2026-11-03 08:55:11+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 481, "planned": 1570, "last_id": "real_test_pair_000481", "elapsed_seconds": 5117.641349554062, "batch_size": 2}
+2026-11-03 08:55:19+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 482, "planned": 1570, "last_id": "real_test_pair_000482", "elapsed_seconds": 5126.214374542236, "batch_size": 2}
+2026-11-03 08:55:28+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 483, "planned": 1570, "last_id": "real_test_pair_000483", "elapsed_seconds": 5134.786464214325, "batch_size": 2}
+2026-11-03 08:55:36+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 484, "planned": 1570, "last_id": "real_test_pair_000484", "elapsed_seconds": 5143.561568021774, "batch_size": 2}
+2026-11-03 08:55:40+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 484, "planned": 1570, "last_id": "real_test_pair_000484", "elapsed_seconds": 5143.561568021774, "batch_size": 2}
+2026-11-03 08:55:46+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 485, "planned": 1570, "last_id": "real_test_pair_000485", "elapsed_seconds": 5153.070353507996, "batch_size": 2}
+2026-11-03 08:55:55+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 486, "planned": 1570, "last_id": "real_test_pair_000486", "elapsed_seconds": 5162.266225099564, "batch_size": 2}
+2026-11-03 08:56:05+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 487, "planned": 1570, "last_id": "real_test_pair_000487", "elapsed_seconds": 5172.538261651993, "batch_size": 2}
+2026-11-03 08:56:15+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 488, "planned": 1570, "last_id": "real_test_pair_000488", "elapsed_seconds": 5181.658715963364, "batch_size": 2}
+2026-11-03 08:56:15+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 488, "planned": 1570, "last_id": "real_test_pair_000488", "elapsed_seconds": 5181.658715963364, "batch_size": 2}
+2026-11-03 08:56:22+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 489, "planned": 1570, "last_id": "real_test_pair_000489", "elapsed_seconds": 5189.230020523071, "batch_size": 2}
+2026-11-03 08:56:29+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 490, "planned": 1570, "last_id": "real_test_pair_000490", "elapsed_seconds": 5196.03204536438, "batch_size": 2}
+2026-11-03 08:56:41+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 491, "planned": 1570, "last_id": "real_test_pair_000491", "elapsed_seconds": 5207.73245382309, "batch_size": 2}
+2026-11-03 08:56:50+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 491, "planned": 1570, "last_id": "real_test_pair_000491", "elapsed_seconds": 5207.73245382309, "batch_size": 2}
+2026-11-03 08:56:51+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 492, "planned": 1570, "last_id": "real_test_pair_000492", "elapsed_seconds": 5218.23030257225, "batch_size": 2}
+2026-11-03 08:57:01+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 493, "planned": 1570, "last_id": "real_test_pair_000493", "elapsed_seconds": 5228.2865879535675, "batch_size": 2}
+2026-11-03 08:57:05+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 494, "planned": 1570, "last_id": "real_test_pair_000494", "elapsed_seconds": 5232.56702709198, "batch_size": 2}
+2026-11-03 08:57:12+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 495, "planned": 1570, "last_id": "real_test_pair_000495", "elapsed_seconds": 5239.072207689285, "batch_size": 2}
+2026-11-03 08:57:18+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 496, "planned": 1570, "last_id": "real_test_pair_000496", "elapsed_seconds": 5245.204275846481, "batch_size": 2}
+2026-11-03 08:57:20+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 496, "planned": 1570, "last_id": "real_test_pair_000496", "elapsed_seconds": 5245.204275846481, "batch_size": 2}
+2026-11-03 08:57:28+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 497, "planned": 1570, "last_id": "real_test_pair_000497", "elapsed_seconds": 5255.342343568802, "batch_size": 2}
+2026-11-03 08:57:35+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 498, "planned": 1570, "last_id": "real_test_pair_000498", "elapsed_seconds": 5262.582520008087, "batch_size": 2}
+2026-11-03 08:57:42+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 499, "planned": 1570, "last_id": "real_test_pair_000499", "elapsed_seconds": 5269.2187485694885, "batch_size": 2}
+2026-11-03 08:57:48+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 500, "planned": 1570, "last_id": "real_test_pair_000500", "elapsed_seconds": 5275.009260416031, "batch_size": 2}
+2026-11-03 08:57:54+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 500, "planned": 1570, "last_id": "real_test_pair_000500", "elapsed_seconds": 5275.009260416031, "batch_size": 2}
+2026-11-03 08:57:56+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 501, "planned": 1570, "last_id": "real_test_pair_000501", "elapsed_seconds": 5283.631449699402, "batch_size": 2}
+2026-11-03 08:58:05+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 502, "planned": 1570, "last_id": "real_test_pair_000502", "elapsed_seconds": 5292.264654874802, "batch_size": 2}
+2026-11-03 08:58:10+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 503, "planned": 1570, "last_id": "real_test_pair_000503", "elapsed_seconds": 5297.240989685059, "batch_size": 2}
+2026-11-03 08:58:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 504, "planned": 1570, "last_id": "real_test_pair_000504", "elapsed_seconds": 5303.144078493118, "batch_size": 2}
+2026-11-03 08:58:24+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 505, "planned": 1570, "last_id": "real_test_pair_000505", "elapsed_seconds": 5310.916517734528, "batch_size": 2}
+2026-11-03 08:58:25+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 505, "planned": 1570, "last_id": "real_test_pair_000505", "elapsed_seconds": 5310.916517734528, "batch_size": 2}
+2026-11-03 08:58:30+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 506, "planned": 1570, "last_id": "real_test_pair_000506", "elapsed_seconds": 5317.438155174255, "batch_size": 2}
+2026-11-03 08:58:36+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 507, "planned": 1570, "last_id": "real_test_pair_000507", "elapsed_seconds": 5323.098616838455, "batch_size": 2}
+2026-11-03 08:58:41+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 508, "planned": 1570, "last_id": "real_test_pair_000508", "elapsed_seconds": 5327.719859600067, "batch_size": 2}
+2026-11-03 08:58:46+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 509, "planned": 1570, "last_id": "real_test_pair_000509", "elapsed_seconds": 5333.633453845978, "batch_size": 2}
+2026-11-03 08:58:56+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 510, "planned": 1570, "last_id": "real_test_pair_000510", "elapsed_seconds": 5343.495038986206, "batch_size": 2}
+2026-11-03 08:58:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 510, "planned": 1570, "last_id": "real_test_pair_000510", "elapsed_seconds": 5343.495038986206, "batch_size": 2}
+2026-11-03 08:59:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 511, "planned": 1570, "last_id": "real_test_pair_000511", "elapsed_seconds": 5354.527614593506, "batch_size": 2}
+2026-11-03 08:59:18+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 512, "planned": 1570, "last_id": "real_test_pair_000512", "elapsed_seconds": 5365.596976041794, "batch_size": 2}
+2026-11-03 08:59:26+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 513, "planned": 1570, "last_id": "real_test_pair_000513", "elapsed_seconds": 5372.868803262711, "batch_size": 2}
+2026-11-03 08:59:32+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 514, "planned": 1570, "last_id": "real_test_pair_000514", "elapsed_seconds": 5379.318382263184, "batch_size": 2}
+2026-11-03 08:59:35+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 514, "planned": 1570, "last_id": "real_test_pair_000514", "elapsed_seconds": 5379.318382263184, "batch_size": 2}
+2026-11-03 08:59:39+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 515, "planned": 1570, "last_id": "real_test_pair_000515", "elapsed_seconds": 5386.390105962753, "batch_size": 2}
+2026-11-03 08:59:48+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 516, "planned": 1570, "last_id": "real_test_pair_000516", "elapsed_seconds": 5394.743583202362, "batch_size": 2}
+2026-11-03 08:59:55+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 517, "planned": 1570, "last_id": "real_test_pair_000517", "elapsed_seconds": 5401.73751616478, "batch_size": 2}
+2026-11-03 09:00:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 518, "planned": 1570, "last_id": "real_test_pair_000518", "elapsed_seconds": 5407.574213027954, "batch_size": 2}
+2026-11-03 09:00:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 519, "planned": 1570, "last_id": "real_test_pair_000519", "elapsed_seconds": 5414.616050243378, "batch_size": 2}
+2026-11-03 09:00:08+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 519, "planned": 1570, "last_id": "real_test_pair_000519", "elapsed_seconds": 5414.616050243378, "batch_size": 2}
+2026-11-03 09:00:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 520, "planned": 1570, "last_id": "real_test_pair_000520", "elapsed_seconds": 5423.600401163101, "batch_size": 2}
+2026-11-03 09:00:23+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 521, "planned": 1570, "last_id": "real_test_pair_000521", "elapsed_seconds": 5429.854415178299, "batch_size": 2}
+2026-11-03 09:00:29+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 522, "planned": 1570, "last_id": "real_test_pair_000522", "elapsed_seconds": 5435.882037162781, "batch_size": 2}
+2026-11-03 09:00:41+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 523, "planned": 1570, "last_id": "real_test_pair_000523", "elapsed_seconds": 5447.941939592361, "batch_size": 2}
+2026-11-03 09:00:42+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 523, "planned": 1570, "last_id": "real_test_pair_000523", "elapsed_seconds": 5447.941939592361, "batch_size": 2}
+2026-11-03 09:00:52+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 524, "planned": 1570, "last_id": "real_test_pair_000524", "elapsed_seconds": 5459.41539144516, "batch_size": 2}
+2026-11-03 09:01:01+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 525, "planned": 1570, "last_id": "real_test_pair_000525", "elapsed_seconds": 5467.690211057663, "batch_size": 2}
+2026-11-03 09:01:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 526, "planned": 1570, "last_id": "real_test_pair_000526", "elapsed_seconds": 5473.639364242554, "batch_size": 2}
+2026-11-03 09:01:16+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 526, "planned": 1570, "last_id": "real_test_pair_000526", "elapsed_seconds": 5473.639364242554, "batch_size": 2}
+2026-11-03 09:01:18+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 527, "planned": 1570, "last_id": "real_test_pair_000527", "elapsed_seconds": 5484.812734127045, "batch_size": 2}
+2026-11-03 09:01:29+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 528, "planned": 1570, "last_id": "real_test_pair_000528", "elapsed_seconds": 5495.795699357986, "batch_size": 2}
+2026-11-03 09:01:32+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 529, "planned": 1570, "last_id": "real_test_pair_000529", "elapsed_seconds": 5499.560654163361, "batch_size": 2}
+2026-11-03 09:01:38+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 530, "planned": 1570, "last_id": "real_test_pair_000530", "elapsed_seconds": 5504.767853021622, "batch_size": 2}
+2026-11-03 09:01:42+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 531, "planned": 1570, "last_id": "real_test_pair_000531", "elapsed_seconds": 5509.444893121719, "batch_size": 2}
+2026-11-03 09:01:47+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 532, "planned": 1570, "last_id": "real_test_pair_000532", "elapsed_seconds": 5514.489417791367, "batch_size": 2}
+2026-11-03 09:01:52+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 532, "planned": 1570, "last_id": "real_test_pair_000532", "elapsed_seconds": 5514.489417791367, "batch_size": 2}
+2026-11-03 09:01:53+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 533, "planned": 1570, "last_id": "real_test_pair_000533", "elapsed_seconds": 5520.4470291137695, "batch_size": 2}
+2026-11-03 09:01:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 534, "planned": 1570, "last_id": "real_test_pair_000534", "elapsed_seconds": 5525.6638016700745, "batch_size": 2}
+2026-11-03 09:02:08+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 535, "planned": 1570, "last_id": "real_test_pair_000535", "elapsed_seconds": 5535.6334590911865, "batch_size": 2}
+2026-11-03 09:02:11+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 536, "planned": 1570, "last_id": "real_test_pair_000536", "elapsed_seconds": 5537.917587280273, "batch_size": 2}
+2026-11-03 09:02:15+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 537, "planned": 1570, "last_id": "real_test_pair_000537", "elapsed_seconds": 5542.182566404343, "batch_size": 2}
+2026-11-03 09:02:21+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 538, "planned": 1570, "last_id": "real_test_pair_000538", "elapsed_seconds": 5548.310839176178, "batch_size": 2}
+2026-11-03 09:02:28+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 538, "planned": 1570, "last_id": "real_test_pair_000538", "elapsed_seconds": 5548.310839176178, "batch_size": 2}
+2026-11-03 09:02:31+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 539, "planned": 1570, "last_id": "real_test_pair_000539", "elapsed_seconds": 5557.764555931091, "batch_size": 2}
+2026-11-03 09:02:38+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 540, "planned": 1570, "last_id": "real_test_pair_000540", "elapsed_seconds": 5565.225614070892, "batch_size": 2}
+2026-11-03 09:02:47+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 541, "planned": 1570, "last_id": "real_test_pair_000541", "elapsed_seconds": 5574.248825311661, "batch_size": 2}
+2026-11-03 09:02:57+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 542, "planned": 1570, "last_id": "real_test_pair_000542", "elapsed_seconds": 5583.934170007706, "batch_size": 2}
+2026-11-03 09:02:58+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 542, "planned": 1570, "last_id": "real_test_pair_000542", "elapsed_seconds": 5583.934170007706, "batch_size": 2}
+2026-11-03 09:03:05+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 543, "planned": 1570, "last_id": "real_test_pair_000543", "elapsed_seconds": 5591.742153644562, "batch_size": 2}
+2026-11-03 09:03:13+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 544, "planned": 1570, "last_id": "real_test_pair_000544", "elapsed_seconds": 5599.842148542404, "batch_size": 2}
+2026-11-03 09:03:20+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 545, "planned": 1570, "last_id": "real_test_pair_000545", "elapsed_seconds": 5607.593123912811, "batch_size": 2}
+2026-11-03 09:03:25+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 546, "planned": 1570, "last_id": "real_test_pair_000546", "elapsed_seconds": 5612.505740642548, "batch_size": 2}
+2026-11-03 09:03:31+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 547, "planned": 1570, "last_id": "real_test_pair_000547", "elapsed_seconds": 5617.904255390167, "batch_size": 2}
+2026-11-03 09:03:32+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR PROGRESS {"completed_pairs": 547, "planned": 1570, "last_id": "real_test_pair_000547", "elapsed_seconds": 5617.904255390167, "batch_size": 2}
+2026-11-03 09:03:37+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 548, "planned": 1570, "last_id": "real_test_pair_000548", "elapsed_seconds": 5623.6424198150635, "batch_size": 2}
+2026-11-03 09:03:45+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 549, "planned": 1570, "last_id": "real_test_pair_000549", "elapsed_seconds": 5632.190646648407, "batch_size": 2}
+2026-11-03 09:03:54+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR MBR1570_PROGRESS {"completed_pairs": 550, "planned": 1570, "last_id": "real_test_pair_000550", "elapsed_seconds": 5641.536779165268, "batch_size": 2}
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR Traceback (most recent call last):
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/evaluate1570.py", line 74, in <module>
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     outputs,timing=measured(lambda:[x for _ in range(8//batch_size) for x in generate(emb,batch_size,True)]);effective=batch_size;break
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/evaluate1570.py", line 47, in measured
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     torch.cuda.synchronize();torch.cuda.reset_peak_memory_stats();t=time.perf_counter();answer=call();torch.cuda.synchronize()
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/evaluate1570.py", line 74, in <lambda>
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     outputs,timing=measured(lambda:[x for _ in range(8//batch_size) for x in generate(emb,batch_size,True)]);effective=batch_size;break
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/evaluate1570.py", line 74, in <listcomp>
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     outputs,timing=measured(lambda:[x for _ in range(8//batch_size) for x in generate(emb,batch_size,True)]);effective=batch_size;break
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/evaluate1570.py", line 43, in generate
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     out=Qwen2ForCausalLM.generate(model,inputs_embeds=emb,**kw)
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/m3diff-venv/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     return func(*args, **kwargs)
+2026-11-03 09:03:59+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/m3diff-venv/lib/python3.10/site-packages/transformers/generation/utils.py", line 1622, in generate
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR [IPKernelApp] ERROR | Exception in message handler:
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR Traceback (most recent call last):
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 508, in dispatch_shell
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     await result
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/ipykernel/ipkernel.py", line 372, in execute_request
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     await super().execute_request(stream, ident, parent)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/ipykernel/kernelbase.py", line 914, in execute_request
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     reply_msg: dict[str, t.Any] = self.session.send(  # type:ignore[assignment]
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/jupyter_client/session.py", line 867, in send
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     stream.send_multipart(to_send, copy=copy)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/zmq/sugar/socket.py", line 765, in send_multipart
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     self.send(msg, zmq.SNDMORE | flags, copy=copy, track=track)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/zmq/sugar/socket.py", line 713, in send
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     return super().send(data, flags=flags, copy=copy, track=track)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "zmq/backend/cython/_zmq.py", line 1152, in zmq.backend.cython._zmq.Socket.send
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     def send(self, data, flags=0, copy: bint = True, track: bint = False):
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     ^^^^^^^^^^^
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "zmq/backend/cython/_zmq.py", line 1194, in zmq.backend.cython._zmq.Socket.send
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     _check_closed(self)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     ^^^^^^^^^^^
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "zmq/backend/cython/_zmq.py", line 1339, in zmq.backend.cython._zmq._check_closed
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     raise ZMQError(ENOTSOCK)
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     ^^^^^^^^^^^
+2026-11-03 09:04:00+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR zmq.error.ZMQError: Socket operation on non-socket
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR Traceback (most recent call last):
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 657, in async_setup_kernel
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     raise e
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 654, in async_setup_kernel
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     yield
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 709, in async_execute
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     await self.async_execute_cell(
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 1009, in async_execute_cell
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     raise DeadKernelError("Kernel died") from None
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR nbclient.exceptions.DeadKernelError: Kernel died
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR 
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR During handling of the above exception, another exception occurred:
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR 
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR Traceback (most recent call last):
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/pkg/modal/_runtime/container_io_manager.py", line 987, in handle_input_exception
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     yield
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/pkg/modal/_container_entrypoint.py", line 189, in run_input_sync
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     values = io_context.call_function_sync()
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/pkg/modal/_runtime/container_io_manager.py", line 266, in call_function_sync
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     expected_value_or_values = self.finalized_function.callable(*args, **kwargs)
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/root/full1570_modal.py", line 21, in evaluate
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     try:NotebookClient(nb,timeout=19170,kernel_name='python3',allow_errors=False,resources={'metadata':{'path':'/root'}}).execute()
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     return loop.run_until_complete(inner)
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/asyncio/base_events.py", line 691, in run_until_complete
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     return future.result()
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR            ^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 693, in async_execute
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     async with self.async_setup_kernel(**kwargs):
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/contextlib.py", line 231, in __aexit__
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     await self.gen.athrow(value)
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 660, in async_setup_kernel
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     await self._async_cleanup_kernel()
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR   File "/usr/local/lib/python3.12/site-packages/nbclient/client.py", line 504, in _async_cleanup_kernel
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR     assert self.km is not None
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR            ^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:07+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR AssertionError
+2026-11-03 09:04:10+07:00 ta-01M6FCXWKNZ9HRAAG9715JVKSR Container terminated due to preemption. Your Function will be restarted with the same input. For more details, see https://modal.com/docs/guide/preemption
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR Traceback (most recent call last):
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR   File "/pkg/modal/_runtime/container_io_manager.py", line 987, in handle_input_exception
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR     yield
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR   File "/pkg/modal/_container_entrypoint.py", line 189, in run_input_sync
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR     values = io_context.call_function_sync()
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR   File "/pkg/modal/_runtime/container_io_manager.py", line 266, in call_function_sync
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR     expected_value_or_values = self.finalized_function.callable(*args, **kwargs)
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR   File "/root/full1570_modal.py", line 12, in evaluate
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR     p=Path('/mnt/m3diff/mbr_pilot_20261103/full1570');assert (p/'ADMISSION.json').exists();assert not (p/'FULL_ATTEMPT.json').exists()
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-11-03 09:04:14+07:00 ta-01M6FJCM0Y6X7JXHF6RK4TX1JR AssertionError
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R {
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R   "status": "STOP_ERROR_NO_RETRY",
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R   "full_benchmark_complete": false,
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R   "error": "Traceback (most recent call last):\n  File \"/root/full1570_modal.py\", line 45, in pipeline\n    evaluate.remote()\n  File \"/pkg/modal/_object.py\", line 49, in wrapped\n    return await method(self, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 2081, in remote\n    return await self._call_function(args, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 2018, in _call_function\n    return await invocation.run_function()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 517, in run_function\n    return await _process_result(\n           ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_utils/function_utils.py\", line 572, in _process_result\n    raise exc_with_hints(exc)\n  File \"<ta-01M6FJCM0Y6X7JXHF6RK4TX1JR>:/root/full1570_modal.py\", line 12, in evaluate\nAssertionError\n",
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R   "wall_seconds": 5731.46865940094,
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R   "finished_utc": "2026-11-03T02:04:14.442671+00:00"
+2026-11-03 09:04:15+07:00 ta-01M6FCXNM25TWY2RYHK80A9H0R }

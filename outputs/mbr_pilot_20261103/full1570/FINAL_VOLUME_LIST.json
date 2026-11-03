@@ -1,0 +1,70 @@
+[
+  {
+    "path": "mbr_pilot_20261103/full1570/PIPELINE_DONE.json",
+    "size": 1113
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/executed.ipynb",
+    "size": 155475
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/FULL_JOB_TIMING.json",
+    "size": 35
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/FULL_ERROR.txt",
+    "size": 1969
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/results1570.jsonl",
+    "size": 1895499
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/PROGRESS.json",
+    "size": 132
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/GENERATION_AUDIT.json",
+    "size": 2448
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/FULL_ATTEMPT.json",
+    "size": 113
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/PIPELINE_ATTEMPT.json",
+    "size": 79
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/ADMISSION.json",
+    "size": 2276
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/CPU_READY.json",
+    "size": 509
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/FULL_PROTOCOL.json",
+    "size": 2377
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/OmniDiff_Real.json",
+    "size": 412011
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/OmniDiff_Render.json",
+    "size": 387551
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/PROTOCOL.json",
+    "size": 1985
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/questions1570.json",
+    "size": 554165
+  },
+  {
+    "path": "mbr_pilot_20261103/full1570/selection1570.json",
+    "size": 111401
+  }
+]

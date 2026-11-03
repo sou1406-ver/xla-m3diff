@@ -1,0 +1,7 @@
+{
+  "status": "STOP_ERROR_NO_RETRY",
+  "full_benchmark_complete": false,
+  "error": "Traceback (most recent call last):\n  File \"/root/full1570_modal.py\", line 45, in pipeline\n    evaluate.remote()\n  File \"/pkg/modal/_object.py\", line 49, in wrapped\n    return await method(self, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 2081, in remote\n    return await self._call_function(args, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 2018, in _call_function\n    return await invocation.run_function()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_functions.py\", line 517, in run_function\n    return await _process_result(\n           ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/pkg/modal/_utils/function_utils.py\", line 572, in _process_result\n    raise exc_with_hints(exc)\n  File \"<ta-01M6FJCM0Y6X7JXHF6RK4TX1JR>:/root/full1570_modal.py\", line 12, in evaluate\nAssertionError\n",
+  "wall_seconds": 5731.46865940094,
+  "finished_utc": "2026-11-03T02:04:14.442671+00:00"
+}

@@ -1,6 +1,6 @@
 {
   "period_start": "2026-11-01",
-  "authorization": "User approved staged MBR pilot;20pair comparison,one fixed val200,qualitative review. Full1570 not yet budget-admitted. No training.",
+  "authorization": "User explicitly approved full1570 MBR,18USD cap;one fixed config,no retries/training.",
   "initial_consumption": "8.10481579",
   "jobs": [
     {
@@ -25,6 +25,14 @@
       "reservation": ".70",
       "settled": ".62",
       "settlement_kind": "CPU/misc .10 plus A100 upper .52 including180startup;not invoice"
+    },
+    {
+      "label": "MBR_full1570_all_stages",
+      "reservation": "17.70",
+      "cap": "18",
+      "profile": "A10080_4CPU32GiB_plus_CPU_pipeline",
+      "seconds": 19200,
+      "settlement_kind": "Reserved upper bound,not actual invoice"
     }
   ]
 }

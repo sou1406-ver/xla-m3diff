@@ -4,6 +4,7 @@ import ast, copy, hashlib, json, statistics
 
 P = Path(__file__).parent
 F = P / 'full1570'
+assert not (F / 'ADMISSION.json').exists(), 'Run already admitted: do not overwrite its frozen inputs or runner.'
 sha = lambda p: hashlib.sha256(p.read_bytes()).hexdigest()
 metrics = json.loads((P / 'val200/METRICS.json').read_text())
 assert metrics['all_gates_passed']

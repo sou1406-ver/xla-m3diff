@@ -7,14 +7,21 @@
   "generator_sha256": "5108205dc24568693fed8f053d32162ae1e22da1b548ffd208cf276823cb6e7a",
   "questions_sha256": "721aed1f69d2e7aa110428de7b67f361f2576f5c78d2cd28516e37e6c01fbd81",
   "sampling_protocol_sha256": "ccb82c650d4401cc433788aa2233dc63ad2e3c0b666de9e84299549b8c6c2cf2",
-  "revision_sha256": "f521bbde8d35cb5dbaeaa23abbd2c5098a021fe417289ab8b1ff51f1e25cec81",
+  "revision_sha256": "9cdbabc595dc9f43cacc41fcc5b75e84b51d5d22cc47010755c8b0af40bf9ddc",
   "total_reservation_usd": "13.48",
   "files": {
-    "phase2_modal.py": "d7ba58f21c0529db1b7842af933b3a66ea716f1107a9edc98d98fc6085fea0ca",
-    "phase2_controller.txt": "6a62fe2fe8288a184bf8067ae878aba72091e23714d3cb9df86119372ab9d4ec",
+    "phase2_modal.py": "c724e0d87cbbfd850bbb766af68c847a11c6d81db3ef0daeee98d2beabe947d9",
+    "phase2_controller.txt": "576a5ca851f2fed8abbb2bfb318a4c2d94add02c7d288311fa4d43c5b10dad7d",
     "evaluate_resume_phase2.py": "5108205dc24568693fed8f053d32162ae1e22da1b548ffd208cf276823cb6e7a",
     "resume_store.py": "36a889443b579df2c84cebbe8ff7fbecb16e28107667d6deb1d080c50f7ee66f",
     "score_resume.py": "6e70de9e330d00b95fef39a0048707292a3e555fe68201a6bf5a1048234c986a",
     "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+  },
+  "provider_query_preflight_fix": {
+    "initial_decision_commit": "fc83091",
+    "stopped_CPU_preflight_app": "ap-UN5XUiNr9fNJhpcRsKgqpi",
+    "GPU_phase2_never_started": true,
+    "phase1_untouched": true,
+    "reason": "Run provider container query on Modal SDK synchronizer loop rather than a separate asyncio.run event loop. No inference,deadline,scoring or monetary policy change."
   }
 }

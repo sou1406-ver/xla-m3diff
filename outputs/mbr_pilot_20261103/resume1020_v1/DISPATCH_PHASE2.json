@@ -1,0 +1,11 @@
+{
+  "utc": "2026-11-03T12:14:56.411250+00:00",
+  "app_id": "ap-UN5XUiNr9fNJhpcRsKgqpi",
+  "url": "https://modal.com/apps/sou1406-ver/main/ap-UN5XUiNr9fNJhpcRsKgqpi",
+  "phase1_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+  "prelaunch_decision_commit": "fc83091",
+  "total_continuation_cap_usd": 13.5,
+  "reserved_upper_all_phases_usd": "13.48",
+  "phase2_GPU_not_started_at_dispatch": true,
+  "mode": "CPUwaitfornaturalphase1completionthenverifyoldcontainers0thenresumeifneeded"
+}

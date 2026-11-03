@@ -36,7 +36,7 @@
   "files": {
     "evaluate_resume.py": "3cb5d803a47305bc1a3587c516e697da0aee46d704a3df1c896de64b121ab433",
     "resume_store.py": "36a889443b579df2c84cebbe8ff7fbecb16e28107667d6deb1d080c50f7ee66f",
-    "resume_modal.py": "07b7ad0e6ef8837e1b4252af6b26d89d67e538f4ee7325936a4f338641b2ec19",
+    "resume_modal.py": "dc2036a6a971fcd52ab21b4e1794f36d271154cbd8ff80ef7f758feab2cfdedf",
     "score_resume.py": "6e70de9e330d00b95fef39a0048707292a3e555fe68201a6bf5a1048234c986a",
     "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
   },
@@ -45,5 +45,14 @@
     "selection1020.json": "481e796f3f75fac71cf75fc3ac25a18f890d96d0ab1c148bae2148e1679c3ede"
   },
   "questions_full_sha256": "f4de6cd9c33f8ad54a97ce13e99b16963ad927aa78c9e002b8a9a4bc0a457272",
-  "no_training": true
+  "no_training": true,
+  "prelaunch_patch": {
+    "prelaunch": true,
+    "previous_lock_commit": "5845554",
+    "initial_admission_sha256": "a4954b9f95caf4e851480a57721d1b36a2b9596b7224ed50d036a7492e056789",
+    "initial_protocol_sha256": "0a6930dccbbabddaa04e35b16b31633dcb2a9fcae70d81e6aec0e1867cff3730",
+    "runner_before_sha256": "07b7ad0e6ef8837e1b4252af6b26d89d67e538f4ee7325936a4f338641b2ec19",
+    "runner_after_sha256": "dc2036a6a971fcd52ab21b4e1794f36d271154cbd8ff80ef7f758feab2cfdedf",
+    "reason": "Ignore partial progress-status reads while child is writing;ensure subprocess groups are stopped if parent exits on error. No sampling/seed/selection/scoring/budget changes."
+  }
 }

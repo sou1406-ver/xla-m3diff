@@ -45,8 +45,10 @@ def generate(deadline):
    except subprocess.TimeoutExpired:pass
    V.commit()
    if (p/'PROGRESS.json').exists():
-    progress=json.loads((p/'PROGRESS.json').read_text())
-    if progress['completed_pairs']!=last:print('RESUME_PROGRESS',json.dumps(progress),flush=True);last=progress['completed_pairs']
+    try:
+     progress=json.loads((p/'PROGRESS.json').read_text())
+     if progress['completed_pairs']!=last:print('RESUME_PROGRESS',json.dumps(progress),flush=True);last=progress['completed_pairs']
+    except (json.JSONDecodeError,FileNotFoundError):pass
   if proc.returncode:raise RuntimeError(f'Process exited{proc.returncode};deadline_expired={expired.is_set()}')
  try:
   repo='/root/M3Diff';venv='/root/m3diff-venv';py=venv+'/bin/python'
@@ -59,7 +61,9 @@ def generate(deadline):
   result['status']='RETURNED'
  except Exception as exc:result.update(status='GLOBAL_BUDGET_STOP' if expired.is_set() else 'STOP_ERROR',error=repr(exc))
  finally:
-  timer.cancel();log.close();result['wall_seconds']=time.time()-started
+  timer.cancel()
+  if any(proc.poll() is None for proc in processes):stop()
+  log.close();result['wall_seconds']=time.time()-started
   result['pairs']=len(prefix(q,p/'pairs'));(sessions/f'{sid}_result.json').write_text(json.dumps(result,indent=2));V.commit()
  return result
 

@@ -1,0 +1,49 @@
+{
+  "status": "LOCKED_BEFORE_ANY_FULL_TEST_CIDER_SCORING",
+  "user_authorization": "User chose continuation A:finish remaining1020,11USD cap,allow predefined resume after interruption. Supersedes previous no-resume rule only for this continuation.",
+  "preserve_old_attempt": true,
+  "old_raw_sha256": "9c2d55ad4d4cf6cb556255340c2cf2f7894d838d4eec7cf4f7d21089e4aa47fe",
+  "old_saved_pairs": 550,
+  "remaining_pairs": 1020,
+  "old_full_metrics_not_computed": true,
+  "same_checkpoint_sampling_and_selector": true,
+  "sampling_protocol_sha256": "ccb82c650d4401cc433788aa2233dc63ad2e3c0b666de9e84299549b8c6c2cf2",
+  "generation_functions_AST_unchanged": true,
+  "sampling_seed": "20261105 + first8hexSHA256(id) modulo1000000",
+  "per_pair_matched_greedy_and8samples": true,
+  "multi_session": true,
+  "sessions": "At least2 overall;each actual GPU invocation gets UUID and per-pair provenance. Maximum3 continuation GPU work sessions;4thguard may return without inference. Do not claim exactly2 if preempted again.",
+  "resume_policy": "Keep old550bytes unchanged. Atomically save a whole greedy+8samples pair in one JSON. Volume commit about5s. On restart retain every complete persisted prefix pair;regenerate only missing/uncommitted pairs from fixed ID seed,never select by CIDEr. Gaps/malformed/seed mismatch stop. Mid-pair loss regenerates whole pair,never mixes greedy from one session with samples from another.",
+  "numeric_limit": "Same seed across differentGPU/container does not promise bitwise-identical captions;do not claim all1570 generated in one session.",
+  "budget_cap_usd": 11,
+  "shared_GPU_wall_deadline_seconds": 11220,
+  "watchdog": "Persistent controller timestamp never resets on replay. Worker kills subprocess groups at shared deadline;CPU coordinator also cancels active GPU call. GPU worker hard11400,one concurrent container.",
+  "max_gpu_work_sessions": 3,
+  "startup_allowance_sessions_including_guard": 4,
+  "startup_allowance_seconds_each": 180,
+  "CPU_score_shared_deadline_seconds": 900,
+  "controller_hard_seconds": 12600,
+  "proposed_reservation_usd": {
+    "GPU": "10.75",
+    "CPU_score": ".09",
+    "controller": ".08",
+    "misc": ".03",
+    "total": "10.95"
+  },
+  "full_score_only_after_1570": true,
+  "scoring": "Original full scorer,PTB and per-domain full reference DF;unchangedtrain-IDFconsensus. No oracle test. Cluster bootstrap fixedDF same as locked full protocol. Add descriptive session/domain summaries without retuning.",
+  "promotion": "No automatic model promotion. Base remains default pending full evidence.",
+  "files": {
+    "evaluate_resume.py": "3cb5d803a47305bc1a3587c516e697da0aee46d704a3df1c896de64b121ab433",
+    "resume_store.py": "36a889443b579df2c84cebbe8ff7fbecb16e28107667d6deb1d080c50f7ee66f",
+    "resume_modal.py": "07b7ad0e6ef8837e1b4252af6b26d89d67e538f4ee7325936a4f338641b2ec19",
+    "score_resume.py": "6e70de9e330d00b95fef39a0048707292a3e555fe68201a6bf5a1048234c986a",
+    "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+  },
+  "input_hashes": {
+    "questions1020.json": "721aed1f69d2e7aa110428de7b67f361f2576f5c78d2cd28516e37e6c01fbd81",
+    "selection1020.json": "481e796f3f75fac71cf75fc3ac25a18f890d96d0ab1c148bae2148e1679c3ede"
+  },
+  "questions_full_sha256": "f4de6cd9c33f8ad54a97ce13e99b16963ad927aa78c9e002b8a9a4bc0a457272",
+  "no_training": true
+}

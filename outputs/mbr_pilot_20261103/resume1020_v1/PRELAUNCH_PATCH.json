@@ -1,0 +1,9 @@
+{
+  "prelaunch": true,
+  "previous_lock_commit": "5845554",
+  "initial_admission_sha256": "a4954b9f95caf4e851480a57721d1b36a2b9596b7224ed50d036a7492e056789",
+  "initial_protocol_sha256": "0a6930dccbbabddaa04e35b16b31633dcb2a9fcae70d81e6aec0e1867cff3730",
+  "runner_before_sha256": "07b7ad0e6ef8837e1b4252af6b26d89d67e538f4ee7325936a4f338641b2ec19",
+  "runner_after_sha256": "dc2036a6a971fcd52ab21b4e1794f36d271154cbd8ff80ef7f758feab2cfdedf",
+  "reason": "Ignore partial progress-status reads while child is writing;ensure subprocess groups are stopped if parent exits on error. No sampling/seed/selection/scoring/budget changes."
+}

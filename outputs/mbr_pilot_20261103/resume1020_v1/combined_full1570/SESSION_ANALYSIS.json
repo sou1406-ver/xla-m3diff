@@ -1,0 +1,29 @@
+{
+  "groups": {
+    "original_full_attempt|real": {
+      "n": 550,
+      "greedy_CIDEr_x100": 38.55608946612745,
+      "MBR_CIDEr_x100": 40.17906929518647,
+      "delta": 1.6229798290590394
+    },
+    "7f3b0b32722f424bbb6cd9ba7999ebb9|real": {
+      "n": 253,
+      "greedy_CIDEr_x100": 25.950345659616264,
+      "MBR_CIDEr_x100": 21.71601969773008,
+      "delta": -4.234325961886183
+    },
+    "7f3b0b32722f424bbb6cd9ba7999ebb9|render": {
+      "n": 565,
+      "greedy_CIDEr_x100": 28.08175414109397,
+      "MBR_CIDEr_x100": 31.363497735607265,
+      "delta": 3.2817435945133266
+    },
+    "b7ed0ddef44c4e8290465c337ecd509b|render": {
+      "n": 202,
+      "greedy_CIDEr_x100": 36.05726063910282,
+      "MBR_CIDEr_x100": 40.6135544906429,
+      "delta": 4.556293851540083
+    }
+  },
+  "note": "Descriptive subsets of the fixed full-domain-reference DF;not isolated session causal effects or separate benchmarks."
+}

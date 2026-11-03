@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE_SCORED",
+  "pairs": 1570,
+  "Real": 803,
+  "Render": 767,
+  "original550_unchanged": true,
+  "actual_GPU_sessions": 3,
+  "phase1_terminal_status": "STOP_ERROR_OR_GLOBAL_BUDGET",
+  "phase2_terminal_status": "COMPLETE_SCORED",
+  "finished_utc": "2026-11-03T15:23:27.961801+00:00",
+  "finished_GMT7": "2026-11-03T22:23:27+07:00",
+  "canonical_metrics": "combined_full1570/METRICS.json",
+  "canonical_raw": "combined_full1570/results1570.jsonl",
+  "CI": "combined_full1570/CONFIDENCE_INTERVALS.json",
+  "GPU_off": true,
+  "continuation_app_cost_usd": "10.74902604",
+  "approved_total_continuation_cap_usd": "13.5",
+  "default_model_changed": false
+}

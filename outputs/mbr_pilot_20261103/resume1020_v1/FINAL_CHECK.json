@@ -1,0 +1,184 @@
+{
+  "checked_utc": "2026-11-03T16:00:22.743439+00:00",
+  "PROGRESS.json": {
+    "completed_pairs": 1020,
+    "planned": 1020,
+    "last_id": "render_test_pair_000767",
+    "elapsed_seconds": 1509.758734703064,
+    "batch_size": 2
+  },
+  "PIPELINE_DONE.json": {
+    "status": "STOP_ERROR_OR_GLOBAL_BUDGET",
+    "error": "Traceback (most recent call last):\n  File \"/root/resume_modal.py\", line 118, in pipeline\n    result=wait(call,state['gpu_deadline_unix']+5);V.reload()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/resume_modal.py\", line 111, in wait\n    call.cancel(terminate_containers=True);raise TimeoutError('Shared global deadline reached')\n                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: Shared global deadline reached\n",
+    "finished_utc": "2026-11-03T14:50:02.995362+00:00"
+  },
+  "STATE_PHASE2.json": {
+    "created_utc": "2026-11-03T12:14:35.775170+00:00",
+    "original_continuation_start_utc": "2026-11-03T11:42:57.678585+00:00",
+    "gpu_deadline_unix": 1793721897.678585,
+    "cap_usd": 13.5,
+    "old_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+    "gpu_call_id": "fc-01M6GY7WXWPYVCGH22QAWJ27PK",
+    "score_deadline_unix": 1793720105.3743615,
+    "score_call_id": "fc-01M6GZY0DNBGN8HHZXF78Z9KP4"
+  },
+  "PIPELINE_PHASE2_DONE.json": {
+    "status": "COMPLETE_SCORED",
+    "metrics": {
+      "domains": {
+        "real": {
+          "n": 803,
+          "scores_x100": {
+            "greedy": {
+              "CIDEr": 34.584416759966416,
+              "Bleu_1": 44.460628333257645,
+              "Bleu_2": 30.07105734609962,
+              "Bleu_3": 20.702086296297452,
+              "Bleu_4": 14.877306562998942,
+              "METEOR": 19.612676880402677,
+              "ROUGE_L": 32.79160193017322
+            },
+            "MBR": {
+              "CIDEr": 34.361944079549566,
+              "Bleu_1": 46.29190011436638,
+              "Bleu_2": 31.19090186904389,
+              "Bleu_3": 21.31869030124232,
+              "Bleu_4": 15.249603514313275,
+              "METEOR": 19.571100373754497,
+              "ROUGE_L": 32.95271339129823
+            }
+          },
+          "delta_CIDEr_x100": -0.22247268041684976,
+          "image_components": 20,
+          "descriptive_cluster_fixedDF_CI95": [
+            -3.564032387711471,
+            3.317729041390386
+          ],
+          "words": {
+            "greedy": {
+              "mean": 55.49813200498132,
+              "median": 47
+            },
+            "MBR": {
+              "mean": 49.971357409713576,
+              "median": 44
+            }
+          },
+          "changed": 587
+        },
+        "render": {
+          "n": 767,
+          "scores_x100": {
+            "greedy": {
+              "CIDEr": 30.1822134795526,
+              "Bleu_1": 43.68881265166004,
+              "Bleu_2": 31.501573928295613,
+              "Bleu_3": 22.814616702807356,
+              "Bleu_4": 17.043206306514886,
+              "METEOR": 20.314266057328524,
+              "ROUGE_L": 35.6814161416516
+            },
+            "MBR": {
+              "CIDEr": 33.79962741555146,
+              "Bleu_1": 49.8003336289391,
+              "Bleu_2": 36.11204351337279,
+              "Bleu_3": 26.33205507249435,
+              "Bleu_4": 19.789449689209857,
+              "METEOR": 20.814997000233777,
+              "ROUGE_L": 36.14736041581716
+            }
+          },
+          "delta_CIDEr_x100": 3.6174139359988615,
+          "image_components": 10,
+          "descriptive_cluster_fixedDF_CI95": [
+            1.0924061688756088,
+            5.976552142303898
+          ],
+          "words": {
+            "greedy": {
+              "mean": 62.28031290743155,
+              "median": 47
+            },
+            "MBR": {
+              "mean": 50.10039113428944,
+              "median": 47
+            }
+          },
+          "changed": 522
+        }
+      },
+      "no_training": true,
+      "full_test_run": true,
+      "selection_trainIDF_only": true,
+      "oracle_test_not_computed": true,
+      "CI_limit": "Descriptive image-component bootstrap conditional on fixed domain-reference DF, not a full DF recomputation.",
+      "promotion": "No automatic default-model change or factual-improvement claim."
+    },
+    "finished_utc": "2026-11-03T15:23:27.961801+00:00"
+  },
+  "PHASE1_RELEASE_APPROVED.json": {
+    "checked_utc": "2026-11-03T14:50:19.217891+00:00",
+    "old_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+    "old_app_tasks": [],
+    "phase1_terminal_status": "STOP_ERROR_OR_GLOBAL_BUDGET",
+    "provider_source": "OwnerSDK modal container list --app-id exactID --json",
+    "no_GPU_started_by_watcher": true
+  },
+  "new_pair_files": 1020,
+  "combined_files": [
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/SESSION_ANALYSIS.json",
+      "size": 916
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/PER_PAIR.json",
+      "size": 1443222
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/METRICS.json",
+      "size": 2522
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/SELECTION.json",
+      "size": 484954
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/selection1570.json",
+      "size": 111401
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/SESSION_ASSIGNMENTS.json",
+      "size": 94396
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/OmniDiff_Render.json",
+      "size": 387551
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/OmniDiff_Real.json",
+      "size": 412011
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/FULL_DONE.json",
+      "size": 202
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/results1570.jsonl",
+      "size": 5212815
+    },
+    {
+      "path": "mbr_pilot_20261103/resume1020_v1/combined_full1570/questions1570.json",
+      "size": 554165
+    }
+  ],
+  "session_files": [
+    "mbr_pilot_20261103/resume1020_v1/sessions/b7ed0ddef44c4e8290465c337ecd509b_result.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/b7ed0ddef44c4e8290465c337ecd509b_done.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/b7ed0ddef44c4e8290465c337ecd509b_generation_audit.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/b7ed0ddef44c4e8290465c337ecd509b_gpu.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/b7ed0ddef44c4e8290465c337ecd509b_start.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/7f3b0b32722f424bbb6cd9ba7999ebb9_generation_audit.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/7f3b0b32722f424bbb6cd9ba7999ebb9_gpu.json",
+    "mbr_pilot_20261103/resume1020_v1/sessions/7f3b0b32722f424bbb6cd9ba7999ebb9_start.json"
+  ]
+}

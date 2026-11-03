@@ -1,0 +1,8 @@
+{
+  "checked_utc": "2026-11-03T14:50:19.217891+00:00",
+  "old_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+  "old_app_tasks": [],
+  "phase1_terminal_status": "STOP_ERROR_OR_GLOBAL_BUDGET",
+  "provider_source": "OwnerSDK modal container list --app-id exactID --json",
+  "no_GPU_started_by_watcher": true
+}

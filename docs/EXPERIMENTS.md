@@ -4,7 +4,7 @@ Các đường dẫn bên dưới nằm trong `outputs/`. Mỗi folder thường
 
 | Nhóm | Folder / entrypoint | Đã làm và kết luận |
 |---|---|---|
-| MBR continuation03/11 | [resume1020_v1](../outputs/mbr_pilot_20261103/resume1020_v1/README.md) | Userduyệt11USD;giữ550cũ,tiếp1020;resumeatomic/shareddeadline,multiple-session;đangchạy,chưađiểmfull. |
+| MBR continuation03/11 | [full1570](../outputs/mbr_pilot_20261103/KET_QUA_FULL1570.md) | COMPLETE_SCORED:Real−0,22CIDEr,Render+3,62CI[+1,09;+5,98];3phiên/550cũnguyênvẹn. Costcontinuation10,749USD<13,5;GPUoff;giữbasedefault. |
 | MBR pilot03/11 | [mbr_pilot_20261103](../outputs/mbr_pilot_20261103/KET_QUA_VAL200.md) | Decoding-only;val200 qua +1CIDEr mỗi miền,Real+20,91/Render+5,23. [Full bị preempt,dừng550Real/0Render](../outputs/mbr_pilot_20261103/full1570/CLOSED_REPORT.md);không fullmetric/khôngretry;appcost4,7066USD,GPUoff. |
 | V2 cuối03/11 | [r64_v2_final_round](../outputs/r64_v2_final_round/KET_QUA.md) | Train450steps;từbase;camera40/180và41/60qua,synthcamera124/600và4typefail. Dừng;khôngval/full/v3;giữbase. |
 | Dựng lại baseline | [baseline_results](../outputs/baseline_results), [notebook](../outputs/m3diff-baseline-full.ipynb), [Modal runner](../outputs/run_baseline_modal.py) | Full1570 từ checkpoint gốc; hoàn thành inference reproduction |

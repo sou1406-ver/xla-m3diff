@@ -1,0 +1,118 @@
+{
+  "queried_utc": "2026-11-03T16:01:00.443646+00:00",
+  "per_app_cost_usd": {
+    "ap-2LLzTT9FpCW7OGxuFpawMc": "9.22757242",
+    "ap-VkUSKIKKsWLaYfYCDhFNbg": "1.51995025",
+    "ap-UN5XUiNr9fNJhpcRsKgqpi": "0.00065937",
+    "ap-6MIrMOcyPlS8M04UieUvq6": "0.00084400"
+  },
+  "total_usd": "10.74902604",
+  "items": [
+    {
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "interval_start": "2026-11-03T11:00:00+00:00",
+      "cost": "0.83788923",
+      "resources": {
+        "Network Egress": "0.00053658",
+        "Memory": "0.07353158",
+        "CPU": "0.05687208",
+        "A100-80GB": "0.70694899"
+      }
+    },
+    {
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "interval_start": "2026-11-03T12:00:00+00:00",
+      "cost": "2.96110626",
+      "resources": {
+        "Memory": "0.26000706",
+        "CPU": "0.20103022",
+        "A100-80GB": "2.50006897"
+      }
+    },
+    {
+      "app_id": "ap-6MIrMOcyPlS8M04UieUvq6",
+      "interval_start": "2026-11-03T12:00:00+00:00",
+      "cost": "0.00084400",
+      "resources": {
+        "Memory": "0.00021333",
+        "CPU": "0.00063067"
+      }
+    },
+    {
+      "app_id": "ap-UN5XUiNr9fNJhpcRsKgqpi",
+      "interval_start": "2026-11-03T12:00:00+00:00",
+      "cost": "0.00065937",
+      "resources": {
+        "Memory": "0.00016667",
+        "CPU": "0.00049271"
+      }
+    },
+    {
+      "app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg",
+      "interval_start": "2026-11-03T12:00:00+00:00",
+      "cost": "0.00991700",
+      "resources": {
+        "Memory": "0.00250667",
+        "CPU": "0.00741033"
+      }
+    },
+    {
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "interval_start": "2026-11-03T13:00:00+00:00",
+      "cost": "2.96102499",
+      "resources": {
+        "Memory": "0.26000000",
+        "CPU": "0.20102500",
+        "A100-80GB": "2.49999999"
+      }
+    },
+    {
+      "app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg",
+      "interval_start": "2026-11-03T13:00:00+00:00",
+      "cost": "0.01582500",
+      "resources": {
+        "Memory": "0.00400000",
+        "CPU": "0.01182500"
+      }
+    },
+    {
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "interval_start": "2026-11-03T14:00:00+00:00",
+      "cost": "2.46755194",
+      "resources": {
+        "Network Egress": "0E-8",
+        "Memory": "0.21667374",
+        "CPU": "0.16754084",
+        "A100-80GB": "2.08333735"
+      }
+    },
+    {
+      "app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg",
+      "interval_start": "2026-11-03T14:00:00+00:00",
+      "cost": "0.47737003",
+      "resources": {
+        "Network Egress": "0.00012993",
+        "Memory": "0.04410670",
+        "CPU": "0.04146636",
+        "A100-80GB": "0.39166704"
+      }
+    },
+    {
+      "app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg",
+      "interval_start": "2026-11-03T15:00:00+00:00",
+      "cost": "1.01683822",
+      "resources": {
+        "Network Egress": "0E-8",
+        "Memory": "0.09167402",
+        "CPU": "0.07886832",
+        "A100-80GB": "0.84629588"
+      }
+    }
+  ],
+  "note": "Allcontinuationappsstoppedby15:23UTC,queryafter16:00UTChascompletebucketscoveringtheirstopintervals.Providerreportedusage,notfinalinvoice;mayreconcile.",
+  "all_app_stop_intervals_covered": true,
+  "cap_usd": "13.5",
+  "below_cap": true,
+  "original550_attempt_cost_usd": "4.70657624",
+  "full1570_generation_plus_score_app_cost_excluding_pilot_usd": "15.45560228"
+}

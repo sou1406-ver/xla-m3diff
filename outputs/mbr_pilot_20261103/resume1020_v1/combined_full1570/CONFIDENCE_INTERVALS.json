@@ -1,0 +1,26 @@
+{
+  "method": "5000pairedimage-connectedcomponentbootstrapreplicates;seed20261109sharedRealthenRender;percentiles2.5/97.5",
+  "metric_units": "CIDErx100",
+  "DF": "Heldfixedatfull-domainreferenceDF,notrecomputedperreplicate",
+  "independently_recomputed_from_saved_PER_PAIR": true,
+  "domains": {
+    "real": {
+      "n_pairs": 803,
+      "image_components": 20,
+      "delta_CIDEr_x100": -0.22247268041684976,
+      "CI95": [
+        -3.564032387711471,
+        3.317729041390386
+      ]
+    },
+    "render": {
+      "n_pairs": 767,
+      "image_components": 10,
+      "delta_CIDEr_x100": 3.6174139359988615,
+      "CI95": [
+        1.0924061688756088,
+        5.976552142303898
+      ]
+    }
+  }
+}

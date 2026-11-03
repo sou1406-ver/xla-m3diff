@@ -1,0 +1,5 @@
+{
+  "status": "STOP_ERROR_OR_GLOBAL_BUDGET",
+  "error": "Traceback (most recent call last):\n  File \"/root/resume_modal.py\", line 118, in pipeline\n    result=wait(call,state['gpu_deadline_unix']+5);V.reload()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/resume_modal.py\", line 111, in wait\n    call.cancel(terminate_containers=True);raise TimeoutError('Shared global deadline reached')\n                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: Shared global deadline reached\n",
+  "finished_utc": "2026-11-03T14:50:02.995362+00:00"
+}

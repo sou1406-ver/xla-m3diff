@@ -1,0 +1,25 @@
+{
+  "verified_utc": "2026-11-03T16:04:10.441321+00:00",
+  "full_complete": true,
+  "pairs": 1570,
+  "domains": {
+    "real": 803,
+    "render": 767
+  },
+  "raw_first550_bytes_unchanged": true,
+  "raw_full_sha256": "a5d67ee85de1f607fcd82faadefb80d5faeeb69578ddedfb659c76dc8fe33fb6",
+  "old550_sha256": "9c2d55ad4d4cf6cb556255340c2cf2f7894d838d4eec7cf4f7d21089e4aa47fe",
+  "all_seeds_verified": true,
+  "all_selected_captions_match_raw_and_utilities": true,
+  "metric_means_verified": true,
+  "bootstrap_CI_recomputed_verified": true,
+  "actual_GPU_sessions_total": 3,
+  "session_pair_counts": {
+    "original_full_attempt": 550,
+    "7f3b0b32722f424bbb6cd9ba7999ebb9": 818,
+    "b7ed0ddef44c4e8290465c337ecd509b": 202
+  },
+  "single_session_for_whole_test": false,
+  "all_apps_zero_tasks_and_stopped": true,
+  "no_live_containers": true
+}

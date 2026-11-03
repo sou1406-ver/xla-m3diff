@@ -1,6 +1,6 @@
 {
   "period_start": "2026-11-01",
-  "authorization": "Userexplicitlynarrowedtotalcontinuationbudget13.5USD,phase1undisturbedthenconditionalphase2,samecandidate.",
+  "authorization": "Authorizedcontinuationcompletedandscored;allGPUoff.NoadditionalGPUjobsrequested.",
   "initial_consumption": "15.51",
   "baseline_provider_consumption_before_continuation": "15.31",
   "baseline_reconciliation_buffer": ".20",
@@ -14,10 +14,14 @@
       "cap": "13.5",
       "global_GPU_deadline_seconds": 15720,
       "profile": "A10080_4CPU32GiB_plus_bounded_CPU",
-      "status": "PHASE1_RUNNING_PHASE2_APPROVED",
+      "status": "COMPLETE_SCORED_GPU_OFF",
       "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
       "phase1_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
-      "settlement_kind": "Combinedtotalupperallcontinuationphases;notnew13.48on topofoldreservation"
+      "settlement_kind": "Uppermax(providerappreport,workspacedelta)+.10reconciliation;notinvoice",
+      "settled": "10.88",
+      "provider_reported_app_cost": "10.74902604",
+      "workspace_consumption_delta": "10.78000000",
+      "phase2_app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg"
     }
   ]
 }

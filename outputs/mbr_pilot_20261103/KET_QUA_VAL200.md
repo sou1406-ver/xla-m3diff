@@ -1,5 +1,8 @@
 # MBR decoding: pilot val200 qua gate, chưa chạy full test
 
+**Trạngtháicuối:** full1570đãCOMPLETE_SCORED22:23ngày03/11,allGPUoff. Xem[KET_QUA_FULL1570](KET_QUA_FULL1570.md). Cácnotesđangchạy/bịdởphíadướilàlịchsửtừnggiaiđoạn.
+
+
 **Cập nhật cuối:** [Full bị gián đoạn tại550/1570](full1570/CLOSED_REPORT.md),550Real/0Render;không có điểm full,đã dừng và không retry. Các cập nhật đang chạy bên dưới là lịch sử. Kết quả val200 không đổi và vẫn chỉ là pilot.
 
 

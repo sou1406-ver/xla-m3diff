@@ -1,5 +1,8 @@
 # User duyệt tổng13,5USD:phase1giữnguyên,phase2đợinối
 
+**Trạngtháicuối:** full1570đãCOMPLETE_SCORED22:23ngày03/11,allGPUoff. Xem[KET_QUA_FULL1570](../KET_QUA_FULL1570.md). Cácnotesđangchạy/bịdởphíadướilàlịchsửtừnggiaiđoạn.
+
+
 User đã trảlời“Nâng tổng trần lên13,5đô”. Đây làtrầntổngcontinuation,tínhcảphase1đangchạy;khôngcộng13,5vào11. Khôngtínhlại4,7066USDcủalượt550cặpđãđóngvàotrầnnày.
 
 Quyếtđịnh trước mọi CIDErfull. Giữnguyên550raw,sampling/seed/selector/scorer. Phase1khôngbịcancel,sửaenvhaytimer;mốc21:49:57củanóvẫnnguyên. Phase2CPUcoordinatorchờphase1PIPELINE_DONEvàproviderxácnhậnoldapp0container,rồimớicấpGPUtiếpprefixcònthiếu. Nếuphase1đãđủ/chấmxong,phase2khôngdùngGPU. Tốida3continuationGPUworksessioncộngdồn,mọiUUIDđượcghi.

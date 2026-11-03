@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**FULL ĐÃ HOÀN TẤT03/11:** [Kếtquảfull1570](../outputs/mbr_pilot_20261103/KET_QUA_FULL1570.md),COMPLETE_SCORED22:23:27GMT+7. Real34,58→34,36(−0,22),CI[−3,56;+3,32];Render30,18→33,80(+3,62),CI[+1,09;+5,98]. Đủ803/767,3phiên550+818+202,550rawbytescũgiữnguyên,CIđãtínhlạikhớp. Allapps stopped/0container. Continuationcost10,749USD<trần13,5;fullcảlượt550đầu15,4556USDkhônggồmpilot. CanonicalMETRICSởresume1020_v1/combined_full1570;FINAL_OUTCOME/PIPELINE_PHASE2_DONElàtrạngtháicuối. PIPELINE_DONEgốclàphase1dừngmốc,khôngphảifullthấtbạilầncuối. Giữbasegreedydefault,chỉkhẳngđịnhgainRender;khôngclaimgiảmhallucination/zoomrotation. CácLIVE/đangchạybêndướilàlịchsử.
+
 **LIVE13.5USD:** phase1vẫnap-2LLzTT9FpCW7OGxuFpawMc;phase2CPUactiveap-VkUSKIKKsWLaYfYCDhFNbgchờnaturalend+ownerSDKreceiptoldapp0containers,xem[releasegate](../outputs/mbr_pilot_20261103/resume1020_v1/PHASE2_RELEASE_GATE.md). Localwatchersession6645;giữhost/appđếnchuyểnphiên.Native20:30đãcậpnhậtchốt13.5/healthwatcher. Quyếtđịnhfc83091trướcscore,finalgate719efce;GPUfinal23:04:57. NhữngappUN5/6MIpreflightđãdừng,khôngGPUphase2.
 
 **Userduyệt13,5USDtổng:** [phase2plan](../outputs/mbr_pilot_20261103/resume1020_v1/PHASE2_PLAN.md),committrướcchấm;giữphase1đếnmốccũ21:49,phase2chỉsauoldapp0containers;khôngcancelphiênđangchạy. Uppercộngdồn13,48USD,finalGPUcutoff23:04:57GMT+7,khôngreset.Mọi550raw/config/seed/selectorđềugiữnguyên. Scheduled20:30đãcậpnhật13,5thay11. Cácnotes11USD/noresumephíadướilàlịchsử.

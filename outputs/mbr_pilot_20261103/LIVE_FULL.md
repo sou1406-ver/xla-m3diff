@@ -1,5 +1,8 @@
 # Full MBR đã dừng,không hoàn thành
 
+**Trạngtháicuối:** full1570đãCOMPLETE_SCORED22:23ngày03/11,allGPUoff. Xem[KET_QUA_FULL1570](KET_QUA_FULL1570.md). Cácnotesđangchạy/bịdởphíadướilàlịchsửtừnggiaiđoạn.
+
+
 **Trạng thái cuối:** `STOP_ERROR_NO_RETRY`,550Real/0Render;app stopped09:04:17GMT+7,03/11/2026. [Báo cáo cuối](full1570/CLOSED_REPORT.md). Không có full metrics;không resume. Billing riêng app4,70657624USD.
 
 Nội dung bên dưới là snapshot khởi chạy trước khi preemption,không phải trạng thái hiện tại.

@@ -1,0 +1,5 @@
+# CPU packaging correction, before camera generation completes
+
+Original frozen synth_common imports cv2 at module import. Initial CPU image omitted opencv, found during preflight audit while A10 generation was still running. CPU-only correction image adds opencv-python-headless<4.12; camera240_score.py, utility, frozen camera/keyword scorer bytes unchanged. No GPU retry, no regenerated captions, no metric-driven change. Original pipeline may report CPU subprocess error; retain that record and write FINAL_OUTCOME after corrected CPU packaging. One corrected CPU function, hard240s, included in1.95USD reservation (<2 cap). No new GPU authorized by this correction.
+
+Local finish_camera.py waits for original pipeline, collects complete raw, runs CPU correction only if full generation exists and original pipeline did not score. It validates240 IDs/seeds and reports conservative billing; it cannot launch inference or retry GPU. Collector sessions are local and require host to stay awake only to download/correct CPU; cloud GPU always has watchdog/hardtimeout independently.

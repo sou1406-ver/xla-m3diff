@@ -1,0 +1,11 @@
+{
+  "camera_detector.py": "793a30563c6e11d4ab4d0ce2ba4c0d1bbcfc7a4623be4ccdd76a9599c86c2d07",
+  "evaluate_camera.py": "2581b8407a5b2c584f353e396da669870d0c3a171c600c916d4cf66c159ff690",
+  "ft_common.py": "039880aa8b9d101b7c613e3960c9ca9a6dbc3b2cf5e107afbecee503b1ac863e",
+  "manifest.jsonl": "b15467803c7af9758b5b97ca0353767fdc50573608670b1280dd35d8b941d738",
+  "PROTOCOL.json": "6b2000b62d69c91f35118e6bb948f0d62b73e77c9368323c6830c71b62965f53",
+  "questions.json": "ba122bb3c9cf3f802595de410e4fb48f3095fab858f071e60aed59451b6e3da4",
+  "score_camera.py": "6edb8092561bd36752cc8d7dbb1f44a39c1d11071b93aaddc167b9d1cdccd06c",
+  "score_captions.py": "3e09865fa5253ba1912252e9cd9da67fd09b77cd8793a135764a333c8e2eca5e",
+  "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+}

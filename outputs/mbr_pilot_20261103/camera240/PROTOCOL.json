@@ -1,0 +1,42 @@
+{
+  "stage": "camera240_matched_base_MBR",
+  "model": "original_base_no_adapter",
+  "seed": 20261105,
+  "samples": 8,
+  "greedy": 1,
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "repetition_penalty": 1.05,
+  "num_beams": 1,
+  "max_new_tokens": 1024,
+  "dtype": "bfloat16",
+  "methods": [
+    "batch2_fixed"
+  ],
+  "batch_fallback": [
+    4,
+    2,
+    1
+  ],
+  "compare_order": "alternate sequential-first/batch-first by pair index",
+  "selector": "CIDEr-D average over other8 candidates,including greedy as proposed; self excluded; duplicates retained; tie prefers greedy then lower sample index. Approximate consensus MBR, not an unbiased posterior-risk estimate.",
+  "idf": "train references only, grouped by training pair ID, PTB tokenized,4gram, sigma6",
+  "method_selection": "lowest measured total cost for8samples across20pairs; no use of CIDEr/oracle to choose generation method",
+  "oracle": "diagnostic only, not usable selector, not hyperparameter tuning",
+  "pilot_quality_stop": "No claim of full200 failure from small oracle uplift. Stop operationally if oracle<=greedy AND MBR<=greedy in BOTH domains; otherwise budget-admit val200 only after measured timing. No full test authorized by this pilot alone.",
+  "val200_gate": "MBR minus matched greedy >=1.0 CIDEr_x100 separately Real and Render; one fixed sampling config",
+  "current_budget_cap_usd": 2,
+  "cpu_prepare_timeout_seconds": 300,
+  "a10_timeout_seconds": 1740,
+  "a10_soft_stop_seconds": 1500,
+  "val200_budget": "not yet admitted; choose after20timing",
+  "source_val200_questions_sha256": "a62d24103c8a4db453e8ac9c4d3eef7d47ad9c7b91b16f2d55982be3f646f3ae",
+  "questions20_sha256": "3519d964bfe8b86493a55fd5ec27ff66546a75ea73fe2320d9a0cd75d8b3c6ee",
+  "sampling_note": "num_return_sequences8 expands prompt embeddings before LLM prefill; no claim of KV-prefix sharing. Reuse vision/MDP embeddings once per pair for measured sequential/batch paths.",
+  "batch_size": 2,
+  "gpu_timeout_seconds": 4200,
+  "gpu_soft_stop_seconds": 4080,
+  "no_retry": true,
+  "no_training": true
+}

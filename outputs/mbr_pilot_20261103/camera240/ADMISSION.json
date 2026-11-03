@@ -1,0 +1,34 @@
+{
+  "authorized": true,
+  "cap_usd": 2,
+  "reservation_upper_usd": "1.95",
+  "credit_consumed": "26.09000000",
+  "credit_remaining_estimate": "3.91000000",
+  "billing": {
+    "start": "2026-11-01 00:00:00+00:00",
+    "end": "2026-12-01 00:00:00+00:00",
+    "metered_cost": "26.25098607",
+    "metered_cost_breakdown": {
+      "Network Egress": "0.02297296",
+      "LLM Tokens": "0E-8",
+      "Ephemeral Apps": "26.08639911",
+      "Volumes": "0.13801311"
+    },
+    "adjustments": {
+      "Credits": "-26.09000000",
+      "Free Storage": "-0.13801311",
+      "Network Egress Allowance": "-0.02297296",
+      "Plan Cost": "0E-8",
+      "Reservation Adjustment": "-0E-8"
+    },
+    "billed_cost": "0E-8"
+  },
+  "utc": "2026-11-03T16:32:56.403748+00:00",
+  "no_retry": true,
+  "synthetic600_authorized_now": false,
+  "synthetic600_condition": "Only after settlement camera, remaining actual>=2.5 USD and measured worst-case cost fits credit with buffer; no borrowing.",
+  "code_sha256": {
+    "camera_modal.py": "f905baa5fbfafe34104a5ae4f3bf299eb9f17c79883eb5dfaec8d09efba57665",
+    "camera240_score.py": "01f648ff382bf20e28e16ad1991b18e061c64dfb90ad54de2294e2233e99da35"
+  }
+}

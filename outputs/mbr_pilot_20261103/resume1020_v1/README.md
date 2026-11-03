@@ -1,5 +1,8 @@
 # Hoàn tất benchmark bằng continuation1020cặp
 
+**LIVE:** [app đang chạy](https://modal.com/apps/sou1406-ver/main/ap-2LLzTT9FpCW7OGxuFpawMc),snapshot2026-11-03T11:46:32.284027+00:00:12/1020cặp mớiđãlưu,tớireal_test_pair_000562. Quyếtđịnh5845554,bảnrunnercuối07049dd trước mọi điểmfull. DeadlineGPUchung21:49:57GMT+7ngày03/11. Các dòng chưa launch phía dưới là snapshot lúc commit quyếtđịnh.
+
+
 User đã chọn chạy tiếp với trần11USD,cho phép resume sau interruption theo quy tắc khóa trước. Quyết định này thay chính sách khôngresume của lượt đã dừng;giữ nguyên toàn bộ file và kết quả cũ.
 
 550cặp cũ chưa có điểm CIDEr;không chọn hyperparameter/selector dựa trên chúng. Giữ nguyên550dòng/bytes cóSHA9c2d55ad4d4cf6cb556255340c2cf2f7894d838d4eec7cf4f7d21089e4aa47fe. Chỉ sinhIDreal_test_pair_000551trở đi và toàn bộRender:253Real+767Render=1020.

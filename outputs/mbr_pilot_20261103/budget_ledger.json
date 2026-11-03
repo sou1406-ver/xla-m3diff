@@ -43,7 +43,8 @@
       "cap": "11",
       "global_GPU_deadline_seconds": 11220,
       "profile": "A10080_4CPU32GiB_plus_bounded_CPU",
-      "status": "ADMITTED_NOT_LAUNCHED"
+      "status": "RUNNING",
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc"
     }
   ]
 }

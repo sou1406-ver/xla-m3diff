@@ -1,0 +1,11 @@
+{
+  "utc": "2026-11-03T11:43:14.969831+00:00",
+  "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+  "url": "https://modal.com/apps/sou1406-ver/main/ap-2LLzTT9FpCW7OGxuFpawMc",
+  "decision_commit": "5845554",
+  "final_prelaunch_lock_commit": "07049dd",
+  "old550_unscored_at_dispatch": true,
+  "cap_usd": 11,
+  "reserved_upper_usd": "10.95",
+  "status": "DISPATCHED"
+}

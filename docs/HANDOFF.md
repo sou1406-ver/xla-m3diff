@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**LIVE resume03/11:** [app tiếp1020cặp](https://modal.com/apps/sou1406-ver/main/ap-2LLzTT9FpCW7OGxuFpawMc)đangchạy,A10080GB;đãquaReal551. [Protocol/README](../outputs/mbr_pilot_20261103/resume1020_v1/README.md). Usercap11USD,upper10,95. Quyếtđịnh5845554vàrunner07049dd trướcchấm550. Old550giữnguyên;resumeatomic/mốcchung21:49:57GMT+7khôngreset. Chỉchấmđủ1570 vàkhai báo nhiều phiên. Khôngtrain/tune. Các trạngthái noresume/GPUoff phía dưới là lịch sử bị userủyquyềnmới thay thế.
+
 **Quyếtđịnh mới user03/11:** [tiếp1020cặp,trần11USD](../outputs/mbr_pilot_20261103/resume1020_v1/README.md),cho phép resume theo protocol khóa trước,chưa chấm550cặp. Đây là ủy quyền mới thay no-resume cũ,chưa launch lúccommit. Giữ550rawbytes;253Real+767Rendercòn lại,cùngseed/config/selector;khai báo nhiều phiên,khôngclaimonesession. Upper10,95USD,mốcGPUchung11220s khôngreset,CPUchấm khiđủ1570.
 
 **FULL đã đóng03/11:** [STOP_ERROR_NO_RETRY](../outputs/mbr_pilot_20261103/full1570/CLOSED_REPORT.md):550/1570 cặp đã lưu,550Real/0Render. Provider log xác nhận preemption;Modal restart bị attempt guard chặn,không resume. Không METRICS/PER_PAIR/SELECTION/CI full;không gọi partial là benchmark. App stopped09:04:17GMT+7,0app/container. Billing report riêng app4,70657624USD dưới trần18;workspace creditused15,31. Không chạy lại theo user. Pilot val200 vẫn dương nhưng chưa xác nhận full/Render. Các snapshot đang chạy phía dưới là lịch sử.

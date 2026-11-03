@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**Userduyệt13,5USDtổng:** [phase2plan](../outputs/mbr_pilot_20261103/resume1020_v1/PHASE2_PLAN.md),committrướcchấm;giữphase1đếnmốccũ21:49,phase2chỉsauoldapp0containers;khôngcancelphiênđangchạy. Uppercộngdồn13,48USD,finalGPUcutoff23:04:57GMT+7,khôngreset.Mọi550raw/config/seed/selectorđềugiữnguyên. Scheduled20:30đãcậpnhật13,5thay11. Cácnotes11USD/noresumephíadướilàlịchsử.
+
 **Theo dõi20:30:** [monitor plan](../outputs/mbr_pilot_20261103/resume1020_v1/MONITOR_PLAN.md),heartbeatmộtlầnđãtạo. Userchophépnớideadlinecóđiềukiệntrướcchấm nếuETAkhôngkịp vàtổngcontinuation<=11USD;cầncommitrevisiontrướcápdụng. Hiệnchưanới,currentdeadline21:49:57. ChỉsửaSTATEkhôngđổitimerlive;cầnhandoffcheckpointcókiểmsoátnếucần.18:58log67cặpmới,chưaRenderthựctế.
 
 **LIVE resume03/11:** [app tiếp1020cặp](https://modal.com/apps/sou1406-ver/main/ap-2LLzTT9FpCW7OGxuFpawMc)đangchạy,A10080GB;đãquaReal551. [Protocol/README](../outputs/mbr_pilot_20261103/resume1020_v1/README.md). Usercap11USD,upper10,95. Quyếtđịnh5845554vàrunner07049dd trướcchấm550. Old550giữnguyên;resumeatomic/mốcchung21:49:57GMT+7khôngreset. Chỉchấmđủ1570 vàkhai báo nhiều phiên. Khôngtrain/tune. Các trạngthái noresume/GPUoff phía dưới là lịch sử bị userủyquyềnmới thay thế.

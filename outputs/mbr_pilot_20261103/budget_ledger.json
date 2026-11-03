@@ -1,50 +1,23 @@
 {
   "period_start": "2026-11-01",
-  "authorization": "User explicitly authorized remaining1020 continuation,11USD cap with predefined interruption resume. No training/config tuning.",
-  "initial_consumption": "8.10481579",
+  "authorization": "Userexplicitlynarrowedtotalcontinuationbudget13.5USD,phase1undisturbedthenconditionalphase2,samecandidate.",
+  "initial_consumption": "15.51",
+  "baseline_provider_consumption_before_continuation": "15.31",
+  "baseline_reconciliation_buffer": ".20",
+  "baseline_source": "OriginalcontinuationADMISSIONbudget_snapshot(api15.31),closedpriorappsconfirmedstopped. Previousoverlappingconservativeclosedjobestimatesarchived.",
+  "closed_jobs_archive": "budget_ledger_before_13_5.json",
+  "reconciliation_utc": "2026-11-03T12:13:16.303554+00:00",
   "jobs": [
     {
-      "label": "pilot20_all_cpu_gpu",
-      "reservation": "0.98",
-      "settled": "0.77",
-      "rate": "mixed_conservative_upper",
-      "profile": "a10",
-      "seconds": 1263
-    },
-    {
-      "label": "MBR_val200_GPU",
-      "reservation": "3.49",
-      "rate": "1.70",
-      "seconds": 7200,
-      "profile": "a10",
-      "settled": "1.93",
-      "settlement_kind": "Conservative bound including180s startup;not invoice"
-    },
-    {
-      "label": "MBR_val200_CPU_misc_A100audit",
-      "reservation": ".70",
-      "settled": ".62",
-      "settlement_kind": "CPU/misc .10 plus A100 upper .52 including180startup;not invoice"
-    },
-    {
-      "label": "MBR_full1570_all_stages",
-      "reservation": "17.70",
-      "cap": "18",
-      "profile": "A10080_4CPU32GiB_plus_CPU_pipeline",
-      "seconds": 19200,
-      "settlement_kind": "Conservative completed-runtime upper with180s startup each plus.04misc;not invoice",
-      "settled": "5.39",
-      "provider_reported_app_metered_cost": "4.70657624",
-      "status": "STOP_ERROR_NO_RETRY_550_REAL"
-    },
-    {
       "label": "MBR_resume1020_v1",
-      "reservation": "10.95",
-      "cap": "11",
-      "global_GPU_deadline_seconds": 11220,
+      "reservation": "13.48",
+      "cap": "13.5",
+      "global_GPU_deadline_seconds": 15720,
       "profile": "A10080_4CPU32GiB_plus_bounded_CPU",
-      "status": "RUNNING",
-      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc"
+      "status": "PHASE1_RUNNING_PHASE2_APPROVED",
+      "app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "phase1_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
+      "settlement_kind": "Combinedtotalupperallcontinuationphases;notnew13.48on topofoldreservation"
     }
   ]
 }

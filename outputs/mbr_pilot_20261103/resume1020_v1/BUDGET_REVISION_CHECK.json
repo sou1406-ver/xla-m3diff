@@ -1,0 +1,19 @@
+{
+  "utc": "2026-11-03T12:03:36.089154+00:00",
+  "STATE.json": {
+    "started_utc": "2026-11-03T11:42:57.678585+00:00",
+    "gpu_deadline_unix": 1793717397.6786137,
+    "cap_usd": 11,
+    "gpu_call_id": "fc-01M6GKGFE4W8HP1BSRBKKEDMY6"
+  },
+  "PROGRESS.json": {
+    "completed_pairs": 86,
+    "planned": 1020,
+    "last_id": "real_test_pair_000636",
+    "elapsed_seconds": 1167.9113051891327,
+    "batch_size": 2
+  },
+  "sessions": [
+    "mbr_pilot_20261103/resume1020_v1/sessions/7f3b0b32722f424bbb6cd9ba7999ebb9_start.json"
+  ]
+}

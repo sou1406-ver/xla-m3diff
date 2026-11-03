@@ -1,0 +1,40 @@
+{
+  "status": "USER_APPROVED_BEFORE_ANY_FULL_TEST_SCORING",
+  "user_answer": "N\u00e2ng t\u1ed5ng tr\u1ea7n l\u00ean13,5\u0111\u00f4",
+  "previous_total_cap_usd": 11,
+  "new_total_continuation_cap_usd": 13.5,
+  "includes_all_phase1_spend": true,
+  "does_not_include_already_closed_original550_run": true,
+  "old550_raw_sha256": "9c2d55ad4d4cf6cb556255340c2cf2f7894d838d4eec7cf4f7d21089e4aa47fe",
+  "original_continuation_start_utc": "2026-11-03T11:42:57.678585+00:00",
+  "keep_current_phase1_running": true,
+  "phase1_original_deadline_unchanged": 1793717397.6786137,
+  "absolute_gpu_deadline_unix": 1793721897.678585,
+  "absolute_gpu_deadline_GMT7": "2026-11-03T23:04:57.678585+07:00",
+  "total_serial_GPU_horizon_seconds": 15720,
+  "max_continuation_GPU_work_sessions": 3,
+  "phase2_gate": "Wait for original PIPELINE_DONE and provider TaskList(oldapp)==empty. No early cancellation. Ifphase1complete,noGPUphase2. Otherwisecontinue only persisted missingprefix IDs.",
+  "no_scoring_before_revision_commit": true,
+  "no_hyperparameter_seed_selector_changes": true,
+  "no_claim_single_session": true,
+  "rate_method": "Exact published GPU+hard4CPU32GiB rate2.9452/h rounded up2.96;replace prior10percentprofilemargin with explicit180s total GPUoverlap/shutdown allowance and individuallyboundedCPUfunctions. AllGPUstartup/restarts fall inside original-start-to-globalcutoff serial interval.",
+  "rate_actual_gpu_cpu_ram_hour": "2.94520",
+  "rate_ceiling_hour": "2.96",
+  "budget_upper_usd": {
+    "all_GPU_phase1_and2_including180extra": "13.08",
+    "phase1_controller": "0.08",
+    "phase2_controller": "0.11",
+    "up_to2CPUscoringcalls": "0.18",
+    "misc": ".03",
+    "total": "13.48"
+  },
+  "credit_accounting": "Providerconsumptionbeforecontinuation15.31 plus.20reconciliationbuffer replaces overlappingclosed-jobestimates;archiveoldledger.13.48totalreservationreplaces10.95,notaddedon top.",
+  "files": {
+    "phase2_modal.py": "d7ba58f21c0529db1b7842af933b3a66ea716f1107a9edc98d98fc6085fea0ca",
+    "phase2_controller.txt": "6a62fe2fe8288a184bf8067ae878aba72091e23714d3cb9df86119372ab9d4ec",
+    "evaluate_resume_phase2.py": "5108205dc24568693fed8f053d32162ae1e22da1b548ffd208cf276823cb6e7a",
+    "resume_store.py": "36a889443b579df2c84cebbe8ff7fbecb16e28107667d6deb1d080c50f7ee66f",
+    "score_resume.py": "6e70de9e330d00b95fef39a0048707292a3e555fe68201a6bf5a1048234c986a",
+    "utility.py": "071566b99c1f0507d89b43d4bc8c01d68e666a0b7e33ab8d94c2e4cc4dba5b36"
+  }
+}

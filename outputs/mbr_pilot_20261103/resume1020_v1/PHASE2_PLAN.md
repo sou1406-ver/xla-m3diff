@@ -1,0 +1,13 @@
+# User duyệt tổng13,5USD:phase1giữnguyên,phase2đợinối
+
+User đã trảlời“Nâng tổng trần lên13,5đô”. Đây làtrầntổngcontinuation,tínhcảphase1đangchạy;khôngcộng13,5vào11. Khôngtínhlại4,7066USDcủalượt550cặpđãđóngvàotrầnnày.
+
+Quyếtđịnh trước mọi CIDErfull. Giữnguyên550raw,sampling/seed/selector/scorer. Phase1khôngbịcancel,sửaenvhaytimer;mốc21:49:57củanóvẫnnguyên. Phase2CPUcoordinatorchờphase1PIPELINE_DONEvàproviderxácnhậnoldapp0container,rồimớicấpGPUtiếpprefixcònthiếu. Nếuphase1đãđủ/chấmxong,phase2khôngdùngGPU. Tốida3continuationGPUworksessioncộngdồn,mọiUUIDđượcghi.
+
+MốcGPUcuối toàncontinuationlà23:04:57GMT+7ngày03/11,15720giâytừ18:42:57banđầu. Phase2khôngresetngânsáchhoặcđồnghồ. Workerwatchdog/controllercancelvẫnbảovệmốcchung. Khôngđảmbảochắcchắnxongnếubịngắtnhiềuhoặcthroughputđuôidàihơndựbáo.
+
+ResourcecontractA10080GB+hard4CPU32GiB:2,9452USD/giờtheoAPI,rounduplên2,96. Thayprofilemargin10%trướcđóbằngboundtườngminh:serialGPU15720giây+180giâyoverlap/shutdown13,08USD;controllerphase1+phase2tốiđa0,19;2CPUscorecalltốiđa0,18;misc0,03.Tổngupper**13,48USD**<13,5. GPUkhôngchạysongsonghaidợt;mọisetup/restartđềunằmtrongkhungthờigiantừoriginalstartđếncutoff.
+
+Ledgercũđượclưunguyênbudget_ledger_before_13_5.json.Baselineprovidercreditsusedtrướccontinuation15,31+0,20bufferđốisoát=15,51;thaycácupperchồnglặpcủajobđãđóng.Tổng15,51+13,48=28,99dướiceilingguard29,50.Khôngmuathêmcredit/đổigói.
+
+Nguồnauthority:BUDGET_REVISION_13_5.jsonvàADMISSION_PHASE2.json.HaiSTATE/ADMISSIONcũkhôngbịghiđè. Scheduledcheck20:30đãđổisanggióihạn13,5,kếhoạchkhôngcắtsớmphase1.

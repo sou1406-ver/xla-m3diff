@@ -1,0 +1,7 @@
+# Partial reporting rule — agreed while camera generation is running, before metrics
+
+User03/11: inspect whether deadline can be extended without rerun; if not, keep original inference until stop and score only fully saved matched pairs, disclose missing by condition. No rerun approved.
+
+Inspection: parent threading.Timer(4080), generator environment deadline read once, Modal function timeout4200 are fixed for this invocation. No supported live extension path is implemented. Writing Volume JSON cannot reset those timers. Leave GPU unchanged. Generator stops starting new pairs at deadline minus90seconds (~00:41:38), watchdog00:43:08, hard00:45:08 on04/11GMT+7. Latest35/240 at23:45; no metrics examined.
+
+If incomplete, CPU-only diagnostic in partial_diagnostic/; preserve original raw and failure/partial statuses. Include only fully saved greedy+8 samples with correct seed and ordered unique ID prefix. Drop only a malformed final JSON line with explicit record, never complete captions selectively. Train-IDF selector and frozen regex scorer unchanged; adapt only full-count assertions and denominator reporting. Report matched/missing counts for every condition (including absent conditions), no full240 claim or extrapolation. Prefix is ordered, not random; ≥230 is not an independent validity threshold. No SFT gate or decoder promotion from partial output. CPU240s hard with OpenCV, no GPU; covered by existing2USD cap.

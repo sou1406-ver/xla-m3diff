@@ -1,23 +1,15 @@
 
 @app.function(image=modal.Image.debian_slim(python_version='3.12'),cpu=(.25,.25),memory=(512,512),timeout=18000,retries=0,max_containers=1,scaledown_window=2,volumes={'/mnt/m3diff':V})
 def pipeline_phase2(probe=False):
- import asyncio,json,time,traceback
+ import json,time,traceback
  from datetime import datetime,timezone
- from modal.client import _Client
- from modal._utils.async_utils import synchronizer
- from modal_proto import api_pb2
  p=Path(DEST);V.reload();ad=json.loads((p/'ADMISSION_PHASE2.json').read_text());assert ad['authorized'] and ad['cap_usd']==13.5
  end=ad['absolute_gpu_deadline_unix'];donefile=p/'PIPELINE_PHASE2_DONE.json'
  if donefile.exists():return json.loads(donefile.read_text())
  if (p/'STATE_PHASE2.json').exists():state=json.loads((p/'STATE_PHASE2.json').read_text())
  else:
   state={'created_utc':datetime.now(timezone.utc).isoformat(),'original_continuation_start_utc':ad['original_continuation_start_utc'],'gpu_deadline_unix':end,'cap_usd':13.5,'old_app_id':'ap-2LLzTT9FpCW7OGxuFpawMc'};(p/'STATE_PHASE2.json').write_text(json.dumps(state));V.commit()
- @synchronizer.create_blocking
- async def old_tasks():
-  client=await _Client.from_env()
-  result=await client._stub.TaskList(api_pb2.TaskListRequest(environment_name='main',app_id=state['old_app_id']))
-  return [t.task_id for t in result.tasks]
- if probe:return {'provider_container_query_ok':True,'old_app_tasks':old_tasks()}
+ if probe:return {'release_gate':'OwnerSDK TaskList receipt plus phase1PIPELINE_DONE','GPU_not_requested':True}
  def wait(call,deadline):
   while True:
    if time.time()>=deadline:
@@ -37,9 +29,11 @@ def pipeline_phase2(probe=False):
   else:
    # Fail closed unless the provider confirms that all old-app containers ended.
    while True:
-    tasks=old_tasks()
-    (p/'PHASE1_RELEASE_CHECK.json').write_text(json.dumps({'utc':datetime.now(timezone.utc).isoformat(),'old_app_tasks':tasks}));V.commit()
-    if not tasks:break
+    V.reload()
+    receipt=p/'PHASE1_RELEASE_APPROVED.json'
+    if receipt.exists():
+     proof=json.loads(receipt.read_text());assert proof['old_app_id']==state['old_app_id'] and proof['old_app_tasks']==[] and proof['phase1_terminal_status']
+     break
     if time.time()>=end-120:raise TimeoutError('Oldappstillhascontainers;noGPUoverlapallowed')
     time.sleep(10)
    V.reload();newcount=len(list((p/'pairs').glob('*.json')))

@@ -1,6 +1,6 @@
 {
   "period_start": "2026-11-01",
-  "authorization": "Full1570 stopped after preemption at550pairs. User requires no retry/resume;closed. No new inference authorized.",
+  "authorization": "User explicitly authorized remaining1020 continuation,11USD cap with predefined interruption resume. No training/config tuning.",
   "initial_consumption": "8.10481579",
   "jobs": [
     {
@@ -36,6 +36,14 @@
       "settled": "5.39",
       "provider_reported_app_metered_cost": "4.70657624",
       "status": "STOP_ERROR_NO_RETRY_550_REAL"
+    },
+    {
+      "label": "MBR_resume1020_v1",
+      "reservation": "10.95",
+      "cap": "11",
+      "global_GPU_deadline_seconds": 11220,
+      "profile": "A10080_4CPU32GiB_plus_bounded_CPU",
+      "status": "ADMITTED_NOT_LAUNCHED"
     }
   ]
 }

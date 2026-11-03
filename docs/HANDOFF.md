@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**Quyếtđịnh mới user03/11:** [tiếp1020cặp,trần11USD](../outputs/mbr_pilot_20261103/resume1020_v1/README.md),cho phép resume theo protocol khóa trước,chưa chấm550cặp. Đây là ủy quyền mới thay no-resume cũ,chưa launch lúccommit. Giữ550rawbytes;253Real+767Rendercòn lại,cùngseed/config/selector;khai báo nhiều phiên,khôngclaimonesession. Upper10,95USD,mốcGPUchung11220s khôngreset,CPUchấm khiđủ1570.
+
 **FULL đã đóng03/11:** [STOP_ERROR_NO_RETRY](../outputs/mbr_pilot_20261103/full1570/CLOSED_REPORT.md):550/1570 cặp đã lưu,550Real/0Render. Provider log xác nhận preemption;Modal restart bị attempt guard chặn,không resume. Không METRICS/PER_PAIR/SELECTION/CI full;không gọi partial là benchmark. App stopped09:04:17GMT+7,0app/container. Billing report riêng app4,70657624USD dưới trần18;workspace creditused15,31. Không chạy lại theo user. Pilot val200 vẫn dương nhưng chưa xác nhận full/Render. Các snapshot đang chạy phía dưới là lịch sử.
 
 **LIVE full03/11:** user đã duyệt trần18USD; [full1570 đang chạy](../outputs/mbr_pilot_20261103/LIVE_FULL.md) trên [Modal app](https://modal.com/apps/sou1406-ver/main/ap-6kENLEhpd83ypqw6H1aAC8). Khóa trước prediction commitc303d9b; upper reservation17,70USD. Fresh greedy+8sample803Real/767Render,A10080GB. Các cặp đầu thành công; chưa có điểm full. CPU coordinator tự chấm sau inference, trả GPU trước chấm;hard timeout/khôngretry. Các trạng thái chưaadmit/GPUoff phía dưới là lịch sử pilot.

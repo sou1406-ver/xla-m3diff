@@ -1,0 +1,15 @@
+{
+  "raw550hash_verified": true,
+  "no_old_full_CIDEr_METRICS_PER_PAIR_SELECTION": true,
+  "1020_remaining_IDs_exact": true,
+  "generation_function_AST_matches_original": true,
+  "storage_tests": [
+    "partial temp ignored",
+    "complete prefix retained",
+    "overwrite refused",
+    "gap refused",
+    "wrong seed refused"
+  ],
+  "syntax_checked": true,
+  "GPU_not_launched": true
+}

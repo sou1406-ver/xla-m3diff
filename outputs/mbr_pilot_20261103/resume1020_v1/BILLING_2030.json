@@ -1,0 +1,11 @@
+{
+  "checked_utc": "2026-11-03T13:30:58.145126+00:00",
+  "cost_complete_hour_buckets_only": {
+    "ap-2LLzTT9FpCW7OGxuFpawMc": "3.79899549",
+    "ap-VkUSKIKKsWLaYfYCDhFNbg": "0.00991700",
+    "ap-UN5XUiNr9fNJhpcRsKgqpi": "0.00065937",
+    "ap-6MIrMOcyPlS8M04UieUvq6": "0.00084400"
+  },
+  "sum_complete_hour_buckets": "3.81041586",
+  "note": "Currentpartialhournotincluded;notfinalbillorfullspendtodate."
+}

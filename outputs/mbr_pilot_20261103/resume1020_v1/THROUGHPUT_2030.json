@@ -1,0 +1,20 @@
+{
+  "checked_utc": "2026-11-03T13:32:15.142068+00:00",
+  "pairs_new": 569,
+  "pairs_total_including_original550": 1119,
+  "remaining": 451,
+  "real_interpair_mean_seconds": 12.02107343503407,
+  "render_interpair_mean_seconds": 10.772344274611413,
+  "render_recent100_mean_seconds": 10.472838287353516,
+  "render_recent20_mean_seconds": 11.350009596347808,
+  "ETA_render_mean_GMT7": "2026-11-03T21:53:13.469336+07:00",
+  "ETA_recent100_GMT7": "2026-11-03T21:50:58.392136+07:00",
+  "phase1_deadline_GMT7": "2026-11-03T21:49:57+07:00",
+  "combined_deadline_GMT7": "2026-11-03T23:04:57+07:00",
+  "phase2_cold_setup_allowance_seconds": 180,
+  "within_approved_combined_horizon": true,
+  "action": "KEEP_PHASE1_UNTOUCHED_KEEP_PHASE2_STANDBY",
+  "no_quality_metrics_read": true,
+  "local_release_watcher_healthy": true,
+  "same_phase1_session": true
+}

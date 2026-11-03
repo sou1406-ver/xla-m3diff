@@ -1,5 +1,8 @@
 # MBR decoding: pilot val200 qua gate, chưa chạy full test
 
+**Cập nhật sau báo cáo pilot:** user đã duyệt full18USD và [full đang chạy](LIVE_FULL.md). Các trạng thái chưaadmit/GPUoff trong báo cáo phía dưới mô tả lúc kết thúc pilot, không phải trạng thái live. Chưa có điểm full.
+
+
 Cập nhật 03/11/2026. Dùng checkpoint M3Diff gốc, không adapter, không train. Nhánh caption SFT v2 vẫn đã đóng; chưa triển khai loss đặc trưng. MBR là thay đổi ở bước sinh/chọn câu, chưa có bằng chứng model nhìn ảnh tốt hơn.
 
 ## Kết quả chính

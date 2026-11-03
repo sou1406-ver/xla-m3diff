@@ -1,5 +1,7 @@
 # Context bàn giao — cập nhật03/11/2026
 
+**LIVE full03/11:** user đã duyệt trần18USD; [full1570 đang chạy](../outputs/mbr_pilot_20261103/LIVE_FULL.md) trên [Modal app](https://modal.com/apps/sou1406-ver/main/ap-6kENLEhpd83ypqw6H1aAC8). Khóa trước prediction commitc303d9b; upper reservation17,70USD. Fresh greedy+8sample803Real/767Render,A10080GB. Các cặp đầu thành công; chưa có điểm full. CPU coordinator tự chấm sau inference, trả GPU trước chấm;hard timeout/khôngretry. Các trạng thái chưaadmit/GPUoff phía dưới là lịch sử pilot.
+
 **Trạng thái mới nhất 03/11:** [MBR val200 đã hoàn tất và qua gate](../outputs/mbr_pilot_20261103/KET_QUA_VAL200.md): Real85,62→106,53(+20,91), Render201,47→206,70(+5,23). CI Render còn rộng; review40 là assistant, không phải nhãn người độc lập. Audit A100 dừng đúng soft limit18/20, canonical parity18/18. GPU đã tắt,0 app/container. **Full1570 chỉ mới chuẩn bị, chưa admit/chưa launch**: dự kiến~14USD,trần đề xuất18USD; user đang cân nhắc lợi/hại vì chi phí cao hơn dự đoán cũ. Không train/loss đặc trưng/v3. Các snapshot đang chạy phía dưới là lịch sử.
 
 **MBR val200 đang chạy:** [pilot20 đủ và báo cáo](../outputs/mbr_pilot_20261103/KET_QUA_20.md);batch2rẻhơn1.417×,nhưngMBR20deltaReal−12.14/Render−41.42,oraclecao;khôngđổi sangpooltuầntựtốtđiểmsaukhiđọcref. [Val200app](https://modal.com/apps/sou1406-ver/main/ap-rH53YdWBmdC2pW9wD1QsTQ),mộtconfig,cap3.60USD;chưađiểmval,fullchưaadmit. Cácsnapshotpilot20đangchạybêndướilàlịchsử.

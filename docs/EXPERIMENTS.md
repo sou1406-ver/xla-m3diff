@@ -4,7 +4,7 @@ Các đường dẫn bên dưới nằm trong `outputs/`. Mỗi folder thường
 
 | Nhóm | Folder / entrypoint | Đã làm và kết luận |
 |---|---|---|
-| MBR pilot03/11 | [mbr_pilot_20261103](../outputs/mbr_pilot_20261103/KET_QUA_VAL200.md) | Decoding-only;val200 qua +1CIDEr mỗi miền,Real+20,91/Render+5,23. Full chưa admit;review và cost audit đã xong,GPU off. |
+| MBR pilot03/11 | [mbr_pilot_20261103](../outputs/mbr_pilot_20261103/KET_QUA_VAL200.md) | Decoding-only;val200 qua +1CIDEr mỗi miền,Real+20,91/Render+5,23. User đã duyệt18USD;[full đang chạy](../outputs/mbr_pilot_20261103/LIVE_FULL.md),chưađiểmfull. |
 | V2 cuối03/11 | [r64_v2_final_round](../outputs/r64_v2_final_round/KET_QUA.md) | Train450steps;từbase;camera40/180và41/60qua,synthcamera124/600và4typefail. Dừng;khôngval/full/v3;giữbase. |
 | Dựng lại baseline | [baseline_results](../outputs/baseline_results), [notebook](../outputs/m3diff-baseline-full.ipynb), [Modal runner](../outputs/run_baseline_modal.py) | Full1570 từ checkpoint gốc; hoàn thành inference reproduction |
 | SFT đầu tiên | [real_sft_results](../outputs/real_sft_results), [runner](../outputs/run_real_sft_modal.py) | Random/hard caption SFT; không có gain cross-domain bền vững |

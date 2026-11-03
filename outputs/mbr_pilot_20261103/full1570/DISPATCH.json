@@ -1,0 +1,12 @@
+{
+  "launched_utc": "2026-11-03T00:28:53.474346+00:00",
+  "app_id": "ap-6kENLEhpd83ypqw6H1aAC8",
+  "url": "https://modal.com/apps/sou1406-ver/main/ap-6kENLEhpd83ypqw6H1aAC8",
+  "cap_usd": 18,
+  "reserved_upper_usd": "17.70",
+  "lock_commit_before_predictions": "c303d9b",
+  "mode": "durable_CPU_pipeline_GPU_then_CPUscore",
+  "no_training": true,
+  "no_automatic_retry": true,
+  "status": "DISPATCHED_WAITING_FOR_PROGRESS"
+}

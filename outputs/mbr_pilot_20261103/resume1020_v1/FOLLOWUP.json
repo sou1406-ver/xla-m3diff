@@ -4,7 +4,9 @@
   "one_time": true,
   "status": "ACTIVE",
   "user_authorized_conditional_deadline_extension": true,
-  "cap_total_continuation_usd": 11,
+  "cap_total_continuation_usd": 13.5,
   "do_not_use_quality_scores_for_runtime_decision": true,
-  "current_deadline_unmodified": true
+  "current_deadline_unmodified": true,
+  "current_phase1_deadline_unmodified": true,
+  "phase2_owner_receipt_gate": true
 }

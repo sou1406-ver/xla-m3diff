@@ -1,11 +1,19 @@
 {
-  "utc": "2026-11-03T12:14:56.411250+00:00",
-  "app_id": "ap-UN5XUiNr9fNJhpcRsKgqpi",
-  "url": "https://modal.com/apps/sou1406-ver/main/ap-UN5XUiNr9fNJhpcRsKgqpi",
+  "utc": "2026-11-03T12:27:13.080604+00:00",
+  "app_id": "ap-VkUSKIKKsWLaYfYCDhFNbg",
+  "url": "https://modal.com/apps/sou1406-ver/main/ap-VkUSKIKKsWLaYfYCDhFNbg",
   "phase1_app_id": "ap-2LLzTT9FpCW7OGxuFpawMc",
-  "prelaunch_decision_commit": "fc83091",
-  "total_continuation_cap_usd": 13.5,
-  "reserved_upper_all_phases_usd": "13.48",
-  "phase2_GPU_not_started_at_dispatch": true,
-  "mode": "CPUwaitfornaturalphase1completionthenverifyoldcontainers0thenresumeifneeded"
+  "decision_commit": "fc83091",
+  "final_provider_gate_commit": "719efce",
+  "previous_CPU_preflight_apps_stopped": [
+    "ap-UN5XUiNr9fNJhpcRsKgqpi",
+    "ap-6MIrMOcyPlS8M04UieUvq6"
+  ],
+  "GPU_phase2_not_started": true,
+  "mode": "CPUwaitforphase1DONEplusownerSDKreceiptzeroOldAppcontainers",
+  "total_cap_usd": 13.5,
+  "upper_total_all_phases": "13.48",
+  "GPU_final_cutoff_GMT7": "2026-11-03T23:04:57+07:00",
+  "local_watcher_session": 6645,
+  "local_watcher_script": "watch_phase1_release.py"
 }

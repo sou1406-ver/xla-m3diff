@@ -1,3 +1,5 @@
+**CameraMBR04/11 đã đóng partial174/240:** [Kết quả](../outputs/mbr_pilot_20261103/camera240/KET_QUA.md). Cờ vật thể127→121/174,nhắc camera0→0;thiếu6pan+toàn60cam_add/remove,khôngđo retention. Provider cancellation trướcdeadline,nguồnhủy chưa rõ,khôngGPUretry. ĐãchấmCPU/allGPUoff;~1.30USD+CPU nhỏ<trần2,creditAPI~2.62USDchưachốt. Không600/newGPU. Full1570Rendergain vẫn hợp lệ;chưaclaimcameraimprovement.
+
 **LIVE camera240 MBR03/11 23:36GMT+7:** user ủy quyền mới base greedy+8sample matched A10, cap2USD/no retry. [Protocol](../outputs/mbr_pilot_20261103/camera240/README.md), commit68fc6b6. Appap-MUqFfsywpoTqauR577cjYH; đầu2cặp đã sinh, chưa điểm. GPUstart23:35:08, soft00:43:08/hard00:45:08 ngày04/11. Số dư API~3.91USD trước lượt. CPU tự chọn train-IDF/chấm sau GPU; localread-only watcher đang tải kết quả. Bộ600 chưa admit, chỉ sau đối soát còn>=2.5USD và uppercostfitsbuffer. Không train/retry/tune.
 
 # Context bàn giao — cập nhật03/11/2026

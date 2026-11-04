@@ -1,0 +1,8 @@
+{
+  "utc": "2026-11-04T03:04:11.003368+00:00",
+  "app_id": "ap-MUqFfsywpoTqauR577cjYH",
+  "provider_container_list": [],
+  "zero_containers": true,
+  "provider_app_list": [],
+  "reason": "Original pipeline canceled, no PIPELINE_DONE; GPU_DONE preserved; CPU partial reporting only."
+}

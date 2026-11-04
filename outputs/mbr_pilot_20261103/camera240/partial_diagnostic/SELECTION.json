@@ -1,0 +1,2960 @@
+[
+  {
+    "id": "zoom_in_L1_00",
+    "selected_index": 8,
+    "utilities": [
+      0.7727220972073041,
+      0.7253549797407133,
+      0.2522201012365405,
+      0.7873198867903544,
+      0.518576245514287,
+      0.4079340879576339,
+      0.5910071635643416,
+      0.34890574397096213,
+      1.2214043072779852
+    ],
+    "greedy": "The posture of the person performing a handstand changes from both hands supporting the ground with arms straight to only the right hand supporting, while the left hand is no longer visible.",
+    "MBR": "The posture of the person performing a handstand changes from both hands supporting the body on the ground with arms bent to supporting the head with both hands, transitioning from a more upright position to an inverted position."
+  },
+  {
+    "id": "zoom_in_L1_01",
+    "selected_index": 0,
+    "utilities": [
+      1.2521369184975468,
+      0.0031408540469189815,
+      1.2521369184975468,
+      0.001980463077726497,
+      1.2500001210249485,
+      0.0020085232685266353,
+      1.2500001210249485,
+      0.002964521691503034,
+      0.003481578307382845
+    ],
+    "greedy": "The area has grown darker.",
+    "MBR": "The area has grown darker."
+  },
+  {
+    "id": "zoom_in_L1_02",
+    "selected_index": 7,
+    "utilities": [
+      1.2995712369077705,
+      0.7396470710755693,
+      0.6663041469735035,
+      2.846274573537737e-07,
+      0.8264036405722465,
+      1.1732881780992641,
+      0.3251444630996673,
+      1.3084231181145225,
+      0.12205566341812499
+    ],
+    "greedy": "The red fire hydrant on the right side of the road has moved to the left. The potted plant in front of the red house on the left side of the road is no longer visible. The bicycle that was leaning against the fence on the right side of the road has moved to the center of the road. The black gate at the entrance to the small alley between the two buildings on the left side of the picture has disappeared.",
+    "MBR": "The black iron gate at the entrance to the left of the blue house in the center of the picture has disappeared. The flower pot on the left side of the red fence near the front right of the scene has disappeared. The red fire hydrant next to the bicycle on the right side of the road has decreased in size. The potted plant with orange flowers in front of the red building on the left side of the street has disappeared."
+  },
+  {
+    "id": "zoom_in_L1_03",
+    "selected_index": 0,
+    "utilities": [
+      3.275918628371992,
+      3.275918628371992,
+      3.275918628371992,
+      0.4505626215230293,
+      3.127036793361664,
+      1.3837759017339094e-07,
+      3.127036793361664,
+      3.127036793361664,
+      6.696181445321165e-10
+    ],
+    "greedy": "The area has grown darker.",
+    "MBR": "The area has grown darker."
+  },
+  {
+    "id": "zoom_in_L1_04",
+    "selected_index": 0,
+    "utilities": [
+      2.998306727303519,
+      1.7781318393812853,
+      2.553115304195204,
+      2.866712658680738,
+      1.7509097401259672,
+      2.7322457307337165,
+      1.7443058933435105,
+      0.9579815270157593,
+      1.3377059471852475
+    ],
+    "greedy": "The white car in the left rear of the frame has moved to the right side of the screen. The black SUV that was previously on the road on the right side of the frame has disappeared.",
+    "MBR": "The white car in the left rear of the frame has moved to the right side of the screen. The black SUV that was previously on the road on the right side of the frame has disappeared."
+  },
+  {
+    "id": "zoom_in_L1_05",
+    "selected_index": 5,
+    "utilities": [
+      3.279611790238074,
+      2.7546591796710604,
+      3.531282658696333,
+      2.503443619708339,
+      3.563628451961231,
+      3.6414418286944867,
+      1.5063271960459148,
+      2.874394437940141,
+      1.3904619242041674
+    ],
+    "greedy": "The polar bear on the right side of the image has moved its head to the left, changing its orientation from facing right to facing left.",
+    "MBR": "The polar bear on the right side of the frame has changed its head orientation from facing forward to facing left."
+  },
+  {
+    "id": "zoom_in_L1_06",
+    "selected_index": 1,
+    "utilities": [
+      0.11282233716187033,
+      3.771656947962743,
+      3.771656947962743,
+      0.12412992653756472,
+      0.2399045234155485,
+      3.771656947962743,
+      3.934100583177173e-05,
+      0.07292488320795891,
+      3.771656947962743
+    ],
+    "greedy": "The area has grown darker. The rectangular light fixture on the ceiling above the central corridor, between two beds on the right side of the room, is present.",
+    "MBR": "The area has grown darker."
+  },
+  {
+    "id": "zoom_in_L1_07",
+    "selected_index": 5,
+    "utilities": [
+      0.4915691582050815,
+      1.0424920204775603,
+      0.4569325654456171,
+      0.4668946458480929,
+      0.613386448712484,
+      1.1219511815262317,
+      0.5379729755500415,
+      0.4752883573245246,
+      1.0890736556516634
+    ],
+    "greedy": "The red kettle on the right side of the stove has been replaced by a brown toaster. The white plate in the center of the table has moved to the left, and a new white plate has appeared on the right. The yellow teapot in the upper left corner of the scene has disappeared. The two glasses of orange juice at the back of the table have changed from full to half full.",
+    "MBR": "The yellow kettle on the black countertop at the back right of the scene has disappeared. The red and white toaster on the black countertop to the right of the stove has been replaced with a wooden cutting board. The two knives on the right edge of the black countertop above the oven have changed direction, with their handles now facing the camera instead of away from it. A new transparent glass cup has appeared in front of the stainless steel dining table."
+  },
+  {
+    "id": "zoom_in_L1_08",
+    "selected_index": 8,
+    "utilities": [
+      0.8645111010910546,
+      0.13051948529988225,
+      1.222465394654264,
+      1.7366125402845691,
+      1.2479475724150317,
+      1.3986850482712767,
+      1.7354171580869282,
+      1.6774715033731615,
+      1.7622412252425443
+    ],
+    "greedy": "The blue box with white and orange stripes on the left side of the floor against the wall has disappeared. The black rectangular picture frame, which was previously placed vertically to the left of the orange pillow on the top bunk, is no longer present.",
+    "MBR": "The scene has become more illuminated. The blue box with white stripes on the left side of the cabinet below the bed has been replaced by a brown box.The gray rectangular cushion in the middle of the lower bed has appeared."
+  },
+  {
+    "id": "zoom_in_L1_09",
+    "selected_index": 4,
+    "utilities": [
+      0.15410154582995517,
+      0.7508682453463922,
+      0.22474955469207353,
+      0.3480375670130804,
+      0.8442217446482837,
+      0.8296920977948473,
+      0.8141355077115124,
+      0.5193110810359178,
+      0.4808694736602647
+    ],
+    "greedy": "The scene has become more illuminated. A person wearing a black vest and red shorts is now standing on the left side of the road, facing the right side of the screen, with their hands in their pockets.A black trash can near the center of the road, close to the pedestrian crossing, has been moved to the left side of the road.",
+    "MBR": "The light in the scene has diminished. A new black car is now parked on the road near the center of the scene, positioned between two pedestrians and facing away from them."
+  },
+  {
+    "id": "zoom_in_L1_10",
+    "selected_index": 6,
+    "utilities": [
+      0.033189180136082234,
+      0.0011209758552961037,
+      0.03958818428997675,
+      0.20930918136252924,
+      0.1159799097924316,
+      0.09611683142570399,
+      0.22220935426843558,
+      0.01023669038002079,
+      0.0009781978309189357
+    ],
+    "greedy": "The area is now darker. The gray beds in the scene have all rotated to face the camera.",
+    "MBR": "The area has grown darker."
+  },
+  {
+    "id": "zoom_in_L1_11",
+    "selected_index": 2,
+    "utilities": [
+      1.7659874026827778,
+      0.9976205277934322,
+      1.8659244041878724,
+      0.16974127011446621,
+      0.1650933141382897,
+      1.551972948008102,
+      0.04747115684595228,
+      0.10611208620956643,
+      0.17099257805725443
+    ],
+    "greedy": "The area has grown darker. The flowers in the vase on the bedside table to the left of the bed on the right side of the scene have changed from blue and white to all blue.",
+    "MBR": "The area has grown darker. The flowers in the vase on the bedside table next to the left side of the room have changed from blue and white to red and white."
+  },
+  {
+    "id": "zoom_in_L1_12",
+    "selected_index": 0,
+    "utilities": [
+      0.2816579859274995,
+      0.0007888989059089602,
+      0.11453896709677311,
+      0.08938255107856714,
+      4.574845570577933e-05,
+      0.20021458652825125,
+      0.1052078189483046,
+      0.10826150254225048,
+      0.17026294761356192
+    ],
+    "greedy": "The white keyboard in front of the gray desktop computer on the left side of the second row of desks has been replaced with a white phone. The chair in front of the computer desk at the far left of the first row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far right of the first row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far left of the second row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far right of the second row has shifted from facing the table to facing the camera.",
+    "MBR": "The white keyboard in front of the gray desktop computer on the left side of the second row of desks has been replaced with a white phone. The chair in front of the computer desk at the far left of the first row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far right of the first row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far left of the second row has shifted from facing the table to facing the camera. The chair in front of the computer desk at the far right of the second row has shifted from facing the table to facing the camera."
+  },
+  {
+    "id": "zoom_in_L1_13",
+    "selected_index": 0,
+    "utilities": [
+      3.659820362255946,
+      2.973139960350392,
+      0.23913334544072068,
+      3.659820362255946,
+      0.019687170770423812,
+      2.258639646644252,
+      0.045446063757580424,
+      2.6567571313141864,
+      1.1377163427928334
+    ],
+    "greedy": "The lighting has brightened. The black object on the ground in the lower left corner of the image is no longer visible.",
+    "MBR": "The lighting has brightened. The black object on the ground in the lower left corner of the image is no longer visible."
+  },
+  {
+    "id": "zoom_in_L1_14",
+    "selected_index": 7,
+    "utilities": [
+      0.4188534369828919,
+      0.34380188730910655,
+      0.3583457077497132,
+      0.2257714459711241,
+      0.03326095623972023,
+      0.32747222967448897,
+      0.25367567684335546,
+      0.6182136142900923,
+      0.29038120195642925
+    ],
+    "greedy": "The red fire hydrant on the right side of the road has increased in size. The black bicycle that was originally leaning against the fence on the left side of the road is now located on the right side of the road, near the curb.",
+    "MBR": "The bicycle that was leaning against the fence on the right side of the road has been moved to the left side of the road. The white trash can near the right side of the blue house at the back of the scene is no longer visible."
+  },
+  {
+    "id": "zoom_in_L2_00",
+    "selected_index": 6,
+    "utilities": [
+      0.7308228413581551,
+      0.2762870161861336,
+      0.4637805968968613,
+      0.591166478772057,
+      0.9042529602262859,
+      0.33995668919908484,
+      0.9289728689387239,
+      0.44205452809405477,
+      0.2679430867249087
+    ],
+    "greedy": "The red fire hydrant on the right side of the road has disappeared. The bicycle that was originally positioned in the center of the road, leaning against the curb on the right side, is now located near the red house on the right side of the road. The tree branches above the blue house in the center of the scene have changed from green to orange.",
+    "MBR": "The front of the blue house in the middle of the scene has changed from facing the left side to facing the right side. The red fire hydrant on the right side of the road near the red house is no longer present. The brown bicycle that was previously leaning against the curb on the right side of the road has moved to the left side of the road, closer to the red house."
+  },
+  {
+    "id": "zoom_in_L2_01",
+    "selected_index": 5,
+    "utilities": [
+      1.4771323820677646,
+      0.3668718637118905,
+      0.00213762099398475,
+      0.7338514461085761,
+      0.40071340135014166,
+      1.4908433339747647,
+      0.24198568692331207,
+      7.046625856188482e-07,
+      0.9479233325750024
+    ],
+    "greedy": "The word \"Effciomt\" on the floor has been reduced in size. The computer monitor on the second row of desks on the right side of the scene has been replaced with a black monitor.",
+    "MBR": "The word \"Effciomt\" on the floor has been reduced in size. The computer monitor on the second row of desks on the right side has changed from a white desktop computer to a black monitor."
+  },
+  {
+    "id": "zoom_in_L2_02",
+    "selected_index": 0,
+    "utilities": [
+      5.0425697634610245,
+      0.279930940982366,
+      4.248063829669726,
+      4.959641066535891,
+      3.893152031150995,
+      2.3683993301001998,
+      5.0425697634610245,
+      2.0210575981444383,
+      4.8805558105490165
+    ],
+    "greedy": "The ambient lighting has brightened. The pink basin on the right side of the third level has disappeared.",
+    "MBR": "The ambient lighting has brightened. The pink basin on the right side of the third level has disappeared."
+  },
+  {
+    "id": "zoom_in_L2_03",
+    "selected_index": 0,
+    "utilities": [
+      1.61947023485228,
+      1.529533504677504,
+      1.1714158132283157,
+      1.6070915124546743,
+      0.7142939349086647,
+      0.3560143001880392,
+      0.847031818936169,
+      1.2116378852601877,
+      0.09557359061504982
+    ],
+    "greedy": "The brightness of the scene has increased. The pink basin on the third level has disappeared.",
+    "MBR": "The brightness of the scene has increased. The pink basin on the third level has disappeared."
+  },
+  {
+    "id": "zoom_in_L2_04",
+    "selected_index": 1,
+    "utilities": [
+      1.9652918989866226,
+      2.3912466444546245,
+      1.7539041080859394,
+      0.6486003395318336,
+      2.197616691685345,
+      1.4863482064361238,
+      1.594752310722548,
+      0.5183918887682949,
+      0.715445518954199
+    ],
+    "greedy": "The white pickup truck in the distance has moved from the right side of the frame to the left side. The black SUV on the right side of the screen has disappeared.",
+    "MBR": "The white car in the distance has moved to the left side of the frame and is now facing forward. The black SUV on the right side of the screen has disappeared."
+  },
+  {
+    "id": "zoom_in_L2_05",
+    "selected_index": 6,
+    "utilities": [
+      0.3956823597618376,
+      0.3668917568206175,
+      0.7167496777249788,
+      0.006079706544448231,
+      0.6197073742889222,
+      0.4513307767918044,
+      0.7443192049075503,
+      0.669812203093465,
+      3.1922925918724737e-07
+    ],
+    "greedy": "The light in the scene has diminished. The black iron gate at the entrance to the left of the blue house has been replaced with a wooden gate.The potted plant on the left side of the blue house's entrance has moved from the right side of the stairs to the left side of the stairs.The gray manhole cover in the center of the road has become smaller.",
+    "MBR": "The light in the scene has diminished. The black iron gate at the entrance to the left of the blue house in the middle of the picture is missing.The gray bucket that was originally on the right side of the road, next to the black bicycle, has been moved to the left and is now placed on the left side of the road."
+  },
+  {
+    "id": "zoom_in_L2_06",
+    "selected_index": 7,
+    "utilities": [
+      0.053393400707146405,
+      0.1891667731525356,
+      0.09134909666341202,
+      0.10995361854140888,
+      0.3998354118710962,
+      0.0081381478032914,
+      0.2653711418783902,
+      0.5070803457134809,
+      0.2106106105360001
+    ],
+    "greedy": "The posture of the person in white clothes changes from a head facing down with the upper body supporting the ground, arms extended forward, waist bent, and legs straight to a head facing right with the left leg raised high and the right leg firmly planted on the ground.",
+    "MBR": "The person's posture changes from having the head facing downward with the face touching the ground, the body in a horizontal position, the left leg bent and lifted upward, the right leg extended backward, the arms supporting the ground with straight arms, to the head still facing downward but the face no longer touching the ground, the body in a horizontal position, the left leg straightened and lifted upward, the right leg bent and resting on the ground, the arms supporting the ground with straight arms."
+  },
+  {
+    "id": "zoom_in_L2_07",
+    "selected_index": 7,
+    "utilities": [
+      0.6306338908559639,
+      0.6635888284302691,
+      0.237036974945003,
+      0.158235395318756,
+      0.1496182771449923,
+      0.36442284660031216,
+      0.6660758864607154,
+      0.6692444027605139,
+      0.4254155050495782
+    ],
+    "greedy": "The person's posture changes from bending forward with the right hand raised high and the left hand bent close to the chest, to standing upright with both hands extended upward.",
+    "MBR": "The figure's posture changes from bending the right hand backward with the left arm extended upward, to raising both arms straight up toward the sky."
+  },
+  {
+    "id": "zoom_in_L2_08",
+    "selected_index": 0,
+    "utilities": [
+      1.6896592254372593,
+      0.4149346982333168,
+      1.1554248217816439,
+      0.44260918348237455,
+      1.0413901544325743,
+      0.0007706310685081333,
+      1.1915900236465082,
+      0.3734910772174554,
+      1.5224806160892272
+    ],
+    "greedy": "The light level has dropped. The rectangular painting hanging on the wall above the bed to the left of the room's entrance, featuring a woman with flowing hair and abstract floral patterns, has decreased in size.The white chair with a black base is no longer present in front of the bedside table at the far right of the scene.",
+    "MBR": "The light level has dropped. The rectangular painting hanging on the wall above the bed to the left of the room's entrance, featuring a woman with flowing hair and abstract floral patterns, has decreased in size.The white chair with a black base is no longer present in front of the bedside table at the far right of the scene."
+  },
+  {
+    "id": "zoom_in_L2_09",
+    "selected_index": 2,
+    "utilities": [
+      0.1881072450716301,
+      3.750605621532504e-05,
+      0.20265540198475657,
+      0.07802972175487766,
+      0.06431597974106802,
+      0.09314375999317297,
+      0.18916831663111644,
+      0.04013002579304267,
+      0.055065958541271595
+    ],
+    "greedy": "The bouquet of blue and white flowers on the bedside table to the left of the first bed on the right side of the scene has been replaced with a bouquet of red and yellow flowers. The lighting has improved.",
+    "MBR": "The lighting has improved. The color of the bedside table lamp on the left side of the second bed on the right side of the scene has changed from white to black."
+  },
+  {
+    "id": "zoom_in_L2_10",
+    "selected_index": 1,
+    "utilities": [
+      0.46524293897754593,
+      1.0149676000425496,
+      0.5628909441219492,
+      0.1953391405112917,
+      0.27850952580215466,
+      0.12905840933251586,
+      0.9447804393880559,
+      0.8125551789609198,
+      0.25742478048148487
+    ],
+    "greedy": "The white plate on the round table has changed from being placed vertically to horizontally. The brown bread on the left side of the table has been replaced by a black bread. The two glasses of orange juice in front of the blue water kettle on the round table have disappeared. The transparent glass goblet on the right side of the dining table has changed to a solid-colored glass goblet. The brown toaster on the black countertop at the back right of the scene has disappeared.",
+    "MBR": "The white chair on the left side of the round table has rotated counterclockwise by a certain angle. The transparent glass cup on the black counter to the right of the stove has disappeared. The two slices of bread on the plate at the back left of the round table have changed from a dark brown color to a bright red color. The white plate at the back of the round table has changed from being empty to containing some food."
+  },
+  {
+    "id": "zoom_in_L2_11",
+    "selected_index": 1,
+    "utilities": [
+      1.422478757894979,
+      1.5627493423979564,
+      0.8340321878724681,
+      0.722619336939357,
+      1.2010087450998563,
+      0.17490046406632878,
+      0.7769539190728174,
+      0.11900286842569228,
+      0.9903907689737929
+    ],
+    "greedy": "The box of white disposable masks on the right side of the blue storage box has changed its orientation from lying flat to standing upright. The pink hair dryer in the center of the scene has swapped positions with the white box on the far right front of the image.",
+    "MBR": "The box of disposable masks with a white background and red print on the right side of the table has changed its orientation from lying flat to standing upright. The pink hair dryer in the lower center of the table has been moved to the upper right side of the table."
+  },
+  {
+    "id": "zoom_in_L2_12",
+    "selected_index": 0,
+    "utilities": [
+      1.1323076524536972,
+      0.23683347861714202,
+      0.6945077611029051,
+      0.3036479814691088,
+      0.6013691025582697,
+      0.9676803004476681,
+      1.0129620501906862,
+      0.008509853521637653,
+      0.8150996502553951
+    ],
+    "greedy": "The word \"vila\" in large blue letters has moved from the left side of the road to the right side. The potted plant on the left side of the scene, near the red house on the left, has disappeared.The bicycle that was leaning against the fence on the right side of the road is now located on the left side of the road, next to the curb.",
+    "MBR": "The word \"vila\" in large blue letters has moved from the left side of the road to the right side. The potted plant on the left side of the scene, near the red house on the left, has disappeared.The bicycle that was leaning against the fence on the right side of the road is now located on the left side of the road, next to the curb."
+  },
+  {
+    "id": "zoom_in_L2_13",
+    "selected_index": 8,
+    "utilities": [
+      0.5014279665050297,
+      0.363610497229936,
+      0.574711231224248,
+      0.2577794751549384,
+      0.2572731597206511,
+      0.3557667165754304,
+      0.005250587260754889,
+      0.23475566167075518,
+      0.6071905403669486
+    ],
+    "greedy": "The box of tissues on the right side of the table has changed its orientation from facing the left side of the table to facing the right side. The white box with a small blue bottle in front of the central box has disappeared.",
+    "MBR": "The box of disinfectant on the left side of the table has changed from a vertical to a horizontal position."
+  },
+  {
+    "id": "zoom_in_L2_14",
+    "selected_index": 6,
+    "utilities": [
+      0.662986891638446,
+      1.584544174595853,
+      3.9403774432732925,
+      3.9403774432732925,
+      1.439394307597562,
+      1.556166782349354,
+      3.940377443273293,
+      3.940377443273293,
+      0.6210888464471243
+    ],
+    "greedy": "The ambient lighting has brightened. The small white cup behind the large knife in the upper left corner of the scene is no longer present.",
+    "MBR": "The ambient lighting has brightened."
+  },
+  {
+    "id": "zoom_in_L3_00",
+    "selected_index": 1,
+    "utilities": [
+      0.20906312945292527,
+      0.9517769247956684,
+      0.3081507348734277,
+      1.948132279810948e-40,
+      0.06148484184445845,
+      0.8809436888508662,
+      0.048426769169373794,
+      0.07012018676086254,
+      0.328422542998637
+    ],
+    "greedy": "The number of people in the scene has increased from three to five. The three individuals on the left side of the image have moved to the right, forming a row with their bodies facing the front of the image. The person on the far left is now positioned on the far right.",
+    "MBR": "The number of individuals on the left side has increased from three to four, and the number of individuals on the right side has also increased from two to three."
+  },
+  {
+    "id": "zoom_in_L3_01",
+    "selected_index": 3,
+    "utilities": [
+      0.28337391430745085,
+      1.060637297580153,
+      0.494690386022683,
+      1.1103222145493943,
+      0.9984472315852484,
+      0.04312950985977874,
+      0.9090125667384731,
+      0.037016804788980534,
+      7.57472543690978e-14
+    ],
+    "greedy": "The ambient lighting has dimmed. The three people in the image have turned their bodies to the right, with their left legs stepping forward and their right arms swinging backward.",
+    "MBR": "The brightness of the scene has dimmed. The three people in the picture change their posture from bending to the left, leaning backward with their arms extended, to leaning to the right side of the frame, heads tilted back, and hands stretched forward."
+  },
+  {
+    "id": "zoom_in_L3_02",
+    "selected_index": 4,
+    "utilities": [
+      0.1512829568350288,
+      0.45157927008458104,
+      0.0686834208416203,
+      0.3131277882558431,
+      0.45289391159217424,
+      0.17554888522516562,
+      0.06765449431984692,
+      0.3091117224862106,
+      2.7012414202601038e-39
+    ],
+    "greedy": "The number of people in the scene has decreased from three to two. The person on the right side of the frame, who was previously facing the camera with their left leg extended forward and right leg backward, is now facing the right side of the frame with their left leg extended backward and right leg forward.The person on the left side of the frame, who was previously facing the camera with their left leg extended forward and right leg backward, is now facing the right side of the frame with their left leg extended backward and right leg forward.The person in the middle of the frame, who was previously facing the camera with their left leg extended forward and right leg backward, is now facing the right side of the frame with their left leg extended backward and right leg forward.",
+    "MBR": "The number of figures in the image has decreased from three to two, and an additional figure appears on the right side of the frame."
+  },
+  {
+    "id": "zoom_in_L3_03",
+    "selected_index": 2,
+    "utilities": [
+      1.8085667869943787,
+      1.6609766791443885,
+      2.592588464681494,
+      0.40408918189151666,
+      1.952285026793043,
+      1.9338142461516084,
+      0.536671955639477,
+      0.984894352408541,
+      1.7378705484049528
+    ],
+    "greedy": "The glowing blue sign spelling \"Shop\" on the ground in front of the person is no longer visible. The bench located on the left side of the scene, next to the wooden table and near the plant bed, has decreased in size.",
+    "MBR": "The glowing blue text spelling \"Shop\" on the ground in front of the person is no longer visible. The size of the green plants in the wooden planter box at the front left of the scene has decreased."
+  },
+  {
+    "id": "zoom_in_L3_04",
+    "selected_index": 0,
+    "utilities": [
+      0.565900544970043,
+      0.469604110020148,
+      0.49923601748162166,
+      0.5158385521265703,
+      0.04813982246044697,
+      0.1251482337638197,
+      0.12666988262824147,
+      0.4285387683202517,
+      0.5450930546566112
+    ],
+    "greedy": "The ambient lighting has brightened. The white box with a red logo on the right side of the image has disappeared.",
+    "MBR": "The ambient lighting has brightened. The white box with a red logo on the right side of the image has disappeared."
+  },
+  {
+    "id": "zoom_in_L3_05",
+    "selected_index": 1,
+    "utilities": [
+      1.203519113747532,
+      1.3100322697426958,
+      1.6011706201797477e-08,
+      1.0728652934184546,
+      1.2055305551835662,
+      1.0493067817394353,
+      1.0653195402151336,
+      0.5316973675643224,
+      0.9643487137820751
+    ],
+    "greedy": "The number of yellow non-motorized shared bicycles on the left side has decreased from two to one. The black non-motorized shared bicycle in the middle of the image has disappeared.",
+    "MBR": "The yellow non-motorized vehicle on the left side of the frame disappeared. The number of electric bicycles in the middle of the picture has decreased from two to one."
+  },
+  {
+    "id": "zoom_in_L3_06",
+    "selected_index": 4,
+    "utilities": [
+      0.5439141076734291,
+      0.18024505756953277,
+      0.5393004492070272,
+      0.33701214495557347,
+      0.5973229106918315,
+      0.24524120937320798,
+      0.4340811737165565,
+      0.39625575411943786,
+      0.40824118524015457
+    ],
+    "greedy": "The light in the scene has increased. The green potted plant on the roof of the building on the right side of the scene has been smaller.The person under the umbrella on the left side of the road is no longer visible.",
+    "MBR": "The scene has become more illuminated. The green potted plant on the roof of the building on the right side of the scene moves to the left side of the same building.A woman in a yellow coat appears next to the street light on the left side of the scene, walking towards the road."
+  },
+  {
+    "id": "zoom_in_L3_07",
+    "selected_index": 7,
+    "utilities": [
+      0.02198387776919805,
+      0.12239622642212339,
+      0.5757868069839448,
+      0.2571479510343283,
+      0.33246223599328256,
+      0.016803296622753483,
+      0.12109136042819311,
+      0.6337425271636524,
+      0.017846266864098955
+    ],
+    "greedy": "The gray rectangular pillow in the middle of the lower bed has appeared. The orange cylindrical pillow on the lower bed has appeared. The gray rectangular pillow in front of the black mat at the bottom of the double bed has appeared. The blue and white books on the left side of the cabinet below the double bed have disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow on the left side of the lower bed has disappeared. The gray rectangular pillow on the right side of the lower bed has disappeared. The gray rectangular pillow on the left side of the upper bed has disappeared. The gray rectangular pillow on the right side of the upper bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed has disappeared. The gray rectangular pillow in front of the black frame on the left side of the lower bed",
+    "MBR": "The gray rectangular cushion has shifted from the left side of the lower bed to the right side. The orange cylindrical pillow on the lower bed has moved from the left side of the middle mattress to the right side. The black bookshelf containing books and white boxes, originally positioned in front of the left side of the lower bed, has disappeared. The gray rectangular pillow at the head of the top bunk bed has disappeared. The gray rectangular pillow at the foot of the lower bed has disappeared. The blue and orange building block rack that was previously located on the left side of the room is no longer present."
+  },
+  {
+    "id": "zoom_in_L3_08",
+    "selected_index": 7,
+    "utilities": [
+      0.9711792591477709,
+      1.1353959070198343,
+      0.7252564674362103,
+      0.9527000947498637,
+      0.5463891108989188,
+      0.0664519793888985,
+      0.7965012313644402,
+      1.1653729291975088,
+      1.083282064256434
+    ],
+    "greedy": "The yellow shared car in the lower left corner has moved to the right. The black shared car in the middle of the image has disappeared.",
+    "MBR": "The number of shared electric bicycles has decreased from two to one. The black shared bicycle with a green frame on the left side of the image disappears."
+  },
+  {
+    "id": "zoom_in_L3_09",
+    "selected_index": 1,
+    "utilities": [
+      4.4741870317238455,
+      4.5847121611916695,
+      4.26166194531187,
+      0.014078787871675836,
+      4.5847121611916695,
+      3.974892898275518,
+      0.08779262871382383,
+      0.057783710591998966,
+      2.991566470863014
+    ],
+    "greedy": "The blue cushion on the black-legged chair on the left side of the scene has disappeared.",
+    "MBR": "The blue cushion on the black-legged chair in the upper left corner of the scene has disappeared."
+  },
+  {
+    "id": "zoom_in_L3_10",
+    "selected_index": 2,
+    "utilities": [
+      0.23720884163086203,
+      0.5177563354790299,
+      0.6253841933017739,
+      0.5181070005133177,
+      0.002532684880515251,
+      0.3876989075564763,
+      0.18113770645914676,
+      0.6028110115396084,
+      3.841769536365247e-05
+    ],
+    "greedy": "The black keyboard on the desktop has been pressed down. The open laptop on the right side of the table has changed its orientation from facing the camera to facing away from the camera. The red and blue flag hanging on the wall above the table is no longer visible. The yellow object with a red tip, which was previously in the upper left corner of the desk, has disappeared.",
+    "MBR": "The black keyboard on the desktop has been pressed, causing the keys to be pressed. The black mouse on the right side of the desk has changed from a vertical to a horizontal position. The open gray laptop in the middle-right of the table has disappeared, and a tablet with a dark cover has appeared to its right. The red flag on the left side of the monitor is no longer visible. The yellow and black scissors on the left side of the desk have disappeared."
+  },
+  {
+    "id": "zoom_in_L3_11",
+    "selected_index": 2,
+    "utilities": [
+      0.681034571934202,
+      0.316113611418856,
+      0.7013656141191787,
+      0.5293043583375111,
+      0.5005063585927111,
+      0.029599107242590485,
+      0.610811227410198,
+      0.4718887971088088,
+      0.0001411502858439263
+    ],
+    "greedy": "The ambient lighting has slightly brightened. The blue pillow that was previously placed vertically at the head of the bed is now placed horizontally. The white oval-shaped cushion on the right side of the bed against the wall has disappeared. The red sticker with the words \"Hello Kitty\" on the wall above the bed has disappeared.",
+    "MBR": "The ambient lighting has slightly brightened. The wooden board placed horizontally at the foot of the bed has disappeared. The white pillow on the right side of the bed against the wall has disappeared. The blue pillow that was against the wall is now placed against the foot of the bed."
+  },
+  {
+    "id": "zoom_in_L3_12",
+    "selected_index": 7,
+    "utilities": [
+      1.3071127440009545,
+      0.3735350150878609,
+      0.609955584765646,
+      1.3303932133370315,
+      0.06816453696505596,
+      0.3926354892068662,
+      0.725469751480127,
+      1.6942013376406815,
+      1.1365120476758734
+    ],
+    "greedy": "The chair on the left side of the round table has disappeared. The white plate in front of the blue teapot on the round table has changed from white to gray. The two glasses of orange juice on the round table have been replaced with a glass of water. The red handleware on the black countertop at the back right of the scene has disappeared. The white oven at the back right of the scene has changed from black to stainless steel. The white cabinet at the back left of the scene has changed from three to two drawers.",
+    "MBR": "The chair behind the left side of the wooden table has disappeared. The white plate on the right side of the round table is no longer present. The transparent glass cup in front of the blue water kettle on the round table has changed from half-filled with yellow liquid to full. The red handleware on the black countertop above the right oven has changed color. The white plate at the back of the round table has disappeared. The stainless steel hood above the stove on the right side of the kitchen has changed color from black to gray."
+  },
+  {
+    "id": "zoom_in_L3_13",
+    "selected_index": 1,
+    "utilities": [
+      0.8438170100205566,
+      1.0450823670055926,
+      0.2986571612422325,
+      0.18353649379445236,
+      0.20904502188383384,
+      0.2648508537941992,
+      0.15304976107206753,
+      0.36080314730468116,
+      0.7862486938882489
+    ],
+    "greedy": "The ambient lighting has brightened. The blue basin and the pink basin in the upper part of the shelf have swapped positions. The rectangular bar of soap on the left side of the second level has been replaced with a rectangular bar of soap placed vertically. The rectangular bar of soap on the right side of the second level has disappeared.",
+    "MBR": "The lighting in the environment has become brighter The blue basin and the pink basin below it have swapped positions. A rectangular bar of soap that was on the left side of the topmost shelf has been moved to the right side of the topmost shelf. The rectangular bar of soap on the left side of the topmost shelf has disappeared."
+  },
+  {
+    "id": "zoom_in_L3_14",
+    "selected_index": 0,
+    "utilities": [
+      1.488472529393695,
+      2.8934784401991655e-09,
+      0.541994508642801,
+      0.349470828891795,
+      0.6045232323077822,
+      1.105914074363576,
+      0.47256181677431497,
+      1.4756938341378876,
+      1.1946659148097372
+    ],
+    "greedy": "The scene has become more illuminated. The blue and white striped wooden lounge chair on the right side of the picnic mat has moved to the left.The brown woven picnic basket in the center of the picnic blanket, near the plate of pastries, has been rotated so that its lid is open.",
+    "MBR": "The scene has become more illuminated. The blue and white striped wooden lounge chair on the right side of the picnic mat has moved to the left.The brown woven picnic basket in the center of the picnic blanket, near the plate of pastries, has been rotated so that its lid is open."
+  },
+  {
+    "id": "zoom_out_L1_00",
+    "selected_index": 2,
+    "utilities": [
+      0.12082865119075309,
+      0.5647424197387697,
+      0.6110833552731874,
+      0.13718636191698694,
+      0.0037758835202076416,
+      0.37624823952740266,
+      0.1869595291029102,
+      0.1433422675148389,
+      0.58716820609548
+    ],
+    "greedy": "The word \"kitchen\" has changed from blue to white. The woman in a white shirt and blue pants, who was previously facing the stove on the right side of the room, is now facing the dining table on the left side of the room. The white teapot on the black countertop at the back right of the scene has been replaced by a transparent glass water jug. The two glasses of orange juice on the table have been replaced with two glasses of beer.",
+    "MBR": "The blue-and-white kettle on the black countertop to the right of the stove has appeared. The white coffee machine on the black countertop at the far right of the kitchen is now obscured. The white teapot behind the glass water carafe on the left side of the scene has disappeared. The white dining chair with a cushioned backrest directly in front of the round table on the right side of the room has changed from facing the camera to facing the table. A glass of orange juice has appeared on the black counter to the left of the stove."
+  },
+  {
+    "id": "zoom_out_L1_01",
+    "selected_index": 0,
+    "utilities": [
+      6.041007396037733,
+      3.9547065981831726,
+      4.614822198302665,
+      6.041007396037733,
+      6.041007396037733,
+      6.041007396037733,
+      4.614822198302665,
+      0.01639476013926374,
+      2.8181874348642566
+    ],
+    "greedy": "The scene has become more illuminated.",
+    "MBR": "The scene has become more illuminated."
+  },
+  {
+    "id": "zoom_out_L1_02",
+    "selected_index": 0,
+    "utilities": [
+      1.3277794652439443,
+      0.654136677995906,
+      0.7279296186834926,
+      1.0120705635169776,
+      1.0567285640160984,
+      1.208173903811756,
+      1.3076509547145196,
+      0.8239981647832814,
+      0.28434733506498217
+    ],
+    "greedy": "The gray pillow on the left side of the bed has been moved to the center of the bed. The blue blanket that was folded at the foot of the bed is no longer present. A red book has appeared in the bottom left corner of the wall decoration, positioned above the bed.",
+    "MBR": "The gray pillow on the left side of the bed has been moved to the center of the bed. The blue blanket that was folded at the foot of the bed is no longer present. A red book has appeared in the bottom left corner of the wall decoration, positioned above the bed."
+  },
+  {
+    "id": "zoom_out_L1_03",
+    "selected_index": 7,
+    "utilities": [
+      0.2899320581198506,
+      0.8877704613771921,
+      0.5007585148880315,
+      1.1125600646270855,
+      0.9872747541761314,
+      0.8781694847096245,
+      0.2336638965648351,
+      1.1319799468821654,
+      0.9616836403472981
+    ],
+    "greedy": "The blue and white striped lounge chair on the right side of the picnic blanket has turned from facing the left side of the scene to facing the right side. The quantity of white teacups on the picnic blanket has decreased from two to one. The quantity of round pastries in the center of the picnic blanket has decreased from a full plate to half.",
+    "MBR": "The blue-and-white beach chair in front of the tree on the right side of the scene has turned from facing the camera to facing the waterfall. The white teapot and red cup in the center of the picnic blanket have swapped positions."
+  },
+  {
+    "id": "zoom_out_L1_04",
+    "selected_index": 8,
+    "utilities": [
+      2.4146635889793266,
+      0.21241127519343683,
+      0.5112988157451733,
+      1.352260923724351,
+      2.1787642786917556,
+      0.23228611771150873,
+      0.19616810031006005,
+      0.34361674174130036,
+      2.414663588979327
+    ],
+    "greedy": "The lighting in the environment has become dimmer.",
+    "MBR": "The lighting in the environment has become dimmer."
+  },
+  {
+    "id": "zoom_out_L1_05",
+    "selected_index": 2,
+    "utilities": [
+      0.11357296773149814,
+      0.4210834838847389,
+      0.472932278639767,
+      0.37415701181233574,
+      0.10263916210175927,
+      0.08774309363026972,
+      0.45850524963927203,
+      0.4583813629196014,
+      0.3389129205049488
+    ],
+    "greedy": "The light in the scene has increased. The person wearing a black jacket and holding a black bag on the right side of the road is now present.",
+    "MBR": "The environment has become brighter. A man in a black vest and gray pants, who was originally facing the road on the left side of the scene, is now positioned next to the black trash bin at the street corner, turning his head to look toward the right side of the screen."
+  },
+  {
+    "id": "zoom_out_L1_06",
+    "selected_index": 5,
+    "utilities": [
+      2.8918926332201425,
+      3.8141051764858394,
+      2.226343241817771,
+      1.7088156018631533,
+      1.6418406991506955,
+      3.922075975141804,
+      2.6515289354553437,
+      0.7537711771561713,
+      2.531727433902535
+    ],
+    "greedy": "The polar bear on the right side of the image has changed its head orientation from facing left to facing forward.",
+    "MBR": "The polar bear in the middle has changed its head orientation from facing left to facing right."
+  },
+  {
+    "id": "zoom_out_L1_07",
+    "selected_index": 1,
+    "utilities": [
+      1.2875119351286821,
+      1.4254440120506104,
+      0.2139969311634149,
+      1.3130658062271878,
+      0.4389943764311055,
+      4.5180971332547497e-11,
+      1.2804818914971525,
+      1.262778118186244,
+      0.4571634281470063
+    ],
+    "greedy": "The person's right leg, which was previously raised and bent, is now lowered.",
+    "MBR": "The left foot, previously raised, is now lowered."
+  },
+  {
+    "id": "zoom_out_L1_08",
+    "selected_index": 0,
+    "utilities": [
+      2.510996701938661,
+      0.3117601621528796,
+      0.8942056744017252,
+      2.316918659877634,
+      2.4441629960011855,
+      2.026485346456527,
+      2.15990237089993,
+      2.2490425199603585,
+      1.3967072339649342
+    ],
+    "greedy": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward with its head slightly raised.",
+    "MBR": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward with its head slightly raised."
+  },
+  {
+    "id": "zoom_out_L1_09",
+    "selected_index": 8,
+    "utilities": [
+      1.9850294946239218,
+      1.5139485618409643,
+      1.8982393801738182,
+      1.4904168686235642,
+      2.298905288311082,
+      0.34708073029010034,
+      0.670667349953035,
+      1.973335743948652,
+      2.505986382092914
+    ],
+    "greedy": "The black SUV in the left rear of the frame has appeared. The white pickup truck in the right rear of the frame has moved to the left side of the frame. The red car on the right side of the frame has appeared.",
+    "MBR": "The white pickup truck in the back of the frame has moved from the right side of the frame to the left. A red car has appeared on the right side of the frame. The black SUV parked on the left side of the frame has disappeared."
+  },
+  {
+    "id": "zoom_out_L1_10",
+    "selected_index": 0,
+    "utilities": [
+      1.488941090568854,
+      0.5360534868075364,
+      1.3133023185743062,
+      0.12408323904056591,
+      0.10495461972187349,
+      0.07545248741273256,
+      0.9898029556100738,
+      0.6128256296920014,
+      0.5703620796713595
+    ],
+    "greedy": "The yellow shared bicycle in the rear-right corner of the scene has turned its front wheel to the right. The person wearing a black coat, dark pants, and white shoes, who was previously standing on the left side of the stairs, is now facing the camera with his body slightly tilted to the left.",
+    "MBR": "The yellow shared bicycle in the rear-right corner of the scene has turned its front wheel to the right. The person wearing a black coat, dark pants, and white shoes, who was previously standing on the left side of the stairs, is now facing the camera with his body slightly tilted to the left."
+  },
+  {
+    "id": "zoom_out_L1_11",
+    "selected_index": 0,
+    "utilities": [
+      1.2689407875818102,
+      0.06535717278550779,
+      0.8641468433991741,
+      0.09440599083543197,
+      0.12106329179273112,
+      0.5385252406156661,
+      0.14824269109495686,
+      1.0119604078848854,
+      0.20957162266343252
+    ],
+    "greedy": "The scene has become more illuminated. The black office chair in front of the computer on the left side of the second row from the right has been moved to the left side of the table in the center of the first row.",
+    "MBR": "The scene has become more illuminated. The black office chair in front of the computer on the left side of the second row from the right has been moved to the left side of the table in the center of the first row."
+  },
+  {
+    "id": "zoom_out_L1_12",
+    "selected_index": 8,
+    "utilities": [
+      0.8053933445693707,
+      0.3609067158172539,
+      1.740085725397878e-15,
+      0.7380002713813145,
+      1.4507320699265494e-11,
+      0.019534807435897576,
+      0.06535260270305077,
+      0.07193158100457386,
+      0.8150733171912911
+    ],
+    "greedy": "The black office chair in front of the computer on the left side of the second row from the right has been replaced by a gray office chair. The white keyboard in front of the computer monitor on the far right of the first row of tables is no longer visible. The computer monitors on the desks have all been lowered.",
+    "MBR": "The black office chair with a gray backrest in front of the computer on the left side of the second row from the right side of the scene has been replaced by a black office chair with a black backrest. The white computer monitor on the desk in the middle of the first row on the left side of the scene has disappeared."
+  },
+  {
+    "id": "zoom_out_L1_13",
+    "selected_index": 0,
+    "utilities": [
+      3.2799047135090476,
+      1.6984885378589487,
+      2.112354588170629,
+      2.7362041497452156,
+      1.948243131548031,
+      2.044540740613007,
+      0.00227949881651673,
+      1.8824033529992819,
+      2.31123409425016
+    ],
+    "greedy": "The black electric car on the left side of the image has moved to the right.",
+    "MBR": "The black electric car on the left side of the image has moved to the right."
+  },
+  {
+    "id": "zoom_out_L1_14",
+    "selected_index": 1,
+    "utilities": [
+      0.5457454810498461,
+      0.5784876120389804,
+      0.01828145459696843,
+      0.3694420416541163,
+      0.2442043159964206,
+      0.26426124974699045,
+      0.34512841961686375,
+      0.3620249561866516,
+      0.03604932412554032
+    ],
+    "greedy": "The white chair on the left side of the room has turned from facing the table to facing the wall. The transparent glass cup in front of the blue water\u58f6 on the round table has increased in size. The stainless steel exhaust above the stove on the right side of the kitchen has disappeared. The white plate on the right side of the round table has changed from white to transparent. The white wine glass at the back left of the round table has changed from transparent to opaque.",
+    "MBR": "The white chair with a light beige cushion in front of the left side of the round table has turned from facing the camera to facing the wall. The transparent glass cup on the black countertop above the right stove has changed color from yellow to clear. The stainless steel exhaust hood above the stove on the right side of the kitchen has disappeared. The dining table, which was previously entirely in front of the white cabinet on the left, is now positioned closer to the center of the room."
+  },
+  {
+    "id": "zoom_out_L2_00",
+    "selected_index": 2,
+    "utilities": [
+      1.4183892596876886,
+      0.7344019934926418,
+      1.5757558864177197,
+      0.5340051254638111,
+      0.8249054665730406,
+      0.5799775838594442,
+      1.499015329478796,
+      1.3182384352418135,
+      0.4795711690568365
+    ],
+    "greedy": "The white pickup truck in the distance has moved to the left side of the frame. A red car has appeared on the right side of the frame. The snow on the road near the lower right corner of the screen has melted.",
+    "MBR": "The black SUV in the left rear of the frame has appeared. The white pickup truck in the distance has disappeared. The red car in the right rear of the frame has appeared. The snow on the left side of the road near the camera has decreased."
+  },
+  {
+    "id": "zoom_out_L2_01",
+    "selected_index": 0,
+    "utilities": [
+      3.983363421501909,
+      1.9671148792075648,
+      1.3400919158181677,
+      3.761150324535718,
+      1.3031531037515687,
+      3.0634757124273597,
+      0.6773595440500131,
+      3.1164183218552695,
+      2.5176430621701034
+    ],
+    "greedy": "The scene is now more lit up. The black speaker located on the wall to the right of the blackboard has turned from facing forward to facing left.",
+    "MBR": "The scene is now more lit up. The black speaker located on the wall to the right of the blackboard has turned from facing forward to facing left."
+  },
+  {
+    "id": "zoom_out_L2_02",
+    "selected_index": 0,
+    "utilities": [
+      3.751822297593801,
+      0.16219503245952388,
+      0.2893986753725365,
+      0.6331307307019982,
+      0.6330112432672448,
+      3.751822297593801,
+      3.751822297593801,
+      3.751822297593801,
+      0.14551013105742056
+    ],
+    "greedy": "The brightness of the scene has dimmed.",
+    "MBR": "The brightness of the scene has dimmed."
+  },
+  {
+    "id": "zoom_out_L2_03",
+    "selected_index": 6,
+    "utilities": [
+      1.2423953128721978,
+      1.3441004500065525,
+      0.26440610175422924,
+      1.387404362384662,
+      1.0955367165028391,
+      0.46221658122729226,
+      1.6491759277678066,
+      0.9931940621525804,
+      0.44500513487655874
+    ],
+    "greedy": "The person's posture changes from bending forward with the right leg straight and the left leg bent, to standing upright with both legs bent.",
+    "MBR": "The figure's posture changes from bending the waist to the left with the right hand extended upward, to standing upright with both hands raised above the head."
+  },
+  {
+    "id": "zoom_out_L2_04",
+    "selected_index": 1,
+    "utilities": [
+      0.1666132919355704,
+      0.178612647618908,
+      0.08575431852978645,
+      0.1664728905805074,
+      0.1627049444563822,
+      1.1103510418122686e-51,
+      0.1780891097839559,
+      0.13997279400680218,
+      0.1556759368249399
+    ],
+    "greedy": "The three models' movements change from the left hand pointing forward and the right hand raised high, with the body slightly leaning to the right, to all three models raising their right hands while extending their left legs backward.",
+    "MBR": "The posture of the three models on the right side changes from facing the front right side to facing the right side."
+  },
+  {
+    "id": "zoom_out_L2_05",
+    "selected_index": 1,
+    "utilities": [
+      0.4837360761534211,
+      0.5484882215318992,
+      0.46147982640259566,
+      0.3515544770556133,
+      0.4454259498372477,
+      0.24288326767627327,
+      0.3493225978286021,
+      0.3163256049698274,
+      0.0068522640352984944
+    ],
+    "greedy": "The white keyboard on the center of the second row of desks on the right side has been replaced with a black keyboard. The word \"Effciomt\" in light blue letters has appeared on the carpet in the lower left corner of the scene. The gray trash bin in the far left corner of the room is no longer visible. The black office chair in front of the computer desk at the back left of the scene has turned from facing the table to facing the camera.",
+    "MBR": "The white keyboard on the far right of the second row of desks on the left is present. The white keyboard in front of the central desk in the first row has been replaced with a black keyboard. The chair in the aisle between the first and second rows of tables, facing the second table on the right side, has its backrest tilted backward. The word \"Effciomt\" has appeared in light blue text on the floor at the front of the scene."
+  },
+  {
+    "id": "zoom_out_L2_06",
+    "selected_index": 2,
+    "utilities": [
+      2.7976474056194562,
+      1.2631930565024176,
+      3.4735591808943624,
+      0.0430151136186688,
+      1.0892326505059091,
+      3.280376739413435,
+      0.0011197852196332555,
+      3.137045831479873,
+      2.569571952064214
+    ],
+    "greedy": "The red car in the distance on the right side of the screen has appeared. The black car that was previously visible in the distance is no longer present.",
+    "MBR": "The red car in the distance on the right side of the screen has appeared. The white pickup truck at the back left of the screen is no longer visible."
+  },
+  {
+    "id": "zoom_out_L2_07",
+    "selected_index": 6,
+    "utilities": [
+      0.5563525943840344,
+      0.6676955470272943,
+      0.3169112930213016,
+      0.29363273076925805,
+      0.006567344997743449,
+      0.4685644089993753,
+      0.7372897781529103,
+      0.19409691282752525,
+      0.0025826300174972925
+    ],
+    "greedy": "The brightness of the scene has increased. The three people, who were previously standing with their left legs raised and bent, have now changed to having their right legs raised and bent.",
+    "MBR": "The brightness of the scene has dimmed. The three people's legs, which were previously crossed with the left leg on top, have now been changed to the right leg on top."
+  },
+  {
+    "id": "zoom_out_L2_08",
+    "selected_index": 7,
+    "utilities": [
+      1.3005977323691458,
+      0.3999380268996028,
+      0.1128410235986254,
+      0.6912795132387559,
+      1.5329490882669325,
+      0.28441256538661264,
+      0.3057315860863198,
+      1.5926028687842806,
+      0.2626400025744276
+    ],
+    "greedy": "The number of electric cars in the scene has increased.",
+    "MBR": "The number of electric bicycles in the scene has increased."
+  },
+  {
+    "id": "zoom_out_L2_09",
+    "selected_index": 0,
+    "utilities": [
+      0.878109696152092,
+      0.21716181021981867,
+      0.16577354613095022,
+      0.012478850666016015,
+      0.8108014169458495,
+      0.3358388939620392,
+      0.36703768960350686,
+      0.047786162609185355,
+      0.5963584559107086
+    ],
+    "greedy": "The chair on the left side of the room has turned from facing the camera to facing the round table. The two glasses of orange juice on the table have swapped positions with the blue water pitcher. The white plate in the center of the table has changed from being placed horizontally to vertically. The bread on the plate at the back left corner of the dining table has been replaced by a black-and-white checkered napkin.",
+    "MBR": "The chair on the left side of the room has turned from facing the camera to facing the round table. The two glasses of orange juice on the table have swapped positions with the blue water pitcher. The white plate in the center of the table has changed from being placed horizontally to vertically. The bread on the plate at the back left corner of the dining table has been replaced by a black-and-white checkered napkin."
+  },
+  {
+    "id": "zoom_out_L2_10",
+    "selected_index": 0,
+    "utilities": [
+      1.9496055926249474,
+      1.0242574719720288,
+      1.0375097617323796,
+      0.23307186751666506,
+      1.5689407221153426,
+      1.060851984375951,
+      0.28508868826934974,
+      1.2632507038892964,
+      0.5583646810472386
+    ],
+    "greedy": "The wooden lounge chair on the left side of the scene has moved to the right, closer to the bench. The size of the green watering can on the ground in the middle of the right side of the greenhouse has been reduced.",
+    "MBR": "The wooden lounge chair on the left side of the scene has moved to the right, closer to the bench. The size of the green watering can on the ground in the middle of the right side of the greenhouse has been reduced."
+  },
+  {
+    "id": "zoom_out_L2_11",
+    "selected_index": 3,
+    "utilities": [
+      0.30601989966487125,
+      0.5897606904327287,
+      0.9391388440569796,
+      1.103352924893124,
+      0.00021443656533293962,
+      0.3123143956355352,
+      0.7755029582896851,
+      1.065701725553163,
+      0.733890906696092
+    ],
+    "greedy": "The curtain in the room has appeared. The black bookshelf on the left side of the room has changed from two white books stacked horizontally to three white books stacked vertically.",
+    "MBR": "The black bookshelf on the left side of the room has been moved to the right side. The orange cylindrical pillow near the foot of the lower bed is now present."
+  },
+  {
+    "id": "zoom_out_L2_12",
+    "selected_index": 0,
+    "utilities": [
+      0.49665882959854857,
+      0.23244331426728743,
+      0.4614029617723779,
+      0.42439147265740873,
+      0.422294769329003,
+      0.2616265124338438,
+      0.31010019574741954,
+      0.22359655773529075,
+      0.23583538537997129
+    ],
+    "greedy": "The white chair on the left side of the scene has turned from facing the camera to facing the table. The word \"Kitchen\" in blue letters has appeared in front of the floor at the lower center of the scene. A new chair with a light beige cushion and a metal frame has appeared behind the round wooden table. The two glasses of orange juice on the table have swapped positions. The white plate on the right side of the table has decreased in size.",
+    "MBR": "The white chair on the left side of the scene has turned from facing the camera to facing the table. The word \"Kitchen\" in blue letters has appeared in front of the floor at the lower center of the scene. A new chair with a light beige cushion and a metal frame has appeared behind the round wooden table. The two glasses of orange juice on the table have swapped positions. The white plate on the right side of the table has decreased in size."
+  },
+  {
+    "id": "zoom_out_L2_13",
+    "selected_index": 1,
+    "utilities": [
+      0.15460200829125947,
+      0.5264235771226558,
+      0.4442473572879073,
+      0.188777903364977,
+      0.2771553785543211,
+      0.3807632675301388,
+      0.4519802792741088,
+      0.47191730481915106,
+      0.31284289219901473
+    ],
+    "greedy": "The light in the scene has increased. The black iron gate at the entrance to the left of the house is now present.The potted plant on the right side of the blue house's front porch has been replaced with a larger potted plant.",
+    "MBR": "The potted plant located on the left side of the blue house's front porch has disappeared.The red and white striped heart-shaped graffiti on the black iron gate in the front left of the scene is no longer visible.The bicycle that was leaning against the sidewalk on the right side of the road has been moved to the front of the sidewalk, closer to the blue house."
+  },
+  {
+    "id": "zoom_out_L2_14",
+    "selected_index": 3,
+    "utilities": [
+      1.8010563520985958,
+      0.806526517356014,
+      1.1853824954187704,
+      2.0079139745103887,
+      1.3697056985263765,
+      1.6239470904213653,
+      0.05361869154906593,
+      0.8750073662884623,
+      0.1359996080448032
+    ],
+    "greedy": "The black pillow on the lower bed has disappeared. The white mug that was previously placed on the cabinet to the left of the lower bed is no longer visible.",
+    "MBR": "The white mug that was on the cabinet to the left of the lower bed is no longer visible. The size of the orange cylindrical pillow on the lower bed has increased."
+  },
+  {
+    "id": "zoom_out_L3_00",
+    "selected_index": 5,
+    "utilities": [
+      0.3600004726207416,
+      0.6859880943610213,
+      0.6761821737530807,
+      0.6654271776247239,
+      0.6049827556927188,
+      0.9116018254924555,
+      0.7405873617205704,
+      0.6768314018296208,
+      0.8539644842272839
+    ],
+    "greedy": "The blackboard located behind the white podium in the center of the classroom has become smaller. A person wearing a backpack and yellow shoes is standing near the right-side wall of the classroom, facing outside the scene with their back to the camera.",
+    "MBR": "The blackboard has shifted to the right. A person wearing a backpack and a hat is standing at the door on the right side of the classroom, facing the front of the classroom."
+  },
+  {
+    "id": "zoom_out_L3_01",
+    "selected_index": 1,
+    "utilities": [
+      3.4523472667684852e-31,
+      0.3550488185493663,
+      0.06298985408824817,
+      0.00026759799019328317,
+      1.261278381645909e-08,
+      0.1276742772203554,
+      0.18132245602099709,
+      0.23337723410512873,
+      0.3081449139622089
+    ],
+    "greedy": "The white chair under the table on the left side has appeared. The white chair under the table on the right side has appeared. The white plate in the center of the table has appeared. The yellow handleware on the black cabinet at the back right of the scene has appeared. The brown bread on the wooden rack to the left of the stove has appeared. The red and white kettle on the black countertop at the back right of the scene has disappeared. The white teacup on the black countertop at the back right of the scene has disappeared. The white toaster on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared. The white cup on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared. The white plate on the black countertop at the back right of the scene has disappeared.",
+    "MBR": "The white chair on the left side of the room has appeared. The dark red knife rack on the black kitchen counter has disappeared. The bread on the plate at the back left corner of the wooden table is present. The transparent glass goblet with a yellow pattern on the black countertop in the center of the scene has disappeared. The dining stool behind the wooden table has moved from the right side to the left side. The two glasses of orange juice that were previously on the table are no longer visible. The dining stool on the right side of the room has moved forward."
+  },
+  {
+    "id": "zoom_out_L3_02",
+    "selected_index": 4,
+    "utilities": [
+      0.46581759804679895,
+      0.7366937838189759,
+      0.19348828016474215,
+      0.2969041686018069,
+      0.8181184621451804,
+      0.3165913626207005,
+      0.3491517676045184,
+      0.0038625885462355,
+      0.5757011728423661
+    ],
+    "greedy": "The chair on the left side of the round table has disappeared. The chair on the right side of the round table has also disappeared. The white plate in front of the cake on the round table has disappeared. The transparent glass cup on the right side of the table has disappeared. The yellow teapot on the left side of the table has disappeared. The two glasses of orange juice on the table have changed from three to two. The knife on the black countertop at the back right of the scene has disappeared.",
+    "MBR": "The black kitchen knife rack on the right side of the stove has moved to the left. The white plate in front of the cake on the round table has disappeared. The transparent glass cup on the round table has disappeared. The white chair with a cushioned seat and metal frame behind the wooden table has disappeared. The red fire extinguisher on the floor next to the stove on the right side of the room has changed from red to gray."
+  },
+  {
+    "id": "zoom_out_L3_03",
+    "selected_index": 2,
+    "utilities": [
+      0.4280084142186198,
+      0.006754648393201289,
+      1.7142602396981277,
+      0.00030672534428282863,
+      1.1921330229984404,
+      1.6391542252276983,
+      0.13719311604169795,
+      1.2857575918558932,
+      0.25217612823903623
+    ],
+    "greedy": "The light in the scene has increased. The person wearing a blue jacket and black shorts is no longer visible near the upper right corner of the building on the left side of the road.The streetlight at the front left of the scene, next to the pedestrian crossing, has been replaced with a streetlamp featuring a round top and a slender pole.",
+    "MBR": "The traffic light at the bottom right corner of the pedestrian crossing has changed from green to red. The person wearing a blue jacket and black shorts, who was standing on the left side of the road in front of the building on the right, is now located near the center of the road."
+  },
+  {
+    "id": "zoom_out_L3_04",
+    "selected_index": 3,
+    "utilities": [
+      1.249943070274166,
+      0.0030733650313988703,
+      1.1035711251633582,
+      1.855271471211166,
+      0.6687858345283009,
+      1.6985902569143583,
+      0.7299693765595328,
+      1.8247753512467149,
+      0.49051568688503056
+    ],
+    "greedy": "The light in the scene has increased. The green hose on the ground in the middle of the greenhouse has moved to the right side of the scene.The bench located on the left side of the scene near the purple box and cushion has been rotated from facing the front of the scene to facing the back of the scene.",
+    "MBR": "The area has grown dimmer. The green hose on the ground in the middle of the greenhouse has moved to the right side of the scene.The bench on the left side of the scene, next to the purple box and cushion, has rotated from facing forward to facing backward."
+  },
+  {
+    "id": "zoom_out_L3_05",
+    "selected_index": 5,
+    "utilities": [
+      0.7219086847807011,
+      0.2765496357018419,
+      0.6848180443127379,
+      0.3856680014075356,
+      0.15871577610814777,
+      0.7353978308872566,
+      8.373443360850451e-06,
+      0.026682460690537993,
+      0.5279298261774115
+    ],
+    "greedy": "The blue sign with white \"Hasho\" letters has appeared on the wall above the right side of the room entrance. The two yellow chairs in the middle of the scene have been moved to the left side of the window at the back of the room. The light brown table at the back of the room has been replaced by a gray one. The bouquet of flowers on the bedside table at the far right of the room is no longer present.",
+    "MBR": "The blue sign with the word \"Hashooc\" has appeared on the wall above the right side of the room entrance. The two yellow chairs on the left side of the room have been moved to the right side, and a new identical chair is positioned in the center of the scene. The flower arrangement on the bedside table to the left of the first bed on the right side of the scene has changed from blue and white to all blue."
+  },
+  {
+    "id": "zoom_out_L3_06",
+    "selected_index": 0,
+    "utilities": [
+      2.3537145058867672,
+      1.4748701631266479,
+      1.586039964393784,
+      0.9840888851794487,
+      1.7821080659377255,
+      1.9755813445770927,
+      1.538544193941002,
+      0.000560017589628428,
+      2.027986402941924
+    ],
+    "greedy": "The white pickup truck in the left rear of the frame has disappeared. A new white SUV has appeared on the left side of the frame, with its tail lights lit. The red taillights of a black car in the lower right corner are no longer visible.",
+    "MBR": "The white pickup truck in the left rear of the frame has disappeared. A new white SUV has appeared on the left side of the frame, with its tail lights lit. The red taillights of a black car in the lower right corner are no longer visible."
+  },
+  {
+    "id": "zoom_out_L3_07",
+    "selected_index": 6,
+    "utilities": [
+      0.46984523284305585,
+      0.8693546546389836,
+      0.28717943597979484,
+      1.1340044246755956,
+      0.4416982924750793,
+      0.5771499218037511,
+      1.1724816451817786,
+      0.1442304527232064,
+      0.779060165373759
+    ],
+    "greedy": "The light in the scene has diminished. The black traffic light at the bottom left corner of the scene has been replaced with a brown streetlamp.",
+    "MBR": "The light in the scene has increased. The black traffic light at the bottom left corner of the scene is missing.The green trash can near the palm tree on the right side of the road has disappeared."
+  },
+  {
+    "id": "zoom_out_L3_08",
+    "selected_index": 0,
+    "utilities": [
+      1.3815980123031717,
+      0.4723730042361083,
+      1.1306319210973843,
+      1.3654098109144623,
+      1.2528556749537687,
+      1.197300042064316,
+      1.2228527516702001,
+      0.7998224505644329,
+      0.015934960013471083
+    ],
+    "greedy": "The brightness of the scene has dimmed. The pink basin on the third level has been moved to the top of the shelf. A new white bottle with a blue \"5\" printed on it has appeared in the uppermost position of the shelf.",
+    "MBR": "The brightness of the scene has dimmed. The pink basin on the third level has been moved to the top of the shelf. A new white bottle with a blue \"5\" printed on it has appeared in the uppermost position of the shelf."
+  },
+  {
+    "id": "zoom_out_L3_09",
+    "selected_index": 5,
+    "utilities": [
+      0.11353532775413337,
+      0.39401877091893023,
+      7.816146035564438e-05,
+      0.48615168777130746,
+      0.17889276334430618,
+      0.5173387535630045,
+      0.3165260462376256,
+      0.014126100561993649,
+      0.009621927881502202
+    ],
+    "greedy": "The light in the scene has increased. The blue and white flowers in the flowerpot on the bedside table next to the bed on the left side of the room have been replaced with red and white flowers.The yellow swivel chair near the large tree in the back right of the room has appeared.",
+    "MBR": "The two paintings that were hung on the wall above the beds are now located on the right side of the wall. The armrests of the two beds at the far end of the scene have been lowered. The color of the flower arrangement in the vase on the bedside table to the left of the first bed on the right side of the room has changed from red and yellow to blue and white."
+  },
+  {
+    "id": "zoom_out_L3_10",
+    "selected_index": 7,
+    "utilities": [
+      0.005410975393102901,
+      0.20784916072552362,
+      0.04255910521190259,
+      0.15218023327496386,
+      0.12283836509241652,
+      0.17726509988794795,
+      0.05395749467743229,
+      0.2378541634219831,
+      9.664033949793327e-07
+    ],
+    "greedy": "The white rectangular monitor on the second row of desks on the right side of the scene has appeared. The black office chair in front of the leftmost desk in the first row on the right side of the scene has appeared. The gray rectangular monitor on the far right of the first row of tables on the left side of the scene has appeared. The black office chair in front of the leftmost desk in the second row on the right side of the scene has appeared. The black office chair in front of the leftmost desk in the third row on the right side of the scene has appeared. The black office chair in front of the leftmost desk in the fourth row on the right side of the scene has appeared.",
+    "MBR": "The white rectangular computer monitor on the desk at the back left of the scene has been replaced by a black monitor. The white keyboard in front of the central computer tower on the table in the middle of the scene is present. The gray monitor on the far right of the second row of desks from the left side of the scene has appeared. The gray monitor on the far right of the first row of tables from the left side of the scene has appeared. The black office chair with a gray backrest, previously facing the desk in the foreground, is now positioned sideways to the table, with its back facing the camera."
+  },
+  {
+    "id": "zoom_out_L3_11",
+    "selected_index": 0,
+    "utilities": [
+      2.3057234501482213,
+      0.387811148601571,
+      2.2292046071562255,
+      2.2139980599218916,
+      4.614694784055249e-06,
+      0.6831534731059581,
+      2.305723450148221,
+      0.903279237550612,
+      0.040178646501721545
+    ],
+    "greedy": "The brightness of the scene has dimmed. The white pillow on the floor against the wall at the head of the bed has disappeared.",
+    "MBR": "The brightness of the scene has dimmed. The white pillow on the floor against the wall at the head of the bed has disappeared."
+  },
+  {
+    "id": "zoom_out_L3_12",
+    "selected_index": 5,
+    "utilities": [
+      0.15764355811389466,
+      0.24471791730411366,
+      0.3720404320256119,
+      0.2350443220761642,
+      0.7481708921678967,
+      0.9844956099973119,
+      0.3234068033570375,
+      0.22510513814483943,
+      0.8756101552007522
+    ],
+    "greedy": "The blue and white teacup in the center of the picnic mat has been replaced by a red cup. The blue and white striped lounge chair on the right side of the picnic blanket has moved to the left, closer to the tree on the left. The brown woven picnic basket has shifted from the left side of the picnic blanket to the right side. The white teapot on the picnic mat has changed its orientation from facing the camera to facing the trees behind.",
+    "MBR": "The scene has become darker. The blue and white picnic basket, originally placed on the right side of the picnic blanket near the beach chair, has been moved to the left side of the picnic blanket.A new brown woven picnic basket appears in front of the tree in the lower left corner of the image."
+  },
+  {
+    "id": "zoom_out_L3_13",
+    "selected_index": 1,
+    "utilities": [
+      0.18725885372307133,
+      0.39015075123591814,
+      0.2730283722216667,
+      0.011248430788804062,
+      0.2264816021108734,
+      0.10511294753457927,
+      0.10331145718483375,
+      0.27620755175607153,
+      0.3493344229031874
+    ],
+    "greedy": "The light in the scene has increased. The blue and white flower arrangement on the bedside table to the left of the room's center, near the left side of the bed, is present.The blue and white flower arrangement on the bedside table to the right of the room's center, near the right side of the bed, is present.",
+    "MBR": "The ambiance has brightened. The blue and white flower arrangement in the vase on the bedside table to the left of the bed at the front of the scene is present."
+  },
+  {
+    "id": "zoom_out_L3_14",
+    "selected_index": 8,
+    "utilities": [
+      1.2742608852708464,
+      1.2276068465052627,
+      1.0751135198059316,
+      0.7951746461611419,
+      1.2058894816990877,
+      0.797571609295227,
+      1.055413574300039,
+      1.3551541414474708,
+      1.4488432275991217
+    ],
+    "greedy": "The blue and white striped wooden lounge chair on the right side of the scene has moved to the left, closer to the picnic blanket. The white teapot that was in front of the two glasses on the right side of the picnic blanket is no longer visible. The white cup on the right side of the picnic blanket has disappeared. The brown matemat on the picnic blanket has shifted from a position with its short side facing the front of the scene to one with its long side facing the front.",
+    "MBR": "The blue and white striped wooden chair that was on the right side of the picnic table has moved to the left, closer to the tree. The white teapot on the picnic blanket has disappeared. The two white teacups that were previously in front of the white teapot have disappeared. The red cup that was in front of the white teacup has also disappeared. The small white spherical object that was on the grass near the lower right corner of the picnic blanket has disappeared."
+  },
+  {
+    "id": "rotate_L1_00",
+    "selected_index": 0,
+    "utilities": [
+      1.4096722567363598,
+      1.1260873393561537,
+      0.428039610998701,
+      0.0001753784571389378,
+      0.6582442613997281,
+      1.0083694742175096,
+      0.05082671424953966,
+      0.10691458462418454,
+      0.260710273258185
+    ],
+    "greedy": "The spray bottle on the left side of the pink hair dryer has changed its orientation from facing the right side to facing the left side.",
+    "MBR": "The spray bottle on the left side of the pink hair dryer has changed its orientation from facing the right side to facing the left side."
+  },
+  {
+    "id": "rotate_L1_01",
+    "selected_index": 0,
+    "utilities": [
+      3.273064583937617,
+      3.273064583937617,
+      0.4267356313049992,
+      0.02424892167650327,
+      0.6147313077610632,
+      0.17260817682275426,
+      3.273064583937617,
+      0.3268700445093891,
+      2.5644861220576
+    ],
+    "greedy": "The light in the scene has diminished.",
+    "MBR": "The light in the scene has diminished."
+  },
+  {
+    "id": "rotate_L1_02",
+    "selected_index": 7,
+    "utilities": [
+      0.4843119578799176,
+      0.09580516951847232,
+      0.18622850269333735,
+      0.3672344122511711,
+      0.07725117983297494,
+      0.21873866577253595,
+      0.7085109813209833,
+      0.8290315484967355,
+      0.08184752386602763
+    ],
+    "greedy": "The man wearing a hat, a brown coat, and blue pants has turned his body to the left. The red and white striped awning above the entrance of the blue house in the distance has disappeared.",
+    "MBR": "The man wearing a hat, a brown coat, and blue pants has turned his body to the left. The front of the bicycle on the right side of the road has changed from facing the right side to facing the back of the scene."
+  },
+  {
+    "id": "rotate_L1_03",
+    "selected_index": 0,
+    "utilities": [
+      2.347289434939356,
+      1.4282470000278609,
+      1.1372935677245621,
+      1.151823523399112,
+      1.6494268282007065,
+      1.2251690609588066,
+      1.8155951625699376,
+      1.436449276915823,
+      1.5349365889239401
+    ],
+    "greedy": "The blue and white beach chair on the right side of the picnic mat has turned from facing the left side of the scene to facing the right side. The hamburger in the picnic basket has moved to the right side of the picnic blanket.",
+    "MBR": "The blue and white beach chair on the right side of the picnic mat has turned from facing the left side of the scene to facing the right side. The hamburger in the picnic basket has moved to the right side of the picnic blanket."
+  },
+  {
+    "id": "rotate_L1_04",
+    "selected_index": 0,
+    "utilities": [
+      0.8412784279370649,
+      0.3847050018666511,
+      0.014469196780529742,
+      0.2581056786081522,
+      0.29790952141043875,
+      0.2843628840934739,
+      0.03821026520395902,
+      0.7320764726606274,
+      0.2927750890690913
+    ],
+    "greedy": "The posture of the three people in the middle row changes from facing forward with both arms extended horizontally and the left leg raised to the side, to facing forward with both arms extended horizontally and the right leg raised to the side.",
+    "MBR": "The posture of the three people in the middle row changes from facing forward with both arms extended horizontally and the left leg raised to the side, to facing forward with both arms extended horizontally and the right leg raised to the side."
+  },
+  {
+    "id": "rotate_L1_05",
+    "selected_index": 0,
+    "utilities": [
+      1.132701708173691,
+      0.8526208349123234,
+      1.1069058827776865,
+      1.0009033095650726,
+      0.18943428346436686,
+      0.33170724411967467,
+      0.5126448303413437,
+      0.9446329994985273,
+      1.0098338438039445
+    ],
+    "greedy": "The three people in the middle of the scene, who were previously facing right with their left arms bent and raised, have now turned to face the left side of the frame.",
+    "MBR": "The three people in the middle of the scene, who were previously facing right with their left arms bent and raised, have now turned to face the left side of the frame."
+  },
+  {
+    "id": "rotate_L1_06",
+    "selected_index": 1,
+    "utilities": [
+      1.7921130663603617,
+      1.9695868546282118,
+      1.3301899094117908,
+      1.534435267954027,
+      0.5955616973368331,
+      0.04153350297311413,
+      1.267732153525841,
+      1.505969605874928,
+      0.6912884740452578
+    ],
+    "greedy": "The size of the blue glowing letter \"Shop\" on the ground has decreased. The green plants in the wooden planter box at the front left of the scene have become smaller.",
+    "MBR": "The size of the blue glowing letter \"Shop\" on the ground has decreased. The plant in the wooden box at the front right of the scene has become smaller."
+  },
+  {
+    "id": "rotate_L1_07",
+    "selected_index": 1,
+    "utilities": [
+      0.8537928670864546,
+      1.113126331786315,
+      0.20934657754760594,
+      0.9849264791536195,
+      1.0382037569281235,
+      0.21362428795127025,
+      0.40356961829834026,
+      0.06649508844249388,
+      0.3609021708484384
+    ],
+    "greedy": "The white pickup truck in the distance has moved from the right side of the frame to the left side. The vehicle parked on the left side of the road is no longer visible.",
+    "MBR": "The white pickup truck in the distance has moved to the left side of the scene. The vehicle on the right side of the frame is no longer visible."
+  },
+  {
+    "id": "rotate_L1_08",
+    "selected_index": 4,
+    "utilities": [
+      0.2992355206685248,
+      0.12873028904918382,
+      0.0845584851359974,
+      1.1943956320875926,
+      1.3861784734790685,
+      0.04897481970448866,
+      1.3163088582558164,
+      0.8802188166582618,
+      0.1274976767836427
+    ],
+    "greedy": "The person's posture changes from having the right hand raised high, with the left hand bent close to the chest, to both hands extended upward.",
+    "MBR": "The figure's posture changes from having both arms raised overhead, with the right hand pointing toward the sky and the left hand slightly bent, to having the right arm extended upward while the left arm is naturally bent."
+  },
+  {
+    "id": "rotate_L1_09",
+    "selected_index": 0,
+    "utilities": [
+      1.6222953906195328,
+      0.16918144518931746,
+      0.5566345267489401,
+      0.5775142670251205,
+      0.30614524316248604,
+      1.5273963240488224,
+      0.14981937063745843,
+      0.053210431121738906,
+      0.5802156790068458
+    ],
+    "greedy": "The light in the scene has increased. The size of the green watering can on the right side of the screen has been reduced.",
+    "MBR": "The light in the scene has increased. The size of the green watering can on the right side of the screen has been reduced."
+  },
+  {
+    "id": "rotate_L1_10",
+    "selected_index": 5,
+    "utilities": [
+      0.9055577396750807,
+      1.0409391125719785,
+      1.2638207219742728,
+      1.3122839596538707,
+      0.35011743860972516,
+      1.3182224075454716,
+      1.0562731669324923,
+      0.9044898362145378,
+      0.517869865626335
+    ],
+    "greedy": "The dog has moved to the right side of the image, with its head slightly lowered and its gaze directed toward the left.",
+    "MBR": "The dog has changed its orientation from facing the left side of the image to facing the right side."
+  },
+  {
+    "id": "rotate_L1_11",
+    "selected_index": 0,
+    "utilities": [
+      1.2736338196676615,
+      0.7367899982179399,
+      0.9119335486459973,
+      0.0038626321282705777,
+      0.1558448474176102,
+      0.6743979649270703,
+      0.6729755026376779,
+      0.8654862403473554,
+      0.7558424508352405
+    ],
+    "greedy": "The person under the streetlamp on the left side of the road, who was holding an umbrella and facing the building on the left side of the scene, is no longer visible. The person in a black jacket and black pants standing at the traffic light on the right side of the road has moved to the middle of the road near the sidewalk.",
+    "MBR": "The person under the streetlamp on the left side of the road, who was holding an umbrella and facing the building on the left side of the scene, is no longer visible. The person in a black jacket and black pants standing at the traffic light on the right side of the road has moved to the middle of the road near the sidewalk."
+  },
+  {
+    "id": "rotate_L1_12",
+    "selected_index": 5,
+    "utilities": [
+      0.8534181854229461,
+      0.7605986051191721,
+      0.7922836618772159,
+      0.7328079053296495,
+      0.02137277313020014,
+      1.0130645773236393,
+      0.8815973465075576,
+      0.18403408237474375,
+      0.2080396038174571
+    ],
+    "greedy": "The white computer monitor on the second row of desks on the right side of the scene has been replaced by a black computer monitor. The black office chair in front of the leftmost desk in the second row from the left is no longer present. The black office chair in front of the leftmost desk in the third row from the left is no longer present. The black office chair in front of the leftmost desk in the fourth row from the left is no longer present.",
+    "MBR": "The white computer monitor on the second row of desks on the right side has been replaced by a black computer monitor. The black office chair in front of the first row of tables on the right side of the scene has moved to the far left. The gray-white striped cabinet on the left wall, directly behind the computer desk on the far left, is no longer visible. The black office chair in front of the first row of tables on the left side of the scene has disappeared."
+  },
+  {
+    "id": "rotate_L1_13",
+    "selected_index": 8,
+    "utilities": [
+      0.2810328323611768,
+      0.009873002918643558,
+      4.427861314940611e-06,
+      0.9733966744122085,
+      0.43725988765815854,
+      0.07305698251185139,
+      0.5848937357579023,
+      1.1378488803016744,
+      1.2667898457002318
+    ],
+    "greedy": "The bouquet of blue flowers in the vase on the bedside table to the left of the bed on the right side of the scene has disappeared. The painting hanging on the wall above the patient's bed on the left side of the room, which was absent, is now present. The painting hanging on the wall above the patient's bed on the right side of the room has changed from a woman's face to a red flower.",
+    "MBR": "The bouquet of blue flowers on the bedside table to the left of the bed on the right side of the scene has disappeared. The artwork depicting a person with red hair and a flower pattern, located above the bedside table on the right side of the room, has changed from facing forward to facing the left side of the room."
+  },
+  {
+    "id": "rotate_L1_14",
+    "selected_index": 2,
+    "utilities": [
+      1.9301458768299837,
+      0.29177619683376177,
+      2.892597025274104,
+      2.002891212997876,
+      0.25937508556351574,
+      2.892597025274104,
+      1.4782817424002679,
+      0.11130165566160144,
+      0.40784494407467686
+    ],
+    "greedy": "The spray bottle on the left side of the pink hair dryer has changed its orientation from facing the right side of the image to facing the left side.",
+    "MBR": "The spray bottle on the left side of the pink hair dryer has changed from facing the right side to facing the back."
+  },
+  {
+    "id": "rotate_L2_00",
+    "selected_index": 0,
+    "utilities": [
+      1.299627397171178,
+      0.5681688637377087,
+      0.9223574520693014,
+      0.31198217576769405,
+      0.6294478512254899,
+      1.0226392920984626,
+      0.5555683918534136,
+      0.4034938693848665,
+      0.5343720220704494
+    ],
+    "greedy": "The scene has become more illuminated. The computer monitor on the far left of the second row of desks from the right side of the scene is now present.",
+    "MBR": "The scene has become more illuminated. The computer monitor on the far left of the second row of desks from the right side of the scene is now present."
+  },
+  {
+    "id": "rotate_L2_01",
+    "selected_index": 1,
+    "utilities": [
+      1.3366852887149512,
+      1.4191816358300176,
+      0.8290142274590528,
+      0.8707176502401359,
+      0.7241961421859275,
+      0.9430517209022288,
+      0.7581528784639429,
+      1.2628983270487393,
+      0.09046664193128102
+    ],
+    "greedy": "The dog has lowered its head and is sniffing the ground.",
+    "MBR": "The dog has lowered its head and is biting the grass in front of it."
+  },
+  {
+    "id": "rotate_L2_02",
+    "selected_index": 1,
+    "utilities": [
+      5.848127910635741,
+      7.782709723280447,
+      5.848127910635741,
+      7.782709723280447,
+      7.782709723280447,
+      4.904012796056306e-06,
+      7.782709723280447,
+      7.782709723280447,
+      7.782709723280447
+    ],
+    "greedy": "The brightness of the scene has dimmed.",
+    "MBR": "The brightness of the scene has decreased."
+  },
+  {
+    "id": "rotate_L2_03",
+    "selected_index": 6,
+    "utilities": [
+      0.5968788673661103,
+      0.30005430184262427,
+      0.4119303046104854,
+      0.45832173187049985,
+      0.35715939267083235,
+      0.18708851337333063,
+      0.5986977253681199,
+      0.07879000435355789,
+      0.536425122652619
+    ],
+    "greedy": "The scene has become more illuminated. The computer monitor on the far left of the second row of desks from the right side of the scene is now present.",
+    "MBR": "The lighting has improved. The computer monitor on the second row of desks on the right side of the scene, originally facing the left side of the scene, is now facing the front of the scene."
+  },
+  {
+    "id": "rotate_L2_04",
+    "selected_index": 0,
+    "utilities": [
+      2.435304221710512,
+      0.9973306949733589,
+      1.311026967353017,
+      1.4401103834929265,
+      2.435304221710512,
+      0.9626718948136634,
+      1.6832523557944892,
+      0.47293564231138563,
+      0.7137013450057356
+    ],
+    "greedy": "The mouse has moved from the left side of the wooden board to the right side.",
+    "MBR": "The mouse has moved from the left side of the wooden board to the right side."
+  },
+  {
+    "id": "rotate_L2_05",
+    "selected_index": 8,
+    "utilities": [
+      0.6327337273048139,
+      0.0819664241962134,
+      0.5509025357255243,
+      0.5627268061748234,
+      0.4984027354824472,
+      0.29672121408398633,
+      0.21178302756527687,
+      0.6625598073005302,
+      0.6679505775397419
+    ],
+    "greedy": "The person who was on the left side of the road, next to the traffic light pole and preparing to cross the road, is no longer visible. The black trash can at the bottom right corner of the pedestrian crossing has been moved to the left and placed next to the small round table.",
+    "MBR": "The person in a black jacket and black shorts who was on the left side of the road, waiting to cross with their back to the building, is no longer visible. The person walking on the left sidewalk, heading toward the intersection, is no longer present."
+  },
+  {
+    "id": "rotate_L2_06",
+    "selected_index": 8,
+    "utilities": [
+      1.3291855330090079,
+      1.0444489188033725,
+      1.0122587047406642,
+      0.44937061638163667,
+      0.4387236667988088,
+      0.8317258790822761,
+      0.709664169155261,
+      1.0034947288565967,
+      1.365555891300489
+    ],
+    "greedy": "The red car in the distance on the right side of the screen has disappeared. The black car that was previously parked in the left rear of the frame has now moved to the front, closer to the camera.",
+    "MBR": "The brightness of the scene has increased. The red car in the distance on the right side of the frame is no longer visible. A new black car appears at the left rear of the screen, facing left."
+  },
+  {
+    "id": "rotate_L2_07",
+    "selected_index": 3,
+    "utilities": [
+      0.7231464229716638,
+      1.2574598212310817,
+      1.231869139074275,
+      1.4767116999346646,
+      0.24378263617692542,
+      1.4268723067647036,
+      1.1520425853124379,
+      0.946107674035519,
+      0.8427584707242792
+    ],
+    "greedy": "The dog has moved forward, with its head lowering and its nose touching the ground.",
+    "MBR": "The dog has lowered its head, looking towards the ground."
+  },
+  {
+    "id": "rotate_L2_08",
+    "selected_index": 2,
+    "utilities": [
+      3.7840533911881726,
+      3.4974131919393314,
+      3.9587261408351337,
+      3.544268399562068,
+      3.4974131919393314,
+      0.006800508718880234,
+      0.015281692042916723,
+      2.864083868671319,
+      1.011538917855083
+    ],
+    "greedy": "The yellow lid on the red and yellow milk powder bottle on the right side of the scene has disappeared.",
+    "MBR": "The yellow lid on the red and yellow milk bottle on the right side of the scene has disappeared."
+  },
+  {
+    "id": "rotate_L2_09",
+    "selected_index": 3,
+    "utilities": [
+      2.917134158873791,
+      0.6538394480127278,
+      0.7504236669094126,
+      2.9968794245095993,
+      2.7489436446052027,
+      2.4065831217162486,
+      1.889127794248024,
+      2.767048803779426,
+      2.892008984850425
+    ],
+    "greedy": "The polar bear on the right side of the image, which was previously facing left with its head slightly lowered, is now facing forward with its head slightly raised.",
+    "MBR": "The polar bear on the right side of the image, which was previously facing left with its head lowered and eyes closed, has now turned to face the camera with its mouth slightly open."
+  },
+  {
+    "id": "rotate_L2_10",
+    "selected_index": 0,
+    "utilities": [
+      0.8000022418608778,
+      0.1321953663407001,
+      3.582009248367494e-06,
+      7.105820611560906e-05,
+      0.007053433438165807,
+      0.11678848158674435,
+      0.14741432042413966,
+      0.3346671022120922,
+      0.7515553542674476
+    ],
+    "greedy": "The area is now darker. The blue and white flower arrangement on the bedside table to the left of the bed on the right side of the scene has been moved to the bedside table on the left side of the scene.",
+    "MBR": "The area is now darker. The blue and white flower arrangement on the bedside table to the left of the bed on the right side of the scene has been moved to the bedside table on the left side of the scene."
+  },
+  {
+    "id": "rotate_L2_11",
+    "selected_index": 1,
+    "utilities": [
+      2.319010062534295,
+      3.2861516148537855,
+      0.0028801344579153644,
+      3.2861516148537855,
+      3.929975269842221e-06,
+      3.2861516148537855,
+      0.3763921165349752,
+      0.3592895586720085,
+      0.003756557478153305
+    ],
+    "greedy": "The brightness of the scene has decreased.",
+    "MBR": "The brightness of the scene has dimmed."
+  },
+  {
+    "id": "rotate_L2_12",
+    "selected_index": 1,
+    "utilities": [
+      2.7892054976198746,
+      3.6139228406945105,
+      3.6139228406945105,
+      2.3947051854306047,
+      0.3785099515666848,
+      0.8523958220799832,
+      0.5619362756002446,
+      1.1231223570149984,
+      2.6240102715441838
+    ],
+    "greedy": "The yellow and white shared electric bike in the middle of the left side of the frame has moved to the right.",
+    "MBR": "The yellow and white shared electric bike on the left side of the image has moved to the right."
+  },
+  {
+    "id": "rotate_L2_13",
+    "selected_index": 5,
+    "utilities": [
+      0.4181891527555839,
+      0.3512419360276793,
+      0.23814368655478407,
+      0.4205480051336273,
+      0.17804736798603712,
+      0.5163902807652597,
+      0.40579388040098074,
+      0.20397323086289854,
+      0.24850060679900426
+    ],
+    "greedy": "The light blue house in the center of the screen has increased in size. The gray trash can on the right side of the road, next to the red house, has decreased in size.The potted plant with orange flowers that was originally placed on the left side of the street near the red house is no longer visible.",
+    "MBR": "The gray trash can next to the right-side post of the house in the middle of the picture has become smaller. The flower pot on the left side of the road, near the red house on the left side of the picture, has disappeared. The black iron gate at the base of the blue house in the center of the picture has disappeared."
+  },
+  {
+    "id": "rotate_L2_14",
+    "selected_index": 0,
+    "utilities": [
+      1.0252217704216546,
+      0.45987965099358596,
+      0.5106912472260152,
+      0.5163035055232178,
+      0.021831565169658042,
+      0.7917749541920839,
+      0.48510340244248357,
+      0.9056612885432298,
+      0.6193873665172511
+    ],
+    "greedy": "The green watering can in front of the large plant on the right side of the scene has been moved to the left, closer to the wooden table. The size of the green hose on the ground in the middle of the greenhouse has decreased.",
+    "MBR": "The green watering can in front of the large plant on the right side of the scene has been moved to the left, closer to the wooden table. The size of the green hose on the ground in the middle of the greenhouse has decreased."
+  },
+  {
+    "id": "rotate_L3_00",
+    "selected_index": 6,
+    "utilities": [
+      0.876995015801774,
+      0.0008445763484944157,
+      0.7805372473578234,
+      0.0003424980263499257,
+      0.0012468704236477893,
+      0.6749662038933122,
+      1.0128944464070417,
+      0.5243231274982977,
+      0.846966513134831
+    ],
+    "greedy": "The lighting has faded. The bouquet of blue and purple flowers on the bedside table to the left of the bed on the right side of the scene is no longer present.The rectangular painting hanging on the wall above the patient's bed on the left side of the room, which was absent, is now visible.",
+    "MBR": "The bouquet of blue and purple flowers on the bedside table to the left of the bed on the right side of the scene has disappeared. The light in the scene has diminished. The paintings hanging above the beds on the left side of the room have rotated counterclockwise, changing their orientation from facing forward to angled toward the windows."
+  },
+  {
+    "id": "rotate_L3_01",
+    "selected_index": 0,
+    "utilities": [
+      1.1675112867033424,
+      0.4893162512436538,
+      0.14664837205099765,
+      0.3728746890058894,
+      0.15441229292312525,
+      1.1115114252327343,
+      0.09699197494908271,
+      0.4486434534651459,
+      0.2657960808309828
+    ],
+    "greedy": "The black rectangular pillow on the left side of the upper bed has disappeared. The orange pillow in the center of the lower bed has decreased in size. The blue storage box with white letters on the far left of the shelf at the back left side of the scene has disappeared.",
+    "MBR": "The black rectangular pillow on the left side of the upper bed has disappeared. The orange pillow in the center of the lower bed has decreased in size. The blue storage box with white letters on the far left of the shelf at the back left side of the scene has disappeared."
+  },
+  {
+    "id": "rotate_L3_02",
+    "selected_index": 8,
+    "utilities": [
+      0.7352107318524399,
+      0.7199945791256169,
+      0.552425824520238,
+      0.4110808760197215,
+      0.8247472013492434,
+      0.5175846535970509,
+      0.39337236259357744,
+      0.4536779765927528,
+      0.9243887992982183
+    ],
+    "greedy": "The wooden table on the left side of the scene, next to the purple box and bench, has rotated clockwise. The green hose on the ground in the middle of the greenhouse has moved from the right side of the scene to the left side.",
+    "MBR": "The light in the scene has increased. The green watering can on the floor to the right of the bench at the back of the scene is missing.The wooden table located on the left side of the scene near the purple box has rotated clockwise, changing its orientation from facing the front-right of the scene to facing the front-left."
+  },
+  {
+    "id": "rotate_L3_03",
+    "selected_index": 4,
+    "utilities": [
+      0.08082428334240989,
+      0.4222614759652004,
+      0.6747796755986836,
+      0.24578402987008816,
+      0.7657688492299137,
+      0.45272607232896145,
+      0.5644735563605775,
+      0.7534550282607532,
+      0.34933421898397404
+    ],
+    "greedy": "The blue-and-white beach chair on the right side of the picnic blanket has turned from facing the trees on the left to facing the trees on the right. The white cup with a handle, which was located in front of the blue and white lounge chair on the right side of the scene, is now positioned next to the white teacup on the right side of the picnic blanket. The brown picnic basket, originally placed on the picnic blanket near the upper left corner of the scene, has been moved to the lower right corner of the blanket.",
+    "MBR": "The blue-and-white beach chair on the right side of the picnic mat has moved to the left. The white teacup in the center of the picnic blanket has disappeared, and the brown-orange drink cup in front of the white teacup has also disappeared. The picnic blanket has shifted from being located between the two trees on the left to being placed between the two trees on the right."
+  },
+  {
+    "id": "rotate_L3_04",
+    "selected_index": 0,
+    "utilities": [
+      0.948994119513437,
+      0.5007955423557104,
+      0.11850980981456816,
+      0.03742827947861981,
+      0.3308293242939838,
+      0.0428355331610668,
+      0.8610598783846668,
+      0.5683602562778393,
+      0.6527684153493006
+    ],
+    "greedy": "The black keyboard on the desktop has been moved to the left side of the mouse. The open laptop in the middle-right of the table has changed its orientation from facing the right side of the image to facing the left side. The red flag on the wall above the monitor is no longer visible.",
+    "MBR": "The black keyboard on the desktop has been moved to the left side of the mouse. The open laptop in the middle-right of the table has changed its orientation from facing the right side of the image to facing the left side. The red flag on the wall above the monitor is no longer visible."
+  },
+  {
+    "id": "rotate_L3_05",
+    "selected_index": 0,
+    "utilities": [
+      6.273521466969372,
+      0.2944350470248648,
+      6.273521466969372,
+      6.273521466969372,
+      6.273521466969372,
+      6.273521466969372,
+      0.2062933074452412,
+      6.273521466969372,
+      0.4211245162833022
+    ],
+    "greedy": "The ambient lighting has brightened.",
+    "MBR": "The ambient lighting has brightened."
+  },
+  {
+    "id": "rotate_L3_06",
+    "selected_index": 8,
+    "utilities": [
+      0.11431901389354522,
+      0.8819649525281744,
+      0.7244092828638351,
+      0.8609728140415881,
+      0.8904825196306548,
+      0.4127210734211657,
+      0.3478978344777938,
+      0.496106129007352,
+      0.9590574310091338
+    ],
+    "greedy": "The scene is now more lit up. The blackboard located behind the podium on the right side of the classroom has decreased in size.",
+    "MBR": "The scene is now more lit up. The black rectangular speaker mounted on the wall to the left of the blackboard, above the white podium, has disappeared.The chair at the far right in front of the third row of desks, which was facing forward, is now turned to face the window on the left side."
+  },
+  {
+    "id": "rotate_L3_07",
+    "selected_index": 0,
+    "utilities": [
+      0.8554021713102449,
+      0.6363984921120269,
+      0.6112396400132818,
+      0.018836262968686658,
+      0.42367248152394976,
+      0.3662904042692942,
+      0.4607409260374755,
+      0.38794489582941494,
+      0.4137885630459691
+    ],
+    "greedy": "The scene has become darker. The middle desk in the front left aisle of the classroom has been rotated from facing forward to facing the camera.",
+    "MBR": "The scene has become darker. The middle desk in the front left aisle of the classroom has been rotated from facing forward to facing the camera."
+  },
+  {
+    "id": "rotate_L3_08",
+    "selected_index": 0,
+    "utilities": [
+      0.7825273814443057,
+      0.15993804621930288,
+      7.717710353531873e-14,
+      0.10532633983551383,
+      0.0034072016999799684,
+      0.1758736450289371,
+      0.7127213101217093,
+      0.05982666002222824,
+      0.23479930298800325
+    ],
+    "greedy": "The three people in the middle of the scene change from facing right to facing left.",
+    "MBR": "The three people in the middle of the scene change from facing right to facing left."
+  },
+  {
+    "id": "rotate_L3_09",
+    "selected_index": 7,
+    "utilities": [
+      0.6941832024983309,
+      0.7952954700455778,
+      0.7261328675534832,
+      0.8062631488075505,
+      0.43263541540510675,
+      0.7735432970125163,
+      1.0223780631422645,
+      1.2148499628819416,
+      0.7285727284872554
+    ],
+    "greedy": "The person's head orientation changes from facing the camera to facing away from it. The body's orientation shifts from facing the left side of the frame to facing the right side of the frame.",
+    "MBR": "The person's posture changes from a handstand position with the head facing downward and both hands supporting the body on the ground, to an inverted pose where the head faces upward."
+  },
+  {
+    "id": "rotate_L3_10",
+    "selected_index": 2,
+    "utilities": [
+      0.12248272719996335,
+      0.16429160707683882,
+      0.35466386189585747,
+      0.05542515960822025,
+      0.18541470604747132,
+      0.3433484859895852,
+      0.03398034159193275,
+      0.17835800814619157,
+      2.2408043238332752e-07
+    ],
+    "greedy": "The light in the scene has increased. The person who was on the left side of the road, near the street corner and close to the blue window, is no longer visible.The black trash can at the rear right of the pedestrian crossing has been moved to the left edge of the scene.",
+    "MBR": "The environment has become brighter. The person in a white shirt and black shorts who was on the left side of the road, near the middle of the building on the left side, is no longer visible."
+  },
+  {
+    "id": "rotate_L3_11",
+    "selected_index": 5,
+    "utilities": [
+      1.2191118504917544,
+      1.4141014506097176,
+      1.1637039116885812,
+      0.9088787737813157,
+      0.24650744108872646,
+      1.5671809952082703,
+      0.21126379084025657,
+      1.0831293180576158,
+      0.46875733305595063
+    ],
+    "greedy": "The word \"Efficient\" on the carpet has been replaced with \"e121\". The chair in front of the computer desk at the far left of the scene has turned from facing the table to facing the window.",
+    "MBR": "The word \"Efficient\" on the floor has been replaced with \"e121\". The gray trash bin in the far left corner of the scene is no longer visible. The computer monitor on the second row of desks on the right side of the scene has decreased in size."
+  },
+  {
+    "id": "rotate_L3_12",
+    "selected_index": 6,
+    "utilities": [
+      1.016915961329855,
+      1.2941246565820357,
+      1.6158956518782923,
+      0.5471035547735058,
+      0.961018237487081,
+      0.3838558400112067,
+      1.6883114233699537,
+      1.2316076917911478,
+      0.34887042483349967
+    ],
+    "greedy": "The blue and white beach chair on the right side of the picnic mat has turned from facing the left side of the scene to facing the right side. The white cup in front of the blue and white beach chair has been moved to the center of the picnic mat. The red cup that was in front of the white cup is now located at the back right corner of the picnic mat.",
+    "MBR": "The blue and white beach chair on the right side of the picnic mat has turned from facing the left side of the scene to facing the right side. The white cup that was in front of the cookies on the picnic blanket is now located near the back-right side of the picnic blanket, next to the red cup."
+  },
+  {
+    "id": "rotate_L3_13",
+    "selected_index": 2,
+    "utilities": [
+      0.920500347314651,
+      0.6303460351045074,
+      1.0020287887299653,
+      0.07429831587006469,
+      0.6804989935972764,
+      0.04581238318235209,
+      0.001324323340505598,
+      0.9594489821341365,
+      0.2279082861077618
+    ],
+    "greedy": "The potted plant in the lower left corner of the scene has disappeared. The gray bucket on the right side of the road, next to the bicycle, is no longer present. The black iron gate at the entrance of the house on the right side of the scene has disappeared. The blue house in the center of the scene has lost one of its windows on the second floor.",
+    "MBR": "The small potted plant with flowers, originally on the left side of the scene near the red house and fence, has disappeared. The gray metal bucket that was previously in front of the red house on the right side of the road is now located at the back of the bicycle parked on the right side of the road. The blue house in the center of the scene has reduced in size."
+  },
+  {
+    "id": "rotate_L3_14",
+    "selected_index": 1,
+    "utilities": [
+      2.0381864962215346,
+      2.3821771836910335,
+      0.8010409111725363,
+      0.7887921343237788,
+      1.612607562924338,
+      2.2659910102504597,
+      1.551436909015485,
+      0.7405708553592009,
+      1.788975221582758
+    ],
+    "greedy": "The blue and white beach chair on the right side of the picnic mat has rotated from facing the camera to facing the left side of the scene. The white teacup in the picnic basket has been moved to the right side of the picnic blanket. The food in the picnic basket has been moved to the right side of the picnic blanket.",
+    "MBR": "The blue and white beach chair on the right side of the picnic blanket has turned its back to the trees on the left. The quantity of small white flowers in the lower right corner of the scene has changed, with an additional yellow flower added. The food on the picnic mat has been moved to the right side of the picnic mat."
+  },
+  {
+    "id": "pan_L1_00",
+    "selected_index": 0,
+    "utilities": [
+      1.445127787339951,
+      1.3528862906058219,
+      0.5771693700980852,
+      1.4312649751739484,
+      0.2860393117508509,
+      0.31136171163873094,
+      0.5291725367886595,
+      0.2333989648367796,
+      0.5624308059115479
+    ],
+    "greedy": "The light in the scene has diminished. The wooden table on the left side of the scene, which was previously facing the front right, is now facing the back left.The green hose on the ground in the middle of the greenhouse has moved to the right.",
+    "MBR": "The light in the scene has diminished. The wooden table on the left side of the scene, which was previously facing the front right, is now facing the back left.The green hose on the ground in the middle of the greenhouse has moved to the right."
+  },
+  {
+    "id": "pan_L1_01",
+    "selected_index": 4,
+    "utilities": [
+      1.4655848479849474,
+      1.2700828704344276,
+      1.053579968149189,
+      1.160040111186789,
+      2.075095200005065,
+      1.289962274127353,
+      1.6375805904535403,
+      1.5427746563005358,
+      1.4669685951327567
+    ],
+    "greedy": "The blue and white beach chair on the right side of the picnic blanket, facing the trees in the distance, has turned to face the tree on the left. The white egg-shaped object in the center of the picnic blanket, next to the two orange cups, has decreased in size.",
+    "MBR": "The blue and white beach chair on the right side of the picnic blanket has shifted orientation from facing the trees on the left to facing the tree on the right. The size of the white round object on the picnic mat has become smaller."
+  },
+  {
+    "id": "pan_L1_02",
+    "selected_index": 2,
+    "utilities": [
+      0.811675449571592,
+      0.47427836667824425,
+      0.876765909296148,
+      0.4491665749670589,
+      0.3211578086746196,
+      0.6566045464399022,
+      0.4544651760012548,
+      0.02221961272383525,
+      0.3699250428356187
+    ],
+    "greedy": "The bicycle that was leaning against the metal fence on the right side of the road has moved to the left, now resting against a gray concrete post. The word \"vila\" in light blue letters has appeared on the left side of the road, near the curb, and is visible on the ground.",
+    "MBR": "The bicycle that was leaning against the fence on the right side of the street has moved to the left and is now parked next to a small gray metal trash can. The word \"vila\" in blue text, located on the left side of the road near the sidewalk, has increased in size."
+  },
+  {
+    "id": "pan_L1_03",
+    "selected_index": 0,
+    "utilities": [
+      1.1145846422805685,
+      0.9474076276274928,
+      0.8026429170550763,
+      0.8946339020647024,
+      0.6614024071369015,
+      0.8662614705961567,
+      0.6630334654943184,
+      0.2501224864850551,
+      0.6295214964289034
+    ],
+    "greedy": "The three people in the middle of the team, who were previously facing right with their left arms bent and hands resting on their chests, have now turned to face the front of the scene.",
+    "MBR": "The three people in the middle of the team, who were previously facing right with their left arms bent and hands resting on their chests, have now turned to face the front of the scene."
+  },
+  {
+    "id": "pan_L1_04",
+    "selected_index": 3,
+    "utilities": [
+      0.14811141357492605,
+      0.13712657523240873,
+      0.5611233055191966,
+      0.6477104810991788,
+      0.08086854007658413,
+      0.5942792763582834,
+      0.22195821250773748,
+      0.24083800179770445,
+      0.3333500264721052
+    ],
+    "greedy": "The light in the scene has increased. The black iron gate at the base of the left side of the house has been replaced by a wooden fence.The potted plant on the left side of the blue house's porch has moved to the right side of the porch.",
+    "MBR": "The bicycle that was leaning against the metal fence on the right side of the road has moved to the left, closer to the red house on the left. The gray concrete post in front of the gate at the entrance to the small alley on the right side of the picture has increased in size."
+  },
+  {
+    "id": "pan_L1_05",
+    "selected_index": 7,
+    "utilities": [
+      2.9856162988473987,
+      2.2186128877182933,
+      1.3513092115116838,
+      0.3163985133764996,
+      1.2647324664596757,
+      2.7704353329402482,
+      1.581016959237825,
+      3.037287227945423,
+      1.2717509242034646
+    ],
+    "greedy": "The blue and white striped lounge chair on the right side of the picnic mat has turned from facing the left side of the screen to facing the right side. The size of the brown woven picnic basket in the lower left corner of the green carpet has increased.",
+    "MBR": "The blue and white striped lounge chair on the right side of the scene, which was facing toward the back of the scene, is now facing the left side of the scene. The size of the brown woven picnic basket in the lower left corner of the mat has increased."
+  },
+  {
+    "id": "pan_L1_06",
+    "selected_index": 1,
+    "utilities": [
+      0.6123629451604907,
+      0.7015397499952625,
+      0.3495652027082888,
+      0.29760812811855275,
+      0.2761892568445527,
+      0.10732911676660482,
+      0.2335649274993759,
+      0.24711076065007442,
+      0.5058883672548938
+    ],
+    "greedy": "The white chair on the right side of the wooden table has turned from facing the camera to facing the left side of the room. The dining table has shifted orientation from facing the front left to facing the back right. The brown bread basket on the black countertop at the back right of the scene has been replaced with a teddy bear. The transparent glass goblet in the upper central part of the scene, which was previously absent, is now present. The two glasses of orange juice on the wooden table have changed from being placed side by side to being placed side by side.",
+    "MBR": "The white chair on the right side of the round table has turned from facing the camera to facing the black cabinet on the left side of the room. The two glasses of orange juice in front of the central wooden table have swapped positions with the plate of food on the table. The brown bread on the white plate on the left side of the table has disappeared. The brown teapot on the black countertop on the right side of the room has disappeared. The number of knives in the knife rack above the black counter on the right side of the room has decreased by one."
+  },
+  {
+    "id": "pan_L1_07",
+    "selected_index": 0,
+    "utilities": [
+      5.846635117410095,
+      2.116902563434308,
+      5.846635117410095,
+      3.324702170391612,
+      5.846635117410095,
+      4.389839121364371,
+      1.4555514254495319,
+      4.389839121364371,
+      5.846635117410095
+    ],
+    "greedy": "The ambient lighting has dimmed.",
+    "MBR": "The ambient lighting has dimmed."
+  },
+  {
+    "id": "pan_L1_08",
+    "selected_index": 3,
+    "utilities": [
+      0.13466823847018253,
+      0.13283966714500783,
+      0.12734352421208228,
+      1.251188861250437,
+      1.251188861250437,
+      0.22776811323957855,
+      0.001935390105687047,
+      0.002296749749249695,
+      0.02026209228279726
+    ],
+    "greedy": "The area is now dimmer. The blue flowers in the flower vase on the bedside table to the left of the bed on the right side of the scene have changed from a bouquet of small blue flowers to a single blue flower in a vase.",
+    "MBR": "The environment has grown dimmer."
+  },
+  {
+    "id": "pan_L1_09",
+    "selected_index": 0,
+    "utilities": [
+      4.033711055954788,
+      0.26321935865826745,
+      0.16163049121450587,
+      0.25159719838885597,
+      4.033711055954788,
+      4.033711055954788,
+      3.5499998493295157,
+      0.0048393599597531785,
+      3.5499998493295157
+    ],
+    "greedy": "The brightness of the scene has decreased.",
+    "MBR": "The brightness of the scene has decreased."
+  },
+  {
+    "id": "pan_L1_10",
+    "selected_index": 5,
+    "utilities": [
+      0.21895700834073062,
+      0.012869708285489171,
+      0.0006522374767486792,
+      0.7477857091925753,
+      0.3981393032235716,
+      1.4250439274716853,
+      0.19540468829973834,
+      1.4250439274716853,
+      0.11110250316637893
+    ],
+    "greedy": "The area is now dimmer. The blue and white vase with flowers on the bedside table at the front of the scene has been moved to the bedside table on the left side of the room.",
+    "MBR": "The environment has grown dimmer."
+  },
+  {
+    "id": "pan_L1_11",
+    "selected_index": 5,
+    "utilities": [
+      0.23776790357026276,
+      0.8077610531122092,
+      0.5530128090310248,
+      0.4149445172796058,
+      0.2978010097423498,
+      1.1045167850770026,
+      0.05630681450019357,
+      0.7628326269022533,
+      0.31931861170697184
+    ],
+    "greedy": "The black office chair in front of the computer on the left side of the second row from the right has disappeared. The black office chair in front of the computer on the far left of the first row has disappeared. The black office chair in front of the computer on the far left of the second row has disappeared. The black office chair in front of the computer on the far left of the third row has disappeared. The black office chair in front of the computer on the far left of the fourth row has disappeared.",
+    "MBR": "The black laptop on the left side of the second row of desks in the center of the scene has disappeared. The black office chair with wheels in front of the computer monitor on the far right of the first row of tables is no longer present."
+  },
+  {
+    "id": "pan_L1_12",
+    "selected_index": 1,
+    "utilities": [
+      0.10380477876993767,
+      1.427577766766126,
+      0.35730432309201493,
+      0.31739637774775,
+      0.011080749164516806,
+      0.06222866526877577,
+      1.427577766766126,
+      0.002865485314634829,
+      0.31685094070945946
+    ],
+    "greedy": "The area is now dimmer. The white curtain hanging in the middle of the left corridor, next to the bed and close to the window, has disappeared.The rectangular painting with a red flower pattern on the wall above the bedside table to the left of the leftmost bed in the scene has disappeared.",
+    "MBR": "The area is now dimmer."
+  },
+  {
+    "id": "pan_L1_13",
+    "selected_index": 8,
+    "utilities": [
+      0.00014744979468372447,
+      0.9368040387426627,
+      0.061047531142030854,
+      0.39458711171494604,
+      0.7663134527573912,
+      0.7764044983627781,
+      0.5654241474506543,
+      0.9410650774400927,
+      1.0764253184301604
+    ],
+    "greedy": "The area is now brighter. The white chairlifts on the left side of the room have been replaced with a light blue chairlift.",
+    "MBR": "The area is now brighter. The white chair with a black base at the front left of the scene, positioned near the bedside table and bed, has been replaced by a beige chair with a black frame.The blue flowers in the vase on the bedside table to the right of the bed on the left side of the room have disappeared."
+  },
+  {
+    "id": "pan_L1_14",
+    "selected_index": 4,
+    "utilities": [
+      1.8614410667893944,
+      0.8718688404875319,
+      1.4945865841178023,
+      1.845532595008204,
+      2.0513237011714636,
+      1.6422361458156036,
+      1.773446459806843,
+      1.6797351068677489,
+      1.557440979742895
+    ],
+    "greedy": "The blue storage basket on the floor in the bottom right corner of the bed has disappeared. The blue storage basket hanging on the wall on the left side of the bed has disappeared.",
+    "MBR": "The blue storage bag in the bottom right corner of the bed has disappeared. The blue storage bag hanging on the wall on the left side of the bed has disappeared."
+  },
+  {
+    "id": "pan_L2_00",
+    "selected_index": 5,
+    "utilities": [
+      1.3374183099762542,
+      2.1591362987823266,
+      1.1281495754970083,
+      1.9354202313021296,
+      1.479286238694096,
+      2.165087178791299,
+      0.018183053669634543,
+      0.252372583419291,
+      1.075795777645153
+    ],
+    "greedy": "The lighting has dimmed. The dog's head, which was previously tilted to the left side of the image, is now tilted to the right side of the image.",
+    "MBR": "The ambient lighting has darkened. The dog's head, which was previously facing the left side of the image, is now turned to face the front left."
+  },
+  {
+    "id": "pan_L2_01",
+    "selected_index": 0,
+    "utilities": [
+      1.133372164676664,
+      0.3869932217138164,
+      0.8568249877054107,
+      0.4153219855513393,
+      0.02487535185936713,
+      0.041300682778766154,
+      0.7757178806755228,
+      0.8694774771615779,
+      0.045325121529220844
+    ],
+    "greedy": "The black camera lens on the left side of the table has been replaced with a complete camera body. The stacked books under the desk have disappeared.",
+    "MBR": "The black camera lens on the left side of the table has been replaced with a complete camera body. The stacked books under the desk have disappeared."
+  },
+  {
+    "id": "pan_L2_02",
+    "selected_index": 5,
+    "utilities": [
+      0.7971410798940222,
+      1.1012405635246074,
+      0.8415636136138723,
+      0.8782080403399967,
+      0.6254751470838402,
+      1.2349740692091873,
+      0.5293326435056723,
+      0.548942674395853,
+      1.0168312131123807
+    ],
+    "greedy": "The tree in front of the red house on the left side of the road has disappeared. The gray concrete post on the left side of the road, near the red building, has disappeared. The potted plant with orange flowers on the right side of the gray pillar at the entrance to the red house on the left side of the street is no longer visible.",
+    "MBR": "The gray concrete pipe on the right side of the road, next to the bicycle and close to the red house, is no longer visible. The man wearing a hat, a brown coat, and blue pants has turned his head to the left."
+  },
+  {
+    "id": "pan_L2_03",
+    "selected_index": 0,
+    "utilities": [
+      0.8271650040615548,
+      0.7908365983743425,
+      0.35436948015221037,
+      0.4174569582809438,
+      0.7980268596841431,
+      0.15699638023672552,
+      0.7615230764315687,
+      0.32322543840711276,
+      0.35422253544672083
+    ],
+    "greedy": "The red bicycle with a white basket on the right side of the road has moved to the left, closer to the center of the scene. The gray concrete post located at the front left corner of the scene, near the edge of the sidewalk and next to the red house on the left, is no longer visible.",
+    "MBR": "The red bicycle with a white basket on the right side of the road has moved to the left, closer to the center of the scene. The gray concrete post located at the front left corner of the scene, near the edge of the sidewalk and next to the red house on the left, is no longer visible."
+  },
+  {
+    "id": "pan_L2_04",
+    "selected_index": 1,
+    "utilities": [
+      0.18463549249406144,
+      1.2937341028558278,
+      1.1259438354616373,
+      0.49220334380622166,
+      0.46356074776308737,
+      0.5849475613053484,
+      0.07206839284591957,
+      1.133801718642015,
+      1.2570985800353895
+    ],
+    "greedy": "The small white cup on the right side of the yellow cutting board has moved to the left, and the puree machine has been pressed down.",
+    "MBR": "The white cup on the right side of the table has disappeared. The feeding machine on the left side of the table has moved to the left, and a certain amount of water has been poured into it."
+  },
+  {
+    "id": "pan_L2_05",
+    "selected_index": 5,
+    "utilities": [
+      0.15973484310090805,
+      0.7057448145504318,
+      0.228696399529333,
+      0.5911069998286341,
+      1.003282885081735,
+      2.084748500602123,
+      1.929877075874142,
+      0.00844957186058681,
+      1.5515487929931058
+    ],
+    "greedy": "The black object in the lower left corner of the image has disappeared. The dog's head, which was previously facing right, is now turned to the left side of the image.",
+    "MBR": "The dog's head has moved from the right side of the image to the left side."
+  },
+  {
+    "id": "pan_L2_06",
+    "selected_index": 1,
+    "utilities": [
+      0.13395513686461394,
+      1.2500000000381997,
+      0.02697306626339314,
+      0.3906994207901538,
+      0.3484681299732004,
+      0.6387124702585519,
+      0.5024416008551958,
+      0.338942437584085,
+      1.2500000000381994
+    ],
+    "greedy": "The light level has dropped. The white bedside lamp on the left side of the first bed on the right side of the scene is no longer present.The white bedside lamp above the second bed on the left side of the scene is no longer visible.The beige chair in the middle of the back wall, originally facing the corridor, is now facing the window.",
+    "MBR": "The light in the scene has diminished."
+  },
+  {
+    "id": "pan_L2_07",
+    "selected_index": 2,
+    "utilities": [
+      2.773354371566869,
+      2.4027755080720365,
+      2.9282397372607734,
+      0.8679861394292112,
+      0.18400358115035598,
+      2.9051114545206858,
+      2.2472019362934534,
+      0.8229687699814178,
+      2.1379937630846593
+    ],
+    "greedy": "The polar bear on the right side of the image has changed its head orientation from facing left to facing forward.",
+    "MBR": "The polar bear on the right side of the image has changed its head orientation from looking to the left to looking downward."
+  },
+  {
+    "id": "pan_L2_08",
+    "selected_index": 1,
+    "utilities": [
+      0.5735806756891734,
+      0.7451998634098036,
+      0.2443550866625427,
+      0.21015774763567135,
+      0.5528828632324868,
+      0.1917483354995847,
+      0.24446115224022164,
+      0.42514046113303505,
+      0.11189517747066874
+    ],
+    "greedy": "The tree in front of the red house on the left side of the road has disappeared. The gray concrete post on the left side of the road, near the red building, has disappeared. The bicycle that was leaning against the railing on the right side of the street is now lying flat on the ground.",
+    "MBR": "The bicycle that was leaning against the fence on the right side of the road is now lying on the ground in the middle of the road. The gray concrete post with decorative heart-shaped holes near the red house on the left side of the road has disappeared."
+  },
+  {
+    "id": "pan_L2_09",
+    "selected_index": 7,
+    "utilities": [
+      0.467676061134493,
+      0.9800541616076219,
+      0.07513282535869378,
+      0.7818934359897384,
+      0.06234364959369436,
+      0.9574439167312904,
+      0.24127121330714038,
+      1.3890424373159944,
+      0.7596924506372769
+    ],
+    "greedy": "The white pickup truck in the driveway of the house on the right is no longer visible. The black car parked in front of the house on the left is no longer visible. The red car parked in front of the house on the right has appeared.",
+    "MBR": "The black car in the driveway of the house on the right is no longer visible. The white pickup truck that was in the driveway of the house on the left is now in the street in front of the house. The taillights of a black vehicle are no longer visible at the bottom right corner of the frame."
+  },
+  {
+    "id": "pan_L2_10",
+    "selected_index": 0,
+    "utilities": [
+      1.3043243924325185,
+      0.29368656776501023,
+      0.07091465306537133,
+      1.0413952282297543,
+      0.23157156372623344,
+      0.501266889745284,
+      1.266200124206547,
+      0.6088367484584996,
+      0.5804693724706438
+    ],
+    "greedy": "The wooden table on the left side of the scene has been moved to the right, next to the bench. The green hose on the ground in the middle of the greenhouse has changed from a coiled state to a more spread-out form.",
+    "MBR": "The wooden table on the left side of the scene has been moved to the right, next to the bench. The green hose on the ground in the middle of the greenhouse has changed from a coiled state to a more spread-out form."
+  },
+  {
+    "id": "pan_L2_11",
+    "selected_index": 4,
+    "utilities": [
+      3.01045303425217,
+      1.2527710158036818,
+      2.4169535997822407,
+      1.2527710158036818,
+      3.0104530342521705,
+      1.6603696543038744,
+      3.0104530342521705,
+      0.415262644913859,
+      2.4169535997822402
+    ],
+    "greedy": "The brown packaging bag on the right side of the scene has disappeared.",
+    "MBR": "The brown packaging bag on the right side of the scene has disappeared."
+  },
+  {
+    "id": "pan_L2_12",
+    "selected_index": 8,
+    "utilities": [
+      1.4054380040049383,
+      1.078200720555731,
+      1.0652406023093974,
+      0.6070925414683033,
+      0.678947968160329,
+      0.06989654691776485,
+      0.7334838916496038,
+      0.831314995155894,
+      1.5700960230352878
+    ],
+    "greedy": "The light in the scene has diminished. The blue letter \"Shop\" on the ground at the front of the scene has decreased in size.",
+    "MBR": "The light in the scene has diminished. The size of the blue letter \"Shop\" on the ground in front of the person has decreased."
+  },
+  {
+    "id": "pan_L2_13",
+    "selected_index": 8,
+    "utilities": [
+      1.4508281832542467,
+      1.2442748753546482,
+      0.8512854115073867,
+      1.5831729892053408,
+      1.2752014836369772,
+      1.5460171299998984,
+      0.7243346157041046,
+      1.5190152089586746,
+      1.6510046657009565
+    ],
+    "greedy": "The blue and white beach chair on the right side of the picnic blanket has moved to the left, closer to the tree. The cup with white milk and a red straw, which was located in front of the blue and white beach chair on the right side of the picnic blanket, is no longer visible.",
+    "MBR": "The blue and white striped beach chair on the right side of the picnic blanket has rotated to face the right side of the scene. The cup with white tea leaves, originally located on the right side of the picnic blanket near the blue and white beach chair, is now placed next to the white teacup."
+  },
+  {
+    "id": "pan_L2_14",
+    "selected_index": 1,
+    "utilities": [
+      0.0671152051631268,
+      0.6788687378331375,
+      0.13514486655739963,
+      0.3070244458309513,
+      0.5181484571101715,
+      0.574959692685514,
+      0.6763923724639093,
+      0.5232125966748765,
+      0.2339509228297305
+    ],
+    "greedy": "The size of the boy in a gray jacket and black pants, who is standing on the left side of the screen near the stairs and facing the camera with his body slightly tilted to the right and looking down at his phone, has decreased. The yellow electric vehicle parked next to the wall on the right side of the scene has been moved to the center of the scene.",
+    "MBR": "The person standing in front of the stairs, next to a yellow electric vehicle and a small yellow bicycle, has turned their head to the left and is now facing the wall on the right side of the picture. The size of the boy's backpack, which was previously larger, has decreased."
+  },
+  {
+    "id": "pan_L3_00",
+    "selected_index": 2,
+    "utilities": [
+      0.36283236112981576,
+      0.9694764675244151,
+      2.6444777360435383,
+      0.027731955995545506,
+      2.3349830070563207,
+      3.0462177671638935e-14,
+      0.5985676060615541,
+      2.644477736043538,
+      2.4422773481259155
+    ],
+    "greedy": "The box of white masks on the right side of the table has disappeared.",
+    "MBR": "The brightness of the scene has dimmed. The brown paper bag that was previously on the right side of the table has disappeared."
+  },
+  {
+    "id": "pan_L3_01",
+    "selected_index": 1,
+    "utilities": [
+      0.7717331464009387,
+      0.8559191201520022,
+      0.4007020409369013,
+      0.07764109456200684,
+      0.6469599943423175,
+      0.37190953203906224,
+      0.5567612971267982,
+      0.2254943020306275,
+      0.009238847372619046
+    ],
+    "greedy": "The black trash can on the right side of the road, next to the building, is no longer visible. The person under the street light on the left side of the road has disappeared. The blue bus on the right side of the road has moved backward along the road. The woman in a black vest and red shorts who was standing near the left entrance of the green building is no longer present. The round table with potted plants on the roof of the green building on the right side of the road has disappeared.",
+    "MBR": "The black trash can on the right side of the road has been moved to the left, positioned next to the blue bus. The person under the streetlight near the center of the road, close to the bus, is no longer visible. The two people standing at the lower left corner of the scene near the building have moved to the middle left of the road, closer to the roadside. The round table on the roof of the green building on the right side of the road has decreased in size."
+  },
+  {
+    "id": "pan_L3_02",
+    "selected_index": 5,
+    "utilities": [
+      0.08811867910602711,
+      0.00533052167003655,
+      0.6283259528522339,
+      0.11728253101877542,
+      0.7690594799135579,
+      0.8603249633272794,
+      0.4281059003392677,
+      0.6826280853275837,
+      0.4009493356726069
+    ],
+    "greedy": "The yellow and white shared electric bike in the lower left corner has moved to the right.",
+    "MBR": "The yellow and white shared electric bike in the lower left corner has moved to the right side of the image. The green unicycle in the distance on the right side of the image is no longer visible."
+  },
+  {
+    "id": "pan_L3_03",
+    "selected_index": 0,
+    "utilities": [
+      1.5562894316658276,
+      1.1878696289819013,
+      0.9184255137473727,
+      0.43641193044658855,
+      0.7011367396829623,
+      0.6678720091861581,
+      1.0620610754915008,
+      0.804543293716144,
+      0.5172156323399825
+    ],
+    "greedy": "The scene is now more lit up. The yellow and black unicycle in the front right corner of the scene has been moved to the center of the scene, next to the wall and beside a box.",
+    "MBR": "The scene is now more lit up. The yellow and black unicycle in the front right corner of the scene has been moved to the center of the scene, next to the wall and beside a box."
+  },
+  {
+    "id": "pan_L3_04",
+    "selected_index": 7,
+    "utilities": [
+      1.3356895132863833,
+      0.2750813967896495,
+      0.676275440535459,
+      0.8217423949987016,
+      0.2924289966005964,
+      0.8013660150866546,
+      0.848774330833997,
+      1.4128649238204067,
+      1.1978935201282879
+    ],
+    "greedy": "The figure's posture changes from having the right leg extended forward and the left leg bent backward, with both arms swinging naturally, to having the right leg extended forward and the left leg bent backward.",
+    "MBR": "The figure's posture changes from having the right leg bent and lifted backward, with the left leg extended forward, to having the right leg straightened, while the left leg is bent and lifted backward."
+  },
+  {
+    "id": "pan_L3_05",
+    "selected_index": 6,
+    "utilities": [
+      1.2854817198158575,
+      1.8090833050847013,
+      0.019693594792972575,
+      1.8274775031982824,
+      1.9559795809884997,
+      1.0014539960878648,
+      1.990120464187765,
+      1.7535329052628312,
+      0.5225425331288935
+    ],
+    "greedy": "The polar bear on the right side of the image has its mouth open, revealing its teeth. The polar bear in the middle of the image has lowered its head and is resting on the snow.",
+    "MBR": "The polar bear on the right side of the frame has its mouth open, revealing its teeth. The polar bear on the left side of the frame has turned its head to the right and is biting the back of the polar bear in the center."
+  },
+  {
+    "id": "pan_L3_06",
+    "selected_index": 3,
+    "utilities": [
+      0.06525292413766869,
+      0.20597577490753166,
+      4.045902445548473e-06,
+      0.3477925832302453,
+      0.16243584334512018,
+      0.1442774063809673,
+      0.30448184715122645,
+      0.16672738882039054,
+      0.19117151214109462
+    ],
+    "greedy": "The black office chair in front of the leftmost desk in the first row has disappeared. The white keyboard on the center desk in the second row from the right side of the scene has been replaced with a white mouse. The black office chair facing the table in the middle of the right side of the scene has turned to face the window on the right.",
+    "MBR": "The chair in front of the computer desk at the left rear center of the scene has been moved to the right side of the table. The white keyboard on the center desktop of the second row from the left is replaced with a phone."
+  },
+  {
+    "id": "pan_L3_07",
+    "selected_index": 2,
+    "utilities": [
+      0.022508082176172138,
+      0.00030616406946438026,
+      1.106390892487647,
+      0.7271186247170741,
+      0.5243672654461113,
+      0.1172643046425603,
+      0.9619153231085918,
+      0.41507924989368383,
+      0.0863789493509034
+    ],
+    "greedy": "The yellow cup on the right side of the scene has disappeared. The yellow milk powder can on the left side of the scene has moved to the right, and the red cup on the right side has also disappeared. The stainless steel cup on the right side of the scene has disappeared. The small red and white cup in the back left corner has rotated clockwise by a certain angle.",
+    "MBR": "The yellow milk powder can on the left side of the table has disappeared. The red cup on the right side of the scene has disappeared. The stainless steel cup and the black cup in front of it have swapped positions."
+  },
+  {
+    "id": "pan_L3_08",
+    "selected_index": 6,
+    "utilities": [
+      0.31160211504168195,
+      0.8880238349831086,
+      0.6771477611238721,
+      0.12318255759610694,
+      0.4038436673285855,
+      0.6977027672377928,
+      1.0951323317451653,
+      0.8436382837973982,
+      0.746142691646933
+    ],
+    "greedy": "The scene has become brighter. The white and blue police car on the left side of the ottoman has moved to the right, closer to the red bus.",
+    "MBR": "The yellow toy bulldozer on the right side of the scene has moved to the left. The white and blue police car has moved from the left side of the gray ottoman to the front left of the scene."
+  }
+]

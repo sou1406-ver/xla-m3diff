@@ -1,3 +1,5 @@
+**CameraMBR04/11 đã đóng partial174/240:** [Kết quả](../outputs/mbr_pilot_20261103/camera240/KET_QUA.md). Cờ vật thể127→121/174,nhắc camera0→0;thiếu6pan+toàn60cam_add/remove,khôngđo retention. Provider cancellation trướcdeadline,nguồnhủy chưa rõ,khôngGPUretry. ĐãchấmCPU/allGPUoff;~1.30USD+CPU nhỏ<trần2,creditAPI~2.62USDchưachốt. Không600/newGPU. Full1570Rendergain vẫn hợp lệ;chưaclaimcameraimprovement.
+
 # Bản đồ code và bằng chứng
 
 Các đường dẫn bên dưới nằm trong `outputs/`. Mỗi folder thường có runner `.py`, protocol/config, raw `.jsonl`, metric/decision `.json` và report `.md`. Giữ nguyên đường dẫn để đọc được các phụ thuộc tương đối.

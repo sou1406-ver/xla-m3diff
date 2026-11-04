@@ -9,7 +9,8 @@ image=image.add_local_file(str(H/'camera_partial_score.py'),'/root/score.py',cop
 def score_partial():
  import json,subprocess,sys,hashlib,time,collections
  V.reload();src=Path('/mnt/m3diff/mbr_pilot_20261103/camera240');out=src/'partial_diagnostic'
- assert (src/'PIPELINE_DONE.json').exists() and (src/'GPU_DONE.json').exists(),'Must wait until original inference has stopped'
+ assert (src/'GPU_DONE.json').exists(),'Must wait until original inference has stopped'
+ assert (src/'PIPELINE_DONE.json').exists() or json.loads((src/'CLOSED_RESOURCE_PROOF.json').read_text())['zero_containers'],'Need original completion or provider zero-container proof'
  assert not (out/'ATTEMPT.json').exists(),'No CPU diagnostic retry'
  raw=(src/'results.jsonl').read_bytes();lines=raw.splitlines();records=[];excluded=[]
  for i,line in enumerate(lines):
@@ -49,7 +50,11 @@ def main():
  start=time.time()
  while time.time()-start<4500:
   try:done=json.loads(b''.join(V.read_file(root+'PIPELINE_DONE.json')))
-  except FileNotFoundError:time.sleep(30);continue
+  except FileNotFoundError:
+   try:
+    proof=json.loads(b''.join(V.read_file(root+'CLOSED_RESOURCE_PROOF.json')));assert proof['zero_containers']
+    done={'status':'CANCELED_BEFORE_PIPELINE_FINALIZATION'}
+   except FileNotFoundError:time.sleep(30);continue
   try:gen=json.loads(b''.join(V.read_file(root+'GEN_DONE.json')))
   except FileNotFoundError:gen={}
   if gen.get('complete'):print('Full generation complete: partial scorer skipped.',flush=True);return

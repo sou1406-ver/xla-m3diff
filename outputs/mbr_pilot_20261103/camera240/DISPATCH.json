@@ -1,15 +1,17 @@
 {
   "app_id": "ap-MUqFfsywpoTqauR577cjYH",
   "app_url": "https://modal.com/apps/sou1406-ver/main/ap-MUqFfsywpoTqauR577cjYH",
-  "status": "RUNNING_GENERATION",
+  "status": "CLOSED_PARTIAL_SCORED_NOT_FULL_CAMERA240",
   "protocol_commit": "68fc6b6",
   "cap_usd": 2,
   "no_retry": true,
   "other_gpu_jobs": false,
   "checked_utc": "2026-11-03T16:43:09Z",
-  "completed_pairs": 27,
+  "completed_pairs": 174,
   "planned_pairs": 240,
-  "quality_metrics_available": false,
+  "quality_metrics_available": true,
   "gpu_soft_stop_local": "2026-11-04T00:43:08+07:00",
-  "gpu_hard_timeout_local": "2026-11-04T00:45:08+07:00"
+  "gpu_hard_timeout_local": "2026-11-04T00:45:08+07:00",
+  "gpu_off": true,
+  "canonical_outcome": "FINAL_OUTCOME.json"
 }

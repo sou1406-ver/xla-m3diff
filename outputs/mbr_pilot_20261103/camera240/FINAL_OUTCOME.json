@@ -1,0 +1,14 @@
+{
+  "status": "PARTIAL_SCORED_NOT_FULL_CAMERA240",
+  "n": 174,
+  "planned": 240,
+  "missing": 66,
+  "missing_camera_only_pan": 6,
+  "missing_camera_object": 60,
+  "gpu_retry": false,
+  "source_raw_sha256": "ae3ded84e44e3e83e17c82b8c9b4e11ffb84696151be1f47bd2cd82d4c0e25cd",
+  "zero_gpu_containers": true,
+  "reason": "Provider logs show cancellation signals before deadlines; initiating source not established. Original PIPELINE_DONE and GEN_DONE absent; GPU_DONE preserved unchanged.",
+  "metrics_path": "partial_diagnostic/METRICS.json",
+  "synthetic600_run": false
+}

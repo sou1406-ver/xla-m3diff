@@ -1,0 +1,26 @@
+{
+  "greedy": {
+    "camera_only_n": 174,
+    "object_flags": 127,
+    "camera_mentions_pure": 0,
+    "camera_direction_correct": 0,
+    "camera_object_n": 0,
+    "joint_type_name": 0,
+    "camera_mentions_object": 0,
+    "mean_words": 50.64367816091954,
+    "median_words": 42.0
+  },
+  "MBR": {
+    "camera_only_n": 174,
+    "object_flags": 121,
+    "camera_mentions_pure": 0,
+    "camera_direction_correct": 0,
+    "camera_object_n": 0,
+    "joint_type_name": 0,
+    "camera_mentions_object": 0,
+    "mean_words": 42.201149425287355,
+    "median_words": 38.0
+  },
+  "partial_only_not_full_camera240": true,
+  "note": "Locked regex proxies on synthetic2D camera data; no claim about internal perception, factual human accuracy, or real3D robustness. Matched fresh greedy, no cached baseline."
+}

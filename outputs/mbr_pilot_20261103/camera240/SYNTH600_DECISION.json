@@ -1,0 +1,5 @@
+{
+  "status": "NOT_RUN",
+  "reason": "Latest user context says600notapproved; no new GPU allocation. API remaining~2.62USD before final CPU reconciliation, conservative holdback puts safe remainder below2.5.",
+  "no_more_gpu": true
+}

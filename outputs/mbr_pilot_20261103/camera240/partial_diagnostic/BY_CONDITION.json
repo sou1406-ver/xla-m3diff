@@ -1,0 +1,50 @@
+{
+  "base|zoom_in": {
+    "n": 45,
+    "object_flags": 37,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "ft|zoom_in": {
+    "n": 45,
+    "object_flags": 37,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "base|zoom_out": {
+    "n": 45,
+    "object_flags": 29,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "ft|zoom_out": {
+    "n": 45,
+    "object_flags": 29,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "base|rotate": {
+    "n": 45,
+    "object_flags": 31,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "ft|rotate": {
+    "n": 45,
+    "object_flags": 26,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "base|pan": {
+    "n": 39,
+    "object_flags": 30,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  },
+  "ft|pan": {
+    "n": 39,
+    "object_flags": 29,
+    "camera_mentions": 0,
+    "joint_type_name": 0
+  }
+}

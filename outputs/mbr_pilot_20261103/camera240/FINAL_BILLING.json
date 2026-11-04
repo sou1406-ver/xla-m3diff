@@ -1,0 +1,28 @@
+{
+  "utc": "2026-11-04T03:05:42.332254+00:00",
+  "billing": {
+    "start": "2026-11-01 00:00:00+00:00",
+    "end": "2026-12-01 00:00:00+00:00",
+    "metered_cost": "27.54151016",
+    "metered_cost_breakdown": {
+      "Network Egress": "0.02349705",
+      "LLM Tokens": "0E-8",
+      "Ephemeral Apps": "27.38152083",
+      "Volumes": "0.13801311"
+    },
+    "adjustments": {
+      "Credits": "-27.38000000",
+      "Free Storage": "-0.13801311",
+      "Network Egress Allowance": "-0.02349705",
+      "Plan Cost": "0E-8",
+      "Reservation Adjustment": "-0E-8"
+    },
+    "billed_cost": "0E-8"
+  },
+  "per_app_cost": {
+    "ap-lpg0ZkYtiK2Y8F1GzGorL5": 0,
+    "ap-MUqFfsywpoTqauR577cjYH": "1.30143788",
+    "ap-fpOhyz9TYtqhplnjVkVhhL": "0.00040347"
+  },
+  "note": "Hourly billing can lag, particularly current CPU hour; not final invoice. No further GPU authorized."
+}

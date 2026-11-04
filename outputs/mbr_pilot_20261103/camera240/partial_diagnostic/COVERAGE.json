@@ -1,0 +1,42 @@
+{
+  "partial_only": true,
+  "completed": 174,
+  "planned": 240,
+  "missing": 66,
+  "by_condition": {
+    "zoom_in": {
+      "planned": 45,
+      "matched": 45,
+      "missing": 0
+    },
+    "zoom_out": {
+      "planned": 45,
+      "matched": 45,
+      "missing": 0
+    },
+    "rotate": {
+      "planned": 45,
+      "matched": 45,
+      "missing": 0
+    },
+    "pan": {
+      "planned": 45,
+      "matched": 39,
+      "missing": 6
+    },
+    "cam_add": {
+      "planned": 30,
+      "matched": 0,
+      "missing": 30
+    },
+    "cam_remove": {
+      "planned": 30,
+      "matched": 0,
+      "missing": 30
+    }
+  },
+  "unique_bg_sources": 89,
+  "excluded_lines": [],
+  "source_raw_sha256": "ae3ded84e44e3e83e17c82b8c9b4e11ffb84696151be1f47bd2cd82d4c0e25cd",
+  "note": "Ordered prefix, not a random subset. Missing conditions prevent full240 or full60 conclusions."
+}

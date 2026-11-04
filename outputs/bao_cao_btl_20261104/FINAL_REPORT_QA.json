@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "docx_pages": 18,
+  "embedded_figures": 8,
+  "all_pages_visually_reviewed": true,
+  "final_changed_pages_reviewed": [
+    5,
+    7,
+    9,
+    10
+  ],
+  "page_hashes": {
+    "page-1.png": "408d8803a8c9ecf3f42183d9f757210b9ed3cb18b31a479a2f491c99b58c95eb",
+    "page-2.png": "483616fd1fe5ae64e86d9707ca791b25a8618246df7cc17fc3190e59b35fd2d7",
+    "page-3.png": "03c4e29f9c3860ab3a362172910e14c1774da59a6a9ec8573eae2b16106a915e",
+    "page-4.png": "e8622bcbf067ccce8d89b2a77dfa1e43b0d252d8e8f7e637ef650fda954398d0",
+    "page-5.png": "4373a3e510fd8dbef1ac104f4917764646c1eb17681592366b5f5d2c736517a0",
+    "page-6.png": "23a7aeb54138a75bf2ee5c30d15964c76b97f4975f868a3a9ec66dd139f1fc41",
+    "page-7.png": "a7e4e135a07c9b0c69d89469b5106404b000b1ab42a0c5b00b6b961bd5c40559",
+    "page-8.png": "044aa4abebac2bf456833e7dd765d961ed5b42b86189cc351a185124e2adfcf4",
+    "page-9.png": "5062b214a69ca99fb12364d61fb2e533c07d3f67e2e7ad2fbda865b216226501",
+    "page-10.png": "159a1a42dac30c7d0c443e234a5c441e651490bce4995d7c1c79d6d8012dae60",
+    "page-11.png": "e7dd6f86b79f25c2a811d8eeb15ed5e64bd70d389b4b4c0526a7a52a3a37a505",
+    "page-12.png": "219e7d0213b9af81c049d001cc1a353b73687320c6376537e9d66fe3488da540",
+    "page-13.png": "87701c477765042e6beaf2e4e4e4c155e92b75b37eed7ff0f46729fffbb96ead",
+    "page-14.png": "9bef762ec2c547fd358244ce35f838d5aa4fa463d96cc3f6b16d23acbb322cbc",
+    "page-15.png": "8ad4117f36eb9aa1b782753ed962bbef9a577860c391d45338b52bc13d8165e7",
+    "page-16.png": "720309b51f5ec88769aba0c8b53e8b1ffe70ef7a7218cd4bcc5d21985eca0ca2",
+    "page-17.png": "5d2428237070e93dc452e9d8ed5ab007c6e732ba41b816bcbe859971b89ebe04",
+    "page-18.png": "b1cfd68869786b335620e3c869653a79678894859b1ea194cc03d0bce50a33d4"
+  },
+  "checks": [
+    "8 figure hashes and exact captions",
+    "existing source metric hashes unchanged",
+    "no title paragraph borders",
+    "full vs partial scope preserved",
+    "cached camera baseline vs matched val explicit",
+    "V2 OmniDiff not evaluated",
+    "registration affine implementation named correctly"
+  ],
+  "reviewer": "Codex assistant; not independent human content adjudication",
+  "new_model_inference": false,
+  "new_training": false,
+  "new_modal_compute": false,
+  "docx_sha256": "1a5f735a43916ef31f4eb0faa123539e3ea023955d27f4533ad866ab48564489"
+}

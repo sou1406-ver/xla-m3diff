@@ -1,0 +1,62 @@
+[
+  {
+    "volume_path": "/ft/camtest/images/zoom_in_L1_08_A.jpg",
+    "local_path": "source_images/zoom_in_L1_08_0.jpg",
+    "sha256": "1cbe91fdb68336cc1eeec5e995025e125f405d92ece065e83d281ea766ad97b6"
+  },
+  {
+    "volume_path": "/ft/camtest/images/zoom_in_L1_08_B.jpg",
+    "local_path": "source_images/zoom_in_L1_08_1.jpg",
+    "sha256": "4f3811479a23b9e2941ca93cd6276f142984403c4411d6fbcc2de9e2d3f6a1f3"
+  },
+  {
+    "volume_path": "/synth/data/images/move_L1_01_A.png",
+    "local_path": "source_images/move_L1_01_0.png",
+    "sha256": "181d29b1879bd2844437005d0316148742cbba4cc9bbcd08c64e2a0ae4545756"
+  },
+  {
+    "volume_path": "/synth/data/images/move_L1_01_B.png",
+    "local_path": "source_images/move_L1_01_1.png",
+    "sha256": "f48bd25b7def9a4f21a8f5721ccf1fe3cfd4c85e5cdfe3977ade28e01ce95198"
+  },
+  {
+    "volume_path": "/synth/data/images/color_L1_01_A.png",
+    "local_path": "source_images/color_L1_01_0.png",
+    "sha256": "91f68f0254e4e24f9904fe2108be84e920c427be106bdc77012ca2e1fca2af56"
+  },
+  {
+    "volume_path": "/synth/data/images/color_L1_01_B.png",
+    "local_path": "source_images/color_L1_01_1.png",
+    "sha256": "363791c580f68eb0bb97e76818a3d797895b17f9f74ba45d09baf4cb7e1b9cee"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Render/val/images/render_val_outdoor_000019.jpg",
+    "local_path": "source_images/render_val_pair_000090_0.jpg",
+    "sha256": "8a0c3dd196fd5b41bf05119a00668587bd08c9a751e7ddae7baa4d981d7b2e6c"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Render/val/images/render_val_outdoor_000013.jpg",
+    "local_path": "source_images/render_val_pair_000090_1.jpg",
+    "sha256": "f3dbbb1f131cf7f9903b52206b1cdca1a6141454fc86a9651b20ca2e7aee928b"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Render/val/images/render_val_outdoor_000021.jpg",
+    "local_path": "source_images/render_val_pair_000108_0.jpg",
+    "sha256": "7ce931985d37b93295d37469d4ed81c10e9eb8bed1b71cb2cfd99ebf5259f3d9"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Render/val/images/render_val_outdoor_000014.jpg",
+    "local_path": "source_images/render_val_pair_000108_1.jpg",
+    "sha256": "359f077ad736e37f2d1fffabeb52cc9bad36ef2542812ce515a37c172d1a426b"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Real/val/images/real_val_000159.jpg",
+    "local_path": "source_images/real_val_pair_000627_0.jpg",
+    "sha256": "6b6c808c0ccb36815eb8b3323eb5674fc5b4f021f4538dbc9685d7cb0e1a591c"
+  },
+  {
+    "volume_path": "/r64_val_precheck_20261102/images/Real/val/images/real_val_000150.jpg",
+    "local_path": "source_images/real_val_pair_000627_1.jpg",
+    "sha256": "09340dcf93a8791229171c49d0e493576212b7698978e5466ab1c50e138bf47f"
+  }
+]

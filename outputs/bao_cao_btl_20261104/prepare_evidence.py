@@ -1,0 +1,26 @@
+"""Select illustrative cases from existing outputs; no inference, tuning or scoring."""
+from pathlib import Path
+import json,csv,shutil,hashlib
+H=Path(__file__).parent;O=H.parent;H.mkdir(exist_ok=True);(H/'assets').mkdir(exist_ok=True)
+def load(p):return json.loads((O/p).read_text(encoding='utf-8-sig'))
+def caps(p):return {r['id']:r['caption'] for r in map(json.loads,(O/p).read_text().splitlines())}
+def index(p,key='id'):return {r[key]:r for r in load(p)}
+cases=[]
+def add(id,title,paths,captions,note,source,selection,remote=None,board=None):
+ cases.append(dict(id=id,title=title,source_images=paths,captions=captions,interpretation=note,evidence_source=source,selection_reason=selection,remote_root=remote,existing_board=board))
+cam=index('r64_camera_eval_20261102/questions.json');cb=caps('r64_camera_eval_20261102/camtest_base.jsonl');cf=caps('r64_camera_eval_20261102/camtest_ft.jsonl');cv=caps('r64_v2_final_round/evaluation/camera_v2.jsonl')
+i='zoom_in_L1_08';add(i,'Giảm nhầm thay đổi vật thể trên một cặp zoom tổng hợp',cam[i]['image'],{'Base lưu sẵn':cb[i],'r64':cf[i],'V2':cv[i]},'Ảnh sau được tạo bằng zoom 2D; vật thể gốc không được thêm hay xóa. r64 nêu zoom in. Chỉ minh họa một ca; kết quả tổng hợp mới quyết định đánh đổi.','r64_camera_eval_20261102/camtest_compare.csv','Một ca zoom có dir_ok của r64; chọn có chủ đích để giải thích hành vi, không ước lượng tỷ lệ.',remote='/ft/camtest')
+base=caps('r64_synth_eval_20261102/base.jsonl');r64=caps('r64_synth_eval_20261102/r64.jsonl');v2=caps('r64_v2_final_round/evaluation/synth_v2.jsonl')
+for i,title,note in [('move_L1_01','V2 gọi thay đổi vị trí vật thể là thay đổi góc chụp','Bộ sinh chỉ di chuyển cutout vật thể, không biến đổi camera. V2 trả câu perspective changed và bỏ qua sự kiện di chuyển mục tiêu.'),('color_L1_01','Một kết quả tốt hẹp không đủ để chọn V2','Bộ sinh đổi màu vật thể, giữ camera. V2 nêu đổi màu; phải xem đồng thời các loại remove và move bị giảm trong bảng tổng hợp.')]:
+ add(i,title,[f'images/{i}_A.png',f'images/{i}_B.png'],{'Base lưu sẵn':base[i],'r64':r64[i],'V2':v2[i]},note,'r64_v2_final_round/evaluation/synth_scores/per_pair.csv','Ca đã có output, dùng để đối chiếu lỗi vị trí và tín hiệu đổi màu; không đại diện toàn tập.',remote='/synth/data')
+meta=index('mbr_pilot_20261103/val200/selection200.json');per=index('mbr_pilot_20261103/val200/PER_PAIR.json')
+for i,title,note in [('render_val_pair_000090','MBR chọn mô tả vị trí phù hợp hơn','Assistant review cũ cho rằng vị trí chữ Camp bên phải khung tranh phù hợp hơn mô tả chữ ở phía trên. Phụ lục này kiểm tra lại bằng ảnh; không dùng CIDEr từng cặp để gọi caption đúng.'),('render_val_pair_000108','MBR thêm một chi tiết không được ảnh hỗ trợ rõ','Assistant review cũ đánh giá greedy tốt hơn vì MBR thêm khẳng định đèn trần biến mất trong khi đèn vẫn có thể thấy. Tên chữ trong caption có thể nhận sai; không coi mọi chi tiết còn lại đều đúng.'),('real_val_pair_000627','MBR vẫn giữ nhầm lẫn camera và vật thể','Hai ảnh đổi khung hình và góc nhìn. Hai caption đều khẳng định giày đổi vị trí; ảnh có che khuất nên không suy mọi vật ngoài khung là bị xóa. Assistant review cũ đánh giá cả hai đều yếu.')]:
+  r=per[i];add(i,title,meta[i]['image'],{'Greedy cùng phiên':r['greedy'],'MBR cùng phiên':r['MBR']},note,'mbr_pilot_20261103/val200/ASSISTANT_REVIEW_REAL.json' if i.startswith('real') else 'mbr_pilot_20261103/val200/ASSISTANT_REVIEW_RENDER.json','Từ review A/B cũ: một ca MBR tốt, một ca greedy tốt, một ca cả hai yếu; chọn có chủ đích sau kết quả.',remote='/r64_val_precheck_20261102/images')
+reg=load('viewpoint_diagnostic/registration_decisions.json');r=next(x for x in reg if x['condition']=='zoom_1p10' and x['partition']=='validation' and x['decision']['accept_no_scene_change']);m=next(x for x in load('viewpoint_diagnostic/manifest.json') if x['id']==r['id']);b=caps('viewpoint_diagnostic/baseline_clean.jsonl')
+add(r['id'],'Căn chỉnh chấp nhận một cặp zoom không có sửa vật thể',m['image'],{'M3Diff sau lọc lặp':b[r['id']],'Bộ chặn v1':r['decision']['caption']},'Ước lượng hình học đủ tin cậy và residual thấp khiến bộ chặn v1 thay caption. Đây là hành vi của pipeline CPU, không phải model đã học góc nhìn. Xem ca tiếp theo trước khi kết luận an toàn.','viewpoint_diagnostic/registration_decisions.json','Một ca validation zoom được v1 chấp nhận; chọn minh họa cơ chế.',remote=None)
+cases[-1]['local_root']=str(O/'viewpoint_diagnostic/dataset');cases[-1]['registration_features']=r['features']
+add('basin_shelf__square32_delta16','Căn chỉnh bỏ qua một thay đổi pixel đã biết',[],{'Quyết định v1':'Trả không đổi dù đã có chỉnh sửa appearance 32×32.'},'Ảnh minh họa có trước, sau và chênh lệch pixel khuếch đại. Đây là phản ví dụ appearance tổng hợp, không phải bằng chứng một vật thể tự nhiên bị xóa. V1 có thể căn chỉnh tốt nhưng bộ chặn vẫn bỏ qua residual nhỏ.','viewpoint_extension/case_results.csv','Một phản ví dụ đã có trong failure_previews, không chạy lại hoặc dò ngưỡng.',board=str(O/'viewpoint_extension/failure_previews/basin_shelf__square32_delta16.jpg'))
+for c in cases:
+ c['figure_file']='assets/'+c['id']+'.jpg'
+(H/'CASES.json').write_text(json.dumps(cases,ensure_ascii=False,indent=2),encoding='utf-8')
+print(json.dumps([{'id':c['id'],'captions':c['captions']} for c in cases],ensure_ascii=False,indent=2))

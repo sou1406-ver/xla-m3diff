@@ -1,0 +1,181 @@
+[
+  {
+    "id": "zoom_in_L1_08",
+    "title": "Giảm nhầm thay đổi vật thể trên một cặp zoom tổng hợp",
+    "source_images": [
+      "images/zoom_in_L1_08_A.jpg",
+      "images/zoom_in_L1_08_B.jpg"
+    ],
+    "captions": {
+      "Base lưu sẵn": "The blue box with a white border on the left side of the lower bed has been moved to the right side of the blue box. The orange rectangular pillow on the right side of the upper bed has increased in size.",
+      "r64": "The shooting perspective has slightly zoomed in.",
+      "V2": "The shooting perspective has changed."
+    },
+    "interpretation": "Ảnh sau được tạo bằng zoom 2D; vật thể gốc không được thêm hay xóa. r64 nêu zoom in. Chỉ minh họa một ca; kết quả tổng hợp mới quyết định đánh đổi.",
+    "evidence_source": "r64_camera_eval_20261102/camtest_compare.csv",
+    "selection_reason": "Một ca zoom có dir_ok của r64; chọn có chủ đích để giải thích hành vi, không ước lượng tỷ lệ.",
+    "remote_root": "/ft/camtest",
+    "existing_board": null,
+    "figure_file": "assets/zoom_in_L1_08.jpg",
+    "figure_sha256": "791e70ad846c008f4e0fa21fac0f302c658fe8298831608d99c0b4b9bb241071"
+  },
+  {
+    "id": "move_L1_01",
+    "title": "V2 gọi thay đổi vị trí vật thể là thay đổi góc chụp",
+    "source_images": [
+      "images/move_L1_01_A.png",
+      "images/move_L1_01_B.png"
+    ],
+    "captions": {
+      "Base lưu sẵn": "The yellow glass goblet on the central table has appeared. The yellow coffee maker on the left side of the dining table has appeared. The yellow coffee maker on the black countertop at the back right of the scene has appeared. The white plate with food in the center of the round wooden table has appeared.",
+      "r64": "The orange cup on the left side of the scene has moved to the right.",
+      "V2": "The shooting perspective has changed."
+    },
+    "interpretation": "Bộ sinh chỉ di chuyển cutout vật thể, không biến đổi camera. V2 trả câu perspective changed và bỏ qua sự kiện di chuyển mục tiêu.",
+    "evidence_source": "r64_v2_final_round/evaluation/synth_scores/per_pair.csv",
+    "selection_reason": "Ca đã có output, dùng để đối chiếu lỗi vị trí và tín hiệu đổi màu; không đại diện toàn tập.",
+    "remote_root": "/synth/data",
+    "existing_board": null,
+    "figure_file": "assets/move_L1_01.jpg",
+    "figure_sha256": "78e901af319bc39ec7b1d93a7a56741d424471ba775bda1a09e31e0cb69e8d5e"
+  },
+  {
+    "id": "color_L1_01",
+    "title": "Một kết quả tốt hẹp không đủ để chọn V2",
+    "source_images": [
+      "images/color_L1_01_A.png",
+      "images/color_L1_01_B.png"
+    ],
+    "captions": {
+      "Base lưu sẵn": "The bananas in the lower left corner of the image have changed color from yellow to green.",
+      "r64": "The yellow banana in the lower part of the scene has turned green.",
+      "V2": "The color of the banana in the scene has changed."
+    },
+    "interpretation": "Bộ sinh đổi màu vật thể, giữ camera. V2 nêu đổi màu; phải xem đồng thời các loại remove và move bị giảm trong bảng tổng hợp.",
+    "evidence_source": "r64_v2_final_round/evaluation/synth_scores/per_pair.csv",
+    "selection_reason": "Ca đã có output, dùng để đối chiếu lỗi vị trí và tín hiệu đổi màu; không đại diện toàn tập.",
+    "remote_root": "/synth/data",
+    "existing_board": null,
+    "figure_file": "assets/color_L1_01.jpg",
+    "figure_sha256": "66bf3af30123f0dd50cc0114865705bba5eba836e57d01f93134433bb04e4b9c"
+  },
+  {
+    "id": "render_val_pair_000090",
+    "title": "MBR chọn mô tả vị trí phù hợp hơn",
+    "source_images": [
+      "Render/val/images/render_val_outdoor_000019.jpg",
+      "Render/val/images/render_val_outdoor_000013.jpg"
+    ],
+    "captions": {
+      "Greedy cùng phiên": "A new illuminated sign displaying the word \"Camp\" in large blue letters has appeared on the wooden wall to the right of the bed, above a picture frame and next to a plant.",
+      "MBR cùng phiên": "A glowing blue sign displaying the word \"Camp\" has appeared on the wooden wall above the bed, to the right of a framed wall decoration."
+    },
+    "interpretation": "Assistant review cũ cho rằng vị trí chữ Camp bên phải khung tranh phù hợp hơn mô tả chữ ở phía trên. Phụ lục này kiểm tra lại bằng ảnh; không dùng CIDEr từng cặp để gọi caption đúng.",
+    "evidence_source": "mbr_pilot_20261103/val200/ASSISTANT_REVIEW_RENDER.json",
+    "selection_reason": "Từ review A/B cũ: một ca MBR tốt, một ca greedy tốt, một ca cả hai yếu; chọn có chủ đích sau kết quả.",
+    "remote_root": "/r64_val_precheck_20261102/images",
+    "existing_board": null,
+    "figure_file": "assets/render_val_pair_000090.jpg",
+    "figure_sha256": "afbb2e5395581c3fd5648138f79c22cfe12b4b3c63b7ed10ae64dbb25edd37ff"
+  },
+  {
+    "id": "render_val_pair_000108",
+    "title": "MBR thêm một chi tiết không được ảnh hỗ trợ rõ",
+    "source_images": [
+      "Render/val/images/render_val_outdoor_000021.jpg",
+      "Render/val/images/render_val_outdoor_000014.jpg"
+    ],
+    "captions": {
+      "Greedy cùng phiên": "A new illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration. The color of the ring-shaped chair on the left side of the coffee table in the room has changed from purple to dark brown.",
+      "MBR cùng phiên": "A newly added illuminated sign displaying the word \"Cowp\" has appeared on the wooden wall to the right of the bed, positioned above a plant and next to a framed wall decoration. The black lampshade on the ceiling fixture located in the center of the room has disappeared. The color of the ring-shaped chair on the left side of the coffee table has changed from purple to dark brown."
+    },
+    "interpretation": "Assistant review cũ đánh giá greedy tốt hơn vì MBR thêm khẳng định đèn trần biến mất trong khi đèn vẫn có thể thấy. Tên chữ trong caption có thể nhận sai; không coi mọi chi tiết còn lại đều đúng.",
+    "evidence_source": "mbr_pilot_20261103/val200/ASSISTANT_REVIEW_RENDER.json",
+    "selection_reason": "Từ review A/B cũ: một ca MBR tốt, một ca greedy tốt, một ca cả hai yếu; chọn có chủ đích sau kết quả.",
+    "remote_root": "/r64_val_precheck_20261102/images",
+    "existing_board": null,
+    "figure_file": "assets/render_val_pair_000108.jpg",
+    "figure_sha256": "71daabf9564616f1997f8025cb06f87bb2a0d656929e93a6a500ae66f0b5783d"
+  },
+  {
+    "id": "real_val_pair_000627",
+    "title": "MBR vẫn giữ nhầm lẫn camera và vật thể",
+    "source_images": [
+      "Real/val/images/real_val_000159.jpg",
+      "Real/val/images/real_val_000150.jpg"
+    ],
+    "captions": {
+      "Greedy cùng phiên": "The black shoes on the far right of the middle shelf have disappeared. The red men's leather shoes on the far right of the bottom shelf have disappeared. The gray shoes on the left side of the shoe rack have moved to the far right of the middle shelf.",
+      "MBR cùng phiên": "The gray shoes on the left side of the shoe rack have moved to the right side. The black shoes on the far right of the middle shelf have changed from a horizontal arrangement to a vertical one."
+    },
+    "interpretation": "Hai ảnh đổi khung hình và góc nhìn. Hai caption đều khẳng định giày đổi vị trí; ảnh có che khuất nên không suy mọi vật ngoài khung là bị xóa. Assistant review cũ đánh giá cả hai đều yếu.",
+    "evidence_source": "mbr_pilot_20261103/val200/ASSISTANT_REVIEW_REAL.json",
+    "selection_reason": "Từ review A/B cũ: một ca MBR tốt, một ca greedy tốt, một ca cả hai yếu; chọn có chủ đích sau kết quả.",
+    "remote_root": "/r64_val_precheck_20261102/images",
+    "existing_board": null,
+    "figure_file": "assets/real_val_pair_000627.jpg",
+    "figure_sha256": "fb613dfbcce1f41f561d8c5df389c8f004002538c5d425d65e45971507dc4617"
+  },
+  {
+    "id": "kitchen__zoom_1p10",
+    "title": "Căn chỉnh chấp nhận một cặp zoom không có sửa vật thể",
+    "source_images": [
+      "images/kitchen_source.png",
+      "images/kitchen_zoom_1p10.png"
+    ],
+    "captions": {
+      "M3Diff sau lọc lặp": "The ambient lighting has brightened.",
+      "Bộ chặn v1": "Only the image framing, scale, or rotation changes; no object changes are detected in the shared visible area."
+    },
+    "interpretation": "Ước lượng hình học đủ tin cậy và residual thấp khiến bộ chặn v1 thay caption. Đây là hành vi của pipeline CPU, không phải model đã học góc nhìn. Xem ca tiếp theo trước khi kết luận an toàn.",
+    "evidence_source": "viewpoint_diagnostic/registration_decisions.json",
+    "selection_reason": "Một ca validation zoom được v1 chấp nhận; chọn minh họa cơ chế.",
+    "remote_root": null,
+    "existing_board": null,
+    "registration_features": {
+      "exact_identity": false,
+      "matches": 1132,
+      "inliers": 1092,
+      "inlier_ratio": 0.9646643109540636,
+      "grid_cells": 12,
+      "scale": 1.0999984593840557,
+      "angle": -0.0010265264705347876,
+      "matrix": [
+        [
+          1.09999845920751,
+          1.9707865843538868e-05,
+          -51.18632066942744
+        ],
+        [
+          -1.9707865843538868e-05,
+          1.09999845920751,
+          -51.15849640402032
+        ]
+      ],
+      "registration_ok": true,
+      "overlap": 1.0,
+      "mean_absolute_rgb_error": 0.7070134282112122,
+      "p99_max_channel_error": 6.0,
+      "fraction_max_channel_above_30": 0.0,
+      "largest_opened_residual_pixels": 0,
+      "valid_pixels": 1048576
+    },
+    "figure_file": "assets/kitchen__zoom_1p10.jpg",
+    "figure_sha256": "dac987a0804a8a112bf21fab6b18d9a97cad94f639c6f7a8beff828fd45dc81c"
+  },
+  {
+    "id": "basin_shelf__square32_delta16",
+    "title": "Căn chỉnh bỏ qua một thay đổi pixel đã biết",
+    "source_images": [],
+    "captions": {
+      "Quyết định v1": "Trả không đổi dù đã có chỉnh sửa appearance 32×32."
+    },
+    "interpretation": "Ảnh minh họa có trước, sau và chênh lệch pixel khuếch đại. Đây là phản ví dụ appearance tổng hợp, không phải bằng chứng một vật thể tự nhiên bị xóa. V1 có thể căn chỉnh tốt nhưng bộ chặn vẫn bỏ qua residual nhỏ.",
+    "evidence_source": "viewpoint_extension/case_results.csv",
+    "selection_reason": "Một phản ví dụ đã có trong failure_previews, không chạy lại hoặc dò ngưỡng.",
+    "remote_root": null,
+    "existing_board": "viewpoint_extension/failure_previews/basin_shelf__square32_delta16.jpg",
+    "figure_file": "assets/basin_shelf__square32_delta16.jpg",
+    "figure_sha256": "7902649686673cd674daf79e06b75e7146f6133665e9aef72cebfdc86603d047"
+  }
+]

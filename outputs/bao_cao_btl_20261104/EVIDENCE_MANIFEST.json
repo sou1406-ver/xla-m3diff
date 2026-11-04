@@ -1,0 +1,7 @@
+{
+  "baseline_results/summary_x100.csv": "70ac4937eb33623f7896ed0ce0e5d2bc34baf9540b1529ee378dda301d9caf2a",
+  "r64_val_precheck_20261102/metrics.json": "30c94c9e3329fb4a943f87ab7deb19d85d0719ec992eb4fb25b35d6fbf63ba0f",
+  "r64_v2_final_round/evaluation/GATE_RESULT.json": "d2788fc9a482364e30e49d9f6cd3180281b414bb6cf5754393dc09e37cfd1cc9",
+  "mbr_pilot_20261103/resume1020_v1/combined_full1570/METRICS.json": "84d7add8ec84019cd3a326c6ab4dfcd9206aab6cf5f54aa6d72d25c5cf9d005a",
+  "mbr_pilot_20261103/camera240/partial_diagnostic/METRICS.json": "6178a421a4c8afdfebc38cceba9c66ebcaa514c3ccb9e9632befe20441815504"
+}

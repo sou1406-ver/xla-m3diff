@@ -4,7 +4,7 @@ from pathlib import Path
 from textwrap import dedent
 
 ROOT = Path(__file__).resolve().parents[1]
-old = json.loads((ROOT / 'm3diff-modal-eval.ipynb').read_text(encoding='utf-8'))
+old = json.loads((ROOT / 'notebooks' / 'archive' / 'm3diff-modal-eval.ipynb').read_text(encoding='utf-8'))
 cells = []
 
 def md(s):

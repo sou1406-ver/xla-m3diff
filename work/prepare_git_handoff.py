@@ -6,7 +6,7 @@ DEST = ROOT / 'git-publish'
 allowed = {'.py', '.md', '.json', '.jsonl', '.csv', '.toml', '.txt', '.ps1', '.ipynb'}
 records = []
 excluded = []
-sources = list((ROOT / 'outputs').rglob('*')) + list(ROOT.glob('*.ipynb'))
+sources = list((ROOT / 'outputs').rglob('*')) + list((ROOT / 'notebooks').rglob('*.ipynb'))
 sources += [p for p in (ROOT / 'work').glob('*') if p.suffix in allowed and p.is_file()]
 for src in sources:
     if not src.is_file():

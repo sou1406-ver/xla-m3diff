@@ -2,9 +2,9 @@
 
 ## Clone không có nghĩa sẵn sàng Run All
 
-Repo gồm nguồn thí nghiệm và bằng chứng dạng text. Không có checkpoint base (~14GB), vision weights, adapter binary, ảnh OmniDiff, ảnh augmented, môi trường `.modal-client`, ZIP hay output notebook. Notebook root là lịch sử; baseline entrypoint được ưu tiên là `outputs/m3diff-baseline-full.ipynb` cạnh `outputs/run_baseline_modal.py`.
+Repo gồm nguồn thí nghiệm và bằng chứng dạng text. Không có checkpoint base (~14GB), vision weights, adapter binary, ảnh OmniDiff, ảnh augmented, môi trường `.modal-client`, ZIP hay output notebook. Notebook lịch sử từ root đã chuyển sang [notebooks/archive](../notebooks/README.md); baseline entrypoint được ưu tiên là `outputs/m3diff-baseline-full.ipynb` cạnh `outputs/run_baseline_modal.py`.
 
-Không cần GPU để đọc caption/metric/decision. Sau export ban đầu đã có các vòng mới: xem HANDOFF và kết quả v2 cuối03/11; v2 đã dừng, không có GPU đang chạy. Script nghiên cứu có thể chứa đường dẫn Windows cũ hoặc `/mnt/m3diff`; chúng cần sửa theo môi trường hoặc khôi phục Volume, không phải mọi script đều portable.
+Không cần GPU để đọc caption/metric/decision. Sau export ban đầu đã có các vòng mới: xem HANDOFF và kết quả v2 cuối03/11; report cuối ghi nhận v2 đã dừng. Đây là snapshot trong repo, không phải kiểm tra GPU trực tiếp. Script nghiên cứu có thể chứa đường dẫn Windows cũ hoặc `/mnt/m3diff`; chúng cần sửa theo môi trường hoặc khôi phục Volume, không phải mọi script đều portable.
 
 ## Inference trên máy GPU khác
 

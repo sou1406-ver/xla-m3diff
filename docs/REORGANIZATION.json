@@ -1,0 +1,117 @@
+{
+  "base_commit": "89ccf0f7a836257954ae8bf7a3aa63bbbbc3b523",
+  "purpose": "Điều hướng theo chủ đề; giữ bố cục code/bằng chứng outputs và work",
+  "moves": [
+    {
+      "from": "m3diff-baseline-full.ipynb",
+      "to": "notebooks/archive/m3diff-baseline-full.ipynb",
+      "sha256": "5809145b58ec032c31f222de5d5a50f51ab883a2cec0b72dbe0d4b724b245569"
+    },
+    {
+      "from": "m3diff-can-chinh-anh.ipynb",
+      "to": "notebooks/archive/m3diff-can-chinh-anh.ipynb",
+      "sha256": "f5f40db544678c9193b82124592e0dbacbbd24cdf54376dd2380628129e5dee1"
+    },
+    {
+      "from": "m3diff-modal-eval.ipynb",
+      "to": "notebooks/archive/m3diff-modal-eval.ipynb",
+      "sha256": "fe546b91b8a7e8230f411816ed9dd90ba55305f63ec70e8d0c0af304d8495f92"
+    },
+    {
+      "from": "m3diff-nb-finetune.ipynb",
+      "to": "notebooks/archive/m3diff-nb-finetune.ipynb",
+      "sha256": "c1075efa6974a5746731c3b33d724bfc77392ef1519d8ee4a6f1c199687dd895"
+    },
+    {
+      "from": "m3diff-nb1-bo-test-tong-hop.ipynb",
+      "to": "notebooks/archive/m3diff-nb1-bo-test-tong-hop.ipynb",
+      "sha256": "6bf1a645709ab3ddf0df90daef55aa638068efd61a7d58a5719996562058bee0"
+    },
+    {
+      "from": "m3diff-phan-tich-loi.ipynb",
+      "to": "notebooks/archive/m3diff-phan-tich-loi.ipynb",
+      "sha256": "7423346a9f1a7a75a82029d5bed4977f328edfa31a18aa3f5ae496a123d3dd1c"
+    },
+    {
+      "from": "docs/HANDOFF.md",
+      "to": "docs/HANDOFF_HISTORY.md",
+      "sha256": "603b1acb0c542a3b7327443b916024a88efff1f2100cc2f9416294f012984f4a"
+    },
+    {
+      "from": "docs/EXPERIMENTS.md",
+      "to": "docs/EXPERIMENTS_HISTORY.md",
+      "sha256": "6b1b9cbca48161e1d8b202bf2ac0340f8cfdd878b6e3ef2601d3ca538f7a83a6"
+    }
+  ],
+  "updated_helpers": [
+    "work/build_baseline_notebook.py",
+    "work/prepare_git_handoff.py"
+  ],
+  "preserved_evidence_roots": [
+    "outputs/"
+  ],
+  "groups": [
+    {
+      "path": "research/01-baseline",
+      "title": "Baseline và triển khai",
+      "artifacts": [
+        "outputs/baseline_results",
+        "outputs/baseline_source_audit_20261102",
+        "outputs/checkpoint_audit_20261102",
+        "outputs/m3diff_portable"
+      ]
+    },
+    {
+      "path": "research/02-finetuning",
+      "title": "Fine-tuning và bảo toàn thông tin",
+      "artifacts": [
+        "outputs/real_sft_results",
+        "outputs/curated_sft",
+        "outputs/invariance_sft",
+        "outputs/invariance_ablation",
+        "outputs/invariance_confirmation",
+        "outputs/prompt_balanced_sft",
+        "outputs/mixed_full_benchmark",
+        "outputs/invariance_v2_20261102",
+        "outputs/r64_camera_eval_20261102",
+        "outputs/r64_synth_eval_20261102",
+        "outputs/r64_val_precheck_20261102",
+        "outputs/r64_v2_final_round"
+      ]
+    },
+    {
+      "path": "research/03-decoding",
+      "title": "Giải mã và chọn caption",
+      "artifacts": [
+        "outputs/mbr_pilot_20261103",
+        "outputs/caption_cleanup_v2",
+        "outputs/caption_cap_probe"
+      ]
+    },
+    {
+      "path": "research/04-diagnostics",
+      "title": "Chẩn đoán, grounding và alignment",
+      "artifacts": [
+        "outputs/precision_audit",
+        "outputs/prompt_probe",
+        "outputs/locateanything_demo",
+        "outputs/locateanything_robustness",
+        "outputs/locateanything_coco",
+        "outputs/grounded_caption_pilot",
+        "outputs/m3diff_caption_verifier",
+        "outputs/caption_verifier_color_v4",
+        "outputs/viewpoint_diagnostic",
+        "outputs/viewpoint_extension"
+      ]
+    },
+    {
+      "path": "research/05-reports",
+      "title": "Báo cáo và vận hành",
+      "artifacts": [
+        "outputs/bao_cao_btl_20261104",
+        "outputs/bao_cao_m3diff_chi_tiet",
+        "outputs/modal_budget"
+      ]
+    }
+  ]
+}

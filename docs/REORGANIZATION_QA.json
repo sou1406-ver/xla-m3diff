@@ -1,0 +1,20 @@
+{
+  "base_commit": "89ccf0f7a836257954ae8bf7a3aa63bbbbc3b523",
+  "checks": {
+    "original_files": 1476,
+    "unchanged_original_files_with_move_mapping": 1472,
+    "modified_original_files": [
+      "README.md",
+      "docs/RUNNING.md",
+      "work/build_baseline_notebook.py",
+      "work/prepare_git_handoff.py"
+    ],
+    "preserved_output_files": 1433,
+    "local_document_links_checked": 220,
+    "broken_links": [],
+    "moved_notebooks_parsed": 6,
+    "output_directories_catalogued": 32,
+    "mbr_domain_sample_counts_match": true
+  },
+  "scope": "Kiểm tra tĩnh, đường dẫn và SHA256; không thực thi runner, GPU hoặc chạy lại benchmark."
+}

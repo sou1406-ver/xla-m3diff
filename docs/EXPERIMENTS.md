@@ -1,39 +1,35 @@
-**CameraMBR04/11 đã đóng partial174/240:** [Kết quả](../outputs/mbr_pilot_20261103/camera240/KET_QUA.md). Cờ vật thể127→121/174,nhắc camera0→0;thiếu6pan+toàn60cam_add/remove,khôngđo retention. Provider cancellation trướcdeadline,nguồnhủy chưa rõ,khôngGPUretry. ĐãchấmCPU/allGPUoff;~1.30USD+CPU nhỏ<trần2,creditAPI~2.62USDchưachốt. Không600/newGPU. Full1570Rendergain vẫn hợp lệ;chưaclaimcameraimprovement.
+# Bản đồ thí nghiệm
 
-# Bản đồ code và bằng chứng
+[← Trang chủ](../README.md) · [Kết quả](RESULTS.md) · [Kho artifact](../outputs/README.md)
 
-Các đường dẫn bên dưới nằm trong `outputs/`. Mỗi folder thường có runner `.py`, protocol/config, raw `.jsonl`, metric/decision `.json` và report `.md`. Giữ nguyên đường dẫn để đọc được các phụ thuộc tương đối.
+## Chọn nhóm nghiên cứu
 
-| Nhóm | Folder / entrypoint | Đã làm và kết luận |
+| Nhóm | Phạm vi |
+|---|---|
+| [Baseline và triển khai](../research/01-baseline/README.md) | Tái lập inference, kiểm tra nguồn và chuyển môi trường. |
+| [Fine-tuning và bảo toàn thông tin](../research/02-finetuning/README.md) | Caption SFT qua nhiều recipe; chưa có adapter đạt đủ bằng chứng thay base. |
+| [Giải mã và chọn caption](../research/03-decoding/README.md) | Giữ weights; đánh giá consensus MBR và xử lý câu lặp. |
+| [Chẩn đoán, grounding và alignment](../research/04-diagnostics/README.md) | Các phép thử kiểm tra nguồn lỗi; không đồng nghĩa giải pháp đã được xác nhận. |
+| [Báo cáo và vận hành](../research/05-reports/README.md) | Báo cáo tổng hợp, tài liệu lịch sử và snapshot vận hành. |
+
+## Các mốc chính
+
+| Mốc | Bằng chứng | Kết luận |
 |---|---|---|
-| MBR continuation03/11 | [full1570](../outputs/mbr_pilot_20261103/KET_QUA_FULL1570.md) | COMPLETE_SCORED:Real−0,22CIDEr,Render+3,62CI[+1,09;+5,98];3phiên/550cũnguyênvẹn. Costcontinuation10,749USD<13,5;GPUoff;giữbasedefault. |
-| MBR pilot03/11 | [mbr_pilot_20261103](../outputs/mbr_pilot_20261103/KET_QUA_VAL200.md) | Decoding-only;val200 qua +1CIDEr mỗi miền,Real+20,91/Render+5,23. [Full bị preempt,dừng550Real/0Render](../outputs/mbr_pilot_20261103/full1570/CLOSED_REPORT.md);không fullmetric/khôngretry;appcost4,7066USD,GPUoff. |
-| V2 cuối03/11 | [r64_v2_final_round](../outputs/r64_v2_final_round/KET_QUA.md) | Train450steps;từbase;camera40/180và41/60qua,synthcamera124/600và4typefail. Dừng;khôngval/full/v3;giữbase. |
-| Dựng lại baseline | [baseline_results](../outputs/baseline_results), [notebook](../outputs/m3diff-baseline-full.ipynb), [Modal runner](../outputs/run_baseline_modal.py) | Full1570 từ checkpoint gốc; hoàn thành inference reproduction |
-| SFT đầu tiên | [real_sft_results](../outputs/real_sft_results), [runner](../outputs/run_real_sft_modal.py) | Random/hard caption SFT; không có gain cross-domain bền vững |
-| Sửa nhãn SFT | [curated_sft](../outputs/curated_sft) | Original/corrected labels, có LoRA+MDP và LoRA-only; không chọn làm model cuối |
-| Invariance v1 | [invariance_sft](../outputs/invariance_sft) | 32 updates; không qua gate giữ natural facts |
-| Precision | [precision_audit](../outputs/precision_audit) | BF16 merge vs FP32 unmerged; có numerical difference nhưng không phải quality fix |
-| Matched ablation | [invariance_ablation](../outputs/invariance_ablation) | 64 updates control vs mixed; giảm physical FP, còn lỗi ánh sáng/geometry |
-| Confirmation | [invariance_confirmation](../outputs/invariance_confirmation) | 80 cases; mixed physical FP36→29/48 nhưng joint44→44; không phải overall gain |
-| Prompt | [prompt_balanced_sft](../outputs/prompt_balanced_sft), [prompt_probe](../outputs/prompt_probe) | Cân bằng template và crossed prompt probe; không cứu factual retention |
-| Full mixed benchmark | [mixed_full_benchmark](../outputs/mixed_full_benchmark) | Đủ1570; mixed giảm raw CIDEr Real33.75→32.13, Render30.49→20.00 |
-| **Vòng mới nhất** | [invariance_v2_20261102](../outputs/invariance_v2_20261102) | 2×128 updates,448 captions; cả hai không qua mọi gate; không promote |
-| LocateAnything | [locateanything_demo](../outputs/locateanything_demo), [locateanything_robustness](../outputs/locateanything_robustness), [locateanything_coco](../outputs/locateanything_coco) | Localization probes; không phải train M3Diff; mẫu COCO nhỏ, không suy rộng absence reliability |
-| Grounded rewrite | [grounded_caption_pilot](../outputs/grounded_caption_pilot) | Pilot24: RealCIDEr11.43→19.06, Render16.42→7.47; rewrite confounds |
-| Caption verifier | [m3diff_caption_verifier](../outputs/m3diff_caption_verifier), [caption_verifier_color_v4](../outputs/caption_verifier_color_v4) | Dev24 sửa1caption, fresh24 sửa0; chưa có gain ổn định |
-| Registration | [viewpoint_diagnostic](../outputs/viewpoint_diagnostic), [viewpoint_extension](../outputs/viewpoint_extension) | Approximate alignment gate false-suppressed20/56 syntheticchange probes; chỉ exactRGB guard an toàn trong pipeline đã chọn |
-| Cleanup/cap | [caption_cleanup_v2](../outputs/caption_cleanup_v2), [caption_cap_probe](../outputs/caption_cap_probe) | Cleanup tăng lexical metric nhỏ, không image understanding; cap chưa là quality fix |
-| Portable inference | [m3diff_portable](../outputs/m3diff_portable) | Default base; optional mixed experimental; binary không commit |
-| Báo cáo lịch sử | [báo cáo dài](../outputs/bao_cao_m3diff_chi_tiet/BAO_CAO_M3DIFF_CHI_TIET.md) | Giai đoạn trước02/11; đọc training sections9–10,14–19; không chỉ LocateAnything |
+| Baseline | [baseline_results](../outputs/baseline_results/) | Đã tái lập full1570 từ checkpoint công bố |
+| Mixed full | [summary](../outputs/mixed_full_benchmark/results/summary_x100.json) | CIDEr giảm cả hai miền |
+| Hai adapter 02/11 | [kết quả](../outputs/invariance_v2_20261102/KET_QUA.md) | Không đạt đủ retention gate |
+| r64 / V2 cuối | [V2](../outputs/r64_v2_final_round/KET_QUA.md) | Tín hiệu camera chưa đủ, trượt synth |
+| MBR full 03/11 | [full1570](../outputs/mbr_pilot_20261103/KET_QUA_FULL1570.md) | Hoàn thành sau resume; tăng Render, chưa tăng Real |
+| MBR camera 04/11 | [partial](../outputs/mbr_pilot_20261103/camera240/KET_QUA.md) | Đóng ở 174/240; chưa đo retention |
 
-## Đọc vòng mới nhất theo thứ tự
+## Cách kiểm tra một thí nghiệm
 
-1. `KET_QUA.md`, `PROVENANCE_NOTES.md`, `decision.json`.
-2. `PLAN.md`, `SUPPLEMENT_PLAN.md`, `SELECTION_POLICY.md`, `SELECTION_LOCK.json`.
-3. `train_control.json`, `train_revised.json`, `data_audit.json`, `MATCHED_TRAIN_DONE.json`, metadata trong hai folder adapter.
-4. `metrics_all_models.json`, `positive_stress/metrics.json`, `case_scores.csv`.
-5. Raw `baseline.jsonl`, `old_mixed.jsonl`, `control.jsonl`, `revised.jsonl` và bản trong `positive_stress/`; masked assessments + keys cho phép kiểm tra cách chấm.
-6. Code `prepare_modal.py`, `train_audited.py`, `run_modal.py`, `supplement_modal.py`, các script report/review. Đọc prerequisites trước khi chạy.
+1. Đọc báo cáo kết quả, quyết định cuối và giới hạn.
+2. Đọc protocol, gate và selection lock để biết điều kiện đã khóa.
+3. Đối chiếu metric với raw caption/assessment và provenance.
+4. Đọc runner cùng prerequisite trước khi chạy lại.
 
-Không lấy số ở các bộ pilot khác nhau cộng chung; chúng khác mẫu, rubric, prompt và mức độ đã nhìn thấy dữ liệu. Raw vs dedup phải so cùng processing. File manifest cũ có thể nhắc ảnh/ZIP/weights đã được cố ý loại khỏi Git.
+Không gộp pilot khác cohort/rubric. Không lấy 448 caption biến thể thành 448 scene độc lập. Trạng thái lỗi của phase1 MBR không thay thế trạng thái cuối COMPLETE_SCORED của full1570.
+
+[Mục lục bàn giao nguyên bản](EXPERIMENTS_HISTORY.md) giữ nguyên để tra lịch sử; các từ “mới nhất” trong đó chỉ áp dụng tại thời điểm viết.
